@@ -1,0 +1,2709 @@
+{
+    "MR_SHOULDER": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "SUPRASPINATUS": "__FILL__",
+            "INFRASPINATUS": "__FILL__",
+            "TERES_MINOR": "__FILL__",
+            "SUBSCAPULARIS": "__FILL__",
+            "ROTATOR_CUFF": "__FILL__",
+            "ACROMIO-CLAVICULAR_JOINT": "__FILL__",
+            "BICEPS_TENDON": "__FILL__",
+            "GLENOID_LABRUM": "__FILL__",
+            "GLENOHUMERAL_JOINT": "__FILL__",
+            "HYALINE_CARTILAGE": "__FILL__",
+            "BONE_MARROW": "__FILL__",
+            "SOFT_TISSUES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_ELBOW": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BICEPS_TENDON": "__FILL__",
+            "BRACHIALIS_TENDON": "__FILL__",
+            "TRICEPS_TENDON": "__FILL__",
+            "RADIAL_COLLATERAL_LIGAMENT": "__FILL__",
+            "ULNAR_COLLATERAL_LIGAMENT": "__FILL__",
+            "LATERAL_ULNAR_COLLATERAL_LIGAMENT": "__FILL__",
+            "COMMON_EXTENSOR_TENDON": "__FILL__",
+            "COMMON_FLEXOR_TENDON": "__FILL__",
+            "JOINT_SPACE": "__FILL__",
+            "BONE_MARROW_SIGNAL": "__FILL__",
+            "MUSCLES": "__FILL__",
+            "NERVES": "__FILL__",
+            "CUBITAL_TUNNEL": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_WRIST": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "TRIANGULAR_FIBROCARTILAGE": "__FILL__",
+            "SCAPHOLUNATE_LIGAMENT": "__FILL__",
+            "LUNOTRIQUETRAL_LIGAMENT": "__FILL__",
+            "FLEXOR_TENDONS": "__FILL__",
+            "EXTENSOR_TENDONS": "__FILL__",
+            "CARPAL_TUNNEL": "__FILL__",
+            "GUYON'S_CANAL": "__FILL__",
+            "BONE_MARROW": "__FILL__",
+            "JOINT_EFFUSION": "__FILL__",
+            "MUSCLES": "__FILL__",
+            "MASSES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_HAND_FINGER": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BONE_MARROW": "__FILL__",
+            "FLEXOR_TENDONS": "__FILL__",
+            "EXTENSOR_TENDONS": "__FILL__",
+            "JOINT": "__FILL__",
+            "MUSCLES": "__FILL__",
+            "SOFT_TISSUES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_HIP": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "MULTIPLANAR_IMAGES": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "MARROW_SIGNAL": "__FILL__",
+            "FOCUSED_IMAGING": "__FILL__",
+            "INTRA-ABDOMINAL_CONTENTS": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_KNEE": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "MEDIAL_MENISCUS": "__FILL__",
+            "LATERAL_MENISCUS": "__FILL__",
+            "ANTERIOR_CRUCIATE_LIGAMENT": "__FILL__",
+            "POSTERIOR_CRUCIATE_LIGAMENT": "__FILL__",
+            "MEDIAL_COLLATERAL_LIGAMENT": "__FILL__",
+            "LATERAL_COLLATERAL_LIGAMENTOUS_COMPLEX": "__FILL__",
+            "EXTENSOR_MECHANISM": "__FILL__",
+            "BAKER'S_CYST": "__FILL__",
+            "JOINT_EFFUSION": "__FILL__",
+            "PATELLOFEMORAL_ARTICULAR_CARTILAGE": "__FILL__",
+            "MEDIAL_ARTICULAR_CARTILAGE": "__FILL__",
+            "LATERAL_COMPARTMENT_CARTILAGE": "__FILL__",
+            "MARROW": "__FILL__",
+            "SOFT_TISSUES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_ANKLE": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "ACHILLES_TENDON": "__FILL__",
+            "POSTERIOR_TIBIAL_TENDON": "__FILL__",
+            "FLEXOR_DIGITORUM_TENDON": "__FILL__",
+            "FLEXOR_HALLUCIS_TENDON": "__FILL__",
+            "PERONEAL_TENDONS": "__FILL__",
+            "ANTERIOR_TIBIALIS_TENDON": "__FILL__",
+            "EXTENSOR_DIGITORUM_TENDON": "__FILL__",
+            "EXTENSOR_HALLUCIS_LONGUS": "__FILL__",
+            "ANTERIOR_TIBIOFIBULAR_LIGAMENT": "__FILL__",
+            "POSTERIOR_TIBIOFIBULAR_LIGAMENT": "__FILL__",
+            "ANTERIOR_TALOFIBULAR_LIGAMENT": "__FILL__",
+            "POSTERIOR_TALOFIBULAR_LIGAMENT": "__FILL__",
+            "CALCANEOFIBULAR_LIGAMENT": "__FILL__",
+            "TIBIOTALAR_LIGAMENT": "__FILL__",
+            "TIBIOSPRING_LIGAMENT": "__FILL__",
+            "SPRING_LIGAMENT": "__FILL__",
+            "SINUS_TARSI": "__FILL__",
+            "PLANTAR_FASCIA": "__FILL__",
+            "TIBIOTALAR_JOINT_SPACE": "__FILL__",
+            "MARROW_SIGNAL": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_PANKREAS_TUMOR": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": {
+            "PANCREATIC_TUMOR_TABLE": {
+                "PANCREATIC_TUMOR_PRESENT": "__FILL__",
+                "LOCATION": "__FILL__",
+                "SIZE": "__FILL__",
+                "ENHANCEMENT_RELATIVE_TO_PANCREAS": "__FILL__",
+                "CONFINED_TO_PANCREAS_WITH_CLEAR_FAT_PLANE": "__FILL__",
+                "BILIARY_INVOLVEMENT": "__FILL__",
+                "REMAINING_PANCREAS": "__FILL__"
+            },
+            "ADENOPATHY_PRESENT": "__FILL__",
+            "METASTATIC_DISEASE": "__FILL__",
+            "ASCITES_PERIPANCREATIC_FLUID": "__FILL__",
+            "PANCREATIC_VASCULAR_TABLE": {
+                "VASCULAR_TUMOR_INVOLVEMENT_AND_DEGREE": "__FILL__",
+                "CELIAC_INVOLVEMENT": "__FILL__",
+                "SMA_INVOLVEMENT": "__FILL__",
+                "SMV_INVOLVEMENT": "__FILL__",
+                "OTHER_VASCULAR_INVOLVEMENT": "__FILL__",
+                "THROMBOSIS_ANY_VESSEL": "__FILL__",
+                "ABERRANT_ANATOMY": {
+                    "REPLACED_RIGHT_HEPATIC_ARTERY": "__FILL__",
+                    "MAJOR_ACCESSORY_OR_OTHER_REPLACED_ARTERIES_VEINS_COLLATERALS_DILATED_VESSELS": "__FILL__"
+                },
+                "ATHEROSCLEROTIC_ORIGINS_OF_CELIAC_AXIS_SMA": "__FILL__",
+                "DISTANCE_TO_SMV": "__FILL__"
+            }
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_CALCIUM_SCORE": {
+        "ECG_GATING": "__FILL__",
+        "SCAN_RANGE": {
+            "FROM": "__FILL__",
+            "TO": "__FILL__"
+        },
+        "COMPLICATIONS": "__FILL__",
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": "__FILL__",
+        "TECHNICAL_QUALITY": {
+            "EXAMINATION_QUALITY": "__FILL__",
+            "LIMITATION": "__FILL__"
+        },
+        "OVERALL_SCORES": {
+            "AGATSTON_SCORE": "__FILL__",
+            "TOTAL_CALCIUM_SCORE": "__FILL__",
+            "TOTAL_VOLUME_SCORE": "__FILL__",
+            "PERCENTILE": "__FILL__"
+        },
+        "ARTERY_SCORES": {
+            "LEFT_MAIN_CORONARY_ARTERY": "__FILL__",
+            "LEFT_ANTERIOR_DESCENDING_ARTERY": "__FILL__",
+            "LEFT_CIRCUMFLEX_ARTERY": "__FILL__",
+            "RIGHT_CORONARY_ARTERY": "__FILL__"
+        },
+        "CARDIAC_CHAMBER": "__FILL__",
+        "AORTIC_ROOT": "__FILL__",
+        "THORACIC_AORTA": "__FILL__",
+        "PULMONARY_ARTERY": "__FILL__",
+        "LUNGS": "__FILL__",
+        "OTHER": "__FILL__",
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_CARDIAC_ANGIOGRAPHY": {
+        "ACTIVE": "__FILL__",
+        "CLINICAL_INFORMATION": {
+            "QUESTION": "__FILL__"
+        },
+        "METHOD": {
+            "PRE-MEDICATION": "__FILL__",
+            "ACQUISITION_TECHNIQUE": "__FILL__",
+            "RECONSTRUCTION/POST-PROCESSING": "__FILL__",
+            "DLP": "__FILL__"
+        },
+        "PATIENT_CHARACTERISTICS": {
+            "GENDER": "__FILL__",
+            "BODY_WEIGHT": "__FILL__",
+            "BODY_HEIGHT": "__FILL__",
+            "BODY_SURFACE_AREA_(BSA)": "__FILL__",
+            "PACEMAKER": "__FILL__",
+            "AVERAGE_FREQUENCY": "__FILL__",
+            "ARRHYTHMIA": "__FILL__"
+        },
+        "FINDINGS": {
+            "PREVIOUS_EXAMINATION": "__FILL__",
+            "LIMITED_IMAGE_QUALITY": "__FILL__",
+            "AGATSON_SCORE_(OPTIONAL)": "__FILL__",
+            "DOMINANT_TYPE_OF_SUPPLY": "__FILL__",
+            "CORONARY_ARTERY_ORIGINS_AND_COURSE": "__FILL__",
+            "PLAQUES": {
+                "LEFT_CORONARY_ARTERY_(LCA)": "__FILL__",
+                "RIGHT_CORONARY_ARTERY_(RIVA)": "__FILL__",
+                "LEFT_CIRCUMFLEX_ARTERY_(LCX)": "__FILL__",
+                "RAMUS_INTERMEDIUS_(R._INTERMEDIUS)": "__FILL__",
+                "RIGHT_CORONARY_ARTERY_(RCA)": "__FILL__"
+            },
+            "DEGREE_OF_STENOSIS": "__FILL__",
+            "STENT": "__FILL__",
+            "COMMENTS": "__FILL__"
+        },
+        "ASSESSMENT": {
+            "1": "__FILL__",
+            "2": "__FILL__",
+            "3": "__FILL__",
+            "4": "__FILL__"
+        },
+        "RECOMMENDATIONS": "__FILL__"
+    },
+    "MR_RIGHT_HEART_FAILURE": {
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "LEFT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": "__FILL__",
+                "EJECTION_FRACTION": "__FILL__",
+                "STROKE_VOLUME": "__FILL__",
+                "END_DIASTOLIC_VOLUME": "__FILL__",
+                "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+                "END_SYSTOLIC_VOLUME": "__FILL__",
+                "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+                "CARDIAC_OUTPUT": "__FILL__",
+                "CARDIAC_INDEX": "__FILL__",
+                "INDEX_VALUES_NORMALIZED_TO_BODY_SURFACE_AREA": "__FILL__"
+            },
+            "RIGHT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": "__FILL__",
+                "EJECTION_FRACTION": "__FILL__",
+                "STROKE_VOLUME": "__FILL__",
+                "END_DIASTOLIC_VOLUME": "__FILL__",
+                "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+                "END_SYSTOLIC_VOLUME": "__FILL__",
+                "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+                "CARDIAC_OUTPUT": "__FILL__",
+                "CARDIAC_INDEX": "__FILL__"
+            },
+            "VALVES": {
+                "AORTIC_VALVE": "__FILL__",
+                "AORTIC_FORWARD_VOLUME": "__FILL__",
+                "AORTIC_REGURGITANT_VOLUME": "__FILL__",
+                "AORTIC_VALVE_AREA": "__FILL__",
+                "MITRAL_VALVE": "__FILL__",
+                "MITRAL_REGURGITANT_VOLUME": "__FILL__",
+                "MITRAL_VALVE_AREA": "__FILL__",
+                "TRICUSPID_VALVE": "__FILL__",
+                "TRICUSPID_REGURGITANT_VOLUME": "__FILL__",
+                "PULMONIC_VALVE": "__FILL__",
+                "PULMONIC_REGURGITANT_VOLUME": "__FILL__",
+                "PULMONIC_FORWARD_VOLUME": "__FILL__",
+                "PULMONIC_VALVE_AREA": "__FILL__"
+            },
+            "IMPRESSION": {
+                "RIGHT_VENTRICLE": {
+                    "SIZE": "__FILL__",
+                    "FUNCTION": "__FILL__"
+                },
+                "LEFT_VENTRICLE": {
+                    "SIZE": "__FILL__",
+                    "FUNCTION": "__FILL__"
+                },
+                "RIGHT_ATRIUM": "__FILL__",
+                "LEFT_ATRIUM": "__FILL__",
+                "PERICARDIUM": "__FILL__",
+                "GREAT_VESSELS": "__FILL__",
+                "AORTA": "__FILL__",
+                "PULMONARY_ARTERY": "__FILL__",
+                "PULMONARY_VEINS": "__FILL__",
+                "INFERIOR_VENA_CAVA": "__FILL__",
+                "SUPERIOR_VENA_CAVA": "__FILL__",
+                "EXTRA_CARDIAC_FINDINGS": "__FILL__"
+            }
+        }
+    },
+    "MR_CARDIAC_FUNCTION_VITALITY": {
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "LEFT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": {
+                    "VALUE": "__FILL__",
+                    "NORMAL_RANGE": "36-56 mm"
+                },
+                "EJECTION_FRACTION": {
+                    "VALUE": "__FILL__",
+                    "NORMAL_RANGE": {
+                        "MALE": "56-78%",
+                        "FEMALE": "56-78%"
+                    }
+                },
+                "STROKE_VOLUME": "__FILL__",
+                "END_DIASTOLIC_VOLUME": {
+                    "VALUE": "__FILL__",
+                    "NORMAL_RANGE": {
+                        "MALE": "77-195 mL",
+                        "FEMALE": "52-141 mL"
+                    }
+                },
+                "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+                "END_SYSTOLIC_VOLUME": {
+                    "VALUE": "__FILL__",
+                    "NORMAL_RANGE": {
+                        "MALE": "19-72 mL",
+                        "FEMALE": "13-51 mL"
+                    }
+                },
+                "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+                "CARDIAC_OUTPUT": {
+                    "VALUE": "__FILL__",
+                    "NORMAL_RANGE": {
+                        "MALE": "2.82-8.82 L/min",
+                        "FEMALE": "2.7-6.0 l/min"
+                    }
+                },
+                "CARDIAC_INDEX": "__FILL__",
+                "BODY_SURFACE_AREA": "__FILL__"
+            },
+            "VALVE_DISEASE": {
+                "AORTIC_VALVE": {
+                    "AORTIC_FORWARD_VOLUME": "__FILL__",
+                    "AORTIC_REGURGITANT_VOLUME": "__FILL__",
+                    "AORTIC_VALVE_AREA": {
+                        "VALUE": "__FILL__",
+                        "DESCRIPTION": {
+                            "SEVERE": "< 1.0 cm2",
+                            "MODERATE": "1.0-1.5 cm2",
+                            "MILD": "1.5-2.0 cm2",
+                            "NORMAL": "> 2.0 cm2"
+                        }
+                    }
+                },
+                "MITRAL_VALVE": {
+                    "MITRAL_REGURGITANT_VOLUME": "__FILL__",
+                    "MITRAL_REGURGITANT_FRACTION": "__FILL__",
+                    "ASCENDING_AORTA_DIAMETER": "__FILL__",
+                    "LEFT_ATRIAL_DIMENSIONS": "__FILL__",
+                    "LEFT_ATRIAL_AREA": "__FILL__"
+                }
+            },
+            "LEFT_VENTRICLE_REGIONAL_WALL_MOTION": {
+                "BASE": {
+                    "Anterior": "__FILL__",
+                    "Anterolateral": "__FILL__",
+                    "Inferolateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Inferioseptal": "__FILL__",
+                    "Anteroseptal": "__FILL__"
+                },
+                "MID": {
+                    "Anterior": "__FILL__",
+                    "Anterolateral": "__FILL__",
+                    "Inferolateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Inferioseptal": "__FILL__",
+                    "Anteroseptal": "__FILL__"
+                },
+                "APEX": {
+                    "Anterior": "__FILL__",
+                    "Lateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Septum": "__FILL__",
+                    "True apex": "__FILL__"
+                },
+                "WALL_MOTION_SCORE": {
+                    "0": "normokinetic",
+                    "1": "hypokinetic",
+                    "2": "akinetic",
+                    "3": "dyskinetic"
+                }
+            },
+            "LEFT_VENTRICLE_MYOCARDIAL_ENHANCEMENT": {
+                "BASE": {
+                    "Anterior": "__FILL__",
+                    "Anterolateral": "__FILL__",
+                    "Inferolateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Inferioseptal": "__FILL__",
+                    "Anteroseptal": "__FILL__"
+                },
+                "MID": {
+                    "Anterior": "__FILL__",
+                    "Anterolateral": "__FILL__",
+                    "Inferolateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Inferioseptal": "__FILL__",
+                    "Anteroseptal": "__FILL__"
+                },
+                "APEX": {
+                    "Anterior": "__FILL__",
+                    "Lateral": "__FILL__",
+                    "Inferior": "__FILL__",
+                    "Septum": "__FILL__",
+                    "True apex": "__FILL__"
+                },
+                "ENHANCEMENT_SCORE": {
+                    "0": "none",
+                    "1": "1-25%",
+                    "2": "26-50%",
+                    "3": "51-75%",
+                    "4": "76-100%"
+                }
+            },
+            "NON_CARDIAC_FINDINGS": "__FILL__",
+            "IMPRESSION": {
+                "GLOBAL_SYSTOLIC_LV_FUNCTION": {
+                    "NORMAL": "__FILL__",
+                    "MILDLY_IMPAIRED": "__FILL__",
+                    "MODERATELY_IMPAIRED": "__FILL__",
+                    "SEVERELY_IMPAIRED": "__FILL__"
+                },
+                "GLOBAL_SYSTOLIC_RV_FUNCTION": {
+                    "NORMAL": "__FILL__",
+                    "MILDLY_IMPAIRED": "__FILL__",
+                    "MODERATELY_IMPAIRED": "__FILL__",
+                    "SEVERELY_IMPAIRED": "__FILL__"
+                },
+                "LV_VIABILITY": "__FILL__",
+                "VALVULAR_DISEASE": "__FILL__"
+            }
+        }
+    },
+    "MR_BRAIN_DEMENTIA": {
+        "FINDINGS": {
+            "SKULL_BASE": "__FILL__",
+            "MRA_HEAD": "__FILL__",
+            "VENOUS_SYSTEM": {
+                "JUGULAR_BULB": "__FILL__",
+                "JUGULAR_VENOUS_SYSTEM": "__FILL__"
+            },
+            "INTRACRANIAL_HYPERTENSION": "__FILL__",
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+                "MASS_EFFECT_HERNIATION": "__FILL__",
+                "CHIARI_1_MALFORMATION": "__FILL__",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "__FILL__"
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__",
+            "OTHER_FINDINGS": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_STROKE_WITH_ANGIOGRAPHY_AND_PERFUSION": {
+        "FINDINGS": {
+            "CT_HEAD": {
+                "BRAIN_PARENCHYMA": {
+                    "ACUTE_HEMORRHAGE": "__FILL__",
+                    "MASS_EFFECT_HERNIATION": "__FILL__",
+                    "GRAY_WHITE_DIFFERENTIATION": "__FILL__",
+                    "WHITE_MATTER": "__FILL__"
+                },
+                "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+                "EXTRACRANIAL_STRUCTURES": "__FILL__"
+            },
+            "CT_PERFUSION": {
+                "INFARCT_CORE": "__FILL__",
+                "TISSUE_AT_RISK": "__FILL__",
+                "MISMATCH_RATIO": "__FILL__"
+            },
+            "CTA_HEAD": "__FILL__",
+            "CTA_NECK_GREAT_VESSELS": "__FILL__",
+            "RIGHT_ICA": {
+                "STENOSIS_DISSECTION": "__FILL__"
+            },
+            "LEFT_ICA": {
+                "STENOSIS_DISSECTION": "__FILL__"
+            },
+            "VERTEBRAL_ARTERIES": {
+                "EXTRACRANIAL_SEGMENTS": "__FILL__",
+                "DISSECTION": "__FILL__"
+            },
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": {
+            "No acute infarct or hemorrhage.": "__FILL__",
+            "Normal CT perfusion.": "__FILL__",
+            "Normal CTA head and neck": "__FILL__"
+        }
+    },
+    "MR_LUMBAR_SPINE_LOW_BACK_PAIN": {
+        "FINDINGS": {
+            "NUMBERING": "__FILL__",
+            "SPINAL_CORD": {
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "L2-L3": "__FILL__",
+            "L3-L4": "__FILL__",
+            "L4-L5": "__FILL__",
+            "L5-S1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_CERVICAL_SPINE_RADICULOPATHY": {
+        "FINDINGS": {
+            "SPINAL_CORD": "__FILL__",
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "C2-C3": "__FILL__",
+            "C3-C4": "__FILL__",
+            "C4-C5": "__FILL__",
+            "C5-C6": "__FILL__",
+            "C6-C7": "__FILL__",
+            "C7-T1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_ADULT_BRAIN": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+                "MASS_EFFECT_HERNIATION": "__FILL__",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "__FILL__",
+                    "WHITE_MATTER_CHRONIC_SMALL_VESSEL_ISCHEMIC_CHANGES": "__FILL__"
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "FLOW_VOIDS": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_BRAIN_STROKE_OR_TIA": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+                "MASS_EFFECT_HERNIATION": "__FILL__",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "__FILL__"
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "FLOW_VOIDS": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__",
+            "MRA_HEAD": {
+                "ANEURYSM": "__FILL__",
+                "OCCLUSION_STENOSIS": "__FILL__"
+            },
+            "MRA_NECK_GREAT_VESSELS": "__FILL__",
+            "RIGHT_ICA": {
+                "STENOSIS": "__FILL__",
+                "NO_STENOSIS": "__FILL__"
+            },
+            "LEFT_ICA": {
+                "STENOSIS": "__FILL__",
+                "NO_STENOSIS": "__FILL__"
+            },
+            "VERTEBRAL_ARTERIES": "__FILL__"
+        },
+        "IMPRESSION": {
+            "Normal noncontrast MRI brain.": "__FILL__",
+            "Normal MRA head.": "__FILL__",
+            "Normal MRA neck.": "__FILL__"
+        }
+    },
+    "MR_BRAIN_HEADACHE": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+                "MASS_EFFECT_HERNIATION": "__FILL__",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "__FILL__",
+                    "SEVERITY": "Mild Moderate Severe white matter chronic small vessel ischemic changes."
+                },
+                "HEADACHE": "__FILL__"
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "FLOW_VOIDS": "__FILL__",
+            "SINUSES_MASTOIDS": "__FILL__",
+            "OTHER_EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_BRAIN_ADULT_EPILEPSY": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "MASS": "__FILL__",
+            "INFARCT_OR_HEMORRHAGE": "__FILL__",
+            "REMOTE_INJURY": "__FILL__",
+            "VASCULAR_LESION": "__FILL__",
+            "HIPPOCAMPI": "__FILL__",
+            "CORTEX": {
+                "HETEROTOPIA_FOCAL_CORTICAL_DYSPLASIA": "__FILL__",
+                "ENCEPHALITIS_POST-ICTAL_CHANGE": "__FILL__"
+            },
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_PARANASAL_SINUSES": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "PARANASAL_SINUSES_NASAL_CAVITY": "__FILL__",
+            "PERINEURAL_ENHANCEMENT": "__FILL__",
+            "CAVERNOUS_SINUSES": "__FILL__",
+            "SKULL_BASE": "__FILL__",
+            "SOFT_TISSUES_INFRATEMPORAL_FOSSA": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_HEAD_STROKE": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_HEMORRHAGE_MASS_EFFECT_HERNIATION": "__FILL__",
+                "GRAY_WHITE_DIFFERENTIATION": "__FILL__",
+                "WHITE_MATTER": "__FILL__"
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_SINUS": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "CTDI": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "SPHENOID_AND_POSTERIOR_ETHMOID_SINUSES": "__FILL__",
+            "SPHENOETHMOIDAL_RECESS": "__FILL__",
+            "FRONTAL,_ANTERIOR_ETHMOID,_AND_MAXILLARY_SINUSES": "__FILL__",
+            "MAXILLARY_OSTIUM": "__FILL__",
+            "NASAL_CAVITY": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_ANGIOGRAPHY_HEAD_AND_NECK": {
+        "HISTORY": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "CTDI": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "CTA_HEAD": "__FILL__",
+            "CTA_NECK": {
+                "GREAT_VESSELS": "__FILL__",
+                "RIGHT_ICA": "__FILL__",
+                "LEFT_ICA": "__FILL__",
+                "VERTEBRAL_ARTERIES": "__FILL__",
+                "OTHER": "__FILL__"
+            }
+        },
+        "IMPRESSION": {
+            "1": "__FILL__",
+            "2": "__FILL__"
+        }
+    },
+    "CT_PANKREATITIS": {
+        "PROCEDURE_INFORMATION": {
+            "ORAL_CONTRAST_PROTOCOL": {
+                "Water used as oral neutral contrast": "__FILL__",
+                "Positive oral contrast given.": "__FILL__"
+            },
+            "IV_CONTRAST_GIVEN": {
+                "IV contrast given at standard rate of administration.": "__FILL__",
+                "IV contrast was not given.": "__FILL__"
+            },
+            "MULTIPHASE_SCAN": {
+                "Multiphase scan performed and sections acquired at pancreatic phase and portal venous phase.": "__FILL__",
+                "Pancreatic phase scan not available. Portal phase scan performed.": "__FILL__",
+                "Delayed images not available.": "__FILL__",
+                "Delayed images available.": "__FILL__"
+            }
+        },
+        "CLINICAL_INFORMATION": {
+            "SERUM_AMYLASE_LIPASE_LEVELS": {
+                "Not available": "__FILL__",
+                "Significantly raised suggesting acute pancreatitis": "__FILL__",
+                "Normal": "__FILL__",
+                "Mildly raised": "__FILL__"
+            },
+            "CHARACTERISTIC_CLINICAL_SYMPTOMS": {
+                "Present": "__FILL__",
+                "Not present": "__FILL__"
+            },
+            "SIGNIFICANT_HISTORY": {
+                "None": "__FILL__",
+                "History of cholelithiasis is noted": "__FILL__",
+                "Ultrasound done previously has suggested likelihood of acute pancreatitis": "__FILL__",
+                "Family history of acute pancreatitis is noted": "__FILL__",
+                "Patient is alcoholic": "__FILL__",
+                "Patient is non-alcoholic": "__FILL__",
+                "Past history of acute pancreatitis noted": "__FILL__"
+            }
+        },
+        "COMPARISON": {
+            "COMPARISON_AVAILABLE": {
+                "Comparison not available": "__FILL__",
+                "Scan compared with previous study": "__FILL__"
+            },
+            "PREVIOUS_SCAN_DATE": "__FILL__"
+        },
+        "FINDINGS": {
+            "PANCREAS_PERIPANCREATIC_REGION": {
+                "NORMAL_APPEARANCE": "__FILL__",
+                "PANCREATIC_DUCT_NOT_DILATED": "__FILL__",
+                "PANCREATIC_DUCT_DILATED": "__FILL__",
+                "NO_PANCREATIC_CALCIFICATIONS_NOTED": "__FILL__",
+                "PANCREATIC_CALCIFICATIONS_NOTED": "__FILL__"
+            },
+            "CTSI_BALTHAZAR_SCORE": {
+                "Balthazar score 0 (normal pancreas)": "__FILL__",
+                "Balthazar score 1 (diffuse enlargement of pancreas)": "__FILL__",
+                "Balthazar score 2 (inflammatory changes in the pancreatic and peripancreatic fat)": "__FILL__",
+                "Balthazar score 3 (single ill-defined single peripancreatic fluid collection)": "__FILL__",
+                "Balthazar score 4 (two or more poorly defined peripancreatic fluid collections)": "__FILL__"
+            },
+            "CTSI_PANCREATIC_NECROSIS_SCORE": {
+                "Necrosis score 0 (no pancreatic necrosis noted)": "__FILL__",
+                "Necrosis score 2 (necrosis is noted involving approximately 30% of pancreatic parenchyma)": "__FILL__",
+                "Necrosis score 4 (necrosis is noted involving approximately 30-50% pancreatic parenchyma)": "__FILL__",
+                "Necrosis score 6 (necrosis is noted involving more than 50% of pancreatic tissue)": "__FILL__"
+            },
+            "TOTAL_CTSI": "__FILL__",
+            "DESCRIBED_COLLECTIONS": {
+                "No collections are however noted in the peritoneal cavity": "__FILL__",
+                "Multiple collections are noted": "__FILL__",
+                "A collection is noted": "__FILL__"
+            },
+            "DESCRIBE_COLLECTIONS": "__FILL__",
+            "EXTENT_OF_INFLAMMATION": {
+                "Peripancreatic inflammation noted in the form of peripancreatic stranding": "__FILL__",
+                "Peripancreatic inflammation is noted with peripancreatic collections as described above": "__FILL__",
+                "No peripancreatic inflammation is noted": "__FILL__",
+                "Inflammation noted in the Gerota's fascia on left side": "__FILL__",
+                "Inflammation noted in Gerota's fascia on right side": "__FILL__",
+                "Inflammation noted in the right pericolic gutter": "__FILL__"
+            }
+        }
+    },
+    "XRAY_WRIST": {
+        "SIDE": "__FILL__",
+        "NUMBER_OF_VIEWS": "__FILL__",
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BONES": "__FILL__",
+            "JOINTS": "__FILL__",
+            "SOFT_TISSUES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "XRAY_PELIVS": {
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "SACRUM_AND_SACROILIAC_JOINTS": "__FILL__",
+            "INNOMINATE_BONES": "__FILL__",
+            "HIPS": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "XRAY_SPINE": {
+        "VIEWS": "__FILL__",
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "NUMBER_OF_LUMBAR-TYPE_VERTEBRAE": "__FILL__",
+            "VERTEBRAL_BODIES": "__FILL__",
+            "DISK_SPACES": "__FILL__",
+            "SOFT_TISSUES": "__FILL__",
+            "ALIGNMENT": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "XRAY_SHOULDER": {
+        "PROCEDURE": "__FILL__",
+        "LATERALITY": "__FILL__",
+        "NUMBER_OF_VIEWS": "__FILL__",
+        "CLINICAL_INFORMATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BONES": "__FILL__",
+            "JOINTS": "__FILL__",
+            "SOFT_TISSUE": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_SPINE": {
+        "FINDINGS": {
+            "NUMBERING": "__FILL__",
+            "SPINAL_CORD": {
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "BONY_STENOSIS": "__FILL__",
+                "FRACTURES": "__FILL__",
+                "ARTHRITIC_CHANGES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "FACET_JOINTS": "__FILL__",
+            "C2-C3": "__FILL__",
+            "C3-C4": "__FILL__",
+            "C4-C5": "__FILL__",
+            "C5-C6": "__FILL__",
+            "C6-C7": "__FILL__",
+            "C7-T1": "__FILL__",
+            "T1-T2": "__FILL__",
+            "T2-T3": "__FILL__",
+            "T3-T4": "__FILL__",
+            "T4-T5": "__FILL__",
+            "T5-T6": "__FILL__",
+            "T6-T7": "__FILL__",
+            "T7-T8": "__FILL__",
+            "T8-T9": "__FILL__",
+            "T9-T10": "__FILL__",
+            "T10-T11": "__FILL__",
+            "T11-T12": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "L2-L3": "__FILL__",
+            "L3-L4": "__FILL__",
+            "L4-L5": "__FILL__",
+            "L5-S1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__",
+        "NOTE": "__FILL__"
+    },
+    "CT_HEAD_WITH_CONTRAST": {
+        "HISTORY": {},
+        "TECHNIQUE": "__FILL__",
+        "CTDI": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained.": "__FILL__",
+                "White matter is within normal limits for age.": "__FILL__",
+                "White matter chronic small vessel ischemic changes": "__FILL__"
+            },
+            "VENTRICLES_EXTRA_AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_HEAD_WITHOUT_CONTRAST": {
+        "HISTORY": {},
+        "TECHNIQUE": "__FILL__",
+        "CTDI": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained. No abnormal enhancement.": "__FILL__",
+                "White matter is within normal limits for age.": "__FILL__",
+                "White matter chronic small vessel ischemic changes": "__FILL__"
+            },
+            "VENTRICLES_EXTRA_AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_NECK": {
+        "HISTORY": {},
+        "TECHNIQUE": "__FILL__",
+        "CTDI": "__FILL__",
+        "DLP": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "PHARYNGEAL_MUCOSA": "__FILL__",
+            "ORAL_CAVITY": "__FILL__",
+            "LARYNX": "__FILL__",
+            "LYMPH_NODES": "__FILL__",
+            "SALIVARY_GLANDS": "__FILL__",
+            "THYROID_SPACE": "__FILL__",
+            "VESSELS_CAROTID_SPACE": "__FILL__",
+            "BONES": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_CARDIAC_FUNCTION_AND_VIABILITY": {
+        "FUNCTIONANDVIABILITY": {
+            "CLINICALHISTORY": "__FILL__",
+            "COMPARISON": {
+                "PRIORSTUDY": "__FILL__"
+            },
+            "FINDINGS": {
+                "LEFTVENTRICULARMEASUREMENTS": {
+                    "ENDDIASTOLICDIAMETER": {
+                        "VALUE": "__FILL__",
+                        "NORMAL": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    },
+                    "EJECTIONFRACTION": {
+                        "VALUE": "__FILL__",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            },
+                            "FEMALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            }
+                        }
+                    },
+                    "STROKEVOLUME": "__FILL__",
+                    "ENDDIASTOLICVOLUME": {
+                        "VALUE": "__FILL__",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            },
+                            "FEMALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            }
+                        }
+                    },
+                    "INDEXEDENDDIASTOLICVOLUME": "__FILL__",
+                    "ENDSYSTOLICVOLUME": {
+                        "VALUE": "__FILL__",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            },
+                            "FEMALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            }
+                        }
+                    },
+                    "INDEXEDENDSYSTOLICVOLUME": "__FILL__",
+                    "CARDIACOUTPUT": {
+                        "VALUE": "__FILL__",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            },
+                            "FEMALE": {
+                                "MIN": "__FILL__",
+                                "MAX": "__FILL__"
+                            }
+                        }
+                    },
+                    "CARDIACINDEX": "__FILL__",
+                    "INDEXVALUES": {
+                        "NORMALIZEDTO": "__FILL__",
+                        "BSA": "__FILL__"
+                    }
+                },
+                "VALVEDISEASE": {
+                    "AORTICVALVE": {
+                        "AORTICFORWARDVOLUME": "__FILL__",
+                        "AORTICREGURGITANTVOLUME": "__FILL__",
+                        "AORTICVALVEAREA": {
+                            "VALUE": "__FILL__",
+                            "SEVERITY": {
+                                "SEVERE": "< 1.0 cm2",
+                                "MODERATE": "1.0-1.5 cm2",
+                                "MILD": "1.5-2.0 cm2",
+                                "NORMAL": "> 2.0 cm2"
+                            }
+                        }
+                    },
+                    "MITRALVALVE": {
+                        "MITRALREGURGITANTVOLUME": "__FILL__",
+                        "MITRALREGURGITANTFRACTION": "__FILL__",
+                        "ASCENDINGAORTADIAMETER": "__FILL__",
+                        "LEFTATRIALDIMENSIONS": "__FILL__",
+                        "LEFTATRIALAREA": "__FILL__"
+                    }
+                },
+                "LEFTVENTRICLEREGIONALWALLMOTION": {
+                    "SCORING": {
+                        "NORMOKINETIC": 0,
+                        "HYPOKINETIC": 1,
+                        "AKINETIC": 2,
+                        "DYSKINETIC": 3
+                    },
+                    "BASE": {
+                        "ANTERIOR": {},
+                        "ANTEROLATERAL": {},
+                        "INFEROLATERAL": {},
+                        "INFERIOR": {},
+                        "INFERIOSEPTAL": {},
+                        "ANTEROSEPTAL": {}
+                    },
+                    "MID": {},
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "APEX": {
+                    "ANTERIOR": {},
+                    "LATERAL": {},
+                    "INFERIOR": {},
+                    "SEPTUM": {},
+                    "TRUEAPEX": {}
+                }
+            },
+            "LEFTVENTRICLEMYOCARDIALENHANCEMENT": {
+                "SCORING": {
+                    "NONE": 0,
+                    "1-25%": 1,
+                    "26-50%": 2,
+                    "51-75%": 3,
+                    "76-100%": 4
+                },
+                "BASE": {
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "MID": {
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "APEX": {
+                    "ANTERIOR": {},
+                    "LATERAL": {},
+                    "INFERIOR": {},
+                    "SEPTUM": {},
+                    "TRUEAPEX": {}
+                }
+            },
+            "NONCARDIACFINDINGS": {
+                "SCORING": {
+                    "NONE": 0,
+                    "1-25%": 1,
+                    "26-50%": 2,
+                    "51-75%": 3,
+                    "76-100%": 4
+                }
+            }
+        },
+        "IMPRESSION": {
+            "GLOBALSYSTOLICLVFUNCTION": {
+                "NORMAL": {},
+                "MILDLYIMPAIRED": {},
+                "MODERATELYIMPAIRED": {},
+                "SEVERELYIMPAIRED": {}
+            },
+            "GLOBALSYSTOLICRVFUNCTION": {
+                "NORMAL": {},
+                "MILDLYIMPAIRED": {},
+                "MODERATELYIMPAIRED": {},
+                "SEVERELYIMPAIRED": {}
+            },
+            "LVVIABILITY": {
+                "NORMAL": {}
+            },
+            "VALVULARDISEASE": {
+                "ABSENT": {}
+            }
+        }
+    },
+    "MR_CARDIAC_HEART_FAILURE": {
+        "CARDIACMRI": "__FILL__",
+        "CLINICALINFORMATION": "__FILL__",
+        "COMPARISON": {
+            "PRIORSTUDYDATE": "__FILL__"
+        },
+        "FINDINGS": {
+            "LEFTVENTRICULARMEASUREMENTS": {
+                "ENDDIASTOLICDIAMETER": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "EJECTIONFRACTION": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "STROKEVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "ENDDIASTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "INDEXEDENDDIASTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "ENDSYSTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "INDEXEDENDSYSTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "CARDIACOUTPUT": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "CARDIACINDEX": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "BODYSURFACEAREA": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                }
+            },
+            "RIGHTVENTRICULARMEASUREMENTS": {
+                "ENDDIASTOLICDIAMETER": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "EJECTIONFRACTION": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "STROKEVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "ENDDIASTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "INDEXEDENDDIASTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "ENDSYSTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "INDEXEDENDSYSTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "CARDIACOUTPUT": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                },
+                "CARDIACINDEX": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__",
+                    "NORMALRANGE": {
+                        "MALE": "__FILL__",
+                        "FEMALE": "__FILL__"
+                    }
+                }
+            },
+            "VALVES": {
+                "AORTICVALVE": {
+                    "AORTICFORWARDVOLUME": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    },
+                    "AORTICREGURGITANTVOLUME": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    },
+                    "AORTICVALVEAREA": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__",
+                        "SEVERITY": {
+                            "SEVERE": "< 1.0",
+                            "MODERATE": "1.0-1.5",
+                            "MILD": "1.5-2.0",
+                            "NORMAL": "> 2.0"
+                        }
+                    }
+                },
+                "MITRALVALVE": {
+                    "MITRALREGURGITANTVOLUME": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    },
+                    "MITRALREGURGITANTFRACTION": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    }
+                },
+                "PULMONICVALVE": {
+                    "PULMONICFORWARDVOLUME": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    },
+                    "PULMONICREGURGITANTVOLUME": {
+                        "VALUE": "__FILL__",
+                        "UNIT": "__FILL__"
+                    }
+                },
+                "TRICUSPIDVALVE": {}
+            },
+            "SHUNTINFORMATION": {
+                "QPQSRATIO": {
+                    "VALUE": "__FILL__"
+                }
+            },
+            "OTHERFINDINGS": {}
+        },
+        "IMPRESSION": {
+            "GLOBALSYSTOLICLVFUNCTION": {
+                "NORMAL": "__FILL__",
+                "MILDLYIMPAIRED": "__FILL__",
+                "MODERATELYIMPAIRED": "__FILL__",
+                "SEVERELYIMPAIRED": "__FILL__"
+            },
+            "GLOBALSYSTOLICRVFUNCTION": {
+                "NORMAL": "__FILL__",
+                "MILDLYIMPAIRED": "__FILL__",
+                "MODERATELYIMPAIRED": "__FILL__",
+                "SEVERELYIMPAIRED": "__FILL__"
+            },
+            "INTRACARDIACSHUNT": {
+                "NONE": "__FILL__"
+            },
+            "VALVULARDISEASE": {
+                "ABSENT": "__FILL__"
+            }
+        },
+        "REFERENCE": "__FILL__"
+    },
+    "XRAY_CHEST": {
+        "INDICATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "ENLARGED_CARDIOMEDIASTINUM": "__FILL__",
+            "CARDIOMEGALY": "__FILL__",
+            "LUNG_LESION": "__FILL__",
+            "LUNG_OPACITY": "__FILL__",
+            "EDEMA": "__FILL__",
+            "CONSOLIDATION": "__FILL__",
+            "PNEUMONIA": "__FILL__",
+            "ATELECTASIS": "__FILL__",
+            "PNEUMOTHORAX": "__FILL__",
+            "PLEURAL_EFFUSION": "__FILL__",
+            "PLEURAL_OTHER": "__FILL__",
+            "FRACTURE": "__FILL__",
+            "SUPPORT_DEVICES": "__FILL__",
+            "OVERLYING_SOFT_TISSUES": "__FILL__",
+            "UPPER_ABDOMEN": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_WHOLE_BODY": {
+        "CLINICAL_HISTORY": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "PROCEDURE_COMMENTS": "__FILL__",
+        "FINDINGS": {
+            "HEAD_AND_NECK": {
+                "BRAIN_PARENCHYMA": "__FILL__",
+                "VENTRICLES/EXTRA-AXIAL_SPACES": "__FILL__",
+                "EXTRACRANIAL_STRUCTURES": "__FILL__",
+                "ORO-_AND_HYPOPHARYNX": "__FILL__",
+                "THYROID_SPACE": "__FILL__",
+                "VESSELS_AND_CAROTID_SPACE": "__FILL__",
+                "LYMPH_NODES": "__FILL__"
+            },
+            "CHEST": {
+                "SUPPORT_DEVICES": "__FILL__",
+                "LUNG_PARENCHYMA": "__FILL__",
+                "TRACHEA_AND_CENTRAL_AIRWAYS": "__FILL__",
+                "PERIPHERAL_BRONCHI": "__FILL__",
+                "LYMPH_NODES": "__FILL__",
+                "HEART/GREAT_VESSELS": "__FILL__",
+                "PULMONARY_VASCULATURE": "__FILL__",
+                "OTHER_MEDIASTINAL_STRUCTURES": "__FILL__",
+                "PLEURA": "__FILL__",
+                "BREAST_TISSUE": "__FILL__"
+            },
+            "ABDOMEN/PELVIS": {
+                "LIVER_AND_BILIARY_SYSTEM": "__FILL__",
+                "SPLEEN": "__FILL__",
+                "PANCREAS": "__FILL__",
+                "ADRENAL_GLANDS": "__FILL__",
+                "KIDNEYS,_URETERS,_AND_BLADDER": "__FILL__",
+                "BOWEL": "__FILL__",
+                "APPENDIX": "__FILL__",
+                "PERITONEAL_CAVITY": "__FILL__",
+                "UTERUS_AND_OVARIES_(IF_PRESENT)": "__FILL__",
+                "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "__FILL__",
+                "VASCULATURE": "__FILL__",
+                "LYMPH_NODES": "__FILL__"
+            },
+            "MUSCULOSKELETAL": {
+                "OSSEOUS_STRUCTURES": "__FILL__",
+                "SOFT_TISSUES": "__FILL__"
+            }
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_HEAD_AND_NECK": {
+        "INDICATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": "__FILL__",
+            "VENTRICLES/EXTRA-AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__",
+            "ORO-_AND_HYPOPHARYNX": "__FILL__",
+            "THYROID_SPACE": "__FILL__",
+            "VESSELS_AND_CAROTID_SPACE": "__FILL__",
+            "LYMPH_NODES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_CHEST": {
+        "INDICATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "SUPPORT_DEVICES": "__FILL__",
+            "LUNG_PARENCHYMA": "__FILL__",
+            "TRACHEA_AND_CENTRAL_AIRWAYS": "__FILL__",
+            "PERIPHERAL_BRONCHI": "__FILL__",
+            "LYMPH_NODES": "__FILL__",
+            "HEART/GREAT_VESSELS": "__FILL__",
+            "PULMONARY_VASCULATURE": "__FILL__",
+            "OTHER_MEDIASTINAL_STRUCTURES": "__FILL__",
+            "PLEURA": "__FILL__",
+            "BREAST_TISSUE": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_ABDOMEN_AND_PELVIS": {
+        "INDICATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "LIVER_AND_BILIARY_SYSTEM": "__FILL__",
+            "SPLEEN": "__FILL__",
+            "PANCREAS": "__FILL__",
+            "ADRENAL_GLANDS": "__FILL__",
+            "KIDNEYS,_URETERS,_AND_BLADDER": "__FILL__",
+            "BOWEL": "__FILL__",
+            "APPENDIX": "__FILL__",
+            "PERITONEAL_CAVITY": "__FILL__",
+            "UTERUS_AND_OVARIES_(IF_PRESENT)": "__FILL__",
+            "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "__FILL__",
+            "VASCULATURE": "__FILL__",
+            "LYMPH_NODES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "CT_CHEST_AND_ABDOMEN": {
+        "INDICATION": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "CHEST": {
+                "SUPPORT_DEVICES": "__FILL__",
+                "LUNG_PARENCHYMA": "__FILL__",
+                "TRACHEA_AND_CENTRAL_AIRWAYS": "__FILL__",
+                "PERIPHERAL_BRONCHI": "__FILL__",
+                "LYMPH_NODES": "__FILL__",
+                "HEART/GREAT_VESSELS": "__FILL__",
+                "PULMONARY_VASCULATURE": "__FILL__",
+                "OTHER_MEDIASTINAL_STRUCTURES": "__FILL__",
+                "PLEURA": "__FILL__",
+                "BREAST_TISSUE": "__FILL__"
+            },
+            "ABDOMEN": {
+                "LIVER_AND_BILIARY_SYSTEM": "__FILL__",
+                "SPLEEN": "__FILL__",
+                "PANCREAS": "__FILL__",
+                "ADRENAL_GLANDS": "__FILL__",
+                "KIDNEYS,_URETERS,_AND_BLADDER": "__FILL__",
+                "BOWEL": "__FILL__",
+                "APPENDIX": "__FILL__",
+                "PERITONEAL_CAVITY": "__FILL__",
+                "UTERUS_AND_OVARIES_(IF_PRESENT)": "__FILL__",
+                "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "__FILL__",
+                "VASCULATURE": "__FILL__",
+                "LYMPH_NODES": "__FILL__"
+            }
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_WHOLE_BODY": {
+        "INDICATION": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "MRI_BONE": {
+                "SUSPICIOUS_BONE_LESIONS": "__FILL__",
+                "SPINAL_CANAL_DIMENSIONS": "__FILL__",
+                "SACRAL_ROOT_CYSTS": "__FILL__",
+                "VERTEBRAL_BODY_HEMANGIOMA/HEMANGIOMAS": "__FILL__"
+            },
+            "MRI_HEAD": {
+                "SUSPICIOUS_BRAIN_LESIONS": "__FILL__",
+                "VENTRICULAR_SYSTEM": "__FILL__",
+                "MIDLINE_STRUCTURES": "__FILL__",
+                "DIFFUSE_WHITE_MATTER_ALTERATIONS": "__FILL__",
+                "MUCOSAL_THICKENING_OF_THE_PARANASAL_SINUSES": "__FILL__"
+            },
+            "MRI_NECK": {
+                "PHARYNGEAL_AND_LARYNGEAL_FINDINGS": "__FILL__",
+                "CERVICAL_LYMPH_NODES": "__FILL__",
+                "THYROID_NODULE": "__FILL__"
+            },
+            "MRI_CHEST": {
+                "SUSPICIOUS_LESIONS_IN_EITHER_LUNG": "__FILL__",
+                "ENLARGED_MEDIASTINAL_LYMPH_NODES": "__FILL__",
+                "ENLARGED_SUPRA-/SUBCLAVICULAR_LYMPH_NODES": "__FILL__",
+                "THYMIC_HYPERPLASIA": "__FILL__"
+            },
+            "MRI_ABDOMEN": {
+                "LIVER": "__FILL__",
+                "PANCREAS": "__FILL__",
+                "SPLEEN": "__FILL__",
+                "ADRENAL_GLANDS": "__FILL__",
+                "KIDNEYS": "__FILL__",
+                "LYMPH_NODES_IN_THE_ABDOMEN": "__FILL__",
+                "CYSTS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "__FILL__",
+                "HEMANGIOMAS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "__FILL__",
+                "SIMPLE_KIDNEY_CYSTS": "__FILL__"
+            },
+            "MRI_PELVIS": {
+                "MASSES_IN_THE_PELVIS": "__FILL__",
+                "FREE_FLUID_IN_THE_PELVIS": "__FILL__",
+                "ENLARGED_PELVIC_LYMPH_NODES": "__FILL__",
+                "UTERINE_LEIOMYOMA": "__FILL__"
+            },
+            "MRI_LIMBS": {
+                "SUSPICIOUS_FINDINGS_IN_THE_PORTIONS_EXAMINED": "__FILL__"
+            }
+        },
+        "CONCLUSIONS_AND_MANAGEMENT": "__FILL__"
+    },
+    "MR_CERVICAL_CANCER_STAGING": {
+        "CLINICAL_INFORMATION/HISTORY": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "UTERUS": "__FILL__",
+            "TUMOR_SITE": "__FILL__",
+            "TUMOR_SIZE": "__FILL__",
+            "UTERINE_INVASION": "__FILL__",
+            "PARAMETRAL_INVASION": "__FILL__",
+            "VAGINAL_INVASION": "__FILL__",
+            "TUMOR_EXTENSION": "__FILL__",
+            "ADDITIONAL_COMMENTS": "__FILL__",
+            "OVARIES": "__FILL__",
+            "LYMPH_NODES": "__FILL__",
+            "ADDITIONAL_FINDINGS": "__FILL__",
+            "BONES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_ENDOMETRIAL_CANCER_STAGING": {
+        "CLINICAL_HISTORY": "__FILL__",
+        "COMPARISON": "__FILL__",
+        "TECHNIQUE": "__FILL__",
+        "FINDINGS": {
+            "UTERUS": {
+                "MEASURES": "__FILL__",
+                "OTHER_FINDINGS": "__FILL__"
+            },
+            "TUMOR_SITE": "__FILL__",
+            "TUMOR_SIZE": "__FILL__",
+            "MYOMETRIAL_INVASION": "__FILL__",
+            "INVASION_OF_TUMOR_INTO_CERVIX_STROMA": "__FILL__",
+            "EXTENSION_OF_TUMOR_INTO_ADJACENT_STRUCTURES": "__FILL__",
+            "ADDITIONAL_COMMENTS": "__FILL__",
+            "OVARIES": {
+                "VISUALIZED": "__FILL__",
+                "APPEARANCE": "__FILL__",
+                "RIGHT_OVARY_SIZE": "__FILL__",
+                "LEFT_OVARY_SIZE": "__FILL__",
+                "ABNORMAL_DESCRIPTION": "__FILL__"
+            },
+            "LYMPH_NODES": {
+                "QUANTITY": "__FILL__",
+                "LARGEST_PELVIC_LYMPH_NODE_LOCATION": "__FILL__",
+                "LARGEST_PELVIC_LYMPH_NODE_SIZE": "__FILL__",
+                "LARGEST_PARA_AORTIC_LYMPH_NODE_SIZE": "__FILL__",
+                "MALIGNANCY_LIKELIHOOD": "__FILL__"
+            },
+            "ADDITIONAL_PELVIC_FINDINGS": "__FILL__",
+            "BONES": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_LUMBAR_THORACIC_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": "__FILL__",
+            "SPINAL_CORD": {
+                "MYELON": "__FILL__",
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "C7-T1": "__FILL__",
+            "T1-T2": "__FILL__",
+            "T2-T3": "__FILL__",
+            "T3-T4": "__FILL__",
+            "T4-T5": "__FILL__",
+            "T5-T6": "__FILL__",
+            "T6-T7": "__FILL__",
+            "T7-T8": "__FILL__",
+            "T8-T9": "__FILL__",
+            "T9-T10": "__FILL__",
+            "T10-T11": "__FILL__",
+            "T11-T12": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "L2-L3": "__FILL__",
+            "L3-L4": "__FILL__",
+            "L4-L5": "__FILL__",
+            "L5-S1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_COMPLETE_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "__FILL__",
+                "LUMBAR": "__FILL__"
+            },
+            "SPINAL_CORD": {
+                "MYELON": "__FILL__",
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "C2-C3": "__FILL__",
+            "C3-C4": "__FILL__",
+            "C4-C5": "__FILL__",
+            "C5-C6": "__FILL__",
+            "C6-C7": "__FILL__",
+            "C7-T1": "__FILL__",
+            "T1-T2": "__FILL__",
+            "T2-T3": "__FILL__",
+            "T3-T4": "__FILL__",
+            "T4-T5": "__FILL__",
+            "T5-T6": "__FILL__",
+            "T6-T7": "__FILL__",
+            "T7-T8": "__FILL__",
+            "T8-T9": "__FILL__",
+            "T9-T10": "__FILL__",
+            "T10-T11": "__FILL__",
+            "T11-T12": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "L2-L3": "__FILL__",
+            "L3-L4": "__FILL__",
+            "L4-L5": "__FILL__",
+            "L5-S1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_CEERVICAL_LUMBAR_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "__FILL__",
+                "LUMBAR": "__FILL__"
+            },
+            "SPINAL_CORD": {
+                "MYELON": "__FILL__",
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "C2-C3": "__FILL__",
+            "C3-C4": "__FILL__",
+            "C4-C5": "__FILL__",
+            "C5-C6": "__FILL__",
+            "C6-C7": "__FILL__",
+            "C7-T1": "__FILL__",
+            "T1-T2": "__FILL__",
+            "T2-T3": "__FILL__",
+            "T11-T12": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "L2-L3": "__FILL__",
+            "L3-L4": "__FILL__",
+            "L4-L5": "__FILL__",
+            "L5-S1": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_CERVICAL_THORACIC_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "__FILL__",
+                "LUMBAR": "__FILL__"
+            },
+            "SPINAL_CORD": {
+                "MYELON": "__FILL__",
+                "CONUS": "__FILL__",
+                "CONUS_TERMINATION_LEVEL": "__FILL__"
+            },
+            "DISCS": "__FILL__",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+                "MARROW_SIGNAL": "__FILL__",
+                "VERTEBRAL_ABNORMALITIES": "__FILL__"
+            },
+            "SOFT_TISSUES": "__FILL__",
+            "C2-C3": "__FILL__",
+            "C3-C4": "__FILL__",
+            "C4-C5": "__FILL__",
+            "C5-C6": "__FILL__",
+            "C6-C7": "__FILL__",
+            "C7-T1": "__FILL__",
+            "T1-T2": "__FILL__",
+            "T2-T3": "__FILL__",
+            "T3-T4": "__FILL__",
+            "T4-T5": "__FILL__",
+            "T5-T6": "__FILL__",
+            "T6-T7": "__FILL__",
+            "T7-T8": "__FILL__",
+            "T8-T9": "__FILL__",
+            "T9-T10": "__FILL__",
+            "T10-T11": "__FILL__",
+            "T11-T12": "__FILL__",
+            "T12-L1": "__FILL__",
+            "L1-L2": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_ANGIOGRAPHY_WHOLE_BODY": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "HEAD_AND_NECK": {
+                "CIRCLE_OF_WILLIS": {
+                    "ACA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ACOM": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "MCA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PCOM": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PCA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "BASILAR_ARTERY": "__FILL__",
+                    "PICA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "AICA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "CAROTID_ARTERIES": {
+                    "ICA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ECA": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "VERTEBRAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "JUGULAR_VEINS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "THORAX": {
+                "AORTA": {
+                    "ASCENDING_AORTA": "__FILL__",
+                    "AORTIC_ARCH": "__FILL__",
+                    "DESCENDING_AORTA": "__FILL__"
+                },
+                "PULMONARY_ARTERIES": {
+                    "TRUNK": "__FILL__",
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "BRACHIAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "SUPERIOR_VENA_CAVA": "__FILL__",
+                    "PULMONARY_VEINS": "__FILL__"
+                }
+            },
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "__FILL__",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "__FILL__",
+                    "HEPATIC_ARTERY": "__FILL__",
+                    "SPLENIC_ARTERY": "__FILL__",
+                    "GASTRIC_ARTERIES": "__FILL__"
+                },
+                "SMA": "__FILL__",
+                "IMA": "__FILL__",
+                "RENAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "__FILL__",
+                    "PORTAL_VEIN": "__FILL__",
+                    "RENAL_VEINS": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "__FILL__",
+                    "RIGHT_FEMORAL_VEIN": "__FILL__",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "MR_ANGIOGRAPHY_HEAD_AND_NECK": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "CIRCLE_OF_WILLIS": {
+                "ACA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "ACOM": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "MCA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "PCOM": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "PCA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "BASILAR_ARTERY": "__FILL__",
+                "PICA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "AICA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "CAROTID_ARTERIES": {
+                "ICA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "ECA": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "VERTEBRAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "JUGULAR_VEINS": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "MR_ANGIOGRAPHY_THORAX": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "AORTA": {
+                "ASCENDING_AORTA": "__FILL__",
+                "AORTIC_ARCH": "__FILL__",
+                "DESCENDING_AORTA": "__FILL__"
+            },
+            "PULMONARY_ARTERIES": {
+                "TRUNK": "__FILL__",
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "BRACHIAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "VENOUS_SYSTEM": {
+                "SUPERIOR_VENA_CAVA": "__FILL__",
+                "PULMONARY_VEINS": "__FILL__"
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "MR_ANGIOGRAPHY_ABDOMEN": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "__FILL__",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "__FILL__",
+                    "HEPATIC_ARTERY": "__FILL__",
+                    "SPLENIC_ARTERY": "__FILL__",
+                    "GASTRIC_ARTERIES": "__FILL__"
+                },
+                "SMA": "__FILL__",
+                "IMA": "__FILL__",
+                "RENAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "__FILL__",
+                    "PORTAL_VEIN": "__FILL__",
+                    "RENAL_VEINS": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "MR_ANGIOGRAPHY_EXTREMITIES": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "__FILL__",
+                    "RIGHT_FEMORAL_VEIN": "__FILL__",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "CT_ANGIOGRAPHY_ABDOMEN": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "__FILL__",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "__FILL__",
+                    "HEPATIC_ARTERY": "__FILL__",
+                    "SPLENIC_ARTERY": "__FILL__",
+                    "GASTRIC_ARTERIES": "__FILL__"
+                },
+                "SMA": "__FILL__",
+                "IMA": "__FILL__",
+                "RENAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "__FILL__",
+                    "PORTAL_VEIN": "__FILL__",
+                    "RENAL_VEINS": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "CT_ANGIOGRAPHY_EXTREMITIES": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "__FILL__",
+                    "RIGHT_FEMORAL_VEIN": "__FILL__",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "CT_ANGIOGRAPHY_THORAX_ABDOMEN": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "THORAX": {
+                "AORTA": {
+                    "ASCENDING_AORTA": "__FILL__",
+                    "AORTIC_ARCH": "__FILL__",
+                    "DESCENDING_AORTA": "__FILL__"
+                },
+                "PULMONARY_ARTERIES": {
+                    "TRUNK": "__FILL__",
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "BRACHIAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "SUPERIOR_VENA_CAVA": "__FILL__",
+                    "PULMONARY_VEINS": "__FILL__"
+                }
+            },
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "__FILL__",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "__FILL__",
+                    "HEPATIC_ARTERY": "__FILL__",
+                    "SPLENIC_ARTERY": "__FILL__",
+                    "GASTRIC_ARTERIES": "__FILL__"
+                },
+                "SMA": "__FILL__",
+                "IMA": "__FILL__",
+                "RENAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "__FILL__",
+                    "PORTAL_VEIN": "__FILL__",
+                    "RENAL_VEINS": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "CT_ANGIOGRAPHY_ABDOMEN_EXTREMITIES": {
+        "TECHNIQUE": "__FILL__",
+        "CONTRAST": "__FILL__",
+        "CLINICAL_HISTORY": "__FILL__",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "__FILL__",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "__FILL__",
+                    "HEPATIC_ARTERY": "__FILL__",
+                    "SPLENIC_ARTERY": "__FILL__",
+                    "GASTRIC_ARTERIES": "__FILL__"
+                },
+                "SMA": "__FILL__",
+                "IMA": "__FILL__",
+                "RENAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "__FILL__",
+                    "PORTAL_VEIN": "__FILL__",
+                    "RENAL_VEINS": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "__FILL__",
+                        "RIGHT": "__FILL__"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "__FILL__",
+                    "RIGHT_FEMORAL_VEIN": "__FILL__",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "__FILL__",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "__FILL__"
+                }
+            }
+        },
+        "IMPRESSION": { 
+             "SUMMARY": "__FILL__",
+             "ADDITIONAL_FINDINGS": "__FILL__",
+             "RECOMMENDATIONS": "__FILL__"
+        }
+    },
+    "MR_ABDOMEN": {
+        "TECHNIQUE": "__FILL__",
+        "CLINICAL_INDICATION": "__FILL__",
+        "EXAMINATION": "__FILL__",
+        "FINDINGS": {
+            "LIVER": {
+                "SIZE": "__FILL__",
+                "CONTOUR": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "FOCAL_LESIONS": "__FILL__",
+                "BILIARY_DILATATION": "__FILL__",
+                "INTRAHEPATIC_DUCTS": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "GALLBLADDER": {
+                "DISTENDED": "__FILL__",
+                "GALLSTONES": "__FILL__",
+                "WALL_THICKENING": "__FILL__",
+                "PERICHOLECYSTIC_FLUID": "__FILL__",
+                "BILIARY_DILATATION": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "PANCREAS": {
+                "SIZE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "FOCAL_LESIONS": "__FILL__",
+                "DUCTAL_DILATATION": "__FILL__",
+                "LESIONS": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "SPLEEN": {
+                "SIZE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "FOCAL_LESIONS": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "KIDNEYS": {
+                "SIZE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "FOCAL_LESIONS": "__FILL__",
+                "HYDRONEPHROSIS": "__FILL__",
+                "RENAL_CALCULI": "__FILL__",
+                "CORTICOMEDULLARY_DIFFERENTIATION": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "ADRENAL_GLANDS": {
+                "SIZE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "ADRENAL_MASSES": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "GI_TRACT": {
+                "STOMACH": "__FILL__",
+                "SMALL_BOWEL": "__FILL__",
+                "COLON": "__FILL__",
+                "WALL_THICKNESS": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "OBSTRUCTION": "__FILL__",
+                "INFLAMMATORY_CHANGES": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "LYMPH_NODES": {
+                "ENLARGED_ABDOMINAL_NODES": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "PERITONEUM": {
+                "ASCITES": "__FILL__",
+                "FREE_AIR": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "VESSELS": {
+                "AORTA": "__FILL__",
+                "IVC": "__FILL__",
+                "ANEURYSM": "__FILL__",
+                "DISSECTION": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "BASAL_LUNGS": {
+                "VENTILATION": "__FILL__",
+                "EFFUSION": "__FILL__",
+                "INFILTRATION": "__FILL__",
+                "FOCAL_LESIONS": "__FILL__",
+                "OTHER": "__FILL__"
+            },
+            "SPINE_AND_PELVIS": {
+                "FOCAL_LESIONS": "__FILL__",
+                "FACTURES": "__FILL__",
+                "BONE_MARROW_SIGNAL": "__FILL__",
+                "OTHER": "__FILL__"
+            }
+        },
+        "IMPRESSION": {
+            "MAIN_FINDINGS": "__FILL__",
+            "OTHER_ABNORMALITIES": "__FILL__"
+        },
+        "RECOMMENDATION": "__FILL__"
+    },
+    "MR_NECK": {
+        "TECHNIQUE": "__FILL__",
+        "CLINICAL_INDICATION": "__FILL__",
+        "EXAMINATION": "__FILL__",
+        "FINDINGS": {
+            "CERVICAL_SPINE": {
+                "ALIGNMENT": "__FILL__",
+                "VERTEBRAL_BODIES": "__FILL__",
+                "DISC_SPACES": "__FILL__",
+                "SPINAL_CORD": "__FILL__"
+            },
+            "PARASPINAL_SOFT_TISSUES": {
+                "MUSCLES": "__FILL__",
+                "FASCIAL_PLANES": "__FILL__"
+            },
+            "NECK_VESSELS": {
+                "CAROTID_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "JUGULAR_VEINS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "VERTEBRAL_ARTERIES": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "SALIVARY_GLANDS": {
+                "PAROTID_GLANDS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "SUBMANDIBULAR_GLANDS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "SUBLINGUAL_GLANDS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "LYMPH_NODES": {
+                "SIZE": "__FILL__",
+                "SHAPE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "INFLAMMATORY_CHANGES": "__FILL__",
+                "METASTATIC_SUSPICION": "__FILL__"
+            },
+            "THYROID_GLAND": {
+                "SIZE": "__FILL__",
+                "SIGNAL_INTENSITY": "__FILL__",
+                "INFLAMMATORY_CHANGES": "__FILL__",
+                "NODULE": "__FILL__",
+                "MASS": "__FILL__"
+            },
+            "PHARYNX_AND_LARYNX": {
+                "OROPHARYNX": "__FILL__",
+                "HYPOPHARYNX": "__FILL__",
+                "LARYNX": "__FILL__",
+                "EPIGLOTTIS": "__FILL__",
+                "VOCAL_CORDS": "__FILL__",
+                "TUMOR": "__FILL__",
+                "INFLAMMATORY_CHANGES": "__FILL__"
+            },
+            "SURROUNDING_SOFT_TISSUES": {
+                "MASS": "__FILL__",
+                "INFLAMMATORY_CHANGES": "__FILL__",
+                "TUMOR_INVASION": "__FILL__",
+                "VASCULAR_INVASION": "__FILL__",
+                "NERVE_INVASION": "__FILL__"
+            }
+        },
+        "IMPRESSION": {
+            "TUMOR_PRESENCE": "__FILL__",
+            "INFLAMMATORY_PROCESS": "__FILL__",
+            "OTHER_ABNORMALITIES": "__FILL__"
+        },
+        "RECOMMENDATION": "__FILL__"
+    },
+    "CT_KIDNEY_STONES": {
+        "CLINICAL_HISTORY": "__FILL__",
+        "TECHNIQUE": {
+            "CT_TECNIQUE": "__FILL__",
+            "RADIATION_DOSE": "__FILL__"
+        },
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "STONES_PRESENT": "__FILL__",
+            "NUMBER_OF_STONES": "__FILL__",
+            "LOCATION": {
+                "LEFT_KIDNEY": "__FILL__",
+                "RIGHT_KIDNEY": "__FILL__",
+                "LEFT_URETER": "__FILL__",
+                "RIGHT_URETER": "__FILL__",
+                "BLADDER": "__FILL__"
+            },
+            "SECONDARY_SIGNS": "__FILL__",
+            "OTHER_FINDINGS": {
+                "LUNG_BASES": "__FILL__",
+                "LIVER": "__FILL__",
+                "PANCREAS": "__FILL__",
+                "SPLEEN": "__FILL__",
+                "ADRENALS": "__FILL__",
+                "BOWEL": "__FILL__",
+                "ADENOPATHY": "__FILL__",
+                "PELVIS": "__FILL__"
+            }
+        },
+        "IMPRESSION": "__FILL__"
+    },
+    "MR_PROSTATE": {
+        "INDICATION": {
+            "DATE": "__FILL__",
+            "SERUM_PSA_LEVEL": "__FILL__",
+            "PRIOR_BIOPSY": {
+                "TYPE": "__FILL__",
+                "DATE": "__FILL__",
+                "RESULTS": "__FILL__"
+            },
+            "PRIOR_THERAPY": {
+                "RADIATION": "__FILL__",
+                "HORMONES": "__FILL__"
+            }
+        },
+        "TECHNIQUE": {
+            "PI_RADS_COMPLIANT": "__FILL__",
+            "FIELD_STRENGTH": "__FILL__",
+            "COILS_USED": "__FILL__",
+            "IV_CONTRAST_ADMINISTRATION": {
+                "ROUTE": "__FILL__",
+                "RATE": "__FILL__"
+            },
+            "PULSE_SEQUENCE_PARAMETERS": "__FILL__"
+        },
+        "COMPARISON": "__FILL__",
+        "FINDINGS": {
+            "QUALITY": "__FILL__",
+            "PERIPHERAL_ZONE": "__FILL__",
+            "TRANSITION_ZONE": "__FILL__",
+            "LESIONS": [
+                {
+                    "HEMORRHAGE": "__FILL__",
+                    "RANK": "__FILL__",
+                    "ZONE": "__FILL__",
+                    "SIDE": "__FILL__",
+                    "POSITION": "__FILL__",
+                    "IMAGE_SERIES_NUMBER": "__FILL__",
+                    "LENGTH": "__FILL__",
+                    "WIDTH": "__FILL__",
+                    "HEIGHT": "__FILL__",
+                    "VOLUME": "__FILL__",
+                    "PSA_DENSITY": "__FILL__",
+                    "EXTRA_PROSTATIC_EXTENSION": "__FILL__",
+                    "PI_RADS_CATEGORY": "__FILL__"
+                }
+            ],
+            "NEUROVASCULAR_BUNDLES": {
+                "IMPRESSION": "__FILL__",
+                "DISTANCE_FROM_INDEX_LESION": "__FILL__"
+            },
+            "SEMINAL_VESICLES": "__FILL__",
+            "LYMPH_NODES": "__FILL__",
+            "BONES": "__FILL__",
+            "OTHER_PELVIC_ORGANS": "__FILL__"
+        },
+        "IMPRESSION": {
+            "SUMMARY": "__FILL__",
+            "ADDITIONAL_FINDINGS": "__FILL__",
+            "RECOMMENDATIONS": "__FILL__"
+        }
+    }
+}

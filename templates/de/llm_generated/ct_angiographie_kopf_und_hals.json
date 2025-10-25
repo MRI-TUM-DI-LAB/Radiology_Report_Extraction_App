@@ -1,0 +1,21 @@
+{
+    "ANAMNESE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "CTDI": "__FILL__",
+    "DLP": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "CTA_KOPF": "__FILL__",
+        "CTA_HALS": {
+            "GROSSE_GEFAESSE": "__FILL__",
+            "RECHTE_ICA": "__FILL__",
+            "LINKE_ICA": "__FILL__",
+            "VERTEBRALARTERIEN": "__FILL__",
+            "ANDERE": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": {
+        "1": "__FILL__",
+        "2": "__FILL__"
+    }
+}

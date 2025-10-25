@@ -1,0 +1,14 @@
+
+[server]
+headless = true
+runOnSave = true
+fileWatcherType = "poll"
+
+[theme]
+base="dark"
+primaryColor="#1e3a8a"  
+backgroundColor="#0d1117"    
+secondaryBackgroundColor="#1f2937"  
+textColor="#ffffff"           
+font="sans serif"
+

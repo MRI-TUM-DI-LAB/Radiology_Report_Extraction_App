@@ -1,0 +1,15 @@
+{
+    "INDIKATION": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "HIRNPARENCHYM": "__FILL__",
+        "VENTRIKEL/EXTRA-AXIALE_RAEUME": "__FILL__",
+        "EXTRAKRANIELLE_STRUKTUREN": "__FILL__",
+        "ORO-_UND_HYPOPHARYNX": "__FILL__",
+        "SCHILDDRUESENRAUM": "__FILL__",
+        "GEFAESSE_UND_KAROTISRAUM": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

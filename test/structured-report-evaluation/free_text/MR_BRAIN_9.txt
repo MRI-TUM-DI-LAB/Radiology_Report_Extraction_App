@@ -1,0 +1,25 @@
+EXAM:
+ MRI BRAIN WITH AND WITHOUT CONTRAST EXAM DATE: __ CONTRAST INDICATION: 
+Recurrent headaches and recent episodes of dizziness. COMPARISON: None 
+available. TECHNIQUE: Multiplanar, multisequence MRI of the brain was 
+performed at 3 Tesla, including axial T1-weighted, axial T2-weighted, 
+axial T2-weighted FLAIR, axial diffusion-weighted imaging (DWI), and 
+axial susceptibility-weighted imaging (SWI). Post-contrast axial, 
+sagittal, and coronal T1-weighted images were obtained after intravenous
+ administration of gadolinium. FINDINGS: There is a small, 
+well-circumscribed lesion in the left cerebellar hemisphere 
+demonstrating T2 hyperintensity and faint peripheral enhancement on 
+post-contrast images. This lesion measures approximately 1.2 x 1.0 cm. 
+No surrounding edema or mass effect is noted. The lesion's appearance is
+ suggestive of a small hemangioblastoma, but other possibilities such as
+ a low-grade glioma cannot be excluded. The ventricular system is normal
+ in size and configuration. The cerebral parenchyma is unremarkable, 
+with no evidence of acute ischemia, hemorrhage, or abnormal enhancement.
+ White matter shows no significant T2 or FLAIR hyperintensities. The 
+paranasal sinuses, mastoid air cells, and orbits are clear. Normal flow 
+voids are visualized within the major intracranial vessels. IMPRESSION: 
+Small enhancing lesion in the left cerebellar hemisphere with imaging 
+features suggestive of a hemangioblastoma, although a low-grade glioma 
+cannot be excluded. Further evaluation with follow-up imaging or 
+neurosurgical consultation may be warranted. No acute intracranial 
+findings or significant white matter changes.

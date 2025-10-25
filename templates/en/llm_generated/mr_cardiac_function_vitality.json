@@ -1,0 +1,147 @@
+{
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "LEFT_VENTRICULAR_MEASUREMENTS": {
+            "END_DIASTOLIC_DIAMETER": {
+                "VALUE": "__FILL__",
+                "NORMAL_RANGE": "36-56 mm"
+            },
+            "EJECTION_FRACTION": {
+                "VALUE": "__FILL__",
+                "NORMAL_RANGE": {
+                    "MALE": "56-78%",
+                    "FEMALE": "56-78%"
+                }
+            },
+            "STROKE_VOLUME": "__FILL__",
+            "END_DIASTOLIC_VOLUME": {
+                "VALUE": "__FILL__",
+                "NORMAL_RANGE": {
+                    "MALE": "77-195 mL",
+                    "FEMALE": "52-141 mL"
+                }
+            },
+            "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+            "END_SYSTOLIC_VOLUME": {
+                "VALUE": "__FILL__",
+                "NORMAL_RANGE": {
+                    "MALE": "19-72 mL",
+                    "FEMALE": "13-51 mL"
+                }
+            },
+            "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+            "CARDIAC_OUTPUT": {
+                "VALUE": "__FILL__",
+                "NORMAL_RANGE": {
+                    "MALE": "2.82-8.82 L/min",
+                    "FEMALE": "2.7-6.0 l/min"
+                }
+            },
+            "CARDIAC_INDEX": "__FILL__",
+            "BODY_SURFACE_AREA": "__FILL__"
+        },
+        "VALVE_DISEASE": {
+            "AORTIC_VALVE": {
+                "AORTIC_FORWARD_VOLUME": "__FILL__",
+                "AORTIC_REGURGITANT_VOLUME": "__FILL__",
+                "AORTIC_VALVE_AREA": {
+                    "VALUE": "__FILL__",
+                    "DESCRIPTION": {
+                        "SEVERE": "< 1.0 cm2",
+                        "MODERATE": "1.0-1.5 cm2",
+                        "MILD": "1.5-2.0 cm2",
+                        "NORMAL": "> 2.0 cm2"
+                    }
+                }
+            },
+            "MITRAL_VALVE": {
+                "MITRAL_REGURGITANT_VOLUME": "__FILL__",
+                "MITRAL_REGURGITANT_FRACTION": "__FILL__",
+                "ASCENDING_AORTA_DIAMETER": "__FILL__",
+                "LEFT_ATRIAL_DIMENSIONS": "__FILL__",
+                "LEFT_ATRIAL_AREA": "__FILL__"
+            }
+        },
+        "LEFT_VENTRICLE_REGIONAL_WALL_MOTION": {
+            "BASE": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "MID": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "APEX": {
+                "Anterior": "__FILL__",
+                "Lateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Septum": "__FILL__",
+                "True apex": "__FILL__"
+            },
+            "WALL_MOTION_SCORE": {
+                "0": "normokinetic",
+                "1": "hypokinetic",
+                "2": "akinetic",
+                "3": "dyskinetic"
+            }
+        },
+        "LEFT_VENTRICLE_MYOCARDIAL_ENHANCEMENT": {
+            "BASE": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "MID": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "APEX": {
+                "Anterior": "__FILL__",
+                "Lateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Septum": "__FILL__",
+                "True apex": "__FILL__"
+            },
+            "ENHANCEMENT_SCORE": {
+                "0": "none",
+                "1": "1-25%",
+                "2": "26-50%",
+                "3": "51-75%",
+                "4": "76-100%"
+            }
+        },
+        "NON_CARDIAC_FINDINGS": "__FILL__",
+        "IMPRESSION": {
+            "GLOBAL_SYSTOLIC_LV_FUNCTION": {
+                "NORMAL": "__FILL__",
+                "MILDLY_IMPAIRED": "__FILL__",
+                "MODERATELY_IMPAIRED": "__FILL__",
+                "SEVERELY_IMPAIRED": "__FILL__"
+            },
+            "GLOBAL_SYSTOLIC_RV_FUNCTION": {
+                "NORMAL": "__FILL__",
+                "MILDLY_IMPAIRED": "__FILL__",
+                "MODERATELY_IMPAIRED": "__FILL__",
+                "SEVERELY_IMPAIRED": "__FILL__"
+            },
+            "LV_VIABILITY": "__FILL__",
+            "VALVULAR_DISEASE": "__FILL__"
+        }
+    }
+}

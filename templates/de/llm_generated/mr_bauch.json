@@ -1,0 +1,97 @@
+{
+    "TECHNIK": "__FILL__",
+    "KLINISCHE_INDIKATION": "__FILL__",
+    "UNTERSUCHUNG": "__FILL__",
+    "BEFUNDE": {
+        "LEBER": {
+            "GRÖSSE": "__FILL__",
+            "KONTUR": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "GALLENGANGSDILATATION": "__FILL__",
+            "INTRAHEPATISCHE_GÄNGE": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "GALLENBLASE": {
+            "DEHNUNG": "__FILL__",
+            "GALLENSTEINE": "__FILL__",
+            "WANDVERDICKUNG": "__FILL__",
+            "PERICHOLEZYSTISCHE_FLÜSSIGKEIT": "__FILL__",
+            "GALLENGANGSDILATATION": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "PANKREAS": {
+            "GRÖSSE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "GANGDILATATION": "__FILL__",
+            "LÄSIONEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "MILZ": {
+            "GRÖSSE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "NIEREN": {
+            "GRÖSSE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "HYDRONEPHROSE": "__FILL__",
+            "NIERENSTEINE": "__FILL__",
+            "CORTICOMEDULLÄRE_DIFFERENZIERUNG": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "NEBENNIEREN": {
+            "GRÖSSE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "NEBENNIERENMASSEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "GI_TRAKT": {
+            "MAGEN": "__FILL__",
+            "DÜNNDARM": "__FILL__",
+            "KOLON": "__FILL__",
+            "WANDDICKE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "OBSTRUKTION": "__FILL__",
+            "ENTZÜNDLICHE_VERÄNDERUNGEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "LYMPHKNOTEN": {
+            "VERGRÖSSERTE_ABDOMINELLE_KNOTEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "PERITONEUM": {
+            "ASZITES": "__FILL__",
+            "FREIE_LUFT": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "GEFÄSSE": {
+            "AORTA": "__FILL__",
+            "IVC": "__FILL__",
+            "ANEURYSMA": "__FILL__",
+            "DISSEKTION": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "BASALE_LUNGEN": {
+            "BELÜFTUNG": "__FILL__",
+            "ERGUSS": "__FILL__",
+            "INFILTRATION": "__FILL__",
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "ANDERES": "__FILL__"
+        },
+        "WIRBELSÄULE_UND_BECKEN": {
+            "FOKALE_LÄSIONEN": "__FILL__",
+            "FRAKTUREN": "__FILL__",
+            "KNOCHENMARK_SIGNAL": "__FILL__",
+            "ANDERES": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": {
+        "HAUPTBEFUNDE": "__FILL__",
+        "ANDERE_ANOMALIEN": "__FILL__"
+    },
+    "EMPFEHLUNG": "__FILL__"
+}

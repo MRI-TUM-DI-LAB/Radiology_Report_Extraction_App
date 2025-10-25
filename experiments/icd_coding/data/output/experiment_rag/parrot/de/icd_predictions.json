@@ -1,0 +1,512 @@
+{
+    "182": {
+        "report_id": "182",
+        "predicted_phrases": [
+            "Pankreatitis",
+            "Aktive perigastrale Blutung",
+            "Erfolgreiche Embolisation einer aktiven Blutung aus der A. gastrica sinistra mittels Mikrocoils und Gewebekleber (Glubran/Lipiodol)",
+            "Spontane Entleerung von 2,5 l Altblut"
+        ],
+        "chosen_reformulations": [
+            "Pankreatitis",
+            "Aktive Blutung im Bereich des Magens",
+            "Gestillte Blutung aus der A. gastrica sinistra nach Embolisation mit Mikrocoils und Glubran/Lipiodol-Gemisch",
+            "Spontaner Abgang von 2,5 Litern alten Blutes"
+        ],
+        "ICD-10 codes": [
+            "K85",
+            "K2901",
+            "K9421"
+        ],
+        "ICD-10 descriptions": [
+            "Acute pancreatitis",
+            "Acute gastritis with bleeding",
+            "Gastrostomy hemorrhage"
+        ],
+        "similarity_scores": [
+            0.09928959608078003,
+            0.24243301153182983,
+            0.31402117013931274
+        ]
+    },
+    "183": {
+        "report_id": "183",
+        "predicted_phrases": [
+            "Armparese rechts",
+            "Aphasie",
+            "Verlangsamung, unspecified",
+            "M1 Verschlusss links",
+            "bekannte M1-Verschluss",
+            "Stenose im Carottissiphon",
+            "Thrombus",
+            "vollst\u00e4ndige Rekanalisierung"
+        ],
+        "chosen_reformulations": [
+            "Weakness in the right arm",
+            "Dysphasie",
+            "Bradycardia, unspecified",
+            "Verschluss des Hauptstamms der Arteria cerebri media links",
+            "Bekannte Obstruktion der Arteria cerebri media",
+            "Stenose im Carottissiphon",
+            "Intravascular coagulation",
+            "Vollst\u00e4ndige Wiederherstellung des Blutflusses"
+        ],
+        "ICD-10 codes": [
+            "M79601",
+            "R4702",
+            "I6602",
+            "I97620"
+        ],
+        "ICD-10 descriptions": [
+            "Pain in right arm",
+            "Dysphasia",
+            "Occlusion and stenosis of left middle cerebral artery",
+            "Postprocedural hemorrhage of a circulatory system organ or structure following other procedure"
+        ],
+        "similarity_scores": [
+            0.11124181747436523,
+            0.021342337131500244,
+            0.2473459243774414,
+            0.34011971950531006
+        ]
+    },
+    "184": {
+        "report_id": "184",
+        "predicted_phrases": [
+            "CMV Infektion",
+            "Desolater Venenstatus"
+        ],
+        "chosen_reformulations": [
+            "Cytomegalievirus-Infektion",
+            "Venenverschluss festgestellt"
+        ],
+        "ICD-10 codes": [
+            "B25"
+        ],
+        "ICD-10 descriptions": [
+            "Cytomegaloviral disease"
+        ],
+        "similarity_scores": [
+            0.09018474817276001
+        ]
+    },
+    "185": {
+        "report_id": "185",
+        "predicted_phrases": [
+            "Dialysepflichtige Niereninsuffizienz"
+        ],
+        "chosen_reformulations": [
+            "Endstadium der Nierenerkrankung mit Dialysebedarf"
+        ],
+        "ICD-10 codes": [
+            "N186"
+        ],
+        "ICD-10 descriptions": [
+            "End stage renal disease"
+        ],
+        "similarity_scores": [
+            0.14251601696014404
+        ]
+    },
+    "186": {
+        "report_id": "186",
+        "predicted_phrases": [
+            "Biliom",
+            "Z.n. atypischer Leberresektion Segment 2/3",
+            "putride Fl\u00fcssigkeit"
+        ],
+        "chosen_reformulations": [
+            "Biliary cyst",
+            "Wedge resection of liver segments 2/3",
+            "Foul riechende Fl\u00fcssigkeit"
+        ],
+        "ICD-10 codes": [
+            "K835"
+        ],
+        "ICD-10 descriptions": [
+            "Biliary cyst"
+        ],
+        "similarity_scores": [
+            4.8100948333740234e-05
+        ]
+    },
+    "187": {
+        "report_id": "187",
+        "predicted_phrases": [
+            "PAVK 4 links",
+            "proximaler Verschluss der AFS mit kollateraler Wiederauff\u00fcllung der distalen AFS",
+            "Hochgradige Kalkstenosen der rechten AFC"
+        ],
+        "chosen_reformulations": [
+            "Severe peripheral vascular disease",
+            "Obstruktion der proximalen AFS mit kollateraler Versorgung der distalen AFS",
+            "Severe calcific stenosis of the right common femoral artery"
+        ],
+        "ICD-10 codes": [
+            "I739"
+        ],
+        "ICD-10 descriptions": [
+            "Peripheral vascular disease, unspecified"
+        ],
+        "similarity_scores": [
+            0.08471959829330444
+        ]
+    },
+    "188": {
+        "report_id": "188",
+        "predicted_phrases": [
+            "Schmerzhafte Gonarthrose rechts",
+            "Immobilisierende Schmerzen",
+            "leichter KM Blush an der medialen Femurkondyle"
+        ],
+        "chosen_reformulations": [
+            "Right knee osteoarthritis with pain",
+            "L\u00e4hmende Schmerzen",
+            "Mild bone marrow edema at the medial femoral condyle"
+        ],
+        "ICD-10 codes": [
+            "M1711",
+            "R52"
+        ],
+        "ICD-10 descriptions": [
+            "Unilateral primary osteoarthritis, right knee",
+            "Pain, unspecified"
+        ],
+        "similarity_scores": [
+            0.0986296534538269,
+            0.24482381343841553
+        ]
+    },
+    "189": {
+        "report_id": "189",
+        "predicted_phrases": [
+            "Patientin mit kognitiven Defiziten unklarer \u00c4tiologie",
+            "lumbaler Verkn\u00f6cherung"
+        ],
+        "chosen_reformulations": [
+            "Patientin mit kognitiven Defiziten unklarer \u00c4tiologie",
+            "Lumbosakrale Spondylose"
+        ],
+        "ICD-10 codes": [
+            "R4184",
+            "M4307"
+        ],
+        "ICD-10 descriptions": [
+            "Other specified cognitive deficit",
+            "Spondylolysis, lumbosacral region"
+        ],
+        "similarity_scores": [
+            0.25667905807495117,
+            0.1017909049987793
+        ]
+    },
+    "190": {
+        "report_id": "190",
+        "predicted_phrases": [
+            "Rezidiv des Mammakarzinoms",
+            "Lokalan\u00e4sthesie der rechten vorderen Brustwand"
+        ],
+        "chosen_reformulations": [
+            "Rezidivierendes Mammakarzinom",
+            "Lokale Bet\u00e4ubung der rechten vorderen Thoraxwand"
+        ],
+        "ICD-10 codes": [
+            "C50"
+        ],
+        "ICD-10 descriptions": [
+            "Malignant neoplasm of breast"
+        ],
+        "similarity_scores": [
+            0.23304927349090576
+        ]
+    },
+    "191": {
+        "report_id": "191",
+        "predicted_phrases": [
+            "Hepatisch metastasiertes Aderhautmelanom"
+        ],
+        "chosen_reformulations": [
+            "Chorioidales Melanom mit hepatogener Ausbreitung"
+        ],
+        "ICD-10 codes": [
+            "C43"
+        ],
+        "ICD-10 descriptions": [
+            "Malignant melanoma of skin"
+        ],
+        "similarity_scores": [
+            0.27742528915405273
+        ]
+    },
+    "192": {
+        "report_id": "192",
+        "predicted_phrases": [
+            "Epidurales H\u00e4matom BWK8-LWK4",
+            "US-gest\u00fctzte Punktion der rechten A. femoralis communis nach Lokalan\u00e4sthesie"
+        ],
+        "chosen_reformulations": [
+            "Epiduralblutung BWK8-LWK4",
+            "Echogeleitete Punktion der rechten A. femoralis communis nach \u00f6rtlicher Bet\u00e4ubung"
+        ],
+        "ICD-10 codes": [
+            "S064X"
+        ],
+        "ICD-10 descriptions": [
+            "Epidural hemorrhage"
+        ],
+        "similarity_scores": [
+            0.22282809019088745
+        ]
+    },
+    "193": {
+        "report_id": "193",
+        "predicted_phrases": [
+            "pAVK IV links",
+            "Konstanter Verschluss der A. femoralis superficialis mit Wiederauff\u00fcllung 12 cm weiter distal \u00fcber Kollateralen der kr\u00e4ftig kontrastierten A. femoralis profunda",
+            "Mittel- und hochgradige Stenosen der A. femoralis superficialis bis in die A. popolitea (in P1 und P2)",
+            "Geringgradige Stenose der A. tibialis anterior",
+            "A. fibularis und tibialis anterior verd\u00e4mmern im distalen Unterschenkel auf H\u00f6he des Malleolus",
+            "Konstanter Verschluss der A. femoralis superficialis mit Wiederauff\u00fcllung 12 cm weiter distal \u00fcber AFP-Kollateralen",
+            "Konstante, hochgradige Stenosen der A. femoralis superficialis und A. poplitea (in P1 und P2)",
+            "A. fibularis und tibialis anterior verd\u00e4mmern auf H\u00f6he des Malleolus bei subtotalen Stenosen"
+        ],
+        "chosen_reformulations": [
+            "Advanced peripheral vascular disease lesions",
+            "Konstante Okklusion der A. femoralis superficialis mit distaler Reperfusion 12 cm distal durch Kollateralen der A. femoralis profunda",
+            "Significant stenosis of the superficial femoral artery reaching the popliteal artery (P1-P2)",
+            "Leichte Verengung der A. tibialis anterior",
+            "A. fibularis und A. tibialis anterior sind im distalen Unterschenkel auf Malleolush\u00f6he verschlossen",
+            "Chronische Obstruktion der A. femoralis superficialis mit Kollateralisierung \u00fcber die A. profunda femoris, die 12 cm distal der Okklusion eine Wiederauff\u00fcllung erm\u00f6glicht.",
+            "Kontinuierliche, signifikante Obstruktionen der A. femoralis superficialis und A. poplitea (in P1 und P2)",
+            "Fast vollst\u00e4ndige Stenosen f\u00fchren zu einer reduzierten Darstellung der A. fibularis und A. tibialis anterior auf H\u00f6he"
+        ],
+        "ICD-10 codes": [
+            "I739",
+            "S75099S",
+            "M7681",
+            "M7681",
+            "M7681"
+        ],
+        "ICD-10 descriptions": [
+            "Peripheral vascular disease, unspecified",
+            "Other specified injury of femoral artery, unspecified leg, sequela",
+            "Anterior tibial syndrome"
+        ],
+        "similarity_scores": [
+            0.11775541305541992,
+            0.29682260751724243,
+            0.16819220781326294,
+            0.26238906383514404,
+            0.2787361741065979
+        ]
+    },
+    "194": {
+        "report_id": "194",
+        "predicted_phrases": [
+            "Z.n. Verschluss des residuellen Feeders einer zervikalen AV-Fistel",
+            "ulzerierende ACI-Abgangsstenosen bds.",
+            "vollst\u00e4ndiger Verschluss des residuellen Feeders auf H\u00f6he HWK 5/6",
+            "Konstant vollst\u00e4ndiger Verschluss des prominenten distalen Feeders auf H\u00f6he HWK 3/4",
+            "AV-Fistel aus dem V2-Segment der A. vertebralis rechts"
+        ],
+        "chosen_reformulations": [
+            "Z.n. Okklusion des verbliebenen zuf\u00fchrenden Gef\u00e4\u00dfes einer zervikalen arterioven\u00f6sen Fistel",
+            "Ulzerative Stenosen der Abg\u00e4nge der Arteria carotis interna beidseitig",
+            "Totale Unterbrechung des Blutflusses im verbleibenden zuf\u00fchrenden Gef\u00e4\u00df auf H\u00f6he HWK 5/6",
+            "Dauerhafter totaler Verschluss des markanten distalen zuf\u00fchrenden Gef\u00e4\u00dfes in H\u00f6he der Halswirbels\u00e4ule C",
+            "Arterioven\u00f6se Fistel im V2-Abschnitt der rechten Arteria vertebralis"
+        ],
+        "ICD-10 codes": [
+            "I770",
+            "I6523",
+            "I770"
+        ],
+        "ICD-10 descriptions": [
+            "Arteriovenous fistula, acquired",
+            "Occlusion and stenosis of bilateral carotid arteries"
+        ],
+        "similarity_scores": [
+            0.239576518535614,
+            0.24509656429290771,
+            0.22817760705947876
+        ]
+    },
+    "195": {
+        "report_id": "195",
+        "predicted_phrases": [
+            "V. cava superior 11 mmHg",
+            "V. portae 14 mmHg"
+        ],
+        "chosen_reformulations": [
+            "Superior vena cava pressure 11 mmHg",
+            "Portal vein pressure 14 mmHg"
+        ],
+        "ICD-10 codes": [
+            "K766"
+        ],
+        "ICD-10 descriptions": [
+            "Portal hypertension"
+        ],
+        "similarity_scores": [
+            0.15500497817993164
+        ]
+    },
+    "196": {
+        "report_id": "196",
+        "predicted_phrases": [
+            "Hyponatri\u00e4mie",
+            "SIADH",
+            "Kompressionsfrakturen mit Keilwirbelbildung von BWK 8 und BWK 9",
+            "Kompressionsfraktur von BWK 12",
+            "\u00c4lter imponierende Rippenfrakturen beidseits"
+        ],
+        "chosen_reformulations": [
+            "Hyponatri\u00e4mie",
+            "Syndrome of inappropriate antidiuretic hormone secretion",
+            "Wirbelk\u00f6rperimpressionen mit Keildeformit\u00e4t an Th8 und Th9",
+            "Th12-Wirbelk\u00f6rper-Kompressionsfraktur",
+            "Beidseitige Rippenfrakturen, vereinbar mit \u00e4lteren Verletzungen"
+        ],
+        "ICD-10 codes": [
+            "E222",
+            "S2243"
+        ],
+        "ICD-10 descriptions": [
+            "Syndrome of inappropriate secretion of antidiuretic hormone",
+            "Multiple fractures of ribs, bilateral"
+        ],
+        "similarity_scores": [
+            0.006992816925048828,
+            0.25460994243621826
+        ]
+    },
+    "197": {
+        "report_id": "197",
+        "predicted_phrases": [
+            "SLAC-Wrist links",
+            "Alte Avulsionsfraktur des Processus styloideus ulnae",
+            "Scapholun\u00e4re Dissoziation (SL-Abstand 5 mm) mit konsekutiver St\u00f6rung des zweiten und dritten Gilula-Bogens"
+        ],
+        "chosen_reformulations": [
+            "Scapholunate advanced collapse wrist relationships",
+            "Knochenausrissfraktur des Processus styloideus ulnae",
+            "Scapholun\u00e4re Bandruptur (SL-Abstand 5 mm) mit nachfolgender Destabilisierung des Carpus"
+        ],
+        "ICD-10 codes": [
+            "S5261"
+        ],
+        "ICD-10 descriptions": [
+            "Fracture of ulna styloid process"
+        ],
+        "similarity_scores": [
+            0.12235230207443237
+        ]
+    },
+    "198": {
+        "report_id": "198",
+        "predicted_phrases": [
+            "rezidivierenden Pneumothoraces",
+            "einliegender Pleuradrainage",
+            "Narbige Lungenger\u00fcstver\u00e4nderungen",
+            "bull\u00f6ses Lungenemphysem",
+            "Geringer konstanter Pleuraerguss rechts",
+            "Minderbel\u00fcftung des Mittellappens",
+            "Minderbel\u00fcftung des linken Unterlappens",
+            "einliegende Pleuradrainage mit Spitze im basalen rechten Unterlappen"
+        ],
+        "chosen_reformulations": [
+            "Wiederholte Pneumothoraces",
+            "einliegender Pleuradrainage",
+            "Pulmonale Fibrose",
+            "Emphysemat\u00f6se Lungenerkrankung mit Bullae",
+            "Slight unchanging pleural effusion, right",
+            "Hypoventilation des Mittellappens",
+            "Reduzierte Bel\u00fcftung des linken Lobus inferior pulmonis",
+            "einliegende Pleuradrainage mit Spitze im basalen rechten Unterlappen"
+        ],
+        "ICD-10 codes": [
+            "J9383",
+            "J43",
+            "J90"
+        ],
+        "ICD-10 descriptions": [
+            "Other pneumothorax",
+            "Emphysema",
+            "Pleural effusion, not elsewhere classified"
+        ],
+        "similarity_scores": [
+            0.12809258699417114,
+            0.19686025381088257,
+            0.10415351390838623
+        ]
+    },
+    "199": {
+        "report_id": "199",
+        "predicted_phrases": [
+            "Neu eingebrachte zementierte Knie-TEP rechts"
+        ],
+        "chosen_reformulations": [
+            "Frisch eingesetzte zementierte Knieendoprothese rechts"
+        ],
+        "ICD-10 codes": [],
+        "ICD-10 descriptions": [
+            "None of the provided descriptions are relevant to the medical report. The report describes a postoperative checkup of a right knee replacement, not a broken left knee prosthesis."
+        ],
+        "similarity_scores": []
+    },
+    "200": {
+        "report_id": "200",
+        "predicted_phrases": [
+            "Neu eingebrachte zementierte Knie-TEP rechts",
+            "Moderate postoperative Lufteinschl\u00fcsse",
+            "ventrale Hautklammernaht miterfasst"
+        ],
+        "chosen_reformulations": [
+            "Neu implantierte, zementierte Knietotalprothese rechts",
+            "Moderate postoperative pneumatosis",
+            "ventrale Hautklammernaht erfasst"
+        ],
+        "ICD-10 codes": [
+            "T84013"
+        ],
+        "ICD-10 descriptions": [
+            "Broken internal left knee prosthesis"
+        ],
+        "similarity_scores": [
+            0.22456735372543335
+        ]
+    },
+    "201": {
+        "report_id": "201",
+        "predicted_phrases": [
+            "ORIF bei Patellafraktur",
+            "Herz vergr\u00f6\u00dfert imponierend",
+            "Geringe pulmonalven\u00f6se Stauung",
+            "Plumper Hilus rechts",
+            "Mittels zweier K-Dr\u00e4hte und Zuggurtungsosteosynthese versorgte mehrfragment\u00e4re Fraktur der Patella",
+            "Gebesserte Fragmentadaptation bei weiterhin abgrenzbarer Frakturzone mit geringer dorsaler Stufenbildung",
+            "Lateral betonte Gonarthrose Grad II"
+        ],
+        "chosen_reformulations": [
+            "ORIF bei Patellafraktur",
+            "Kardiomegalie ausgepr\u00e4gt",
+            "Geringe pulmonalven\u00f6se Stauung",
+            "Verdickter Hilus rechts",
+            "Mehrfach gebrochene Patella, versorgt durch Zuggurtungsosteosynthese mit zwei K-Dr\u00e4hten",
+            "Verbesserte Reposition des Fragments bei weiterhin erkennbarer Frakturstelle mit leichter dorsaler Stufenbildung.",
+            "Arthrose des Kniegelenks Grad II, vorwiegend lateral"
+        ],
+        "ICD-10 codes": [
+            "I517",
+            "M170"
+        ],
+        "ICD-10 descriptions": [
+            "Cardiomegaly",
+            "Bilateral primary osteoarthritis of knee"
+        ],
+        "similarity_scores": [
+            0.09461104869842529,
+            0.21908670663833618
+        ]
+    }
+}

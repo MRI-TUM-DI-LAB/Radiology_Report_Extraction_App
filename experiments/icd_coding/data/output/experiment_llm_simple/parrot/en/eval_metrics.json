@@ -1,0 +1,44 @@
+{
+    "micro_average_statistics": {
+        "precision": 0.219,
+        "recall": 0.326,
+        "f1_score": 0.262
+    },
+    "macro_average_statistics": {
+        "precision": 0.308,
+        "recall": 0.316,
+        "f1_score": 0.303
+    },
+    "icd_hierarchy_micro_average_metrics": {
+        "chapter": {
+            "precision": 0.625,
+            "recall": 0.93,
+            "f1_score": 0.748
+        },
+        "block": {
+            "precision": 0.5,
+            "recall": 0.744,
+            "f1_score": 0.598
+        },
+        "category": {
+            "precision": 0.453,
+            "recall": 0.674,
+            "f1_score": 0.542
+        },
+        "subcategory": {
+            "precision": 0.322,
+            "recall": 0.487,
+            "f1_score": 0.388
+        },
+        "extension1": {
+            "precision": 0.111,
+            "recall": 0.19,
+            "f1_score": 0.14
+        },
+        "extension2": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0
+        }
+    }
+}

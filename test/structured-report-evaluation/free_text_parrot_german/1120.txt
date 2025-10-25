@@ -1,0 +1,4 @@
+Fragestellung: Mammographie-Screening
+Technik: Mammographie beidseits in zwei Ebenen (craniocaudal und mediolateral oblique).
+Befund: Mammae beidseits symmetrisch mit vorwiegend dichtem Drüsengewebe. Keine pathologischen Verkalkungen, Raumforderungen oder Architekturstörungen. Die Haut und die Mamillen stellen sich unauffällig dar. Die Axillen sind frei von pathologischen Lymphknoten.
+Beurteilung: Mammographisch unauffälliger Befund beidseits. BIRADS 1.

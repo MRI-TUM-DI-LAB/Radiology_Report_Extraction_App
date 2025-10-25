@@ -1,0 +1,20 @@
+{
+    "INDICATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "LIVER_AND_BILIARY_SYSTEM": "__FILL__",
+        "SPLEEN": "__FILL__",
+        "PANCREAS": "__FILL__",
+        "ADRENAL_GLANDS": "__FILL__",
+        "KIDNEYS,_URETERS,_AND_BLADDER": "__FILL__",
+        "BOWEL": "__FILL__",
+        "APPENDIX": "__FILL__",
+        "PERITONEAL_CAVITY": "__FILL__",
+        "UTERUS_AND_OVARIES_(IF_PRESENT)": "__FILL__",
+        "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "__FILL__",
+        "VASCULATURE": "__FILL__",
+        "LYMPH_NODES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of chronic low back pain, rule out herniated disc  
+Technique: MRI of the lumbar spine in T1-weighted, T2-weighted, and STIR sequences, sagittal view.  
+Findings: Age-appropriate degenerative changes in the lumbar spine with mild spondyloarthritis and osteochondrosis from L2/3 to L5/S1. Early disc protrusion at L4/5 with a small annular tear, but without nerve root compression. The spinal canal and neural foramina are spacious. The conus medullaris and cauda equina show no pathological signal alterations. The paravertebral muscles are unremarkable.  
+Impression: Age-appropriate degenerative changes in the lumbar spine. Early disc protrusion at L4/5 without nerve root compression.

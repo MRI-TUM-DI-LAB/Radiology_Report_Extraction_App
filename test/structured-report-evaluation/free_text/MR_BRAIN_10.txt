@@ -1,0 +1,23 @@
+COMPARISON:
+ __ CLINICAL HISTORY: This is a 35-year-old patient with a history of 
+severe headaches and visual disturbances. The patient is being evaluated
+ for possible brain pathology. TECHNIQUE: Three-plane localizer, axial 
+T1-weighted, axial T2-weighted, axial T2-weighted FLAIR, axial 
+diffusion-weighted imaging (DWI), and coronal T2-weighted images. 
+Intravenous contrast was administered, and post-contrast axial and 
+coronal T1-weighted images were acquired. FINDINGS: No mass, hemorrhage,
+ or acute infarct is identified. There is no midline shift or 
+hydrocephalus. The ventricular system and sulci are within normal 
+limits. There is a small area of T2 hyperintensity and post-contrast 
+enhancement in the left occipital lobe, measuring approximately 0.8 x 
+0.7 cm. This lesion is associated with minimal surrounding edema. The 
+imaging findings are suggestive of a demyelinating lesion or possibly a 
+small meningioma. No other abnormal parenchymal signal or enhancement is
+ seen. The paranasal sinuses and mastoid air cells are clear. The orbits
+ appear unremarkable. The major intracranial vessels demonstrate normal 
+flow voids. IMPRESSION: A small enhancing lesion in the left occipital 
+lobe, possibly representing a demyelinating lesion or a small 
+meningioma. Further evaluation with follow-up imaging or neurological 
+consultation may be warranted. No evidence of acute intracranial 
+abnormality or other significant findings. Clear paranasal sinuses and 
+mastoid air cells.

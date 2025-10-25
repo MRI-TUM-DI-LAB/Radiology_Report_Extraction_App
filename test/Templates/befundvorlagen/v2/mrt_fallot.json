@@ -1,0 +1,224 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Geschlecht:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "W",
+        "M",
+        "O"
+      ]
+    },
+    "Körpergewicht:": "__FILL__",
+    "Körpergröße:": "__FILL__",
+    "Körperoberfläche (BSA):": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Flussdichte:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "—",
+        "1.5 T",
+        "3 T"
+      ]
+    },
+    "MR-Protokoll:": "Sequenzen und Ebenen:",
+    "Auswertesoftware:": "__FILL__",
+    "Kontrastmittel": {
+      "Name:": "__FILL__",
+      "Menge:": "__FILL__",
+      "Flussgeschwindigkeit:": "__FILL__"
+    }
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Bildqualität:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "gut",
+        "ausreichend",
+        "eingeschränkt"
+      ],
+      "input": "__FILL__"
+    },
+    "Quelle der Normwerte:": {
+      "textarea": "__FILL__"
+    },
+    "Anatomie:": {
+      "Normales kardiovaskuläres Arrangement:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ]
+      }
+    },
+    "Morphologie und Funktionsanalyse": {
+      "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+      "LV endsystolischer Volumenindex (LV ESVi):": "__FILL__",
+      "LV Ejektionsfraktion (LV EF):": "__FILL__",
+      "LV Herzindex (LV CI):": "__FILL__",
+      "LV ED Masse normiert:": "__FILL__",
+      "LV Regionale Wandbewegungsstörung:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Interventrikuläre Septumdicke (IVSD):": "__FILL__",
+      "RV enddiastolischer Diameter (RV EDD im 4KB):": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+      "RV endsystolischer Volumenindex (RV ESVi):": "__FILL__",
+      "RV Ejektionsfraktion:": "__FILL__",
+      "RV Herzindex (RV CI):": "__FILL__",
+      "RV Regionale Wandbewegungsstörung:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "LA endsystolisch im Vierkammerblick longitudinal:": "__FILL__",
+      "LA endsystolisch im Vierkammerblick transversal:": "__FILL__",
+      "RA endsystolisch im Vierkammerblick longitudinal:": "__FILL__",
+      "RA endsystolisch im Vierkammerblick transversal:": "__FILL__"
+    },
+    "Flussmessungen": {
+      "Truncus pulmonalis": {
+        "vmax =": "__FILL__",
+        "Herzzeitvolumen:": "__FILL__",
+        "Antegrader Fluss:": "__FILL__",
+        "Retrograder Fluss:": "__FILL__",
+        "Regurgitationsfraktion:": "__FILL__"
+      },
+      "LPA (optional)": {
+        "vmax =": "__FILL__",
+        "Herzzeitvolumen:": "__FILL__",
+        "Antegrader Fluss:": "__FILL__",
+        "Retrograder Fluss:": "__FILL__",
+        "Regurgitationsfraktion:": "__FILL__"
+      },
+      "RPA (optional)": {
+        "vmax =": "__FILL__",
+        "Herzzeitvolumen:": "__FILL__",
+        "Antegrader Fluss:": "__FILL__",
+        "Retrograder Fluss:": "__FILL__",
+        "Regurgitationsfraktion:": "__FILL__"
+      },
+      "Aorta ascendens": {
+        "vmax =": "__FILL__",
+        "Herzzeitvolumen:": "__FILL__",
+        "Antegrader Fluss:": "__FILL__",
+        "Retrograder Fluss:": "__FILL__",
+        "Regurgitationsfraktion:": "__FILL__"
+      },
+      "Qp:Qs =": "__FILL__"
+    },
+    "Pulmonalarterien": {
+      "Pulmonalklappe:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "kompetent",
+          "insuffizient"
+        ]
+      },
+      "Regurgitationsfraktion:": "__FILL__",
+      "Pulmonalstenose:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "keine",
+          "subvalvulär",
+          "valvulär",
+          "supravalvulär PA-Stamm",
+          "supravalvulär PA-Äste"
+        ]
+      },
+      "Abgangsstenosen der LPA/RPA:": "__FILL__",
+      "Flussverhältnis rechte / linke Lunge (optional):": "__FILL__",
+      "Diameter (RVOT-Blick / 3D MR-Angio)": {
+        "RVOT sagittal:": "__FILL__",
+        "RVOT coronar:": "__FILL__",
+        "Valvulär sagittal:": "__FILL__",
+        "Valvulär coronar:": "__FILL__",
+        "Truncus pulmonalis sagittal:": "__FILL__",
+        "Truncus pulmonalis coronar:": "__FILL__",
+        "RPA sagittal:": "__FILL__",
+        "RPA coronar:": "__FILL__",
+        "LPA sagittal:": "__FILL__",
+        "LPA coronar:": "__FILL__"
+      },
+      "Relation Koronarien zu RVOT / PA Stamm vor geplantem interventionellem PKE aus 3D Whole Heart (optional):": "__FILL__"
+    },
+    "Aorta": {
+      "Aortenbogen:": "__FILL__",
+      "Deszendierende Aorta:": "__FILL__",
+      "Regelrechter Abgang der supraaortalen Gefäße:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "MAPCA:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ]
+      },
+      "Diameter (SSFP / 3D MR-Angio)": {
+        "LVOT sagittal:": "__FILL__",
+        "LVOT coronar:": "__FILL__",
+        "Annulus sagittal:": "__FILL__",
+        "Annulus coronar:": "__FILL__",
+        "Aortensinus sagittal:": "__FILL__",
+        "Aortensinus coronar:": "__FILL__",
+        "STJ sagittal:": "__FILL__",
+        "STJ coronar:": "__FILL__",
+        "Aorta ascendens (Höhe RPA) sagittal:": "__FILL__",
+        "Aorta ascendens (Höhe RPA) coronar:": "__FILL__"
+      }
+    },
+    "Gewebecharakterisierung (optional)": {
+      "Late Gadolinium Enhancement (LGE):": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ]
+      },
+      "Verteilungsmuster:": "__FILL__"
+    },
+    "Sonstiges:": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

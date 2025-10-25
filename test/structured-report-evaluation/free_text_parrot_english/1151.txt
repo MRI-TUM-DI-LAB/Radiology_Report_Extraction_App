@@ -1,0 +1,7 @@
+Clinical Question: Osteoarthritis of the knee joints?
+
+Technique: X-ray of both knee joints in two views (anteroposterior and lateral).
+
+Findings: There are age-appropriate degenerative changes on both sides, with mild narrowing of the medial joint space and early osteophyte formation.
+
+Conclusion: Bilateral knee osteoarthritis, Grade I according to Kellgren and Lawrence.

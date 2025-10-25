@@ -1,0 +1,51 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "MRI_BONE": {
+            "SUSPICIOUS_BONE_LESIONS": "__FILL__",
+            "SPINAL_CANAL_DIMENSIONS": "__FILL__",
+            "SACRAL_ROOT_CYSTS": "__FILL__",
+            "VERTEBRAL_BODY_HEMANGIOMA/HEMANGIOMAS": "__FILL__"
+        },
+        "MRI_HEAD": {
+            "SUSPICIOUS_BRAIN_LESIONS": "__FILL__",
+            "VENTRICULAR_SYSTEM": "__FILL__",
+            "MIDLINE_STRUCTURES": "__FILL__",
+            "DIFFUSE_WHITE_MATTER_ALTERATIONS": "__FILL__",
+            "MUCOSAL_THICKENING_OF_THE_PARANASAL_SINUSES": "__FILL__"
+        },
+        "MRI_NECK": {
+            "PHARYNGEAL_AND_LARYNGEAL_FINDINGS": "__FILL__",
+            "CERVICAL_LYMPH_NODES": "__FILL__",
+            "THYROID_NODULE": "__FILL__"
+        },
+        "MRI_CHEST": {
+            "SUSPICIOUS_LESIONS_IN_EITHER_LUNG": "__FILL__",
+            "ENLARGED_MEDIASTINAL_LYMPH_NODES": "__FILL__",
+            "ENLARGED_SUPRA-/SUBCLAVICULAR_LYMPH_NODES": "__FILL__",
+            "THYMIC_HYPERPLASIA": "__FILL__"
+        },
+        "MRI_ABDOMEN": {
+            "LIVER": "__FILL__",
+            "PANCREAS": "__FILL__",
+            "SPLEEN": "__FILL__",
+            "ADRENAL_GLANDS": "__FILL__",
+            "KIDNEYS": "__FILL__",
+            "LYMPH_NODES_IN_THE_ABDOMEN": "__FILL__",
+            "CYSTS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "__FILL__",
+            "HEMANGIOMAS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "__FILL__",
+            "SIMPLE_KIDNEY_CYSTS": "__FILL__"
+        },
+        "MRI_PELVIS": {
+            "MASSES_IN_THE_PELVIS": "__FILL__",
+            "FREE_FLUID_IN_THE_PELVIS": "__FILL__",
+            "ENLARGED_PELVIC_LYMPH_NODES": "__FILL__",
+            "UTERINE_LEIOMYOMA": "__FILL__"
+        },
+        "MRI_LIMBS": {
+            "SUSPICIOUS_FINDINGS_IN_THE_PORTIONS_EXAMINED": "__FILL__"
+        }
+    },
+    "CONCLUSIONS_AND_MANAGEMENT": "__FILL__"
+}

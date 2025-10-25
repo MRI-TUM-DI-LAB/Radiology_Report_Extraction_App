@@ -1,0 +1,15 @@
+{
+    "INDICATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "BRAIN_PARENCHYMA": "__FILL__",
+        "VENTRICLES/EXTRA-AXIAL_SPACES": "__FILL__",
+        "EXTRACRANIAL_STRUCTURES": "__FILL__",
+        "ORO-_AND_HYPOPHARYNX": "__FILL__",
+        "THYROID_SPACE": "__FILL__",
+        "VESSELS_AND_CAROTID_SPACE": "__FILL__",
+        "LYMPH_NODES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

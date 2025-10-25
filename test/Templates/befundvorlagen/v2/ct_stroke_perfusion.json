@@ -1,0 +1,59 @@
+{
+  "Klinische Angaben": {
+    "V.a. Schlaganfall": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Voruntersuchung:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "CT-Perfusion": {
+      "Verzögerte zerebrale Perfusion (MTT, TTP, TTD):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__",
+        "Lokalisation": "__FILL__"
+      },
+      "Verminderter zerebraler Blutfluss (CBF):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__",
+        "Lokalisation": "__FILL__"
+      },
+      "Vermindertes zerebrales Blutvolumen (CBV):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__",
+        "Lokalisation": "__FILL__"
+      },
+      "Fluss (CBF) – Volumen (CBV) – Mismatch:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "Nein",
+          "Ja"
+        ]
+      },
+      "Zeit (MTT/TTP/TTD) – Volumen (CBV) – Mismatch:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "Nein",
+          "Ja"
+        ]
+      },
+      "Zeit (MTT/TTP/TTD) – Fluss (CBF) – Mismatch:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "Nein",
+          "Ja"
+        ]
+      }
+    }
+  },
+  "Beurteilung": {
+    "Symmetrische Hirnperfusion ohne Perfusionsdefizit oder relevantes Mismatch.": "__FILL__"
+  }
+}

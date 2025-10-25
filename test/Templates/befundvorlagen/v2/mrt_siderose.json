@@ -1,0 +1,187 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Technik": {
+      "Feldstärke": "__FILL__",
+      "Feldstärke_möglichkeiten": [
+        "1.5 T",
+        "3 T"
+      ],
+      "MR Protokoll Herz": "__FILL__",
+      "MR Protokoll Leber": "__FILL__",
+      "Auswertesoftware": "__FILL__",
+      "Quelle der Normwerte": "__FILL__",
+      "KM": "__FILL__"
+    },
+    "Patientencharakteristik": {
+      "Geschlecht": "__FILL__",
+      "Geschlecht_möglichkeiten": [
+        "männlich",
+        "weiblich"
+      ],
+      "Körpergewicht": "__FILL__",
+      "Körpergröße": "__FILL__",
+      "Körperoberlfäche (BSA)": "__FILL__",
+      "Hämatokrit": "__FILL__"
+    },
+    "Vergleichsuntersuchung": {
+      "Vergleichsuntersuchung": "__FILL__",
+      "Vergleichsuntersuchung_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "Vergleichsuntersuchung_eingabe": "__FILL__"
+    },
+    "Herz": {
+      "Bildqualität": {
+        "Einschränkung": "__FILL__",
+        "Einschränkung_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Einschränkung_eingabe": "__FILL__"
+      },
+      "Funktionsanalyse LV": {
+        "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+        "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+        "LV endsystolischer  Volumenindex (LV ESVi):": "__FILL__",
+        "LV Ejektions-Fraktion (LV EF):": "__FILL__",
+        "LV ED Masse normiert:": "__FILL__",
+        "Regionale Wandbewegungsstörungen LV:": "__FILL__",
+        "Regionale Wandbewegungsstörungen LV:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Regionale Wandbewegungsstörungen LV:_eingabe": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Funktionsanalyse RV": {
+        "RV enddiastolischer Diameter (RV EDD):": "__FILL__",
+        "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+        "RV endsystolischer  Volumenindex (RV ESVi):": "__FILL__",
+        "RV Ejektions-Fraktion (RV EF):": "__FILL__",
+        "Regionale Wandbewegungsstörungen RV:": "__FILL__",
+        "Regionale Wandbewegungsstörungen RV:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Regionale Wandbewegungsstörungen RV:_eingabe": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Vorhofgröße endsystolisch im 4-Kammerblick": {
+        "RA:": "__FILL__",
+        "LA:": "__FILL__"
+      },
+      "Herzklappenpathologie:": "__FILL__",
+      "Herzklappenpathologie:_möglichkeiten": [
+        "-",
+        "nicht untersucht",
+        "nein",
+        "ja"
+      ],
+      "Herzklappenpathologie:_eingabe": "__FILL__",
+      "Intracavitäre Thromben:": "__FILL__",
+      "Intracavitäre Thromben:_möglichkeiten": [
+        "-",
+        "nein",
+        "ja"
+      ],
+      "Intracavitäre Thromben:_eingabe": "__FILL__",
+      "Perikarderguss:": "__FILL__",
+      "Perikarderguss:_möglichkeiten": [
+        "-",
+        "nein",
+        "ja"
+      ],
+      "max. Saumbreite:": "__FILL__"
+    },
+    "Quantitative Gewebecharakterisierung Herz": {
+      "T2*-Mapping (Septum):": "__FILL__",
+      "T1-Mapping nativ (Septum):": "__FILL__"
+    },
+    "Befund Leber": {
+      "Leberparenchym": "__FILL__",
+      "Leberparenchym_möglichkeiten": [
+        "-",
+        "unauffällige Lebertextur",
+        "retikuläre Lebertextur"
+      ],
+      "Gallenwege/ Gallenblase": "__FILL__",
+      "Gallenwege/ Gallenblase_möglichkeiten": [
+        "-",
+        "unauffällig",
+        "Cholestase",
+        "Cholezystolithiasis"
+      ],
+      "Lymphknoten": "__FILL__",
+      "Lymphknoten_möglichkeiten": [
+        "-",
+        "Keine suspekten LK",
+        "Suspekte LK"
+      ],
+      "LK": "__FILL__",
+      "LK_ca.": "__FILL__",
+      "Milz": "__FILL__",
+      "Milz_möglichkeiten": [
+        "-",
+        "unauffällig",
+        "Splenomegalie"
+      ],
+      "Aszites": "__FILL__",
+      "Aszites_möglichkeiten": [
+        "-",
+        "kein",
+        "gering",
+        "moderat",
+        "ausgeprägt"
+      ]
+    },
+    "Quantitative Gewebecharakterisierung Leber": {
+      "T2*-Mapping:": "__FILL__",
+      "T1-Mapping nativ:": "__FILL__",
+      "Fett-Fraktion:": "__FILL__"
+    },
+    "Sonstige Auffälligkeiten:": "__FILL__"
+  },
+  "Beurteilung": {
+    "Herz": {
+      "Herz_Beurteilung_1": "__FILL__",
+      "Herz_Beurteilung_1_möglichkeiten": [
+        "-",
+        "Zeichen der milden kardialen Eisenüberladung.",
+        "Zeichen der moderaten kardialen Eisenüberladung.",
+        "Zeichen der schweren kardialen Eisenüberladung.",
+        "Kein Hinweis auf eine kardiale Eisenüberladung."
+      ],
+      "Herz_Beurteilung_2": "__FILL__",
+      "Herz_Beurteilung_2_möglichkeiten": [
+        "-",
+        "Unauffällige Funktion von rechtem und linkem Ventrikel",
+        "Gering eingeschränkte systolische LV/RV Funktion.",
+        "Mittelgradig eingeschränkte systolische LV/RV Funktion.",
+        "Schwer eingeschränkte systolische LV/RV Funktion."
+      ]
+    },
+    "Leber": {
+      "Leber_Beurteilung_1": "__FILL__",
+      "Leber_Beurteilung_1_möglichkeiten": [
+        "-",
+        "unauffällige",
+        "geringe",
+        "moderate",
+        "ausgeprägte"
+      ],
+      "Leber_Beurteilung_2": "__FILL__",
+      "Leber_Beurteilung_2_möglichkeiten": [
+        "-",
+        "milden",
+        "ausgeprägten"
+      ]
+    },
+    "Beurteilung_Text": "__FILL__"
+  }
+}

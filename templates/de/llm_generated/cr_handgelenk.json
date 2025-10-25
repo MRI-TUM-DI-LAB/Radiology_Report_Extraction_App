@@ -1,0 +1,12 @@
+{
+    "SEITE": "__FILL__",
+    "ANZAHL_DER_ANSICHTEN": "__FILL__",
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "KNOCHEN": "__FILL__",
+        "GELENKE": "__FILL__",
+        "WEICHTEILE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

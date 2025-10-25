@@ -1,0 +1,7 @@
+Clinical Question: Evaluation of acute upper abdominal pain, rule out cholecystitis.
+
+Technique: CT of the abdomen without and with contrast, with axial, coronal, and sagittal reconstructions.
+
+Findings: The liver is normal in size and contour with a homogeneous parenchymal structure. No focal lesions or masses are observed. The intrahepatic bile ducts are not dilated. The portal vein is of normal caliber. The gallbladder is contracted and free of stones. The gallbladder wall is not thickened. The common bile duct is of normal caliber and free of stones. The pancreas is normal in size and shows homogeneous contrast enhancement, with no ductal dilation. The spleen is normal in size and shows homogeneous contrast enhancement, with no mass lesions. Both kidneys are normal in size and position, with appropriate contrast uptake and excretion. No hydronephrosis is present. The adrenal glands are unremarkable. No pathological lymph nodes are seen in the abdomen or retroperitoneum. There is no free fluid in the intraperitoneal or retroperitoneal spaces. The visualized bowel segments are unremarkable. The major abdominal vessels show no stenosis or aneurysms.
+
+Conclusion: CT shows a morphologically unremarkable abdomen. In particular, there is no evidence of cholecystitis or gallstones.

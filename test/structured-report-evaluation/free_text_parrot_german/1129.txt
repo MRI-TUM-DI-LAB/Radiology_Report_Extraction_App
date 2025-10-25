@@ -1,0 +1,4 @@
+Fragestellung: COPD? Quantifizierung des Emphysems
+Technik: CT Thorax mit Kontrastmittel in Inspiration und Exspiration.
+Befund: Ausgeprägtes Lungenemphysem mit vermehrter Lungenzeichnung, vergrößerten Lungenvolumina und Abflachung der Diaphragmen. Die Lungengefäße sind schlank. Kein Hinweis auf eine Lungenembolie oder Pneumonie. Die Exspirationsaufnahmen zeigen eine deutliche Lufteinschlusssymptomatik.
+Beurteilung: CT-morphologisch zeigt sich ein ausgeprägtes Lungenemphysem, korrelierend mit der klinischen Diagnose einer COPD.

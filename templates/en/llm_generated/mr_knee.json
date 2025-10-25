@@ -1,0 +1,22 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "MEDIAL_MENISCUS": "__FILL__",
+        "LATERAL_MENISCUS": "__FILL__",
+        "ANTERIOR_CRUCIATE_LIGAMENT": "__FILL__",
+        "POSTERIOR_CRUCIATE_LIGAMENT": "__FILL__",
+        "MEDIAL_COLLATERAL_LIGAMENT": "__FILL__",
+        "LATERAL_COLLATERAL_LIGAMENTOUS_COMPLEX": "__FILL__",
+        "EXTENSOR_MECHANISM": "__FILL__",
+        "BAKER'S_CYST": "__FILL__",
+        "JOINT_EFFUSION": "__FILL__",
+        "PATELLOFEMORAL_ARTICULAR_CARTILAGE": "__FILL__",
+        "MEDIAL_ARTICULAR_CARTILAGE": "__FILL__",
+        "LATERAL_COMPARTMENT_CARTILAGE": "__FILL__",
+        "MARROW": "__FILL__",
+        "SOFT_TISSUES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

@@ -1,0 +1,4 @@
+Fragestellung: Schilddrüsendiagnostik, Knotenabklärung
+Technik: Sonographie Schilddrüse mit hochauflösendem Linearschallkopf.
+Befund: Die Schilddrüse zeigt ein normales Volumen und eine homogene, echoarme Parenchymstruktur. Im rechten Lappen findet sich ein solider Knoten mit einem Durchmesser von 15 mm. Der Knoten ist echoarm, scharf begrenzt und weist eine haloartige Begrenzung auf. Keine Mikrokalzifikationen. Die Durchblutung des Knotens ist im Farbdoppler unauffällig. Im linken Lappen zeigen sich zwei weitere kleine, zystische Knoten mit einem Durchmesser von jeweils ca. 4 mm. Die Trachea ist mittig gelegen und nicht verdrängt. Keine vergrößerten Lymphknoten im Halsbereich.
+Beurteilung: Solider Schilddrüsenknoten rechts mit sonographisch benignen Charakteristika (TIRADS 2). Zwei kleine zystische Knoten links ohne malignitätsverdächtige Merkmale. Eine weitere Abklärung des rechtsseitigen Knotens mittels Feinnadelpunktion wird empfohlen.

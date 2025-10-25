@@ -1,0 +1,37 @@
+{
+    "BEFUNDE": {
+        "NUMMERIERUNG": {
+            "ZERVICAL": "__FILL__",
+            "LUMBAL": "__FILL__"
+        },
+        "RÜCKENMARK": {
+            "MYELON": "__FILL__",
+            "CONUS": "__FILL__",
+            "CONUS_TERMINIERUNGSHÖHE": "__FILL__"
+        },
+        "BANDSCHEIBEN": "__FILL__",
+        "KNOCHEN": {
+            "WIRBELKÖRPERHÖHE_AUSRICHTUNG": "__FILL__",
+            "KNOCHENMARK_SIGNAL": "__FILL__",
+            "WIRBELKÖRPER_ANOMALIEN": "__FILL__"
+        },
+        "WEICHTEILE": "__FILL__",
+        "C2-C3": "__FILL__",
+        "C3-C4": "__FILL__",
+        "C4-C5": "__FILL__",
+        "C5-C6": "__FILL__",
+        "C6-C7": "__FILL__",
+        "C7-T1": "__FILL__",
+        "T1-T2": "__FILL__",
+        "T2-T3": "__FILL__",
+        "T11-T12": "__FILL__",
+        "T12-L1": "__FILL__",
+        "L1-L2": "__FILL__",
+        "L2-L3": "__FILL__",
+        "L3-L4": "__FILL__",
+        "L4-L5": "__FILL__",
+        "L5-S1": "__FILL__",
+        "ANDERE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

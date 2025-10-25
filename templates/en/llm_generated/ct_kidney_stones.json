@@ -1,0 +1,31 @@
+{
+    "CLINICAL_HISTORY": "__FILL__",
+    "TECHNIQUE": {
+        "CT_TECNIQUE": "__FILL__",
+        "RADIATION_DOSE": "__FILL__"
+    },
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "STONES_PRESENT": "__FILL__",
+        "NUMBER_OF_STONES": "__FILL__",
+        "LOCATION": {
+            "LEFT_KIDNEY": "__FILL__",
+            "RIGHT_KIDNEY": "__FILL__",
+            "LEFT_URETER": "__FILL__",
+            "RIGHT_URETER": "__FILL__",
+            "BLADDER": "__FILL__"
+        },
+        "SECONDARY_SIGNS": "__FILL__",
+        "OTHER_FINDINGS": {
+            "LUNG_BASES": "__FILL__",
+            "LIVER": "__FILL__",
+            "PANCREAS": "__FILL__",
+            "SPLEEN": "__FILL__",
+            "ADRENALS": "__FILL__",
+            "BOWEL": "__FILL__",
+            "ADENOPATHY": "__FILL__",
+            "PELVIS": "__FILL__"
+        }
+    },
+    "IMPRESSION": "__FILL__"
+}

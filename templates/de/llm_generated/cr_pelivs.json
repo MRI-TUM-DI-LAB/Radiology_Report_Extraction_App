@@ -1,0 +1,10 @@
+{
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "SAKRUM_UND_SAKROILIAKALGELENKE": "__FILL__",
+        "HÜFTBEINE": "__FILL__",
+        "HÜFTEN": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

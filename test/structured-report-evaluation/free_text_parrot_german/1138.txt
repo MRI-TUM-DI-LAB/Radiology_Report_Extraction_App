@@ -1,0 +1,4 @@
+Fragestellung: Mammakarzinom?
+Technik: MRT der Brust mit und ohne Kontrastmittel (Gadolinium).
+Befund: In der rechten Brust zeigt sich eine irregulär begrenzte Raumforderung im oberen äußeren Quadranten mit einem Durchmesser von ca. 2 cm. Die Raumforderung zeigt eine intensive Kontrastmittelanreicherung. In der Axilla rechts finden sich mehrere suspekte Lymphknoten mit einem maximalen Durchmesser von 1,5 cm. Die linke Brust ist unauffällig.
+Beurteilung: MRT-morphologisch findet sich ein Mammakarzinom rechts mit axillärer Lymphknotenmetastasierung.

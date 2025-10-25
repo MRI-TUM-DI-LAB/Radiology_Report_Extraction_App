@@ -1,0 +1,14 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "KNOCHENMARK": "__FILL__",
+        "BEUGESEHNEN": "__FILL__",
+        "STRECKSEHNEN": "__FILL__",
+        "GELENK": "__FILL__",
+        "MUSKELN": "__FILL__",
+        "WEICHTEILE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

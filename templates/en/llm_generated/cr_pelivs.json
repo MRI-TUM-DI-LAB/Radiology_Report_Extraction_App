@@ -1,0 +1,10 @@
+{
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "SACRUM_AND_SACROILIAC_JOINTS": "__FILL__",
+        "INNOMINATE_BONES": "__FILL__",
+        "HIPS": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

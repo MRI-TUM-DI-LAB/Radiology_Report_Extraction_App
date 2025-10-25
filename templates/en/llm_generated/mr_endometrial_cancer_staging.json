@@ -1,0 +1,34 @@
+{
+    "CLINICAL_HISTORY": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "UTERUS": {
+            "MEASURES": "__FILL__",
+            "OTHER_FINDINGS": "__FILL__"
+        },
+        "TUMOR_SITE": "__FILL__",
+        "TUMOR_SIZE": "__FILL__",
+        "MYOMETRIAL_INVASION": "__FILL__",
+        "INVASION_OF_TUMOR_INTO_CERVIX_STROMA": "__FILL__",
+        "EXTENSION_OF_TUMOR_INTO_ADJACENT_STRUCTURES": "__FILL__",
+        "ADDITIONAL_COMMENTS": "__FILL__",
+        "OVARIES": {
+            "VISUALIZED": "__FILL__",
+            "APPEARANCE": "__FILL__",
+            "RIGHT_OVARY_SIZE": "__FILL__",
+            "LEFT_OVARY_SIZE": "__FILL__",
+            "ABNORMAL_DESCRIPTION": "__FILL__"
+        },
+        "LYMPH_NODES": {
+            "QUANTITY": "__FILL__",
+            "LARGEST_PELVIC_LYMPH_NODE_LOCATION": "__FILL__",
+            "LARGEST_PELVIC_LYMPH_NODE_SIZE": "__FILL__",
+            "LARGEST_PARA_AORTIC_LYMPH_NODE_SIZE": "__FILL__",
+            "MALIGNANCY_LIKELIHOOD": "__FILL__"
+        },
+        "ADDITIONAL_PELVIC_FINDINGS": "__FILL__",
+        "BONES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

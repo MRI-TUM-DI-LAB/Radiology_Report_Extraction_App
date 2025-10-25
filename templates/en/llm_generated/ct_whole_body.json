@@ -1,0 +1,47 @@
+{
+    "CLINICAL_HISTORY": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "PROCEDURE_COMMENTS": "__FILL__",
+    "FINDINGS": {
+        "HEAD_AND_NECK": {
+            "BRAIN_PARENCHYMA": "__FILL__",
+            "VENTRICLES/EXTRA-AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__",
+            "ORO-_AND_HYPOPHARYNX": "__FILL__",
+            "THYROID_SPACE": "__FILL__",
+            "VESSELS_AND_CAROTID_SPACE": "__FILL__",
+            "LYMPH_NODES": "__FILL__"
+        },
+        "CHEST": {
+            "SUPPORT_DEVICES": "__FILL__",
+            "LUNG_PARENCHYMA": "__FILL__",
+            "TRACHEA_AND_CENTRAL_AIRWAYS": "__FILL__",
+            "PERIPHERAL_BRONCHI": "__FILL__",
+            "LYMPH_NODES": "__FILL__",
+            "HEART/GREAT_VESSELS": "__FILL__",
+            "PULMONARY_VASCULATURE": "__FILL__",
+            "OTHER_MEDIASTINAL_STRUCTURES": "__FILL__",
+            "PLEURA": "__FILL__",
+            "BREAST_TISSUE": "__FILL__"
+        },
+        "ABDOMEN/PELVIS": {
+            "LIVER_AND_BILIARY_SYSTEM": "__FILL__",
+            "SPLEEN": "__FILL__",
+            "PANCREAS": "__FILL__",
+            "ADRENAL_GLANDS": "__FILL__",
+            "KIDNEYS,_URETERS,_AND_BLADDER": "__FILL__",
+            "BOWEL": "__FILL__",
+            "APPENDIX": "__FILL__",
+            "PERITONEAL_CAVITY": "__FILL__",
+            "UTERUS_AND_OVARIES_(IF_PRESENT)": "__FILL__",
+            "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "__FILL__",
+            "VASCULATURE": "__FILL__",
+            "LYMPH_NODES": "__FILL__"
+        },
+        "MUSCULOSKELETAL": {
+            "OSSEOUS_STRUCTURES": "__FILL__",
+            "SOFT_TISSUES": "__FILL__"
+        }
+    },
+    "IMPRESSION": "__FILL__"
+}

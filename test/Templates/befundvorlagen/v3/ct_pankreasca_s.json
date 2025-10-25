@@ -1,0 +1,529 @@
+{
+  "section": [
+    {
+      "header": "Klinische Angaben",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Fragestellung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Befund",
+      "table": [
+        {
+          "tr": [
+            {
+              "td": [
+                {
+                  "label": "Vergleichsuntersuchung:"
+                },
+                {
+                  "select": "__FILL__",
+                  "input": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "Histologie"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "IgG4"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "Bildqualität:"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {},
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "tr": [
+            {
+              "td": [
+                {
+                  "label": "Pankreasparenchym"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                "Pankreaskarzinom",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Tumorlokalisation"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Tumorgröße"
+                          },
+                          {
+                            "input": [
+                              "__FILL__",
+                              "__FILL__",
+                              "__FILL__",
+                              "__FILL__"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Tumorinfiltration (T-Stadium)"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": [
+                              "__FILL__",
+                              "__FILL__"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Tumorinfiltration Nachbarorgane"
+                          },
+                          {
+                            "textarea": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "KM-Enhancement arteriell"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "KM-Enhancement venös"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "td": [
+                "Gallenwege",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Ductus pancreaticus"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Ductus hepatocholedochus"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "td": [
+                "Gefäßbezug (arteriell)",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Aorta"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Truncus coeliacus"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "A. hepatica communis"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "A. hepatica propria"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "A. gastroduodenalis"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "A. mesenterica superior"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "A. lienalis"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Anatomische Varianten"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "td": [
+                "Gefäßbezug (venös)",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "V. mesenterica superior"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "V. lienalis"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "V. portae"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "td": [
+                "Gefäße (sonstiges)",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Atherosklerose Tr. coeliacus"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Atherosklerose A. mesenterica superior"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "td": [
+                "Abdomen",
+                {
+                  "table": {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Aszites"
+                          },
+                          {
+                            "select": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "peritoneale Implantate"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Leber"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "span": {
+                              "label": [
+                                "L01",
+                                "L02"
+                              ],
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "textarea": "__FILL__"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Milz"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Nieren / Ureteren"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Nebennieren"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Lymphknoten"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Darm"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Beckenorgane"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Knochen"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "Lunge (soweit miterfasst)"
+                          },
+                          {
+                            "select": "__FILL__",
+                            "input": "__FILL__"
+                          }
+                        ]
+                      },
+                      {
+                        "td": [
+                          {
+                            "label": "sonstiges"
+                          },
+                          {
+                            "textarea": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Beurteilung",
+      "p": [
+        {
+          "textarea": "__FILL__"
+        },
+        {
+          "label": "Insgesamt TNM",
+          "input": "__FILL__",
+          "select": "__FILL__"
+        }
+      ]
+    }
+  ]
+}

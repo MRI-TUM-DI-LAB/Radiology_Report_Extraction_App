@@ -1,0 +1,117 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Körpergewicht": "__FILL__",
+    "Körpergröße": "__FILL__",
+    "Körperoberfläche (BSA)": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Technik": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Funktionsanalyse LV (blood volume)": {
+      "LV enddiastolisches Volumen normiert (LV EDV/BSA)": "__FILL__",
+      "LV endsystolisches Volumen normiert (LV ESV/BSA)": "__FILL__",
+      "LV Ejektions-Fraktion (LV EF)": "__FILL__",
+      "LV ED Masse normiert": "__FILL__",
+      "IVSD": "__FILL__"
+    },
+    "Anatomie": "__FILL__",
+    "Adenosin Stress- und Ruhe-Perfusion": {
+      "Perfusionsstörung unter Adenosin": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "Segmente": "__FILL__"
+      },
+      "Ruhe-Perfusion": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "normal",
+          "pathologisch"
+        ]
+      }
+    },
+    "Regionale Wandbewegungsstörungen LV": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "global",
+        "regional"
+      ],
+      "input": "__FILL__"
+    },
+    "Weitere kardiale Befunde": {
+      "Intracavitäre Thromben": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Perikarderguss": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "AV-Klappen": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "kompetent",
+          "insuffizient"
+        ],
+        "input": "__FILL__"
+      },
+      "Trikuspide Aortenklappe": {
+        "select_1": "__FILL__",
+        "select_1_möglichkeiten": [
+          "ja",
+          "nein",
+          "nicht beurteilbar"
+        ],
+        "select_2": "__FILL__",
+        "select_2_möglichkeiten": [
+          "-",
+          "kompetent",
+          "stenosiert",
+          "insuffizient"
+        ]
+      }
+    },
+    "Gewebecharakterisierung": {
+      "Late Enhancement (LGE)": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "nein",
+          "ja, subendokardial < 50%",
+          "ja, subendokardial ≥ 50%",
+          "ja, transmural"
+        ],
+        "Segmente": "__FILL__"
+      }
+    },
+    "Extrakardiale Auffälligkeiten": "__FILL__"
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__",
+    "Aufnahme-Status": "__FILL__",
+    "Aufnahme-Status_möglichkeiten": [
+      "Intensivstation",
+      "Stationär",
+      "Notaufnahme",
+      "Ambulant",
+      "Unbekannt"
+    ],
+    "Intubiert": "__FILL__",
+    "Intubiert_möglichkeiten": [
+      "nein",
+      "ja"
+    ],
+    "COVID-PCR Status": "__FILL__",
+    "COVID-PCR Status_möglichkeiten": [
+      "positiv",
+      "negativ",
+      "unbekannt"
+    ],
+    "am:": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Zum Vergleich": "__FILL__",
+    "Zum Vergleich_möglichkeiten": [
+      "liegt keine Voruntersuchung vor",
+      "die CT",
+      "ein Röntgen-Thorax"
+    ],
+    "vom:": "__FILL__",
+    "CT-Protokoll": "__FILL__",
+    "CT-Protokoll_möglichkeiten": [
+      "CT Thorax Low-dose ohne KM",
+      "CT Thorax Full-dose ohne KM",
+      "CT Thorax nativ und KM",
+      "CT Thorax mit KM (keine native Phase verfügbar)",
+      "CT Thorax-Abdomen mit KM (keine native Phase Thorax)",
+      "CT Thorax-Abdomen nativ",
+      "CT Thorax Pulmonalisangiographie"
+    ],
+    "Lungenparenchym/Atemwege": {
+      "Milchglastrübung": "__FILL__",
+      "Milchglastrübung_möglichkeiten": [
+        "-",
+        "Keine",
+        "Multiple/Multifokal",
+        "Einzeln",
+        "Diffuse Verteilung"
+      ],
+      "Dominantes Milchglasmuster": "__FILL__",
+      "Dominantes Milchglasmuster_möglichkeiten": [
+        "-",
+        "Mosaikmuster",
+        "Crazy-paving Muster",
+        "Reverse Halo/Atoll-Zeichen",
+        "nur Milchglas"
+      ],
+      "Morphologie der Milchglastrübungen": "__FILL__",
+      "Morphologie der Milchglastrübungen_möglichkeiten": [
+        "-",
+        "rundlich/geographisch",
+        "nicht rundlich/geographisch",
+        "konfluierend/diffus"
+      ],
+      "Verteilungsmuster der Milchglastrübungen": "__FILL__",
+      "Verteilungsmuster der Milchglastrübungen_möglichkeiten": [
+        "-",
+        "peripher",
+        "zentral",
+        "multifokal ohne spezifische Verteilung",
+        "multifokal in folgender Verteilung"
+      ],
+      "Seiten-Ausprägung der Milchglastrübungen": "__FILL__",
+      "Seiten-Ausprägung der Milchglastrübungen_möglichkeiten": [
+        "-",
+        "bilateral",
+        "links",
+        "rechts"
+      ],
+      "Dominates Lungenfeld der Milchglastrübungen": "__FILL__",
+      "Dominates Lungenfeld der Milchglastrübungen_möglichkeiten": [
+        "-",
+        "kein dominantes Lungenfeld",
+        "alle Felder vergleichbar betroffen",
+        "oben",
+        "mitte",
+        "unten"
+      ],
+      "Ausdehnung/Severity des Lungenbefalls quantitativ": "__FILL__",
+      "Ausdehnung/Severity des Lungenbefalls quantitativ_möglichkeiten": [
+        "-",
+        "leicht (weniger als 3 Milchglasareale, diese kleiner als 3 cm)",
+        "mittelgradig (mehr als 3 Milchglasareale oder Größe > 3 cm; Konsolidierungen)",
+        "ausgeprägt (diffuse Milchglasverteilung, organisierende Pneumonie, Coexistenz mit anderen Lungenerkrankungen)"
+      ],
+      "Konsolidierungs-Muster": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Konsolidierungs-Muster_möglichkeiten": [
+        [
+          "-",
+          "keine Konsolidierungen",
+          "Konsolidierungen lobär (Lobärpneumonie)",
+          "Konsolidierungen segmental",
+          "Konsolidierungen peribronchial",
+          "unspezifische Konsolidierungen"
+        ],
+        [
+          "-",
+          "rundlich",
+          "sonstige"
+        ]
+      ],
+      "Zentrilobuläre Noduli/Tree in bud": "__FILL__",
+      "Zentrilobuläre Noduli/Tree in bud_möglichkeiten": [
+        "-",
+        "nein",
+        "ja"
+      ],
+      "Lungengerüstveränderungen": "__FILL__",
+      "Lungengerüstveränderungen_möglichkeiten": [
+        "-",
+        "ja",
+        "nein"
+      ],
+      "Lungengerüstveränderungen_input": "__FILL__"
+    },
+    "Weitere Befunde": {
+      "Pleuraerguss links": "__FILL__",
+      "Pleuraerguss links_möglichkeiten": [
+        "-",
+        "liegt nicht vor",
+        "kleinvolumig [≤1cm]",
+        "großvolumig [&gt;1cm]"
+      ],
+      "Pleuraerguss rechts": "__FILL__",
+      "Pleuraerguss rechts_möglichkeiten": [
+        "-",
+        "liegt nicht vor",
+        "kleinvolumig [≤1cm]",
+        "großvolumig [&gt;1cm]"
+      ],
+      "Lymphknoten": "__FILL__",
+      "Lymphknoten_möglichkeiten": [
+        "-",
+        "Keine Lymphknotenvergrößerung",
+        "Hiläre Lymphadenopathie",
+        "Mediastinale Lymphadenopathie",
+        "Generalisierte Lymphadenopathie"
+      ],
+      "Lymphknoten_input": "__FILL__",
+      "Sonstiges": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "Klassifikation des Lungenbefalls": "__FILL__",
+    "Klassifikation des Lungenbefalls_möglichkeiten": [
+      "-",
+      "1. [Cov19Typ] CT-Veränderungen suggestiv für COVID-19 Pneumonie (bei hoher lokaler Prävalenz und/oder individueller Prätest-Wahrscheinlichkeit)",
+      "2. [Cov19Ind] CT-Veränderungen unklar, COVID-19 Pneumonie jedoch möglich",
+      "3. [Cov19Aty] CT-Veränderungen suggestiv für eine alternative Diagnose (z.B. bakterielles Erregerspektrum)",
+      "4. [Cov19Neg] CT-morphologisch kein Hinweis auf pneumonische Verdichtungen"
+    ],
+    "textarea": "__FILL__"
+  }
+}

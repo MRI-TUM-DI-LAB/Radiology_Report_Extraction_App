@@ -1,0 +1,16 @@
+{
+    "ANAMNESE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "DLP": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "HIRNPARENCHYM": {
+            "AKUTE_BLUTUNG_RAUMFORDERUNG_HERNIATION": "__FILL__",
+            "GRAU_WEISS_DIFFERENZIERUNG": "__FILL__",
+            "WEISSE_SUBSTANZ": "__FILL__"
+        },
+        "VENTRIKEL_EXTRAAXIALE_RAUME": "__FILL__",
+        "EXTRAKRANIELLE_STRUKTUREN": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

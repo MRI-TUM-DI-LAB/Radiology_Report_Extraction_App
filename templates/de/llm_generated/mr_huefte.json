@@ -1,0 +1,12 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "MULTIPLANARE_BILDER": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "KNOCHENMARK_SIGNAL": "__FILL__",
+        "FOKUSSIERTE_BILDGEBUNG": "__FILL__",
+        "INTRAABDOMINALE_INHALTE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

@@ -1,0 +1,23 @@
+{
+    "FINDINGS": {
+        "SKULL_BASE": "__FILL__",
+        "MRA_HEAD": "__FILL__",
+        "VENOUS_SYSTEM": {
+            "JUGULAR_BULB": "__FILL__",
+            "JUGULAR_VENOUS_SYSTEM": "__FILL__"
+        },
+        "INTRACRANIAL_HYPERTENSION": "__FILL__",
+        "BRAIN_PARENCHYMA": {
+            "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+            "MASS_EFFECT_HERNIATION": "__FILL__",
+            "CHIARI_1_MALFORMATION": "__FILL__",
+            "WHITE_MATTER": {
+                "SIGNAL_INTENSITIES": "__FILL__"
+            }
+        },
+        "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+        "EXTRACRANIAL_STRUCTURES": "__FILL__",
+        "OTHER_FINDINGS": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

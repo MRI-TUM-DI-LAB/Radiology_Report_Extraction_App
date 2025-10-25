@@ -1,0 +1,33 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Histologie": "__FILL__",
+  "neoadjuvante Vorbehandlung": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Rektumkarzinom (T)": {
+    "Tumorlokalisation": "__FILL__",
+    "Distanz zur Anokutan-Linie": "__FILL__",
+    "Tumorausdehnung (Länge)": "__FILL__",
+    "Zirkumferenz in SSL": "__FILL__",
+    "Tumorinfiltration": "__FILL__",
+    "Abstand zur mesorektalen Faszie": "__FILL__",
+    "Veneninfiltration": "__FILL__"
+  },
+  "Lymphknoten lokal (N)": {
+    "mesorektal / präsakral / lokal": "__FILL__",
+    "Abstand zur mesorektalen Faszie": "__FILL__"
+  },
+  "Fernmetastasen (M)": {
+    "Lymphknoten distant": "__FILL__",
+    "Aszitis": "__FILL__",
+    "Peritoneum": "__FILL__",
+    "Beckenstrukturen": "__FILL__",
+    "Skelett": "__FILL__"
+  },
+  "Sonstige Befunde": "__FILL__",
+  "Beurteilung": {
+    "Insgesamt TNM": "__FILL__",
+    "Sonstiges": "__FILL__"
+  },
+  "Vergleichsuntersuchung": "__FILL__",
+  "Bildqualität": "__FILL__"
+}

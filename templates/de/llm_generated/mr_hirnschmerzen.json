@@ -1,0 +1,21 @@
+{
+    "GESCHICHTE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "HIRNPARENCHYM": {
+            "AKUTER_INFARKT_BLUTUNG": "__FILL__",
+            "MASSENEFFEKT_HERNIATION": "__FILL__",
+            "WEISSE_SUBSTANZ": {
+                "SIGNALINTENSITÄTEN": "__FILL__",
+                "SCHWEREGRAD": "__FILL__"
+            },
+            "KOPFSCHMERZEN": "__FILL__"
+        },
+        "VENTRIKEL_EXTRAAXIALE_RÄUME": "__FILL__",
+        "FLUSSLEEREN": "__FILL__",
+        "SINUS_MASTOIDE": "__FILL__",
+        "ANDERE_EXTRAKRANIELLE_STRUKTUREN": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

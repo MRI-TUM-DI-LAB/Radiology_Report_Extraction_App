@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of chronic diarrhea, rule out Crohn's disease  
+Technique: MRI of the small intestine with oral contrast.  
+Findings: The terminal ileum shows wall thickening with edema and contrast enhancement. The wall thickening involves a segment approximately 10 cm in length. The lumen of the terminal ileum is narrowed in this area. The remaining sections of the small intestine appear normal. No fistulas or abscesses are present. Mesenteric lymph nodes are not enlarged.  
+Conclusion: MRI findings in the terminal ileum are consistent with Crohn's disease.

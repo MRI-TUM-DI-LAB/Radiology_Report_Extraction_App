@@ -1,0 +1,31 @@
+{
+    "KLINISCHE_GESCHICHTE": "__FILL__",
+    "TECHNIK": {
+        "CT_TECHNIK": "__FILL__",
+        "STRAHLENDOSIS": "__FILL__"
+    },
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "STEINE_VORHANDEN": "__FILL__",
+        "ANZAHL_DER_STEINE": "__FILL__",
+        "LAGE": {
+            "NIERE_LINKS": "__FILL__",
+            "NIERE_RECHTS": "__FILL__",
+            "HARNLEITER_LINKS": "__FILL__",
+            "HARNLEITER_RECHTS": "__FILL__",
+            "BLASE": "__FILL__"
+        },
+        "SEKUNDAERE_ZEICHEN": "__FILL__",
+        "ANDERE_BEFUNDE": {
+            "LUNGENBASEN": "__FILL__",
+            "LEBER": "__FILL__",
+            "PANKREAS": "__FILL__",
+            "MILZ": "__FILL__",
+            "NEBENNIEREN": "__FILL__",
+            "DARM": "__FILL__",
+            "ADENOPATHIE": "__FILL__",
+            "BECKEN": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": "__FILL__"
+}

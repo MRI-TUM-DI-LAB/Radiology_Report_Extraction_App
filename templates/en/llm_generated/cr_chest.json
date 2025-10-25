@@ -1,0 +1,23 @@
+{
+    "INDICATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "ENLARGED_CARDIOMEDIASTINUM": "__FILL__",
+        "CARDIOMEGALY": "__FILL__",
+        "LUNG_LESION": "__FILL__",
+        "LUNG_OPACITY": "__FILL__",
+        "EDEMA": "__FILL__",
+        "CONSOLIDATION": "__FILL__",
+        "PNEUMONIA": "__FILL__",
+        "ATELECTASIS": "__FILL__",
+        "PNEUMOTHORAX": "__FILL__",
+        "PLEURAL_EFFUSION": "__FILL__",
+        "PLEURAL_OTHER": "__FILL__",
+        "FRACTURE": "__FILL__",
+        "SUPPORT_DEVICES": "__FILL__",
+        "OVERLYING_SOFT_TISSUES": "__FILL__",
+        "UPPER_ABDOMEN": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

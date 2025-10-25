@@ -1,0 +1,33 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Voruntersuchung:": {
+      "input": "__FILL__"
+    },
+    "CT-Perfusion": {
+      "Verzögerte zerebrale Perfusion (MTT, TTP, TTD):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__"
+      },
+      "Verminderter zerebraler Blutfluss (CBF):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__"
+      },
+      "Vermindertes zerebrales Blutvolumen (CBV):": {
+        "Nein": "__FILL__",
+        "Ja, Lokalisation:": "__FILL__"
+      },
+      "Fluss (CBF) – Volumen (CBV) – Mismatch:": "__FILL__",
+      "Zeit (MTT/TTP/TTD) – Volumen (CBV) – Mismatch:": "__FILL__",
+      "Zeit (MTT/TTP/TTD) – Fluss (CBF) – Mismatch:": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

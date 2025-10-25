@@ -1,0 +1,20 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "SUPRASPINATUS": "__FILL__",
+        "INFRASPINATUS": "__FILL__",
+        "TERES_MINOR": "__FILL__",
+        "SUBSCAPULARIS": "__FILL__",
+        "ROTATOR_CUFF": "__FILL__",
+        "ACROMIO-CLAVICULAR_JOINT": "__FILL__",
+        "BICEPS_TENDON": "__FILL__",
+        "GLENOID_LABRUM": "__FILL__",
+        "GLENOHUMERAL_JOINT": "__FILL__",
+        "HYALINE_CARTILAGE": "__FILL__",
+        "BONE_MARROW": "__FILL__",
+        "SOFT_TISSUES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

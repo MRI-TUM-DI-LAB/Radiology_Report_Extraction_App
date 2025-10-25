@@ -1,0 +1,32 @@
+MRI
+ ABDOMEN AND PELVIS FOR EVALUATION OF THE PROSTATECLINICAL HISTORY: A 
+72-year-old male patient with an elevated PSA of 6.1 has undergone a 
+multiparametric prostate MRI for biopsy planning and treatment guidance.
+ COMPARISON: There are no previous scans for comparison. FINDINGS: The 
+prostate measures 3.8 x 4.6 x 3.9 cm, with a volume of 42 mL. Two 
+lesions have been identified. Lesion L1 is located in the left posterior
+ peripheral zone at the mid gland, not crossing the midline, and 
+measures 12 x 8 mm. The lesion appears as a moderately T2 hypointense 
+lesion with irregular margins. No definite extra-prostatic extension or 
+invasive behavior is observed, and the neurovascular bundles are not 
+involved. The lesion has a PI-RADS v2 T2 score of 4 and a DWI/ADC score 
+of 4. The DCE score is positive. The overall PI-RADS v2 Lesion Summary 
+Score is 4. Lesion R1 is located in the right transition zone at the 
+apex, not crossing the midline, and measures 6 x 4 mm. The lesion 
+appears as a mildly T2 hypointense lesion with circumscribed margins. 
+There is no definite extra-prostatic extension or invasive behavior 
+observed, and the neurovascular bundles are not involved. The lesion has
+ a PI-RADS v2 T2 score of 2 and a DWI/ADC score of 3. The DCE score is 
+negative. The overall PI-RADS v2 Lesion Summary Score is 3. The 
+peripheral and central zones of the prostate appear normal, with no 
+additional abnormalities detected. Examining the remaining abdomen and 
+pelvis, the lung bases, liver, pancreas, adrenal glands, spleen, bowel, 
+and vasculature appear normal. The gallbladder is normal without 
+gallstones. Bilateral renal cysts are noted, measuring up to 12 mm in 
+the left kidney, with no solid mass or hydronephrosis observed. The 
+bladder is trabeculated, consistent with chronic bladder outlet 
+obstruction. No enlarged lymph nodes or free fluid are detected in the 
+abdomen or pelvis. IMPRESSION: Lesion L1 in the left posterior 
+peripheral zone of the prostate is suspicious for prostate cancer, with a
+ PI-RADSv2 category 4. Lesion R1 in the right transition zone of the 
+prostate is equivocal for prostate cancer, with a PI-RADSv2 category 3.

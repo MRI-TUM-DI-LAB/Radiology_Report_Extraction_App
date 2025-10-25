@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of chronic abdominal pain, rule out diverticulitis  
+Technique: CT abdomen with contrast.  
+Findings: Multiple diverticula are present in the sigmoid colon. One of the diverticula shows wall thickening and surrounding fat stranding, consistent with acute diverticulitis. No evidence of perforation or abscess formation.  
+Conclusion: Acute sigmoid diverticulitis.

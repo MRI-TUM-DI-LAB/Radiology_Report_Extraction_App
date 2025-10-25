@@ -1,0 +1,196 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Geschlecht": {
+      "select": "__FILL__",
+      "Geschlecht_möglichkeiten": [
+        "W",
+        "M",
+        "O"
+      ]
+    },
+    "Körpergewicht": "__FILL__",
+    "Körpergröße": "__FILL__",
+    "Körperoberfläche (BSA)": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Flussdichte": {
+      "select": "__FILL__",
+      "Flussdichte_möglichkeiten": [
+        "—",
+        "1.5 T",
+        "3 T"
+      ]
+    },
+    "MR-Protokoll": {
+      "textarea": "Sequenzen und Ebenen:"
+    },
+    "Auswertesoftware": "__FILL__",
+    "Kontrastmittel": {
+      "Name": "__FILL__",
+      "Menge": "__FILL__",
+      "Flussgeschwindigkeit": "__FILL__"
+    }
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "select": "__FILL__",
+      "Vergleichsuntersuchung_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Bildqualität": {
+      "select": "__FILL__",
+      "Bildqualität_möglichkeiten": [
+        "gut",
+        "ausreichend",
+        "eingeschränkt"
+      ]
+    },
+    "Morphologie und Funktionsanalyse": {
+      "LV enddiastolischer Diameter (LV EDD)": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi)": "__FILL__",
+      "LV endsystolischer Volumenindex (LV ESVi)": "__FILL__",
+      "LV Ejektionsfraktion (LV EF)": "__FILL__",
+      "LV ED Masse normiert": "__FILL__",
+      "LV Regionale Wandbewegungsstörung": {
+        "select": "__FILL__",
+        "LV Regionale Wandbewegungsstörung_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Regionale Wandausdünnung": {
+        "select": "__FILL__",
+        "Regionale Wandausdünnung_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "RV enddiastolischer Diameter (RV EDD)": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi)": "__FILL__",
+      "RV endsystolischer Volumenindex (RV ESVi)": "__FILL__",
+      "RV Ejektionsfraktion": "__FILL__",
+      "RV Regionale Wandbewegungsstörung": {
+        "select": "__FILL__",
+        "RV Regionale Wandbewegungsstörung_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Vorhofgröße": {
+      "Visuell": {
+        "select": "__FILL__",
+        "Visuell_möglichkeiten": [
+          "—",
+          "normal groß",
+          "pathologisch"
+        ],
+        "input": "__FILL__"
+      },
+      "LA im Vierkammerblick longitudinal": "__FILL__",
+      "LA im Vierkammerblick transversal": "__FILL__",
+      "RA im Vierkammerblick longitudinal": "__FILL__",
+      "RA im Vierkammerblick transversal": "__FILL__",
+      "Vorhofseptumstellung": {
+        "select": "__FILL__",
+        "Vorhofseptumstellung_möglichkeiten": [
+          "—",
+          "normal",
+          "abnorm"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Herzklappenpathologie": {
+      "select": "__FILL__",
+      "Herzklappenpathologie_möglichkeiten": [
+        "nicht untersucht",
+        "nein",
+        "ja"
+      ],
+      "input": "__FILL__"
+    },
+    "Intrakavitäre Thromben": {
+      "select": "__FILL__",
+      "Intrakavitäre Thromben_möglichkeiten": [
+        "—",
+        "nein",
+        "ja"
+      ],
+      "input": "__FILL__"
+    },
+    "Gewebecharakterisierung": {
+      "Myokardödem regional": {
+        "select": "__FILL__",
+        "Myokardödem regional_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Late Gadolinium Enhancement (LGE) Myokard": {
+        "select": "__FILL__",
+        "Late Gadolinium Enhancement (LGE) Myokard_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ],
+        "Lokalisation/Verteilungsmuster": {
+          "textarea": "__FILL__"
+        },
+        "Transmuralität": {
+          "select": "__FILL__",
+          "Transmuralität_möglichkeiten": [
+            "—",
+            "< 50%",
+            "> 50%"
+          ]
+        }
+      },
+      "Mikrovaskuläre Obstruktion": {
+        "select": "__FILL__",
+        "Mikrovaskuläre Obstruktion_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Hämorrhagie": {
+        "select": "__FILL__",
+        "Hämorrhagie_möglichkeiten": [
+          "—",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "T2-Mapping": "__FILL__",
+      "T1-Mapping nativ": "__FILL__",
+      "T1-Mapping post KM": "__FILL__",
+      "ECV": "__FILL__"
+    },
+    "Sonstiges": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

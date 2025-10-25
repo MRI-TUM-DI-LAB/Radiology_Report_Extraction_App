@@ -1,0 +1,67 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung:": "__FILL__",
+    "Bildqualität:": "__FILL__",
+    "Urolithiasis:": {
+      "Lage:": {
+        "Lage": "__FILL__",
+        "Seite": "__FILL__"
+      },
+      "Maximaler Durchmesser:": "__FILL__",
+      "Volumen:": "__FILL__",
+      "Mittlere Dichte:": "__FILL__",
+      "Substanz nach Dual-Energy-Analyse:": {
+        "Substanz": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Soft tissue rim sign:": {
+        "Soft tissue rim sign": "__FILL__",
+        "Ureterwanddicke:": "__FILL__"
+      },
+      "Zentrale Dichteabsenkung:": "__FILL__",
+      "Comet tail sign:": "__FILL__",
+      "Weitere Konkremente:": {
+        "Anzahl": "__FILL__",
+        "Beschreibung": "__FILL__"
+      }
+    },
+    "Harntransportstörung": {
+      "Aufweitung des Nierenbeckenkelchsystems": {
+        "Links:": "__FILL__",
+        "Rechts:": "__FILL__"
+      },
+      "Aufweitung des Ureters": {
+        "Links:": {
+          "Grad": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        },
+        "Rechts:": {
+          "Grad": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        }
+      }
+    },
+    "Perirenales Ödem:": "__FILL__",
+    "Periureterales Ödem": {
+      "Links:": {
+        "proximales Drittel": "__FILL__",
+        "mittleren Drittel": "__FILL__",
+        "distalen Drittel": "__FILL__"
+      },
+      "Rechts:": {
+        "proximalen Drittels": "__FILL__",
+        "mittleren Drittel": "__FILL__",
+        "distalen Drittel": "__FILL__"
+      },
+      "Seitenvergleich:": "__FILL__"
+    },
+    "Bauchorgane:": "__FILL__",
+    "Gefäße:": "__FILL__",
+    "Lymphknoten:": "__FILL__",
+    "Skelett:": "__FILL__",
+    "Basaler Thorax:": "__FILL__"
+  },
+  "Beurteilung": "__FILL__"
+}

@@ -1,0 +1,13 @@
+{
+    "ANAMNESE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "CTDI": "__FILL__",
+    "DLP": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "HIRNPARENCHYM": "__FILL__",
+        "VENTRIKEL_EXTRAAXIALE_RAEUME": "__FILL__",
+        "EXTRAKRANIELLE_STRUKTUREN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

@@ -1,0 +1,13 @@
+{
+    "ANSICHTEN": "__FILL__",
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "ANZAHL_DER_LUMBALEN_WIRBEL": "__FILL__",
+        "WIRBELKOERPER": "__FILL__",
+        "DISKUSRÄUME": "__FILL__",
+        "WEICHTEILE": "__FILL__",
+        "AUSRICHTUNG": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

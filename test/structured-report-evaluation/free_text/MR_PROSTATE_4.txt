@@ -1,0 +1,67 @@
+MRI
+ ABDOMEN AND PELVIS FOR EVALUATION OF THE PROSTATECLINICAL HISTORY: A 
+69-year-old male patient with an elevated PSA of 4.5 has undergone a 
+multiparametric prostate MRI for biopsy planning. COMPARISON: There are 
+no previous scans for comparison. FINDINGS: The prostate is found to be 
+enlarged, measuring 4.4 x 5.3 x 4.6 cm, with a volume of 56 mL. Three 
+lesions have been identified. Lesion L1 is located in the left anterior 
+transition zone at the mid gland, not crossing the midline, and measures
+ 10 x 9 mm. The lesion appears as a focal heterogeneously, moderately T2
+ hypointense lesion with circumscribed margins. There is no definite 
+extra-prostatic extension or invasive behavior observed. The 
+neurovascular bundles are not involved. The lesion has a PI-RADS v1 T2 
+score of 2 and a PI-RADS v2 T2 score of 3. The DWI/ADC values show an 
+ADC region of interest value of 984 x10 -3 mm 2/s, with a PI-RADS v1 
+DWI/ADC score of 5 and a PI-RADS v2 DWI/ADC score of 3. The DCE results 
+show a PI-RADS v1 DCE score of 3 and a PI-RADS v2 DCE score of positive.
+ The overall PI-RADS v1 Lesion Summary Score is 4, and the PI-RADS v2 
+Lesion Summary Score is 3. Lesion R1 is located in the right anterior to
+ posterolateral peripheral zone at the mid gland, not crossing the 
+midline, and measures 11 x 7 mm. The lesion appears as a focal 
+heterogeneously, mildly T2 hypointense lesion with circumscribed 
+margins. There is no definite extra-prostatic extension or invasive 
+behavior observed. The neurovascular bundles are not involved. The 
+lesion has a PI-RADS v1 T2 score of 1 and a PI-RADS v2 T2 score of 2. 
+The DWI/ADC values show an ADC region of interest value of 1067 x10 -3 
+mm 2/s, with a PI-RADS v1 DWI/ADC score of 5 and a PI-RADS v2 DWI/ADC 
+score of 3. The DCE results show a PI-RADS v1 DCE score of 2 and a 
+PI-RADS v2 DCE score of negative. The overall PI-RADS v1 Lesion Summary 
+Score is 3, and the PI-RADS v2 Lesion Summary Score is 2. Lesion R2 is 
+located in the right posterolateral peripheral zone at the base, not 
+crossing the midline, and measures 8 x 5 mm. The lesion appears as an 
+ovoid heterogeneously, moderately T2 hypointense lesion with partially 
+circumscribed, partially indistinct margins. There is no definite 
+extra-prostatic extension or invasive behavior observed. The 
+neurovascular bundles are not involved. The lesion has a PI-RADS v1 T2 
+score of 3 and a PI-RADS v2 T2 score of 3. The DWI/ADC values show an 
+ADC region of interest value of 1037 x10 -3 mm 2/s, with a PI-RADS v1 
+DWI/ADC score of 5 and a PI-RADS v2 DWI/ADC score of 4. The DCE results 
+show a PI-RADS v1 DCE score of 2 and a PI-RADS v2 DCE LCA continue score
+ of negative. The overall PI-RADS v1 Lesion Summary Score is 4, and the 
+PI-RADS v2 Lesion Summary Score is 4. The peripheral zone of the 
+prostate demonstrates uniform high signal intensity on T2 without 
+additional abnormalities on diffusion or postcontrast imaging, 
+suggesting it is likely benign. The central gland exhibits a 
+well-encapsulated whorled appearance, consistent with benign prostatic 
+hyperplasia, also indicating that it is likely benign. Examining the 
+remaining abdomen and pelvis, the lung bases are clear, and no pleural 
+or pericardial effusions are observed. The liver appears normal in 
+morphology and signal intensity, with no focal liver lesions identified.
+ Conventional hepatic arterial anatomy is present, and the hepatic, 
+portal, and superior mesenteric veins are patent. No intra- or 
+extrahepatic biliary dilatation is present, and the gallbladder is 
+normal without gallstones. The pancreas, adrenal glands, and spleen are 
+normal. Bilateral small renal cysts are noted, measuring up to 17 mm in 
+the right kidney, with no solid mass or hydronephrosis observed. The 
+bowel appears normal. The bladder is trabeculated, consistent with 
+chronic bladder outlet obstruction and diverticulosis. The visualized 
+aorta is normal in caliber, and the IVC is patent. No enlarged lymph 
+nodes are detected in the abdomen or pelvis, and no free fluid is seen 
+in the abdomen or pelvis. Multilevel degenerative changes of the spine 
+are noted. IMPRESSION: Lesion L1 in the mid region of the central gland 
+of the prostate is suspicious for prostate cancer, with a PI-RADSv1 
+category 4 and PI-RADSv2 category 3. Lesion R1 in the mid region of the 
+central gland of the prostate is equivocal for prostate cancer, with a 
+PI-RADSv1 category 3 and PI-RADSv2 category 2. Lesion R2 in the base of 
+the peripheral zone of the prostate is suspicious for prostate cancer, 
+with a PI-RADSv1 category 4 and PI-RADSv2 category 4.

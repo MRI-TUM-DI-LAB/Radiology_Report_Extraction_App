@@ -1,0 +1,66 @@
+{
+    "TECHNIK": "__FILL__",
+    "KONTRAST": "__FILL__",
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "BEFUNDE": {
+        "BECKEN": {
+            "ILIACALARTERIEN": {
+                "LINKE_GEMEINSAME_ILIACALARTERIE": "__FILL__",
+                "RECHTE_GEMEINSAME_ILIACALARTERIE": "__FILL__",
+                "LINKE_EXTERNE_ILIACALARTERIE": "__FILL__",
+                "RECHTE_EXTERNE_ILIACALARTERIE": "__FILL__",
+                "LINKE_INTERNE_ILIACALARTERIE": "__FILL__",
+                "RECHTE_INTERNE_ILIACALARTERIE": "__FILL__"
+            },
+            "VENOESES_SYSTEM": {
+                "LINKE_GEMEINSAME_ILIACALVENE": "__FILL__",
+                "RECHTE_GEMEINSAME_ILIACALVENE": "__FILL__",
+                "LINKE_EXTERNE_ILIACALVENE": "__FILL__",
+                "RECHTE_EXTERNE_ILIACALVENE": "__FILL__",
+                "LINKE_INTERNE_ILIACALVENE": "__FILL__",
+                "RECHTE_INTERNE_ILIACALVENE": "__FILL__"
+            }
+        },
+        "UNTERE_EXTREMITAETEN": {
+            "FEMORALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "POPLITEALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "TIBIALIS_UND_FIBULARISARTERIEN": {
+                "STAMM": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "ARTERIA_TIBIALIS_ANTERIOR": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "FIBULARISARTERIE": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "ARTERIA_TIBIALIS_POSTERIOR": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            },
+            "VENOESES_SYSTEM": {
+                "LINKE_FEMORALVENE": "__FILL__",
+                "RECHTE_FEMORALVENE": "__FILL__",
+                "LINKE_GROSSE_ROSE": "__FILL__",
+                "RECHTE_GROSSE_ROSE": "__FILL__",
+                "LINKE_KLEINE_ROSE": "__FILL__",
+                "RECHTE_KLEINE_ROSE": "__FILL__"
+            }
+        }
+    },
+    "BEURTEILUNG": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSAETZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

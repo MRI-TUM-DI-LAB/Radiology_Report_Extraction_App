@@ -1,0 +1,88 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung": "__FILL__",
+    "Histologie": "__FILL__",
+    "IgG4": "__FILL__",
+    "Bildqualität": "__FILL__",
+    "Pankreasparenchym": "__FILL__",
+    "Pankreasläsion": {
+      "Tumorlokalisation": "__FILL__",
+      "Bild": "__FILL__",
+      "Serie": "__FILL__",
+      "Charakterisierung": "__FILL__",
+      "Anzahl": "__FILL__",
+      "Tumorgröße": "__FILL__",
+      "Gangassoziation": "__FILL__",
+      "Kontur": "__FILL__",
+      "Wand": "__FILL__",
+      "Septierungen": "__FILL__",
+      "solide Komponente": "__FILL__",
+      "KM-Enhancement": "__FILL__",
+      "Kalzifikationen": "__FILL__",
+      "Infiltration": "__FILL__",
+      "Bild_Infiltration": "__FILL__",
+      "Serie_Infiltration": "__FILL__"
+    },
+    "Gallenwege": {
+      "Ductus pancreaticus": "__FILL__",
+      "Ductus pancreaticus_Wert": "__FILL__",
+      "Ductus hepatocholedochus": "__FILL__",
+      "Ductus hepatocholedochus_Wert": "__FILL__"
+    },
+    "Gefäßbezug (arteriell)": {
+      "Aorta": "__FILL__",
+      "Truncus coeliacus": "__FILL__",
+      "A. hepatica communis": "__FILL__",
+      "A. hepatica propria": "__FILL__",
+      "A. gastroduodenalis": "__FILL__",
+      "A. mesenterica superior": "__FILL__",
+      "A. lienalis": "__FILL__",
+      "Anatomische Varianten": "__FILL__",
+      "Anatomische Varianten_Wert": "__FILL__"
+    },
+    "Gefäßbezug (venös)": {
+      "V. mesenterica superior": "__FILL__",
+      "V. lienalis": "__FILL__",
+      "V. portae": "__FILL__"
+    },
+    "Gefäße (sonstiges)": {
+      "Atherosklerose Tr. coeliacus": "__FILL__",
+      "Atherosklerose Tr. coeliacus_Wert": "__FILL__",
+      "Atherosklerose A. mesenterica superior": "__FILL__",
+      "Atherosklerose A. mesenterica superior_Wert": "__FILL__"
+    },
+    "Abdomen": {
+      "Aszites": "__FILL__",
+      "peritoneale Implantate": "__FILL__",
+      "peritoneale Implantate_Wert": "__FILL__",
+      "Leber": "__FILL__",
+      "L01": "__FILL__",
+      "L02": "__FILL__",
+      "Leber_Text": "__FILL__",
+      "Milz": "__FILL__",
+      "Milz_Wert": "__FILL__",
+      "Nieren / Ureteren": "__FILL__",
+      "Nieren / Ureteren_Wert": "__FILL__",
+      "Nebennieren": "__FILL__",
+      "Nebennieren_Wert": "__FILL__",
+      "Lymphknoten": "__FILL__",
+      "Lymphknoten_Wert": "__FILL__",
+      "Darm": "__FILL__",
+      "Darm_Wert": "__FILL__",
+      "Beckenorgane": "__FILL__",
+      "Beckenorgane_Wert": "__FILL__",
+      "Knochen": "__FILL__",
+      "Knochen_Wert": "__FILL__",
+      "Lunge (soweit miterfasst)": "__FILL__",
+      "Lunge (soweit miterfasst)_Wert": "__FILL__",
+      "Sonstiges": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "Beurteilung_Text": "__FILL__",
+    "Insgesamt TNM": "__FILL__",
+    "Insgesamt TNM_Wert": "__FILL__"
+  }
+}

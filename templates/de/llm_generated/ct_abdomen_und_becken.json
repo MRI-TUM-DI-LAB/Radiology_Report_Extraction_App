@@ -1,0 +1,20 @@
+{
+    "INDIKATION": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "LEBER_UND_GALLENSYSTEM": "__FILL__",
+        "MILZ": "__FILL__",
+        "PANKREAS": "__FILL__",
+        "NEBENNIEREN": "__FILL__",
+        "NIEREN,_HARNLEITER,_UND_BLASE": "__FILL__",
+        "DARM": "__FILL__",
+        "APPENDIX": "__FILL__",
+        "PERITONEALHÖHLE": "__FILL__",
+        "UTERUS_UND_OVARIEN_(FALLS_VORHANDEN)": "__FILL__",
+        "PROSTATA_UND_SAMENBLÄSCHEN_(FALLS_VORHANDEN)": "__FILL__",
+        "GEFÄSSSYSTEM": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

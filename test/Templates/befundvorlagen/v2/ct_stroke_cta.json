@@ -1,0 +1,398 @@
+{
+  "Klinische Angaben": {
+    "V.a. Schlaganfall": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Voruntersuchung": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Vordere Zirkulation": {
+      "Aortenbogen": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACC rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Stenose  < 50 %",
+          "Stenose 50 – 70%",
+          "Pseudookklusion",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "thrombotische Auflagerungen",
+            "Dissektion",
+            "Pseudoaneurysma"
+          ]
+        }
+      },
+      "ACC links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Stenose  < 50 %",
+          "Stenose 50 – 70%",
+          "Pseudookklusion",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "thrombotische Auflagerungen",
+            "Dissektion",
+            "Pseudoaneurysma"
+          ]
+        }
+      },
+      "ACI extrakraniell rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Stenose  < 50 %",
+          "Stenose 50 – 70%",
+          "Pseudookklusion",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "thrombotische Auflagerungen",
+            "Dissektion",
+            "Pseudoaneurysma"
+          ]
+        }
+      },
+      "ACI extrakraniell links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Stenose  < 50 %",
+          "Stenose 50 – 70%",
+          "Pseudookklusion",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "thrombotische Auflagerungen",
+            "Dissektion",
+            "Pseudoaneurysma"
+          ]
+        }
+      },
+      "ACI intrakraniell rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "infraophthalmisches Aneurysma",
+            "supraophtalmisches Aneurysma",
+            "Dissektion"
+          ]
+        }
+      },
+      "ACI intrakraniell links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "infraophthalmisches Aneurysma",
+            "supraophtalmisches Aneurysma",
+            "Dissektion"
+          ]
+        }
+      },
+      "M1/2 rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Okklusion",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Sonstiges": "__FILL__"
+      },
+      "M1/2 links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Okklusion",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Sonstiges": "__FILL__"
+      },
+      "A1/2 rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Okklusion",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Sonstiges": "__FILL__"
+      },
+      "A1/2 links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "Okklusion",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Sonstiges": "__FILL__"
+      },
+      "Sonstiges": "__FILL__"
+    },
+    "Hintere Zirkulation": {
+      "VA rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "hypoplastisch",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Dissektion",
+            "Pseudoaneurysma",
+            "Aneurysma"
+          ]
+        }
+      },
+      "VA links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "hypoplastisch",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Sonstiges": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Dissektion",
+            "Pseudoaneurysma",
+            "Aneurysma"
+          ]
+        }
+      },
+      "BA": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Plaquemorphologie": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "—",
+            "Kalkplaques",
+            "weiche Plaques",
+            "gemischte Plaques"
+          ]
+        },
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Sonstiges": "__FILL__"
+      },
+      "P1/2 rechts": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Embryonaler Abgang aus ACI": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        }
+      },
+      "P1/2 links": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "unauffällig",
+          "nicht hämodynamisch relevante Stenosierung",
+          "hämodynamisch relevante Stenose > 70%",
+          "Okklusion"
+        ],
+        "Aneurysma": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        },
+        "Embryonaler Abgang aus ACI": {
+          "select": "__FILL__",
+          "select_möglichkeiten": [
+            "nein",
+            "ja"
+          ]
+        }
+      },
+      "Sonstiges": "__FILL__"
+    },
+    "Nebenbefunde": {
+      "Knöcherner Status": "__FILL__",
+      "Halsweichteile": "__FILL__",
+      "Obere Thoraxapertur": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

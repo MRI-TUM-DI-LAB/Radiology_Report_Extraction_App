@@ -1,0 +1,197 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "Vergleichsuntersuchung:_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "auswahl": "__FILL__",
+      "eingabe": "__FILL__"
+    },
+    "Bildqualität:": {
+      "Bildqualität:_möglichkeiten": [
+        "gut",
+        "ausreichend",
+        "eingeschränkt"
+      ],
+      "auswahl": "__FILL__",
+      "eingabe": "__FILL__"
+    },
+    "Urolithiasis:": {
+      "Urolithiasis:_möglichkeiten": [
+        "—",
+        "keine",
+        "Konkrement",
+        "Konkrementkonglomerat"
+      ],
+      "auswahl": "__FILL__",
+      "details": {
+        "Lage:": {
+          "Lage:_möglichkeiten": [
+            "—",
+            "Obere Kelchgruppe",
+            "Mittlere Kelchgruppe",
+            "Untere Kelchgruppe",
+            "Nierenbecken",
+            "Proximales Ureterdrittel",
+            "Mittleres Ureterdrittel, suprailiacal",
+            "Mittleres Ureterdrittel, infrailiacal",
+            "Distales Ureterdrittel",
+            "prävesikal",
+            "intramural",
+            "vesikal"
+          ],
+          "auswahl_lage": "__FILL__",
+          "seite_möglichkeiten": [
+            "—",
+            "links",
+            "rechts"
+          ],
+          "auswahl_seite": "__FILL__"
+        },
+        "Maximaler Durchmesser:": "__FILL__",
+        "Volumen:": "__FILL__",
+        "Mittlere Dichte:": "__FILL__",
+        "Substanz nach Dual-Energy-Analyse:": {
+          "Substanz nach Dual-Energy-Analyse:_möglichkeiten": [
+            "—",
+            "Calciumkonkrement",
+            "Harnsäurekonkrement",
+            "anderes"
+          ],
+          "auswahl": "__FILL__",
+          "eingabe": "__FILL__"
+        },
+        "Soft tissue rim sign:": {
+          "Soft tissue rim sign:_möglichkeiten": [
+            "—",
+            "positiv",
+            "negativ"
+          ],
+          "auswahl": "__FILL__",
+          "Ureterwanddicke:": "__FILL__"
+        },
+        "Zentrale Dichteabsenkung:": {
+          "Zentrale Dichteabsenkung:_möglichkeiten": [
+            "—",
+            "vorhanden",
+            "nicht vorhanden"
+          ],
+          "auswahl": "__FILL__"
+        },
+        "Comet tail sign:": {
+          "Comet tail sign:_möglichkeiten": [
+            "—",
+            "positiv",
+            "negativ"
+          ],
+          "auswahl": "__FILL__"
+        },
+        "Weitere Konkremente:": {
+          "Weitere Konkremente:_möglichkeiten": [
+            "keine",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "<5"
+          ],
+          "auswahl": "__FILL__",
+          "beschreibung": "__FILL__"
+        }
+      }
+    },
+    "Harntransportstörung": {
+      "Aufweitung des Nierenbeckenkelchsystems": {
+        "Links:": {
+          "Links:_möglichkeiten": [
+            "—",
+            "keine",
+            "Grad 1",
+            "Grad 2",
+            "Grad 3",
+            "Grad 4"
+          ],
+          "auswahl": "__FILL__"
+        },
+        "Rechts:": {
+          "Rechts:_möglichkeiten": [
+            "—",
+            "keine",
+            "Grad 1",
+            "Grad 2",
+            "Grad 3",
+            "Grad 4"
+          ],
+          "auswahl": "__FILL__"
+        }
+      },
+      "Aufweitung des Ureters": {
+        "Links:": {
+          "Links:_möglichkeiten": [
+            "—",
+            "keine",
+            "Bis auf Höhe des proximalen Drittels",
+            "Bis auf Höhe des mittleren Drittels",
+            "Bis auf Höhe des distalen Drittels"
+          ],
+          "auswahl": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        },
+        "Rechts:": {
+          "Rechts:_möglichkeiten": [
+            "—",
+            "keine",
+            "Bis auf Höhe des proximalen Drittels",
+            "Bis auf Höhe des mittleren Drittels",
+            "Bis auf Höhe des distalen Drittels"
+          ],
+          "auswahl": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        }
+      }
+    },
+    "Perirenales Ödem:": {
+      "Perirenales Ödem:_möglichkeiten": [
+        "—",
+        "keines",
+        "links",
+        "rechts",
+        "beidseits",
+        "beidseits, links führend",
+        "beidseits, rechts führend"
+      ],
+      "auswahl": "__FILL__"
+    },
+    "Periureterales Ödem": {
+      "Links:": {
+        "im proximalen Drittel": "__FILL__",
+        "im mittleren Drittel": "__FILL__",
+        "im distalen Drittel": "__FILL__"
+      },
+      "Rechts:": {
+        "im proximalen Drittels": "__FILL__",
+        "im mittleren Drittel": "__FILL__",
+        "im distalen Drittel": "__FILL__"
+      },
+      "Seitenvergleich:": {
+        "Seitenvergleich:_möglichkeiten": [
+          "—",
+          "links führend",
+          "rechts führend",
+          "seitengleich"
+        ],
+        "auswahl": "__FILL__"
+      }
+    },
+    "Bauchorgane:": "__FILL__",
+    "Gefäße:": "__FILL__",
+    "Lymphknoten:": "__FILL__",
+    "Skelett:": "__FILL__",
+    "Basaler Thorax:": "__FILL__"
+  },
+  "Beurteilung": "__FILL__"
+}

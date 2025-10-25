@@ -1,0 +1,25 @@
+EXAM:
+ CHEST CT SCAN WITH CONTRAST EXAM DATE: __.HISTORY: 47-year-old female 
+with persistent right lower chest pain and fever. Suspected infection. 
+Time: 3/20/2023 at 1415 hrs. COMPARISON: Chest x-ray performed __. 
+TECHNIQUE: Volumetric scanning was conducted of the chest utilizing 3 mm
+ collimation at 3 mm intervals after administering 90 mL of nonionic 
+Ultravist 370 contrast. DLP = 910.00 mGy*cm. FINDINGS: There are 
+moderate right-sided pleural effusions and mild left-sided pleural 
+effusions. Patchy consolidation and infiltrates are observed in the 
+right lower lobe. No pulmonary nodules or masses are detected. No 
+pneumothorax is present. Mediastinal and hilar lymph nodes appear normal
+ in size. The heart, pericardium, great vessels, and mediastinum are 
+within normal limits. The tracheobronchial tree is patent and 
+unremarkable. The visualized portions of the liver, spleen, and pancreas
+ appear unremarkable. No gallstones or signs of cholecystitis are 
+identified. Both kidneys appear normal in size and attenuation, without 
+evidence of perinephric stranding or hydronephrosis. There is no free 
+fluid in the abdomen. Mild degenerative changes are observed in the 
+thoracic spine. The adjacent osseous structures and soft tissues appear 
+unremarkable. IMPRESSION: Moderate right-sided and mild left-sided 
+pleural effusions. Patchy consolidation and infiltrates in the right 
+lower lobe, raising suspicion for pneumonia. Clinical correlation and 
+treatment are recommended. No evidence of pulmonary nodules, masses, or 
+pneumothorax. Mediastinal and hilar lymph nodes are normal in size. No 
+abnormalities detected in the visualized upper abdominal structures.

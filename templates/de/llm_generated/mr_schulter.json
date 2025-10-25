@@ -1,0 +1,20 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "SUPRASPINATUS": "__FILL__",
+        "INFRASPINATUS": "__FILL__",
+        "TERES_MINOR": "__FILL__",
+        "SUBSCAPULARIS": "__FILL__",
+        "ROTATORENMANSCHETTE": "__FILL__",
+        "ACROMIO-CLAVICULARGELENK": "__FILL__",
+        "BIZEPSSEHNE": "__FILL__",
+        "GLENOIDALES_LABRUM": "__FILL__",
+        "GLENOHUMERALGELENK": "__FILL__",
+        "HYALINER_KNORPEL": "__FILL__",
+        "KNOCHENMARK": "__FILL__",
+        "WEICHTEILE": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

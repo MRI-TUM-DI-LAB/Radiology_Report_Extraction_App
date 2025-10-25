@@ -1,0 +1,32 @@
+EXAM:
+  CHEST W/CONTRAST CT EXAM DATE: __.CLINICAL HISTORY: A 58-year-old male
+ with a history of chronic cough and weight loss. Suspected underlying 
+malignancy. COMPARISON: Chest x-ray dated __. TECHNIQUE: Multiplanar and
+ multi-phase chest CT was performed with and without the administration 
+of intravenous contrast. CTDIvol: 12.80 mGy DLP: 480 mGy-cm FINDINGS: 
+3.2 x 2.7 cm spiculated mass in the right upper lobe (series 4, image 
+37) with adjacent bronchial wall thickening and irregularity. The mass 
+demonstrates heterogeneous enhancement following contrast 
+administration. Several scattered pulmonary nodules are also noted, the 
+largest measuring 7 mm in the left lower lobe (series 4, image 72). No 
+pleural or pericardial effusion is identified. 2.0 x 1.5 cm right 
+paratracheal lymph node (series 3, image 25), as well as multiple 
+subcarinal lymph nodes, the largest measuring 1.4 x 1.2 cm (series 3, 
+image 42). The right hilar region demonstrates prominent lymph nodes 
+measuring up to 2.2 x 1.9 cm (series 3, image 32). No evidence of 
+mediastinal invasion or vascular encasement is noted. No pleural 
+thickening or plaques are identified. There are no pleural or 
+pericardial effusions. There are no chest wall masses or osseous 
+lesions. The heart size is within normal limits. Calcified 
+atherosclerotic plaques are noted in the aortic arch and proximal 
+coronary arteries. There is no evidence of suspicious lytic or blastic 
+lesions. Multilevel degenerative changes are noted in the thoracic 
+spine. Unenhanced evaluation of the visualized upper abdomen is grossly 
+unremarkable. IMPRESSION: 3.2 x 2.7 cm spiculated mass in the right 
+upper lobe with adjacent bronchial wall thickening and irregularity, 
+highly concerning for primary lung malignancy. Multiple scattered 
+pulmonary nodules, raising concern for metastatic disease. Enlarged 
+right paratracheal, subcarinal, and right hilar lymph nodes, suggestive 
+of nodal metastases. No pleural or pericardial effusion, and no 
+mediastinal invasion or vascular encasement. Multilevel degenerative 
+changes in the thoracic spine.

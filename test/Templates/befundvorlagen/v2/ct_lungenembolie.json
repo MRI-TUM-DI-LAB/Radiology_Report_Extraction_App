@@ -1,0 +1,87 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__",
+    "D-Dimer": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Lungenembolie": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "-",
+        "ja",
+        "nein"
+      ]
+    },
+    "Lokalisation": {
+      "input_zentral": "__FILL__",
+      "input_lobär": "__FILL__",
+      "input_segmental": "__FILL__",
+      "input_subsegmental": "__FILL__"
+    },
+    "Beteiligte Abschnitte": {
+      "Truncus pulmonalis_re": "__FILL__",
+      "Truncus pulmonalis_li": "__FILL__",
+      "Oberlappen_re": "__FILL__",
+      "Oberlappen_li": "__FILL__",
+      "Mittellappen_re": "__FILL__",
+      "Unterlappen_re": "__FILL__",
+      "Unterlappen_li": "__FILL__"
+    },
+    "Zeichen älterer Embolien": {
+      "Dil. Bronchialarterien": "__FILL__",
+      "wandstä:ndige Thromben": "__FILL__",
+      "Webs/Bands": "__FILL__"
+    },
+    "Rechtsherzbelastung": {
+      "RV diameter": "__FILL__",
+      "LV diameter": "__FILL__",
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "leichte Rechtsherzbelastung",
+        "deutliche Rechtsherzbelastung"
+      ],
+      "Kontrastmittelrückstau": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "kein",
+          "VCI",
+          "Lebervenen"
+        ]
+      }
+    },
+    "Lungenarterien": {
+      "Durchmesser Tr. pulmonalis": "__FILL__",
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "normal",
+        "leicht dilatiert",
+        "deutlich dilatiert"
+      ]
+    },
+    "Pleura": "__FILL__",
+    "Lungenparenchym": "__FILL__",
+    "Zentrale Atemwege": "__FILL__",
+    "Lymphknoten": "__FILL__",
+    "Herz und übrige Gefäße": "__FILL__",
+    "Oberbauch": "__FILL__",
+    "Knochen": "__FILL__",
+    "Sonstiges": "__FILL__"
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__",
+    "RV/LV ratio_1": "__FILL__",
+    "RV/LV ratio_2": "__FILL__"
+  }
+}

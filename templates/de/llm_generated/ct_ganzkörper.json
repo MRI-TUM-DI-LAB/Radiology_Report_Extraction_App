@@ -1,0 +1,47 @@
+{
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "KOMMENTARE_ZUM_EINGRIFF": "__FILL__",
+    "BEFUNDE": {
+        "KOPF_UND_HALS": {
+            "HIRNPARENCHYM": "__FILL__",
+            "VENTRIKEL/EXTRA-AXIALE_RAEUME": "__FILL__",
+            "EXTRAKRANIELLE_STRUKTUREN": "__FILL__",
+            "ORO-_UND_HYPOPHARYNX": "__FILL__",
+            "SCHILDDRUESENRAUM": "__FILL__",
+            "GEFAESSE_UND_KAROTISRAUM": "__FILL__",
+            "LYMPHKNOTEN": "__FILL__"
+        },
+        "BRUSTKORB": {
+            "UNTERSTUETZUNGSVORRICHTUNGEN": "__FILL__",
+            "LUNGENPARENCHYM": "__FILL__",
+            "TRACHEA_UND_ZENTRALE_ATEMWEGE": "__FILL__",
+            "PERIPHERE_BRONCHIEN": "__FILL__",
+            "LYMPHKNOTEN": "__FILL__",
+            "HERZ/GROSSE_GEFAESSE": "__FILL__",
+            "PULMONALE_GEFAESSVERSORGUNG": "__FILL__",
+            "ANDERE_MEDIASTINALE_STRUKTUREN": "__FILL__",
+            "PLEURA": "__FILL__",
+            "BRUSTGEWEBE": "__FILL__"
+        },
+        "ABDOMEN/BECKEN": {
+            "LEBER_UND_GALLENSYSTEM": "__FILL__",
+            "MILZ": "__FILL__",
+            "PANKREAS": "__FILL__",
+            "NEBENNIEREN": "__FILL__",
+            "NIEREN,_URETEREN_UND_BLASE": "__FILL__",
+            "DARM": "__FILL__",
+            "APPENDIX": "__FILL__",
+            "PERITONEALHOEHLE": "__FILL__",
+            "UTERUS_UND_OVARIEN_(FALLS_VORHANDEN)": "__FILL__",
+            "PROSTATA_UND_SAMENBLAESCHEN_(FALLS_VORHANDEN)": "__FILL__",
+            "GEFAESSVERSORGUNG": "__FILL__",
+            "LYMPHKNOTEN": "__FILL__"
+        },
+        "MUSKULOSKELETTAL": {
+            "KNOECHERNE_STRUKTUREN": "__FILL__",
+            "WEICHTEILE": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": "__FILL__"
+}

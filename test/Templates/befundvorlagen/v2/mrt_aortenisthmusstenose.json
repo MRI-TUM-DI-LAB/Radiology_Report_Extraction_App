@@ -1,0 +1,296 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Geschlecht:": {
+      "select": "__FILL__",
+      "Geschlecht:_möglichkeiten": [
+        "W",
+        "M",
+        "O"
+      ]
+    },
+    "Körpergewicht:": "__FILL__",
+    "Körpergröße:": "__FILL__",
+    "Körperoberfläche (BSA):": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Flussdichte:": {
+      "select": "__FILL__",
+      "Flussdichte:_möglichkeiten": [
+        "—",
+        "1.5 T",
+        "3 T"
+      ]
+    },
+    "MR-Protokoll:": {
+      "textarea": "Sequenzen und Ebenen:"
+    },
+    "Auswertesoftware:": "__FILL__",
+    "Kontrastmittel": {
+      "Name:": "__FILL__",
+      "Menge:": "__FILL__",
+      "Flussgeschwindigkeit:": "__FILL__"
+    }
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "select": "__FILL__",
+      "Vergleichsuntersuchung:_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Bildqualität:": {
+      "select": "__FILL__",
+      "Bildqualität:_möglichkeiten": [
+        "gut",
+        "ausreichend",
+        "eingeschränkt"
+      ],
+      "input": "__FILL__"
+    },
+    "Quelle der Normwerte:": {
+      "textarea": "__FILL__"
+    },
+    "Messwerte Aorta": {
+      "Sinus valsalvae (2 Ebenen):": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Sinutubulärer Übergang (2 Ebenen):": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Aorta ascendens (Höhe PA-Bifurkation):": "__FILL__",
+      "Proximaler Aortenbogen (vor TBC)": {
+        "min:": "__FILL__",
+        "max:": "__FILL__"
+      },
+      "Mittlerer Aortenbogen (TBC – ACC sin.)": {
+        "min:": "__FILL__",
+        "max:": "__FILL__"
+      },
+      "Distaler Aortenbogen (ACC sin. – ASS)": {
+        "min:": "__FILL__",
+        "max:": "__FILL__"
+      },
+      "Isthmus": {
+        "min:": "__FILL__",
+        "max:": "__FILL__"
+      },
+      "Aorta descendens (Höhe PA-Bifurkation):": "__FILL__",
+      "Aorta descendens (Höhe Zwerchfell):": "__FILL__",
+      "Für die Messungen verwendete Sequenzen:": "__FILL__"
+    },
+    "Aorten-Morphologie": {
+      "Stenose(n):": {
+        "select": "__FILL__",
+        "Stenose(n):_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Aneurysma:": {
+        "select": "__FILL__",
+        "Aneurysma:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Dissektionshinweise:": {
+        "select": "__FILL__",
+        "Dissektionshinweise:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Aortenbogenhypoplasie:": {
+        "select": "__FILL__",
+        "Aortenbogenhypoplasie:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Kinking:": {
+        "select": "__FILL__",
+        "Kinking:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Stent:": {
+        "select": "__FILL__",
+        "Stent:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Anomalien supraaortaler Gefäße:": {
+        "select": "__FILL__",
+        "Anomalien supraaortaler Gefäße:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "PDA (Ductus arteriosus apertus):": {
+        "select": "__FILL__",
+        "PDA (Ductus arteriosus apertus):_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Kollateralen:": {
+        "select": "__FILL__",
+        "Kollateralen:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Linksventrikulärer Ausflusstrakt und Aortenklappe": {
+      "LVOT Diameter (2 Ebenen):": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Annulus (2 Ebenen):": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Aortenklappe:": {
+        "select": "__FILL__",
+        "Aortenklappe:_möglichkeiten": [
+          "—",
+          "trikuspide",
+          "bikuspide"
+        ],
+        "input": "__FILL__"
+      },
+      "Aortenklappenfunktion:": {
+        "select": "__FILL__",
+        "Aortenklappenfunktion:_möglichkeiten": [
+          "—",
+          "normal",
+          "pathologisch"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Flussmessungen": {
+      "Aorta ascendens": {
+        "Schlagvolumen eff.:": "__FILL__",
+        "Cardiac Index:": "__FILL__",
+        "vmax =": "__FILL__",
+        "Regurgitationsfraktion:": "__FILL__"
+      },
+      "Auf Höhe ISTA": {
+        "vmax =": "__FILL__",
+        "Diastolischer antegrader Fluss:": "__FILL__"
+      },
+      "Kollateralfluss": {
+        "Cardiac Index vor ISTA:": "__FILL__",
+        "Cardiac Index auf Höhe Zwechfell:": "__FILL__"
+      }
+    },
+    "Morphologie und Funktionsanalyse": {
+      "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+      "LV endsystolischer Volumenindex (LV ESVi):": "__FILL__",
+      "LV Ejektionsfraktion (LV EF):": "__FILL__",
+      "LV ED Masse normiert:": "__FILL__",
+      "LV Regionale Wandbewegungsstörung:": {
+        "select": "__FILL__",
+        "LV Regionale Wandbewegungsstörung:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      },
+      "RV enddiastolischer Diameter (RV EDD im 4KB):": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+      "RV endsystolischer Volumenindex (RV ESVi):": "__FILL__",
+      "RV Ejektionsfraktion:": "__FILL__",
+      "RV Regionale Wandbewegungsstörung:": {
+        "select": "__FILL__",
+        "RV Regionale Wandbewegungsstörung:_möglichkeiten": [
+          "—",
+          "Nein",
+          "Ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Vorhof": {
+      "Vorhofgröße visuell:": {
+        "select": "__FILL__",
+        "Vorhofgröße visuell:_möglichkeiten": [
+          "—",
+          "normal groß",
+          "pathologisch"
+        ],
+        "input": "__FILL__"
+      },
+      "LA im Vierkammerblick longitudinal:": "__FILL__",
+      "LA im Vierkammerblick transversal:": "__FILL__",
+      "RA im Vierkammerblick longitudinal:": "__FILL__",
+      "RA im Vierkammerblick transversal:": "__FILL__",
+      "Vorhofseptumstellung:": {
+        "select": "__FILL__",
+        "Vorhofseptumstellung:_möglichkeiten": [
+          "—",
+          "normal",
+          "abnorm"
+        ],
+        "input": "__FILL__"
+      },
+      "Vorhofseptumdefekt/PFO:": {
+        "select": "__FILL__",
+        "Vorhofseptumdefekt/PFO:_möglichkeiten": [
+          "nicht untersucht",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Sonstige Herzklappenpathologie:": {
+      "select": "__FILL__",
+      "Sonstige Herzklappenpathologie:_möglichkeiten": [
+        "nicht untersucht",
+        "nein",
+        "ja"
+      ],
+      "input": "__FILL__"
+    },
+    "Sonstiges:": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

@@ -1,0 +1,76 @@
+fill_template_step_by_step: |
+  Du bist ein Assistent für Radiologen. Deine Aufgabe ist es, das Feld "{field}" in der JSON-Vorlage anhand des folgenden freien Radiologieberichts auszufüllen:
+
+  {report}
+
+  Gib NUR den Rohwert für "{field}" zurück – ohne zusätzliche Schlüssel, Satzzeichen oder Erklärungen.
+
+fill_template_at_once: |
+  Du bist ein Assistent zum Ausfüllen von Vorlagen. Du erhältst einen freien Radiologiebericht und eine Vorlage. Deine Aufgabe ist es, alle Platzhalter in der Vorlage anhand des Berichts auszufüllen. Gehe dabei wie folgt vor:
+
+  1. Analysiere den freien Bericht, um relevante Informationen für jeden Platzhalter "__FILL__" in der Vorlage zu finden.
+  2. Fülle jeden Platzhalter "__FILL__" mit den relevantesten Informationen aus dem Bericht aus.
+  3. Wenn ein Platzhalter "__FILL__" nicht zutreffend ist oder keine relevanten Informationen gefunden werden, ersetze ihn durch "Keine Information gefunden".
+  4. Gib nur die vollständig ausgefüllte JSON Vorlage mit allen ausgefüllten Platzhaltern zurück – nichts weiter.
+
+extract_metadata: |
+  Du bist ein Radiologieassistent. Anhand des folgenden freien Radiologieberichts extrahiere genau zwei Felder im JSON-Format mit den Schlüsseln:
+    - modality (z. B. "CT", "MR", "XR" usw. entsprechend dem DICOM Standard)
+    - area (anatomische Region, z. B. "Kopf", "Abdomen" usw.)
+  Falls ein Feld nicht bestimmt werden kann, gib dafür einen leeren String zurück.
+  Bericht:
+  """
+  {report}
+  """
+  Antworte nur mit einem JSON-Objekt.
+
+extract_search_phrase: |
+  Du bist ein Radiologieassistent. Du erhältst einen freien Radiologiebericht sowie die Metadaten-Platzhalter:
+    modality: {modality}
+    area: {area}
+  Erstelle eine einzelne prägnante Suchphrase, die den wichtigsten Befund zusammenfasst, gefolgt von "({modality} des {area})".
+
+template_selection: |
+  Sie erhalten einen beschreibenden Ausdruck, der aus einem Freitextbericht extrahiert wurde, sowie die Namen mehrerer strukturierter Template-Kandidaten.  
+  Bitte wählen Sie das **am besten passende Template** basierend auf der inhaltlichen Ähnlichkeit zwischen dem Ausdruck und den Templates aus.  
+  Geben Sie **nur den Dateinamen** des am besten passenden Templates zurück.
+
+  Freitextbericht: {report}  
+  Templatenamen: {templates}
+
+  Antworten Sie **ausschließlich** mit dem Dateinamen.
+STEP_FIELD: |
+    Sie sind ein Assistent für medizinische Befundberichte. Unser Ziel-JSON-Schema lautet:
+    {schema}
+
+    Bisher ausgefüllt:
+    {partial_json}
+
+    Berichtstext:
+    {report}
+
+    Bitte füllen Sie *nur* das Feld `{field}` aus.  
+    • Antworten Sie nur mit „Nicht erwähnt“, wenn tatsächlich keinerlei Informationen für dieses Feld im Text vorhanden sind.  
+    • Erfinden oder mutmaßen Sie keine Details, die nicht durch den Text belegt sind.  
+    Geben Sie einen prägnanten Satz oder nur den Wert dieses Feldes zurück — kein JSON, keine Codeblöcke.
+
+COT_STEPS: |
+    Denken wir Schritt für Schritt darüber nach: (Denken Sie diese Schritte in Ihrem „geisten Auge“ durch, geben Sie sie jedoch NICHT aus.)
+    1. Identifizieren Sie den relevanten Teil des Berichts.
+    2. Extrahieren Sie die genaue Beobachtung oder den Wert.
+    3. Geben Sie die abschließende Antwort.
+
+RETRY_FIELD: |
+  Ihre vorherige Antwort für `{field}` war:
+    {old}
+
+    Diese scheint im Berichtstext nicht direkt bestätigt zu werden: {report}
+
+    Bitte extrahieren Sie den korrekten Inhalt für `{field}` aus dem Bericht.
+    Sie **können** mit einem vollständigen Satz oder einer Phrase antworten – je nachdem, was den Befund am besten wiedergibt – bitte fügen Sie jedoch keine zusätzlichen Erklärungen, Begründungen, JSON oder Codeblöcke hinzu.
+    Wenn wirklich keine Information vorhanden ist, antworten Sie mit „Nicht erwähnt“.
+
+
+
+
+

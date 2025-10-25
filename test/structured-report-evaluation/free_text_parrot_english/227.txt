@@ -1,0 +1,9 @@
+Clinical Information, Question, Justification for Examination: Metastatic choroidal melanoma. Query regarding liver metastases.
+
+Technique: 3-Tesla MRI of the upper abdomen. Localizer. T2 Haste coronal axial, T1 Flash IN/OPP axial, T1 Vibe Dixon native and at various time points post i.v. administration of 10 ml Primovist, T1 Vibe Dixon coronal, T2 Haste TSE axial, DWI/ADC axial.
+
+Findings: A T1-weighted native hyperintense and T2-weighted mildly hyperintense mass with a corresponding Primovist uptake defect is located directly subdiaphragmatically in segment 2, measuring 23 mm in diameter (16/25). Another lesion in segment 6 measures 15 mm in diameter (series 16/47). Additional tiny lesions in the upper segment 6, measuring 3 mm (series 17/31 and 14/67). Three focal signal voids are noted on the right under the diaphragm dome (series 13, image 10) without correlation in DWI. Status post CCE. No intra- or extrahepatic cholestasis. The pancreas is fatty and atrophied, with a slender duct. The spleen is not enlarged, with no focal lesions. An accessory spleen is present at the ventral pole, measuring 6 mm in diameter. Adrenal glands are delicate on both sides. Kidneys are in orthotopic position and symmetrically enhanced with multiple parapelvic renal cysts on both sides. No space-occupying lesions suspicious for malignancy. No urinary obstruction. No pathologically distended bowel loops. No free fluid. No lymph nodes suspicious for malignancy. Continuous flow signal in major abdominal vessels. In the lung bases, no significant consolidation. No basal pleural or pericardial effusion. No osseous destruction. Several intraspongious disc herniations.
+
+Conclusion:
+- Evidence of three liver metastases: in segment 2 measuring 30 mm in diameter, and in segment 6 measuring 3 mm and 15 mm in diameter.
+- No lymph node involvement or distant metastases in the upper abdomen.

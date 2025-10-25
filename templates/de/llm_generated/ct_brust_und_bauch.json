@@ -1,0 +1,34 @@
+{
+    "INDIKATION": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "BRUSTKORB": {
+            "UNTERSTÜTZENDE_VORRICHTUNGEN": "__FILL__",
+            "LUNGENPARENCHYM": "__FILL__",
+            "TRACHEA_UND_ZENTRALE_ATEMWEGE": "__FILL__",
+            "PERIPHERE_BRONCHIEN": "__FILL__",
+            "LYMPHKNOTEN": "__FILL__",
+            "HERZ/GROSSE_GEFÄSSE": "__FILL__",
+            "PULMONALE_GEFÄSSSTRUKTUR": "__FILL__",
+            "ANDERE_MEDIASTINALE_STRUKTUREN": "__FILL__",
+            "PLEURA": "__FILL__",
+            "BRUSTGEWEBE": "__FILL__"
+        },
+        "ABDOMEN": {
+            "LEBER_UND_GALLENSYSTEM": "__FILL__",
+            "MILZ": "__FILL__",
+            "PANKREAS": "__FILL__",
+            "NEBENNIEREN": "__FILL__",
+            "NIEREN,_URETEREN_UND_BLASE": "__FILL__",
+            "DARM": "__FILL__",
+            "APPENDIX": "__FILL__",
+            "PERITONEALHÖHLE": "__FILL__",
+            "UTERUS_UND_OVARIEN_(FALLS_VORHANDEN)": "__FILL__",
+            "PROSTATA_UND_SAMENBLÄSCHEN_(FALLS_VORHANDEN)": "__FILL__",
+            "GEFÄSSSYSTEM": "__FILL__",
+            "LYMPHKNOTEN": "__FILL__"
+        }
+    },
+    "EINDRUCK": "__FILL__"
+}

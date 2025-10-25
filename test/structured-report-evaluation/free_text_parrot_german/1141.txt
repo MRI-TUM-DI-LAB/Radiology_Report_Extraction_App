@@ -1,0 +1,4 @@
+Patient: Frank Frankfurter, geb. 07.07.1957 Auftraggeber: Dr. med. Kardiologe Fragestellung: Koronare Herzkrankheit?
+Technik: Koronarangiographie mit selektiver Darstellung der Koronararterien.
+Befund: Die linke Koronararterie zeigt eine hochgradige Stenose im Bereich des Hauptstammes (RCA). Die rechte Koronararterie ist unauffällig.
+Beurteilung: Hochgradige Stenose des Hauptstammes der linken Koronararterie.

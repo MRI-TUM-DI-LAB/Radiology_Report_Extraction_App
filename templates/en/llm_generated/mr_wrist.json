@@ -1,0 +1,19 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "TRIANGULAR_FIBROCARTILAGE": "__FILL__",
+        "SCAPHOLUNATE_LIGAMENT": "__FILL__",
+        "LUNOTRIQUETRAL_LIGAMENT": "__FILL__",
+        "FLEXOR_TENDONS": "__FILL__",
+        "EXTENSOR_TENDONS": "__FILL__",
+        "CARPAL_TUNNEL": "__FILL__",
+        "GUYON'S_CANAL": "__FILL__",
+        "BONE_MARROW": "__FILL__",
+        "JOINT_EFFUSION": "__FILL__",
+        "MUSCLES": "__FILL__",
+        "MASSES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

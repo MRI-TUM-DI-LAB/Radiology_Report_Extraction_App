@@ -1,0 +1,18 @@
+{
+    "INDICATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "SUPPORT_DEVICES": "__FILL__",
+        "LUNG_PARENCHYMA": "__FILL__",
+        "TRACHEA_AND_CENTRAL_AIRWAYS": "__FILL__",
+        "PERIPHERAL_BRONCHI": "__FILL__",
+        "LYMPH_NODES": "__FILL__",
+        "HEART/GREAT_VESSELS": "__FILL__",
+        "PULMONARY_VASCULATURE": "__FILL__",
+        "OTHER_MEDIASTINAL_STRUCTURES": "__FILL__",
+        "PLEURA": "__FILL__",
+        "BREAST_TISSUE": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

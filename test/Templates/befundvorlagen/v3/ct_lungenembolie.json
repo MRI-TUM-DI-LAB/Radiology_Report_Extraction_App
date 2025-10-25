@@ -1,0 +1,53 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__",
+    "D-Dimer:": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": "__FILL__",
+    "input": "__FILL__",
+    "Lungenembolie:": "__FILL__",
+    "Lokalisation:": "__FILL__",
+    "Beteiligte Abschnitte:": {
+      "Truncus pulmonalis": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      },
+      "Oberlappen": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      },
+      "Mittellappen": {
+        "re:": "__FILL__"
+      },
+      "Unterlappen": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      }
+    },
+    "Zeichen älterer Embolien": "__FILL__",
+    "Rechtsherzbelastung:": {
+      "RV diameter": "__FILL__",
+      "LV diameter": "__FILL__",
+      "Kontrastmittelrückstau:": "__FILL__"
+    },
+    "Lungenarterien:": {
+      "Durchmesser Tr. pulmonalis:": "__FILL__"
+    },
+    "Pleura:": "__FILL__",
+    "Lungenparenchym:": "__FILL__",
+    "Zentrale Atemwege:": "__FILL__",
+    "Lymphknoten:": "__FILL__",
+    "Herz und übrige Gefäße:": "__FILL__",
+    "Oberbauch:": "__FILL__",
+    "Knochen:": "__FILL__",
+    "Sonstiges:": "__FILL__"
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__",
+    "RV/LV ratio": "__FILL__"
+  }
+}

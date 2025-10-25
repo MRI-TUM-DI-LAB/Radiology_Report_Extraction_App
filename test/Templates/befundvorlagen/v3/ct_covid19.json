@@ -1,0 +1,276 @@
+{
+  "section": [
+    {
+      "header": "Klinische Angaben",
+      "p": {
+        "textarea": "__FILL__"
+      },
+      "table": [
+        {
+          "tr": [
+            {
+              "td": [
+                {
+                  "label": "Aufnahme-Status"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "Intubiert"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "COVID-PCR Status"
+                },
+                {
+                  "select": "__FILL__",
+                  "label": "am:",
+                  "input": "__FILL__"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Fragestellung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Befund",
+      "table": [
+        {
+          "tr": [
+            {
+              "td": [
+                {
+                  "label": "Zum Vergleich"
+                },
+                {
+                  "select": "__FILL__",
+                  "label": "vom:",
+                  "input": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "CT-Protokoll"
+                },
+                {
+                  "select": "__FILL__"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tr": {
+            "td": null
+          }
+        },
+        {
+          "tr": {
+            "th": "Lungenparenchym/Atemwege",
+            "td": {
+              "table": [
+                {
+                  "tr": [
+                    {
+                      "td": [
+                        {
+                          "label": "Milchglastrübung"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Dominantes Milchglasmuster"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Morphologie der Milchglastrübungen"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Verteilungsmuster der Milchglastrübungen"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Seiten-Ausprägung der Milchglastrübungen"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Dominates Lungenfeld der Milchglastrübungen"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Ausdehnung/Severity des Lungenbefalls quantitativ"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Konsolidierungs-Muster"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Zentrilobuläre Noduli/Tree in bud"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Lungengerüstveränderungen"
+                        },
+                        {
+                          "select": "__FILL__",
+                          "input": "__FILL__"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Weitere Befunde",
+            "td": {
+              "table": [
+                {
+                  "tr": [
+                    {
+                      "td": [
+                        {
+                          "label": "Pleuraerguss links"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Pleuraerguss rechts"
+                        },
+                        {
+                          "select": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Lymphknoten"
+                        },
+                        {
+                          "select": "__FILL__",
+                          "input": "__FILL__"
+                        }
+                      ]
+                    },
+                    {
+                      "td": [
+                        {
+                          "label": "Sonstiges"
+                        },
+                        {
+                          "textarea": "__FILL__"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "header": "Beurteilung",
+      "table": {
+        "tr": {
+          "td": [
+            {
+              "label": "Klassifikation des Lungenbefalls"
+            },
+            {
+              "select": "__FILL__"
+            }
+          ]
+        }
+      },
+      "p": {
+        "textarea": "__FILL__"
+      }
+    }
+  ]
+}

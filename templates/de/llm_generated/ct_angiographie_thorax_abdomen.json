@@ -1,0 +1,77 @@
+{
+    "TECHNIK": "__FILL__",
+    "KONTRAST": "__FILL__",
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "BEFUNDE": {
+        "THORAX": {
+            "AORTA": {
+                "AORTA_ASCENDENS": "__FILL__",
+                "AORTENBOGEN": "__FILL__",
+                "AORTA_DESCENDENS": "__FILL__"
+            },
+            "PULMONALARTERIEN": {
+                "STAMM": "__FILL__",
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "ARTERIAE_SUBCLAVIA_UND_AXILLARIS": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "ARTERIAE_BRACHIALES": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "VENÖSES_SYSTEM": {
+                "VENA_CAVA_SUPERIOR": "__FILL__",
+                "PULMONALVENEN": "__FILL__"
+            }
+        },
+        "ABDOMEN": {
+            "ABDOMINELLE_AORTA": "__FILL__",
+            "TRUNCUS_COELIACUS": {
+                "STAMM": "__FILL__",
+                "ARTERIA_HEPATICA": "__FILL__",
+                "ARTERIA_LIENALIS": "__FILL__",
+                "ARTERIAE_GASTRICAE": "__FILL__"
+            },
+            "SMA": "__FILL__",
+            "IMA": "__FILL__",
+            "ARTERIAE_RENALES": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "VENÖSES_SYSTEM": {
+                "VENA_CAVA_INFERIOR": "__FILL__",
+                "PORTADER": "__FILL__",
+                "VENAE_RENALES": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            }
+        },
+        "BECKEN": {
+            "ARTERIAE_ILIACAE": {
+                "ARTERIA_ILIACA_COMMUNIS_LINKS": "__FILL__",
+                "ARTERIA_ILIACA_COMMUNIS_RECHTS": "__FILL__",
+                "ARTERIA_ILIACA_EXTERNA_LINKS": "__FILL__",
+                "ARTERIA_ILIACA_EXTERNA_RECHTS": "__FILL__",
+                "ARTERIA_ILIACA_INTERNA_LINKS": "__FILL__",
+                "ARTERIA_ILIACA_INTERNA_RECHTS": "__FILL__"
+            },
+            "VENÖSES_SYSTEM": {
+                "VENA_ILIACA_COMMUNIS_LINKS": "__FILL__",
+                "VENA_ILIACA_COMMUNIS_RECHTS": "__FILL__",
+                "VENA_ILIACA_EXTERNA_LINKS": "__FILL__",
+                "VENA_ILIACA_EXTERNA_RECHTS": "__FILL__",
+                "VENA_ILIACA_INTERNA_LINKS": "__FILL__",
+                "VENA_ILIACA_INTERNA_RECHTS": "__FILL__"
+            }
+        }
+    },
+    "BEURTEILUNG": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSÄTZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

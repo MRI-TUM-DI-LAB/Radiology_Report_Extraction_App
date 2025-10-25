@@ -1,0 +1,64 @@
+{
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "LINKSVENTRIKULÄRE_MESSUNGEN": {
+            "ENDDIASTOLISCHER_DURCHMESSER": "__FILL__",
+            "EJEKTIONSFRAKTION": "__FILL__",
+            "SCHLAGVOLUMEN": "__FILL__",
+            "ENDDIASTOLISCHES_VOLUMEN": "__FILL__",
+            "INDEXIERTES_ENDDIASTOLISCHES_VOLUMEN": "__FILL__",
+            "ENDSYSTOLISCHES_VOLUMEN": "__FILL__",
+            "INDEXIERTES_ENDSYSTOLISCHES_VOLUMEN": "__FILL__",
+            "HERZZEITVOLUMEN": "__FILL__",
+            "HERZINDEX": "__FILL__",
+            "INDEXWERTE_NORMALISIERT_AUF_KÖRPEROBERFLÄCHE": "__FILL__"
+        },
+        "RECHTSVENTRIKULÄRE_MESSUNGEN": {
+            "ENDDIASTOLISCHER_DURCHMESSER": "__FILL__",
+            "EJEKTIONSFRAKTION": "__FILL__",
+            "SCHLAGVOLUMEN": "__FILL__",
+            "ENDDIASTOLISCHES_VOLUMEN": "__FILL__",
+            "INDEXIERTES_ENDDIASTOLISCHES_VOLUMEN": "__FILL__",
+            "ENDSYSTOLISCHES_VOLUMEN": "__FILL__",
+            "INDEXIERTES_ENDSYSTOLISCHES_VOLUMEN": "__FILL__",
+            "HERZZEITVOLUMEN": "__FILL__",
+            "HERZINDEX": "__FILL__"
+        },
+        "KLAPPEN": {
+            "AORTENKLAPPE": "__FILL__",
+            "AORTEN_VORWÄRTSVOLUMEN": "__FILL__",
+            "AORTEN_REGURGITATIONSVOLUMEN": "__FILL__",
+            "AORTENKLAPPENFLÄCHE": "__FILL__",
+            "MITRALKLAPPE": "__FILL__",
+            "MITRAL_REGURGITATIONSVOLUMEN": "__FILL__",
+            "MITRALKLAPPENFLÄCHE": "__FILL__",
+            "TRIKUSPIDALKLAPPE": "__FILL__",
+            "TRIKUSPIDAL_REGURGITATIONSVOLUMEN": "__FILL__",
+            "PULMONALKLAPPE": "__FILL__",
+            "PULMONAL_REGURGITATIONSVOLUMEN": "__FILL__",
+            "PULMONAL_VORWÄRTSVOLUMEN": "__FILL__",
+            "PULMONALKLAPPENFLÄCHE": "__FILL__"
+        },
+        "BEURTEILUNG": {
+            "RECHTER_VENTRIKEL": {
+                "GRÖSSE": "__FILL__",
+                "FUNKTION": "__FILL__"
+            },
+            "LINKER_VENTRIKEL": {
+                "GRÖSSE": "__FILL__",
+                "FUNKTION": "__FILL__"
+            },
+            "RECHTER_VORHOF": "__FILL__",
+            "LINKER_VORHOF": "__FILL__",
+            "PERIKARD": "__FILL__",
+            "GROSSE_GEFÄSSE": "__FILL__",
+            "AORTA": "__FILL__",
+            "PULMONALARTERIE": "__FILL__",
+            "PULMONALVENEN": "__FILL__",
+            "VENA_CAVA_INFERIOR": "__FILL__",
+            "VENA_CAVA_SUPERIOR": "__FILL__",
+            "EXTRAKARDIALE_BEFUNDE": "__FILL__"
+        }
+    }
+}

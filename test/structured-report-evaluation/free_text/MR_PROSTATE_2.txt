@@ -1,0 +1,24 @@
+MRI
+ ABDOMEN AND PELVIS FOR EVALUATION OF THE PROSTATECLINICAL HISTORY: The 
+patient is a 66-year-old male with elevated PSA levels and a history of 
+prostate cancer. A multiparametric prostate MRI was performed to assess 
+the possibility of prostate cancer recurrence. TECHNIQUE: Multiplanar, 
+multisequence MRI of the abdomen and pelvis was performed, including 
+diffusion, T2, and dynamic contrast-enhanced (DCE) imaging of the 
+prostate. The post-contrast images were obtained following the 
+uneventful intravenous administration of 7 mL of gadobutrol (Gadavist) 
+gadolinium-containing contrast. FINDINGS: The prostate gland measures 
+4.3 x 4.8 x 4.7 cm (volume 47 mL). A focal area of T2 hypointensity is 
+seen in the right mid-gland, measuring approximately 12 x 11 mm in 
+diameter. The area shows restricted diffusion on the ADC map, with a 
+value of 798 x 10^-3 mm^2/s. The dynamic contrast-enhanced (DCE) 
+characteristics show focal enhancing lesion with washout kinetics in the
+ right mid-gland, with a PI-RADS v2 score of 5. No other suspicious 
+lesions or abnormal signal intensity are seen in the peripheral zone of 
+the prostate gland. IMPRESSION: Based on the above findings, a focal 
+area of T2 hypointensity with restricted diffusion and washout kinetics 
+on DCE suggests the presence of clinically significant cancer in the 
+right mid-gland with a PI-RADS v2 score of 5. This finding may indicate 
+the possibility of prostate cancer recurrence and requires further 
+evaluation and monitoring. The patient will be advised for additional 
+biopsy and follow-up by their urologist.

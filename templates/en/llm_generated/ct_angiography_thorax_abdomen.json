@@ -1,0 +1,77 @@
+{
+    "TECHNIQUE": "__FILL__",
+    "CONTRAST": "__FILL__",
+    "CLINICAL_HISTORY": "__FILL__",
+    "FINDINGS": {
+        "THORAX": {
+            "AORTA": {
+                "ASCENDING_AORTA": "__FILL__",
+                "AORTIC_ARCH": "__FILL__",
+                "DESCENDING_AORTA": "__FILL__"
+            },
+            "PULMONARY_ARTERIES": {
+                "TRUNK": "__FILL__",
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "BRACHIAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "VENOUS_SYSTEM": {
+                "SUPERIOR_VENA_CAVA": "__FILL__",
+                "PULMONARY_VEINS": "__FILL__"
+            }
+        },
+        "ABDOMEN": {
+            "ABDOMINAL_AORTA": "__FILL__",
+            "CELIAC_TRUNK": {
+                "TRUNK": "__FILL__",
+                "HEPATIC_ARTERY": "__FILL__",
+                "SPLENIC_ARTERY": "__FILL__",
+                "GASTRIC_ARTERIES": "__FILL__"
+            },
+            "SMA": "__FILL__",
+            "IMA": "__FILL__",
+            "RENAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "VENOUS_SYSTEM": {
+                "INFERIOR_VENA_CAVA": "__FILL__",
+                "PORTAL_VEIN": "__FILL__",
+                "RENAL_VEINS": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            }
+        },
+        "PELVIS": {
+            "ILIAC_ARTERIES": {
+                "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+            },
+            "VENOUS_SYSTEM": {
+                "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+            }
+        }
+    },
+    "IMPRESSION": {
+        "SUMMARY": "__FILL__",
+        "ADDITIONAL_FINDINGS": "__FILL__",
+        "RECOMMENDATIONS": "__FILL__"
+    }
+}

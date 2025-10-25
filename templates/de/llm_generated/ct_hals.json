@@ -1,0 +1,19 @@
+{
+    "ANAMNESE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "CTDI": "__FILL__",
+    "DLP": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "PHARYNXSCHLEIMHAUT": "__FILL__",
+        "MUNDHÖHLE": "__FILL__",
+        "KEHLKOPF": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__",
+        "SPEICHELDRÜSEN": "__FILL__",
+        "SCHILDDRÜSENRAUM": "__FILL__",
+        "GEFÄSSE_KAROTISRAUM": "__FILL__",
+        "KNOCHEN": "__FILL__",
+        "ANDERE": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

@@ -1,0 +1,34 @@
+{
+    "TECHNIK": "__FILL__",
+    "KONTRAST": "__FILL__",
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "BEFUNDE": {
+        "AORTA": {
+            "AORTA_ASCENDENS": "__FILL__",
+            "AORTENBOGEN": "__FILL__",
+            "AORTA_DESCENDENS": "__FILL__"
+        },
+        "PULMONALARTERIEN": {
+            "TRUNKUS": "__FILL__",
+            "LINKS": "__FILL__",
+            "RECHTS": "__FILL__"
+        },
+        "SCHLUESSELBEIN_UND_ACHSELARTERIEN": {
+            "LINKS": "__FILL__",
+            "RECHTS": "__FILL__"
+        },
+        "OBERARMARTERIEN": {
+            "LINKS": "__FILL__",
+            "RECHTS": "__FILL__"
+        },
+        "VENOESES_SYSTEM": {
+            "VENA_CAVA_SUPERIOR": "__FILL__",
+            "LUNGENVENEN": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSAETZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

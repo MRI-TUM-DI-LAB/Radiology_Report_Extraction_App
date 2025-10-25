@@ -1,0 +1,61 @@
+{
+    "TECHNIK": "__FILL__",
+    "KONTRAST": "__FILL__",
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "BEFUNDE": {
+        "CIRCLE_OF_WILLIS": {
+            "ACA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "ACOM": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "MCA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "PCOM": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "PCA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "BASILAR_ARTERY": "__FILL__",
+            "PICA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "AICA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            }
+        },
+        "CAROTID_ARTERIES": {
+            "ICA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "ECA": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            }
+        },
+        "VERTEBRAL_ARTERIES": {
+            "LEFT": "__FILL__",
+            "RIGHT": "__FILL__"
+        },
+        "JUGULAR_VEINS": {
+            "LEFT": "__FILL__",
+            "RIGHT": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSÄTZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

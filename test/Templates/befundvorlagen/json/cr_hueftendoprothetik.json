@@ -1,0 +1,51 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Bildqualität:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Beurteiltes Hüftgelenk:": {
+      "select": "__FILL__"
+    },
+    "Gelenkstellung:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Subchondrale Sklerosierung:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Artikuläre Osteophyten:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Deformierungen der Gelenkpartner:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Spongiosa (zystische Deformierungen in Gelenkpfanne und Hüftkopf):": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Beckenarchitektur (Dysplasien):": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Paraartikuläre Weichteile (Kalzifikationen):": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Sonstiges:": "__FILL__"
+  },
+  "Beurteilung": {
+    "Coxarthrose:": {
+      "select": "__FILL__"
+    },
+    "Kellgren-Score:": {
+      "select": "__FILL__"
+    },
+    "Sonstiges:": "__FILL__"
+  }
+}

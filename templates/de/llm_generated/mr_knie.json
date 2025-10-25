@@ -1,0 +1,22 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "MEDIALER_MENISKUS": "__FILL__",
+        "LATERALER_MENISKUS": "__FILL__",
+        "VORDERES_KREUZBAND": "__FILL__",
+        "HINTERES_KREUZBAND": "__FILL__",
+        "MEDIALES_KOLLATERALBAND": "__FILL__",
+        "LATERALER_KOLLATERALBANDKOMPLEX": "__FILL__",
+        "EXTENSORENMECHANISMUS": "__FILL__",
+        "BAKER_ZYSTE": "__FILL__",
+        "GELENKERGUSS": "__FILL__",
+        "PATELLOFEMORALES_ARTIKULÄRES_KNORPELGEWEBE": "__FILL__",
+        "MEDIALES_ARTIKULÄRES_KNORPELGEWEBE": "__FILL__",
+        "LATERALES_KOMPARTIMENT_KNORPELGEWEBE": "__FILL__",
+        "KNOCHENMARK": "__FILL__",
+        "WEICHTEILE": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

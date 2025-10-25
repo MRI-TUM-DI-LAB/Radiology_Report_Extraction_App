@@ -1,0 +1,33 @@
+MRI
+ ABDOMEN AND PELVIS FOR EVALUATION OF THE PROSTATECLINICAL HISTORY: The 
+patient is a 60-year-old male with a history of prostate cancer and 
+elevated PSA. The multiparametric prostate MRI was performed to monitor 
+the known prostate cancer. TECHNIQUE: Multiplanar, multisequence MRI of 
+the abdomen and pelvis was performed, including diffusion, T2, and 
+dynamic contrast-enhanced (DCE) imaging of the prostate. The 
+post-contrast images were obtained following the uneventful intravenous 
+administration of 8 mL of gadobutrol (Gadavist) gadolinium-containing 
+contrast. COMPARISON: ( )FINDINGS: The prostate gland is mildly enlarged
+ measuring 4.2 x 4.8 x 4.7 cm (volume 42 mL). There are no suspicious 
+lesions or abnormal signal intensity in the peripheral zone of the 
+prostate gland. However, a small focal area of low T2 signal intensity 
+is seen in the right transition zone measuring approximately 6 mm in 
+diameter, which has increased in size compared to the prior study. The 
+area shows restricted diffusion on the ADC map, with a value of 912 x 
+10^-3 mm^2/s. In addition, there is a focal area of T2 hypointensity in 
+the left base peripheral zone, measuring approximately 7 mm in diameter,
+ which has remained stable. The ADC value for this area is 1235 x 10^-3 
+mm^2/s. The dynamic contrast-enhanced (DCE) characteristics show 
+diffusely enhancing area with plateau-type kinetics in the right 
+transition zone, with a PI-RADS v2 score of 4. On the other hand, the 
+left base peripheral zone has mildly enhancing area with gradual wash-in
+ and washout kinetics, with a PI-RADS v2 score of 3. IMPRESSION: Based 
+on the above findings, there is no evidence of suspicious lesions or 
+significant changes in the peripheral zone of the prostate gland 
+compared to the prior study. However, the small focal area of low T2 
+signal intensity in the right transition zone has increased in size 
+compared to the prior study, with a PI-RADS v2 score of 4. This suggests
+ a possible progression of the previously diagnosed prostate cancer in 
+the right transition zone, requiring further evaluation and monitoring. 
+The patient will be advised for additional biopsy and follow-up by their
+ urologist.

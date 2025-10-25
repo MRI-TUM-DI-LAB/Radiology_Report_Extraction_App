@@ -1,0 +1,81 @@
+{
+    "TECHNIQUE": "__FILL__",
+    "CLINICAL_INDICATION": "__FILL__",
+    "EXAMINATION": "__FILL__",
+    "FINDINGS": {
+        "CERVICAL_SPINE": {
+            "ALIGNMENT": "__FILL__",
+            "VERTEBRAL_BODIES": "__FILL__",
+            "DISC_SPACES": "__FILL__",
+            "SPINAL_CORD": "__FILL__"
+        },
+        "PARASPINAL_SOFT_TISSUES": {
+            "MUSCLES": "__FILL__",
+            "FASCIAL_PLANES": "__FILL__"
+        },
+        "NECK_VESSELS": {
+            "CAROTID_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "JUGULAR_VEINS": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "VERTEBRAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            }
+        },
+        "SALIVARY_GLANDS": {
+            "PAROTID_GLANDS": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "SUBMANDIBULAR_GLANDS": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "SUBLINGUAL_GLANDS": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            }
+        },
+        "LYMPH_NODES": {
+            "SIZE": "__FILL__",
+            "SHAPE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "INFLAMMATORY_CHANGES": "__FILL__",
+            "METASTATIC_SUSPICION": "__FILL__"
+        },
+        "THYROID_GLAND": {
+            "SIZE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "INFLAMMATORY_CHANGES": "__FILL__",
+            "NODULE": "__FILL__",
+            "MASS": "__FILL__"
+        },
+        "PHARYNX_AND_LARYNX": {
+            "OROPHARYNX": "__FILL__",
+            "HYPOPHARYNX": "__FILL__",
+            "LARYNX": "__FILL__",
+            "EPIGLOTTIS": "__FILL__",
+            "VOCAL_CORDS": "__FILL__",
+            "TUMOR": "__FILL__",
+            "INFLAMMATORY_CHANGES": "__FILL__"
+        },
+        "SURROUNDING_SOFT_TISSUES": {
+            "MASS": "__FILL__",
+            "INFLAMMATORY_CHANGES": "__FILL__",
+            "TUMOR_INVASION": "__FILL__",
+            "VASCULAR_INVASION": "__FILL__",
+            "NERVE_INVASION": "__FILL__"
+        }
+    },
+    "IMPRESSION": {
+        "TUMOR_PRESENCE": "__FILL__",
+        "INFLAMMATORY_PROCESS": "__FILL__",
+        "OTHER_ABNORMALITIES": "__FILL__"
+    },
+    "RECOMMENDATION": "__FILL__"
+}

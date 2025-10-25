@@ -1,0 +1,30 @@
+general:
+  log_level: "info"
+  gemini_model: "gemini-2.0-flash"
+  ollama_model: "gemini-2.0-flash"
+  ollama_endpoint: "http://localhost:11434/api/generate"
+
+report_structuring:
+  enabled: true
+  filling_mode: "step-by-step" # at-once or step-by-step
+  rag_embedding_model: "jinaai/jina-embeddings-v3" #jinaai/jina-embeddings-v3
+  template_selection: "rag"
+  chromadb_path: "template_chroma_db"
+
+radlex:
+  enabled: true
+  embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  mapping_path: "logic/radlex/data/radlex_mappings.json"
+  chromadb_path: "radlex_chroma_db"
+  max_docs: 10000   # or whatev
+  reasoning: false
+  reformulate_entities: true
+
+icd_coding:
+  enabled: true
+  max_docs: 5
+  embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2" 
+  chromadb_path: "icd_chroma_db" #"jina_chroma_db" 
+  reasoning: true
+  thresholding: true
+  reformulate_entities: true

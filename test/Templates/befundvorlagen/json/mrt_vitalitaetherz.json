@@ -1,0 +1,110 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Geschlecht": "__FILL__",
+    "Körpergewicht": "__FILL__",
+    "Körpergröße": "__FILL__",
+    "Körperoberfläche (BSA)": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Flussdichte": "__FILL__",
+    "MR-Protokoll": "Sequenzen und Ebenen:",
+    "Auswertesoftware": "__FILL__",
+    "Kontrastmittel": {
+      "Name": "__FILL__",
+      "Menge": "__FILL__",
+      "Flussgeschwindigkeit": "__FILL__"
+    }
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": [
+      "__FILL__",
+      "__FILL__"
+    ],
+    "Bildqualität": "__FILL__",
+    "Quelle der Normwerte": "__FILL__",
+    "Morphologie und Funktionsanalyse": {
+      "LV enddiastolischer Diameter (LV EDD)": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi)": "__FILL__",
+      "LV endsystolischer Volumenindex (LV ESVi)": "__FILL__",
+      "LV Ejektionsfraktion (LV EF)": "__FILL__",
+      "LV ED Masse normiert": "__FILL__",
+      "LV Regionale Wandbewegungsstörung": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Regionale Wandausdünnung": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "RV enddiastolischer Diameter (RV EDD)": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi)": "__FILL__",
+      "RV endsystolischer Volumenindex (RV ESVi)": "__FILL__",
+      "RV Ejektionsfraktion": "__FILL__",
+      "RV Regionale Wandbewegungsstörung": [
+        "__FILL__",
+        "__FILL__"
+      ]
+    },
+    "Vorhofgröße": {
+      "Visuell": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "LA im Vierkammerblick longitudinal": "__FILL__",
+      "LA im Vierkammerblick transversal": "__FILL__",
+      "RA im Vierkammerblick longitudinal": "__FILL__",
+      "RA im Vierkammerblick transversal": "__FILL__",
+      "Vorhofseptumstellung": [
+        "__FILL__",
+        "__FILL__"
+      ]
+    },
+    "Herzklappenpathologie": [
+      "__FILL__",
+      "__FILL__"
+    ],
+    "Intrakavitäre Thromben": [
+      "__FILL__",
+      "__FILL__"
+    ],
+    "Gewebecharakterisierung": {
+      "Myokardödem regional": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Late Gadolinium Enhancement (LGE) Myokard": [
+        "__FILL__",
+        {
+          "Lokalisation/Verteilungsmuster": {
+            "textarea": "__FILL__"
+          },
+          "Transmuralität": "__FILL__"
+        }
+      ],
+      "Mikrovaskuläre Obstruktion": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Hämorrhagie": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "T2-Mapping": "__FILL__",
+      "T1-Mapping nativ": "__FILL__",
+      "T1-Mapping post KM": "__FILL__",
+      "ECV": "__FILL__"
+    },
+    "Sonstiges": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

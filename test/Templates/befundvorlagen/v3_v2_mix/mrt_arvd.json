@@ -1,0 +1,83 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "input": "__FILL__"
+    },
+    "Technik": {
+      "Feldstärke": {},
+      "MR Protokoll": "__FILL__",
+      "Auswertesoftware": "__FILL__",
+      "Quelle der Normwerte": "__FILL__",
+      "KM": "__FILL__"
+    },
+    "Patientencharakteristik": {
+      "Geschlecht": {},
+      "Körpergewicht": "__FILL__",
+      "Körpergröße": "__FILL__",
+      "Körperoberlfäche (BSA)": "__FILL__"
+    },
+    "Herz": {},
+    "Bildqualität": {
+      "Einschränkung": {
+        "input": "__FILL__"
+      }
+    },
+    "Funktionsanalyse LV": {
+      "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+      "LV endsystolischer  Volumenindex (LV ESVi):": "__FILL__",
+      "LV Ejektions-Fraktion (LV EF):": "__FILL__",
+      "LV ED Masse normiert:": "__FILL__",
+      "Regionale Wandbewegungsstörungen LV:": {
+        "input": "__FILL__"
+      },
+      "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+    },
+    "Funktionsanalyse RV": {
+      "RV enddiastolischer Diameter (RV EDD):": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+      "RV endsystolischer  Volumenindex (RV ESVi):": "__FILL__",
+      "RV Ejektions-Fraktion (RV EF):": "__FILL__",
+      "Weite RVOT4 im 3-Kammerblick*:": "__FILL__",
+      "Regionale Wandbewegungsstörungen RV:": {
+        "input": "__FILL__"
+      },
+      "(Mikro-) aneurysmata RV Wand:": {
+        "input": "__FILL__"
+      }
+    },
+    "Vorhofgröße endsystolisch im 4-Kammerblick": {
+      "RA:": "__FILL__",
+      "LA:": "__FILL__"
+    },
+    "Herzklappenpathologie:": {
+      "input": "__FILL__"
+    },
+    "Intracavitäre Thromben:": {
+      "input": "__FILL__"
+    },
+    "Perikarderguss:": {
+      "max. Saumbreite": "__FILL__"
+    },
+    "Nachweis von Fettsignal im Myokard:": {},
+    "Late Gadolinium Enhancement (LGE):": {
+      "Verteilungsmuster": "__FILL__"
+    },
+    "Auswertung nach Task Force Kriterien (revised 2010)": {
+      "Majorkriterium": {}
+    },
+    "Sonstige Auffälligkeiten": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "MR-tomographische Hinweise auf ARVC": {},
+    "textarea": "__FILL__"
+  }
+}

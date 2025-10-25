@@ -1,0 +1,25 @@
+WHOLE
+ BODY MRI: __CLINICAL HISTORY: 61-year-old patient with a known history 
+of metastatic colorectal carcinoma, currently undergoing treatment. The 
+study is performed for follow-up.COMPARISON: Prior MRI dated __. 
+TECHNIQUE: Whole-body MRI performed utilizing multi-sequence imaging, 
+including T1-weighted, T2-weighted, STIR, and post-contrast sequences. 
+Post-contrast images obtained after the intravenous administration of 
+4.2 mL Gadavist. FINDINGS:Right lower lobe lung nodule measures 1.5 x 
+1.2 cm, previously 2.1 x 1.8 cm. No new pulmonary nodules detected. 
+Primary mass located in the sigmoid colon decreased in size since the 
+previous exam, now measuring 4.3 x 3.1 cm (previously 6.1 x 4.4 cm). 
+Surrounding pericolonic fat stranding reduced, suggesting a favorable 
+response to treatment. Multiple liver metastases identified in both 
+lobes; largest lesion in segment IV measures 3.2 x 2.7 cm, previously 
+4.1 x 3.5 cm. A lesion in segment VII measures 1.8 x 1.6 cm, previously 
+2.5 x 2.2 cm. Retroperitoneal lymphadenopathy present, with the largest 
+lymph node measuring 2.3 x 1.7 cm, previously 3.0 x 2.2 cm. No new 
+suspicious lymph nodes observed. Osseous metastasis in the left ilium 
+measures 2.5 x 2.0 cm, previously 3.4 x 2.7 cm. No new bone lesions 
+identified. Spleen, pancreas, adrenal glands, and kidneys within normal 
+limits and unremarkable. Bladder and rectum unremarkable without any 
+significant abnormalities. IMPRESSION: All target lesions demonstrate a 
+decrease in size compared to the prior study, indicating a partial 
+response to treatment per RECIST criteria. No new metastatic lesions 
+identified. No significant findings in other organs.

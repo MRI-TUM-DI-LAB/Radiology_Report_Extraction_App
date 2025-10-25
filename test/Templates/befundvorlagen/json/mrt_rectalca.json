@@ -1,0 +1,110 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__",
+    "Histologie": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "neoadjuvante Vorbehandlung": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    }
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "select": [
+        "__FILL__",
+        "__FILL__"
+      ],
+      "input": "__FILL__"
+    },
+    "Bildqualität:": {
+      "select": "__FILL__"
+    },
+    "Rektumkarzinom (T)": {
+      "Tumorlokalisation": {
+        "select": "__FILL__",
+        "input": "__FILL__"
+      },
+      "Distanz zur Anokutan-Linie": {
+        "input": "__FILL__"
+      },
+      "Tumorausdehnung (Länge)": {
+        "input": "__FILL__"
+      },
+      "Zirkumferenz in SSL": {
+        "input": [
+          "__FILL__",
+          "__FILL__"
+        ]
+      },
+      "Tumorinfiltration": {
+        "select": "__FILL__",
+        "input": [
+          "__FILL__",
+          "__FILL__"
+        ]
+      },
+      "Abstand zur mesorektalen Faszie": {
+        "select": "__FILL__",
+        "input": [
+          "__FILL__",
+          "__FILL__"
+        ]
+      },
+      "Veneninfiltration": {
+        "select": "__FILL__",
+        "input": "__FILL__"
+      }
+    },
+    "Lymphknoten lokal (N)": {
+      "mesorektal / präsakral / lokal": {
+        "select": "__FILL__",
+        "input": [
+          "__FILL__",
+          "__FILL__",
+          "__FILL__"
+        ]
+      },
+      "Abstand zur mesorektalen Faszie": {
+        "select": "__FILL__",
+        "input": [
+          "__FILL__",
+          "__FILL__"
+        ]
+      }
+    },
+    "Fernmetastasen (M)": {
+      "Lymphknoten distant": {
+        "select": "__FILL__",
+        "input": "__FILL__"
+      },
+      "Aszitis": {
+        "select": "__FILL__"
+      },
+      "Peritoneum": {
+        "select": "__FILL__",
+        "input": "__FILL__"
+      },
+      "Beckenstrukturen": {
+        "select": "__FILL__"
+      },
+      "Skelett": {
+        "select": "__FILL__"
+      }
+    },
+    "Sonstige Befunde": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "select": "__FILL__",
+    "textarea": "__FILL__",
+    "Insgesamt TNM": {
+      "input": "__FILL__"
+    }
+  }
+}

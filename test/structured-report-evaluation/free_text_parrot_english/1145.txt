@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of splenomegaly  
+Technique: CT abdomen with contrast.  
+Findings: The spleen is significantly enlarged, measuring up to 15 cm in its longest diameter. The splenic parenchyma appears homogeneous. No focal lesions are identified. The liver, gallbladder, pancreas, and kidneys are unremarkable. No pathological lymph nodes are observed in the abdomen.  
+Conclusion: Splenomegaly with no identifiable cause. Further evaluation is recommended.

@@ -1,0 +1,33 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": {
+        "PANCREATIC_TUMOR_TABLE": {
+            "PANCREATIC_TUMOR_PRESENT": "__FILL__",
+            "LOCATION": "__FILL__",
+            "SIZE": "__FILL__",
+            "ENHANCEMENT_RELATIVE_TO_PANCREAS": "__FILL__",
+            "CONFINED_TO_PANCREAS_WITH_CLEAR_FAT_PLANE": "__FILL__",
+            "BILIARY_INVOLVEMENT": "__FILL__",
+            "REMAINING_PANCREAS": "__FILL__"
+        },
+        "ADENOPATHY_PRESENT": "__FILL__",
+        "METASTATIC_DISEASE": "__FILL__",
+        "ASCITES_PERIPANCREATIC_FLUID": "__FILL__",
+        "PANCREATIC_VASCULAR_TABLE": {
+            "VASCULAR_TUMOR_INVOLVEMENT_AND_DEGREE": "__FILL__",
+            "CELIAC_INVOLVEMENT": "__FILL__",
+            "SMA_INVOLVEMENT": "__FILL__",
+            "SMV_INVOLVEMENT": "__FILL__",
+            "OTHER_VASCULAR_INVOLVEMENT": "__FILL__",
+            "THROMBOSIS_ANY_VESSEL": "__FILL__",
+            "ABERRANT_ANATOMY": {
+                "REPLACED_RIGHT_HEPATIC_ARTERY": "__FILL__",
+                "MAJOR_ACCESSORY_OR_OTHER_REPLACED_ARTERIES_VEINS_COLLATERALS_DILATED_VESSELS": "__FILL__"
+            },
+            "ATHEROSCLEROTIC_ORIGINS_OF_CELIAC_AXIS_SMA": "__FILL__",
+            "DISTANCE_TO_SMV": "__FILL__"
+        }
+    },
+    "IMPRESSION": "__FILL__"
+}

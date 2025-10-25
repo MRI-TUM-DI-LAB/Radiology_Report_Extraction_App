@@ -1,0 +1,4 @@
+Clinical Question: Suspected acute appendicitis  
+Technique: CT abdomen with contrast in the portal venous phase.  
+Findings: The appendix exhibits normal wall thickness and contrast enhancement. No perilesional edema or free fluid. The liver, gallbladder, pancreas, spleen, and kidneys appear unremarkable. No pathological lymph nodes.  
+Conclusion: No CT morphological evidence of acute appendicitis.

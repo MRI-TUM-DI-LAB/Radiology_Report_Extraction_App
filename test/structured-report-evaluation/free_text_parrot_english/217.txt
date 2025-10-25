@@ -1,0 +1,11 @@
+Clinical Information, Question, Justification: COVID-19 with infiltrate on chest X-ray. Query regarding ground-glass opacities/bacterial superinfection.
+
+Technique: Digital overview radiographs. Non-contrast MS CT of the thorax in axial slices. Multiplanar reconstruction. Dose-length product: 51.6 mGy.cm.
+
+Findings and Assessment: Today's chest X-ray for comparison.
+
+- Mild atelectasis in the medial segment of the middle lobe (S5/664), differential diagnosis includes previous infection, no evidence of new pneumonic infiltrates. No indication of bacterial superinfection. No ground-glass opacities. Differential diagnosis suggests post-inflammatory small subpleural nodules in the left lower lobe.
+- No pleural effusions. No pneumothorax. No pulmonary mass suspicious for malignancy.
+- No free air or free fluid in the included upper abdomen.
+- Healing non-displaced rib fracture on the right (dorsal 10th rib).
+- Degenerative changes in the thoracic spine with spondylosis deformans. No evidence of new bony lesions.

@@ -1,0 +1,10 @@
+Clinical Information, Question, Justification: Choroidal melanoma with pulmonary and cerebral metastases, follow-up evaluation. 
+
+Technique: 1.5-Tesla MRI of the brain. Localizer. Axial T2 FLAIR, axial T2 TSE, axial and sagittal T1 SE, axial DWI/ADC, axial SWI. Post-contrast administration of 8 ml Gadovist, axial T1 SE, T1-MPRAGE.
+
+Findings: Previous images are available for comparison. There is a further slight reduction in size of the peripheral lesion with blood-brain barrier disruption in the left temporal region, currently measuring up to 9 x 8 mm (Series 15/63; previous: 12 x 8 mm). A cerebellar metastasis in the medial posterior region is now barely discernible (Series 15/49; previous: 3 x 2 mm). No evidence of new suspicious metastatic lesions. A stable-sized frontal falx meningioma measuring up to 30 mm in diameter (Series 15/130). A ventricular drain is present from the left frontal region, with the tip in the anterior horn of the left lateral ventricle. Unchanged asymmetry of the lateral ventricles (right > left). No cerebrospinal fluid accumulation. No midline shift. No herniation. A broad defect area in the right frontotemporal region. Unchanged gliosis zone in the left frontal region near the shunt. No susceptibility artifacts suggestive of bleeding. No diffusion restriction indicative of acute ischemia. Status post right hemicraniectomy. Partially opacified mastoid air cells on both sides and basal mucosal swelling in the maxillary sinuses on both sides. Further reduction in size of the soft tissue metastasis in the skin of the left masticator space, currently up to 7 mm in diameter (Series 15/730; previous: 11 x 8 mm).
+
+Impression:
+- Further reduction in size of the left temporomesial metastasis and a cerebellar metastasis that is now barely discernible. No evidence of new intracranial metastases.
+- Noted reduction in size of the soft tissue metastasis adjacent to the left masticator space.
+- Stable-sized falx meningioma.

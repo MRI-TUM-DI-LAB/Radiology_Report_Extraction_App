@@ -1,0 +1,107 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Patientencharakteristik": {
+    "Körpergewicht:": "__FILL__",
+    "Körpergröße:": "__FILL__",
+    "Körperoberfläche (BSA)::": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Methodik": {
+    "Technik:": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "select": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Funktionsanalyse LV (blood volume)": {
+      "LV enddiastolisches Volumen normiert (LV EDV/BSA):": "__FILL__",
+      "LV endsystolisches Volumen normiert (LV ESV/BSA):": "__FILL__",
+      "LV Ejektions-Fraktion (LV EF):": "__FILL__",
+      "LV ED Masse normiert:": "__FILL__",
+      "IVSD:": "__FILL__"
+    },
+    "Anatomie": "__FILL__",
+    "Adenosin Stress- und Ruhe-Perfusion": {
+      "Perfusionsstörung unter Adenosin:": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "Segmente": "__FILL__"
+      },
+      "Ruhe-Perfusion:": {
+        "select": [
+          "normal",
+          "pathologisch"
+        ]
+      }
+    },
+    "Regionale Wandbewegungsstörungen LV:": {
+      "select": [
+        "keine",
+        "global",
+        "regional"
+      ],
+      "input": "__FILL__"
+    },
+    "Weitere kardiale Befunde": {
+      "Intracavitäre Thromben:": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Perikarderguss:": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "AV-Klappen:": {
+        "select": [
+          "kompetent",
+          "insuffizient"
+        ],
+        "input": "__FILL__"
+      },
+      "Trikuspide Aortenklappe:": {
+        "select1": [
+          "ja",
+          "nein",
+          "nicht beurteilbar"
+        ],
+        "select2": [
+          "-",
+          "kompetent",
+          "stenosiert",
+          "insuffizient"
+        ]
+      }
+    },
+    "Gewebecharakterisierung": {
+      "Late Enhancement (LGE):": {
+        "select": [
+          "nein",
+          "ja, subendokardial < 50%",
+          "ja, subendokardial ≥ 50%",
+          "ja, transmural"
+        ],
+        "Segmente": "__FILL__"
+      }
+    },
+    "Extrakardiale Auffälligkeiten": "__FILL__"
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

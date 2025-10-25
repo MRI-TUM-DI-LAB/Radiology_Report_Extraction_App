@@ -1,0 +1,4 @@
+Inquiry: Thyroid diagnostics, nodule evaluation  
+Technique: Thyroid ultrasound using a high-resolution linear transducer.  
+Findings: The thyroid gland exhibits normal volume and a homogeneous, hypoechoic parenchymal structure. In the right lobe, there is a solid nodule measuring 15 mm in diameter. The nodule is hypoechoic, well-defined, and has a halo-like border. No microcalcifications are present. The nodule's blood flow appears normal on color Doppler. In the left lobe, there are two additional small cystic nodules, each approximately 4 mm in diameter. The trachea is centrally located and not displaced. No enlarged lymph nodes are observed in the neck region.  
+Assessment: Solid thyroid nodule on the right with sonographically benign characteristics (TIRADS 2). Two small cystic nodules on the left without suspicious features for malignancy. Further evaluation of the right-sided nodule via fine-needle aspiration is recommended.

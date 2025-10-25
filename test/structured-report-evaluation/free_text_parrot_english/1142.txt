@@ -1,0 +1,4 @@
+Clinical Question: Headache, rule out aneurysm  
+Technique: MR angiography of the intracranial vessels.  
+Findings: The intracranial vessels appear normal. There is no evidence of an aneurysm or other pathological vascular changes.  
+Conclusion: Unremarkable MR angiography of the intracranial vessels.

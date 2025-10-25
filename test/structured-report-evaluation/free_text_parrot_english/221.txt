@@ -1,0 +1,7 @@
+Clinical Information, Question, Justification: NSCLC under immunotherapy. Follow-up, metastases? 
+
+Technique: 1.5 T MRI of the head. Localization sequences. Axial T2 TSE FS, axial T2 FL2D hemo, axial DWI/ADC, coronal T2 TIRM, axial T1 flash pre- and post-contrast (6.40 ml Gadovist) with subtraction, MPRAGE.
+
+Findings: Comparison with previous external MRI scans. Persistent defect in the dorsobasal cerebellum on both sides (more pronounced on the left paramedian) with susceptibility artifacts at the margins. No pathological contrast enhancement with known punctate T2-weighted hyperintensities in the cerebral white matter and tiny lacunar defects bilaterally in the capsulostriatal region (likely microangiopathic). Midline interhemispheric fissure. No signs of herniation. Normal wiRXh of the external cerebrospinal fluid cisterns and the symmetrical ventricular system. Cerebellopontine angles are clear on both sides. Very shallow configuration of the pituitary gland suggestive of an "empty sella." Meninges without pathological thickening or contrast affinity. Normal and symmetrical appearance of the orbits. Preserved T2-weighted flow void of the major intracranial blood vessels. Normal signal from the calvarium and skull base. Mastoid air cells are well-aerated. Mucosal swelling of the ethmoid cells.
+
+Impression: Stable disease - No evidence of new intracranial metastases. Persistent cerebellar defect with residual hemosiderin deposits.

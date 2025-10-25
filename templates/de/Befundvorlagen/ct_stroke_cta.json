@@ -1,0 +1,84 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Voruntersuchung": "__FILL__",
+    "Vordere Zirkulation": {
+      "Aortenbogen": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACC rechts": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACC links": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACI extrakraniell rechts": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACI extrakraniell links": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACI intrakraniell rechts": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "ACI intrakraniell links": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "M1/2 rechts": {
+        "Aneurysma": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "M1/2 links": {
+        "Aneurysma": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "A1/2 rechts": {
+        "Aneurysma": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "A1/2 links": {
+        "Aneurysma": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Sonstiges": "__FILL__"
+    },
+    "Hintere Zirkulation": {
+      "VA rechts": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "VA links": {
+        "Plaquemorphologie": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "BA": {
+        "Plaquemorphologie": "__FILL__",
+        "Aneurysma": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "P1/2 rechts": {
+        "Aneurysma": "__FILL__",
+        "Embryonaler Abgang aus ACI": "__FILL__"
+      },
+      "P1/2 links": {
+        "Aneurysma": "__FILL__",
+        "Embryonaler Abgang aus ACI": "__FILL__"
+      },
+      "Sonstiges": "__FILL__"
+    },
+    "Nebenbefunde": {
+      "Knöcherner Status": "__FILL__",
+      "Halsweichteile": "__FILL__",
+      "Obere Thoraxapertur": "__FILL__"
+    }
+  },
+  "Beurteilung": "__FILL__"
+}

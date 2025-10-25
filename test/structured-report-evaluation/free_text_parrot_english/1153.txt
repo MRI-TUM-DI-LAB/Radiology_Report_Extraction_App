@@ -1,0 +1,7 @@
+Clinical Question: Stroke?
+
+Technique: Non-contrast and contrast-enhanced CT of the head.
+
+Findings: There is a hypodense lesion in the left cerebral hemisphere within the territory of the middle cerebral artery, consistent with an ischemic cerebral infarction. No evidence of hemorrhage.
+
+Conclusion: Ischemic cerebral infarction on the left side.

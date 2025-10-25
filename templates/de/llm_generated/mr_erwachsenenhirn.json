@@ -1,0 +1,19 @@
+{
+    "ANAMNESE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "HIRNPARENCHYM": {
+            "AKUTE_INFARKT_BLUTUNG": "__FILL__",
+            "MASSENEFFEKT_HERNIATION": "__FILL__",
+            "WEISSE_SUBSTANZ": {
+                "SIGNALINTENSITÄTEN": "__FILL__",
+                "WEISSE_SUBSTANZ_CHRONISCH_KLEINE_GEFÄSS_ISCHÄMISCHE_VERÄNDERUNGEN": "__FILL__"
+            }
+        },
+        "VENTRIKEL_EXTRAAXIALE_RÄUME": "__FILL__",
+        "FLOW_VOIDS": "__FILL__",
+        "EXTRAKRANIELLE_STRUKTUREN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

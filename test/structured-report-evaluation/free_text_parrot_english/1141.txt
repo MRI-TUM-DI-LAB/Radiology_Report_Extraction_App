@@ -1,0 +1,4 @@
+Patient: Frank Frankfurter, DOB: 07/07/1957 Referring Physician: Dr. Cardiologist Clinical Question: Coronary artery disease?
+Technique: Coronary angiography with selective visualization of the coronary arteries.
+Findings: The left coronary artery exhibits a high-grade stenosis in the region of the main stem (RCA). The right coronary artery is unremarkable.
+Conclusion: High-grade stenosis of the main stem of the left coronary artery.

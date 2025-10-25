@@ -1,0 +1,9 @@
+Clinical Information, Question, Justification: Dizziness of unclear origin. Query regarding structural correlation. 
+
+Technique: 3-Tesla MRI of the neurocranium. Localizer. T2 TSE fs axial, T1 flash axial, SWI axial, DWI/ADC axial, T2 TIRM coronal, T1-MPRAGE.
+
+Findings: No prior images available. There is a reduction in brain volume, exceeding what is expected for age, with a frontotemporal emphasis. The lateral ventricles are narrow and symmetrical, and the fourth ventricle is fully developed. No midline shift. No herniation. Normal signal characteristics of the cortical ribbon, basal ganglia, cerebellum, and brainstem. No susceptibility artifacts suggestive of bleeding. No diffusion restriction indicative of acute ischemia. Normal signal characteristics of the skull cap and skull base. Polypoid mucosal swelling of the left basal maxillary sinus, with some occluded mastoid cells.
+
+Impression:
+• No structural correlate for the symptoms.
+• Brain volume reduction exceeding age expectations.

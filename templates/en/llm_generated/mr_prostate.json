@@ -1,0 +1,61 @@
+{
+    "INDICATION": {
+        "DATE": "__FILL__",
+        "SERUM_PSA_LEVEL": "__FILL__",
+        "PRIOR_BIOPSY": {
+            "TYPE": "__FILL__",
+            "DATE": "__FILL__",
+            "RESULTS": "__FILL__"
+        },
+        "PRIOR_THERAPY": {
+            "RADIATION": "__FILL__",
+            "HORMONES": "__FILL__"
+        }
+    },
+    "TECHNIQUE": {
+        "PI_RADS_COMPLIANT": "__FILL__",
+        "FIELD_STRENGTH": "__FILL__",
+        "COILS_USED": "__FILL__",
+        "IV_CONTRAST_ADMINISTRATION": {
+            "ROUTE": "__FILL__",
+            "RATE": "__FILL__"
+        },
+        "PULSE_SEQUENCE_PARAMETERS": "__FILL__"
+    },
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "QUALITY": "__FILL__",
+        "PERIPHERAL_ZONE": "__FILL__",
+        "TRANSITION_ZONE": "__FILL__",
+        "LESIONS": [
+            {
+                "HEMORRHAGE": "__FILL__",
+                "RANK": "__FILL__",
+                "ZONE": "__FILL__",
+                "SIDE": "__FILL__",
+                "POSITION": "__FILL__",
+                "IMAGE_SERIES_NUMBER": "__FILL__",
+                "LENGTH": "__FILL__",
+                "WIDTH": "__FILL__",
+                "HEIGHT": "__FILL__",
+                "VOLUME": "__FILL__",
+                "PSA_DENSITY": "__FILL__",
+                "EXTRA_PROSTATIC_EXTENSION": "__FILL__",
+                "PI_RADS_CATEGORY": "__FILL__"
+            }
+        ],
+        "NEUROVASCULAR_BUNDLES": {
+            "IMPRESSION": "__FILL__",
+            "DISTANCE_FROM_INDEX_LESION": "__FILL__"
+        },
+        "SEMINAL_VESICLES": "__FILL__",
+        "LYMPH_NODES": "__FILL__",
+        "BONES": "__FILL__",
+        "OTHER_PELVIC_ORGANS": "__FILL__"
+    },
+    "IMPRESSION": {
+        "SUMMARY": "__FILL__",
+        "ADDITIONAL_FINDINGS": "__FILL__",
+        "RECOMMENDATIONS": "__FILL__"
+    }
+}

@@ -1,0 +1,362 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "Vergleichsuntersuchung": "__FILL__",
+      "Vergleichsuntersuchung_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "Art": "__FILL__",
+      "Art_möglichkeiten": [
+        "-",
+        "CT",
+        "MR"
+      ],
+      "Datum": "__FILL__"
+    },
+    "Histologie": {
+      "Histologie": "__FILL__",
+      "Histologie_möglichkeiten": [
+        "-",
+        "ausstehend",
+        "nachgewiesen"
+      ]
+    },
+    "IgG4": {
+      "IgG4": "__FILL__",
+      "IgG4_möglichkeiten": [
+        "-",
+        "positiv",
+        "negativ"
+      ]
+    },
+    "Bildqualität": {
+      "Bildqualität": "__FILL__",
+      "Bildqualität_möglichkeiten": [
+        "exzellent",
+        "mittel",
+        "schlecht"
+      ]
+    },
+    "Pankreasparenchym": {
+      "Pankreasparenchym": "__FILL__",
+      "Pankreasparenchym_möglichkeiten": [
+        "normal",
+        "lipotroph",
+        "ödematös",
+        "chron. Pankreatitis"
+      ]
+    },
+    "Pankreaskarzinom": {
+      "Tumorlokalisation": {
+        "Tumorlokalisation": "__FILL__",
+        "Tumorlokalisation_möglichkeiten": [
+          "-",
+          "Pankreaskopf",
+          "Pankreasschwanz",
+          "Pankreaskörper",
+          "Proc. uncinatus"
+        ]
+      },
+      "Tumorgröße": {
+        "Tumorgröße_1": "__FILL__",
+        "Tumorgröße_2": "__FILL__",
+        "Bild": "__FILL__",
+        "Serie": "__FILL__"
+      },
+      "Tumorinfiltration (T-Stadium)": {
+        "Tumorinfiltration (T-Stadium)": "__FILL__",
+        "Tumorinfiltration (T-Stadium)_möglichkeiten": [
+          "-",
+          "T1: ≤ 2cm (T1a: ≤ 0,5 cm / T1b < 1 cm / T1c: ≤ 2 cm)",
+          "T2: ≤ 4 cm",
+          "T3: > 4 cm",
+          "T4: Gefäßinfiltration (>180°)"
+        ],
+        "Bild": "__FILL__",
+        "Serie": "__FILL__"
+      },
+      "Tumorinfiltration Nachbarorgane": "__FILL__",
+      "KM-Enhancement arteriell": {
+        "KM-Enhancement arteriell": "__FILL__",
+        "KM-Enhancement arteriell_möglichkeiten": [
+          "-",
+          "hypodens",
+          "isodens",
+          "hyperdens"
+        ]
+      },
+      "KM-Enhancement venös": {
+        "KM-Enhancement venös": "__FILL__",
+        "KM-Enhancement venös_möglichkeiten": [
+          "-",
+          "hypodens",
+          "isodens",
+          "hyperdens"
+        ]
+      }
+    },
+    "Gallenwege": {
+      "Ductus pancreaticus": {
+        "Ductus pancreaticus": "__FILL__",
+        "Ductus pancreaticus_möglichkeiten": [
+          "-",
+          "unauffällig",
+          "dilatiert"
+        ],
+        "Ductus pancreaticus_Wert": "__FILL__"
+      },
+      "Ductus hepatocholedochus": {
+        "Ductus hepatocholedochus": "__FILL__",
+        "Ductus hepatocholedochus_möglichkeiten": [
+          "-",
+          "unauffällig",
+          "dilatiert"
+        ],
+        "Ductus hepatocholedochus_Wert": "__FILL__"
+      }
+    },
+    "Gefäßbezug (arteriell)": {
+      "Aorta": {
+        "Aorta": "__FILL__",
+        "Aorta_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "Truncus coeliacus": {
+        "Truncus coeliacus": "__FILL__",
+        "Truncus coeliacus_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. hepatica communis": {
+        "A. hepatica communis": "__FILL__",
+        "A. hepatica communis_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. hepatica propria": {
+        "A. hepatica propria": "__FILL__",
+        "A. hepatica propria_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. gastroduodenalis": {
+        "A. gastroduodenalis": "__FILL__",
+        "A. gastroduodenalis_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. mesenterica superior": {
+        "A. mesenterica superior": "__FILL__",
+        "A. mesenterica superior_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. lienalis": {
+        "A. lienalis": "__FILL__",
+        "A. lienalis_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "Anatomische Varianten": {
+        "Anatomische Varianten": "__FILL__",
+        "Anatomische Varianten_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "Anatomische Varianten_Wert": "__FILL__"
+      }
+    },
+    "Gefäßbezug (venös)": {
+      "V. mesenterica superior": {
+        "V. mesenterica superior": "__FILL__",
+        "V. mesenterica superior_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung",
+          "1. Jejunalast infiltriert"
+        ]
+      },
+      "V. lienalis": {
+        "V. lienalis": "__FILL__",
+        "V. lienalis_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "V. portae": {
+        "V. portae": "__FILL__",
+        "V. portae_möglichkeiten": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      }
+    },
+    "Gefäße (sonstiges)": {
+      "Atherosklerose Tr. coeliacus": {
+        "Atherosklerose Tr. coeliacus": "__FILL__",
+        "Atherosklerose Tr. coeliacus_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "Atherosklerose Tr. coeliacus_Wert": "__FILL__"
+      },
+      "Atherosklerose A. mesenterica superior": {
+        "Atherosklerose A. mesenterica superior": "__FILL__",
+        "Atherosklerose A. mesenterica superior_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "Atherosklerose A. mesenterica superior_Wert": "__FILL__"
+      }
+    },
+    "Abdomen": {
+      "Aszites": {
+        "Aszites": "__FILL__",
+        "Aszites_möglichkeiten": [
+          "nein",
+          "wenig",
+          "ausgeprägt"
+        ]
+      },
+      "peritoneale Implantate": {
+        "peritoneale Implantate": "__FILL__",
+        "peritoneale Implantate_möglichkeiten": [
+          "nein",
+          "ja"
+        ],
+        "peritoneale Implantate_Wert": "__FILL__"
+      },
+      "Leber": {
+        "Leber": "__FILL__",
+        "Leber_möglichkeiten": [
+          "nein",
+          "Lebermetastasen",
+          "sonstiges"
+        ],
+        "L01": "__FILL__",
+        "L02": "__FILL__",
+        "Leber_Text": "__FILL__"
+      },
+      "Milz": {
+        "Milz": "__FILL__",
+        "Milz_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Milz_Wert": "__FILL__"
+      },
+      "Nieren / Ureteren": {
+        "Nieren / Ureteren": "__FILL__",
+        "Nieren / Ureteren_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Nieren_Ureteren_Wert": "__FILL__"
+      },
+      "Nebennieren": {
+        "Nebennieren": "__FILL__",
+        "Nebennieren_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Nebennieren_Wert": "__FILL__"
+      },
+      "Lymphknoten": {
+        "Lymphknoten": "__FILL__",
+        "Lymphknoten_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Lymphknoten_Wert": "__FILL__"
+      },
+      "Darm": {
+        "Darm": "__FILL__",
+        "Darm_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Darm_Wert": "__FILL__"
+      },
+      "Beckenorgane": {
+        "Beckenorgane": "__FILL__",
+        "Beckenorgane_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Beckenorgane_Wert": "__FILL__"
+      },
+      "Knochen": {
+        "Knochen": "__FILL__",
+        "Knochen_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Knochen_Wert": "__FILL__"
+      },
+      "Lunge (soweit miterfasst)": {
+        "Lunge (soweit miterfasst)": "__FILL__",
+        "Lunge (soweit miterfasst)_möglichkeiten": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "Lunge_Wert": "__FILL__"
+      },
+      "Sonstiges": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "Beurteilung_Text": "V.a. Pankreas-Ca im __FILL__\nBek. Pankreas-Ca im __FILL__",
+    "Insgesamt TNM": "__FILL__",
+    "Wahrscheinlichkeit": {
+      "Wahrscheinlichkeit": "__FILL__",
+      "Wahrscheinlichkeit_möglichkeiten": [
+        "-",
+        "5 - sehr sicher",
+        "4 - sicher",
+        "3 - indifferent",
+        "2 - unsicher",
+        "1 - sehr unsicher"
+      ]
+    }
+  }
+}

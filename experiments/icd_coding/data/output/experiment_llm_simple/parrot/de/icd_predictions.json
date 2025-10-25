@@ -1,0 +1,204 @@
+{
+    "182": {
+        "ICD-10 codes": [
+            "K85",
+            "K922",
+            "K91840"
+        ],
+        "ICD-10 descriptions": [
+            "Acute pancreatitis",
+            "Gastrointestinal hemorrhage, unspecified",
+            "Postprocedural hemorrhage of a digestive system organ or structure following a digestive system procedure"
+        ]
+    },
+    "183": {
+        "ICD-10 codes": [
+            "I633",
+            "R470",
+            "R29810",
+            "I7401",
+            "Z95820"
+        ],
+        "ICD-10 descriptions": [
+            "Cerebral infarction due to thrombosis of cerebral arteries",
+            "Dysphasia and aphasia",
+            "Facial weakness",
+            "Saddle embolus of abdominal aorta",
+            "Peripheral vascular angioplasty status with implants and grafts"
+        ]
+    },
+    "184": {
+        "ICD-10 codes": [
+            "B259",
+            "Z4502",
+            "Z96621"
+        ],
+        "ICD-10 descriptions": [
+            "Cytomegaloviral disease, unspecified",
+            "Encounter for adjustment and management of automatic implantable cardiac defibrillator",
+            "Presence of right artificial elbow joint"
+        ]
+    },
+    "185": {
+        "ICD-10 codes": [
+            "N185",
+            "Z490",
+            "Z992"
+        ],
+        "ICD-10 descriptions": [
+            "Chronic kidney disease, stage 5",
+            "Preparatory care for renal dialysis",
+            "Dependence on renal dialysis"
+        ]
+    },
+    "186": {
+        "ICD-10 codes": [
+            "K838",
+            "Z9889",
+            "Z4581"
+        ],
+        "ICD-10 descriptions": [
+            "Other specified diseases of biliary tract",
+            "Other specified postprocedural states",
+            "Encounter for adjustment or removal of breast implant"
+        ]
+    },
+    "187": {
+        "ICD-10 codes": [
+            "I70239",
+            "I743",
+            "I70209"
+        ],
+        "ICD-10 descriptions": [
+            "Atherosclerosis of native arteries of right leg with ulceration of unspecified site",
+            "Embolism and thrombosis of arteries of the lower extremities",
+            "Unspecified atherosclerosis of native arteries of extremities, unspecified extremity"
+        ]
+    },
+    "188": {
+        "ICD-10 codes": [
+            "M171"
+        ],
+        "ICD-10 descriptions": [
+            "Unilateral primary osteoarthritis of knee"
+        ]
+    },
+    "189": {
+        "ICD-10 codes": [
+            "R418",
+            "G319",
+            "M488",
+            "Z9889"
+        ],
+        "ICD-10 descriptions": [
+            "Other symptoms and signs involving cognitive functions and awareness",
+            "Degenerative disease of nervous system, unspecified",
+            "Other specified spondylopathies",
+            "Other specified postprocedural states"
+        ]
+    },
+    "190": {
+        "ICD-10 codes": [
+            "C509",
+            "Z451"
+        ],
+        "ICD-10 descriptions": [
+            "Malignant neoplasm of breast of unspecified site",
+            "Encounter for adjustment and management of infusion pump"
+        ]
+    },
+    "191": {
+        "ICD-10 codes": [
+            "C798",
+            "C693",
+            "Z9889"
+        ],
+        "ICD-10 descriptions": [
+            "Secondary malignant neoplasm of other specified sites",
+            "Malignant neoplasm of choroid",
+            "Other specified postprocedural states"
+        ]
+    },
+    "192": {
+        "ICD-10 codes": [
+            "I621",
+            "T888"
+        ],
+        "ICD-10 descriptions": [
+            "Nontraumatic extradural hemorrhage",
+            "Other specified complications of surgical and medical care, not elsewhere classified"
+        ]
+    },
+    "193": {
+        "ICD-10 codes": [
+            "I70231",
+            "I70239",
+            "I70299",
+            "I70209"
+        ],
+        "ICD-10 descriptions": [
+            "Atherosclerosis of native arteries of right leg with ulceration of thigh",
+            "Atherosclerosis of native arteries of right leg with ulceration of unspecified site",
+            "Other atherosclerosis of native arteries of extremities, unspecified extremity",
+            "Unspecified atherosclerosis of native arteries of extremities, unspecified extremity"
+        ]
+    },
+    "195": {
+        "ICD-10 codes": [
+            "I81"
+        ],
+        "ICD-10 descriptions": [
+            "Portal vein thrombosis"
+        ]
+    },
+    "196": {
+        "ICD-10 codes": [
+            "E222",
+            "E871",
+            "M4854",
+            "M8008XA",
+            "R918"
+        ],
+        "ICD-10 descriptions": [
+            "Syndrome of inappropriate secretion of antidiuretic hormone",
+            "Hypo-osmolality and hyponatremia",
+            "Collapsed vertebra, not elsewhere classified, thoracic region",
+            "Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",
+            "Other nonspecific abnormal finding of lung field"
+        ]
+    },
+    "199": {
+        "ICD-10 codes": [
+            "Z96641"
+        ],
+        "ICD-10 descriptions": [
+            "Presence of right artificial hip joint"
+        ]
+    },
+    "200": {
+        "ICD-10 codes": [
+            "Z96641",
+            "Z9889",
+            "R938"
+        ],
+        "ICD-10 descriptions": [
+            "Presence of right artificial hip joint",
+            "Other specified postprocedural states",
+            "Abnormal findings on diagnostic imaging of other specified body structures"
+        ]
+    },
+    "201": {
+        "ICD-10 codes": [
+            "I509",
+            "R918",
+            "S8200",
+            "M171"
+        ],
+        "ICD-10 descriptions": [
+            "Heart failure, unspecified",
+            "Other nonspecific abnormal finding of lung field",
+            "Unspecified fracture of patella",
+            "Unilateral primary osteoarthritis of knee"
+        ]
+    }
+}

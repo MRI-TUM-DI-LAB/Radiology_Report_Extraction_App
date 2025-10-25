@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MRT Kardiale Vitalitätsdiagnostik</title>
+    <meta charset="UTF-8" />
+    <!--Dublin Core metadata elements here-->
+    <meta name="dcterms.title" content="MRT Kardiale Vitalitätsdiagnostik" />
+    <meta name="dcterms.abstract" content="Strukturierte Befundvorlage: Kardiale Vitalitätsdiagnostik" />
+    <meta name="dcterms.description" content="Template zur kardialen Vitalitätsdiagnostik" />
+    <meta name="dcterms.subject" content="MR; CA;" />
+    <meta name="dcterms.identifier" content="041807.3.2101131726" />
+    <meta name="dcterms.type" content="IMAGE_REPORT_TEMPLATE" />
+    <meta name="dcterms.language" content="de" />
+    <meta name="dcterms.rights" content="Die Deutsche Röntgengesellschaft e.V.(DRG) stellt sämtliche Templates kostenfrei unter der Creative Commons Lizenz  CC BY in der Version 4.0 zur Verfügung. Die Lizenz erlaubt Download und Weiterverteilung des Werkes unter Nennung der DRG als Urheber.">
+    <meta name="dcterms.license" content="https://github.com/DRGagit/ak_befundung/blob/master/LICENSE">
+    <meta name="dcterms.date" content="2021-01-13" />
+    <meta name="dcterms.creator" content="AG Herz- und Gefäßdiagnostik" />
+    <meta name="dcterms.contributor" content="Jan Preuss (Kodierung)" />
+    <meta name="dcterms.publisher" content="Deutsche Röntgengesellschaft (DRG)" />
+
+    <script type="text/xml">
+      <template_attributes>
+        <top-level-flag>0</top-level-flag>
+        <status>ACTIVE</status>
+      </template_attributes>
+    </script>
+
+    <!--Link to Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="drg.css" />
+
+  </head>
+  <body>
+    <section data-section-name="Klinische Angaben" data-section-required="true">
+      <header class="level1" data-english="Clinical information">Klinische Angaben</header>
+      <p>
+       <textarea name="clinical_information" id="clinical_information" data-field-type="TEXTAREA"></textarea>
+      </p>
+      <table>
+        <tr>
+          <th>Patientencharakteristik</th>
+          <td>
+            <table>
+              <tr>
+                <th><label for="patient_sex">Geschlecht:</label></th>
+                <td>
+                  <select name="patient_sex" id="patient_sex">
+                    <option value="W">W</option>
+                    <option value="M">M</option>
+                    <option value="O">O</option>
+                  </select>
+                </td>
+              </tr>
+              <tr>
+                <th><label for="patient_body_weight">Körpergewicht:</label></th>
+                <td><input type="number" id="patient_body_weight" name="patient_body_weight" min="0.1" max="600" step="0.1" data-field-units="kg" data-field-type="NUMBER" /> kg</td>
+              </tr>
+              <tr>
+                <th><label for="patient_body_weight">Körpergröße:</label></th>
+                <td><input type="number" id="patient_body_height" name="patient_body_height" min="0.100" max="3" step="0.001" data-field-units="m" data-field-type="NUMBER" /> m</td>
+              </tr>
+              <tr>
+                <th><label for="patient_body_surface_area">Körperoberfläche (BSA):</label></th>
+                <td><input type="number" id="patient_body_surface_area" name="patient_body_surface_area" min="0.10" max="9" step="0.01" data-field-units="m2" data-field-type="NUMBER" /> m<sup>2</sup></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </section>
+
+    <section data-section-name="Klinische Fragestellung">
+      <header class="level1" data-english="Clinical question">Klinische Fragestellung</header>
+      <p>
+        <textarea name="clinical_question" data-field-type="TEXTAREA"></textarea>
+      </p>
+    </section>
+
+    <section data-section-name="Method">
+      <header class="level1" data-english="Method">Methodik</header>
+      <table>
+        <tr>
+          <th><label for="magnetic_flux_density">Flussdichte:</label></th>
+          <td>
+            <select name="magnetic_flux_density" id="magnetic_flux_density">
+              <option value="&mdash;">&mdash;</option>
+              <option value="1.5 T">1.5 T</option>
+              <option value="3.0 T">3 T</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th><label for="mr_protocol">MR-Protokoll:</label></th>
+          <td><textarea id="mr_protocol" name="mr_protocol" data-field-type="TEXTAREA">Sequenzen und Ebenen:</textarea></td>
+        </tr>
+        <tr>
+          <th><label for="evaluation_software">Auswertesoftware:</label></th>
+          <td><input type="text" id="evaluation_software" name="evaluation_software" value="(Name und Version)" data-field-type="TEXT" /></td>
+        </tr>
+        <tr>
+          <th>Kontrastmittel</th>
+          <td>
+            <table>
+              <tr>
+                <th><label for="contrast_agent_name">Name:</label></th>
+                <td><input type="text" id="contrast_agent_name" name="contrast_agent_name" data-field-type="TEXT" /></td>
+              </tr>
+              <tr>
+                <th><label for="contrast_agent_dose">Menge:</label></th>
+                <td><input type="number" id="contrast_agent_dose" name="contrast_agent_dose" min="0" max="100" step="0.1" data-field-units="ml" data-field-type="NUMBER" /> ml</td>
+              </tr>
+              <tr>
+                <th><label for="contrast_agent_flow">Flussgeschwindigkeit:</label></th>
+                <td><input type="number" id="contrast_agent_flow" name="contrast_agent_flow" min="0" max="100" step="0.1" data-field-units="ml/s" data-field-type="NUMBER" /> ml/s</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </section>
+
+    <section data-section-name="Befund" data-section-required="true">
+      <header class="level1">Befund</header>
+      <table>
+        <tr>
+          <th>Vergleichsuntersuchung:</th>
+          <td>
+            <select name="comparison_assessment" id="comparison_assessment">
+              <option value="keine">keine</option>
+              <option value="vorliegend">vorliegend</option>
+            </select>
+            <input name="comparison_assessment_date" id="comparison_assessment_date" type="date" data-field-type="DATE" />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="image_quality">Bildqualität:</label></th>
+          <td>
+            <select name="image_quality" id="image_quality">
+              <option value="gut">gut</option>
+              <option value="ausreichend">ausreichend</option>
+              <option value="eingeschränkt">eingeschränkt</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th>Quelle der Normwerte:</th>
+          <td>
+            <ul>
+              <li>
+                Referenzwerte für Kinder und Jugendliche 0-18 Jahre, Mädchen/Jungen: <a href="https://doi.org/10.1093/ehjci/jez164" target="_blank">van der Ven et al. European Heart Journal &ndash; Cardiovascular Imaging 2020.</a>
+                <ul>
+                  <li><a href="https://academic.oup.com/view-large/190373375">Referenzwerttabelle</a></li>
+                </ul>
+              </li>
+              <li>
+                Referenzwerte für Frauen/Männer: <a href="https://doi.org/10.1186/s12968-020-00683-3" target="_blank">Kawel-Boehm et al. J Cardiovasc Magn Reson 22, 87 (2020).</a><br />
+                <ul>
+                  <li><a href="https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00683-3/tables/2" target="blank_">Referenzwerttabelle linksventrikulärer Parameter</a></li>
+                  <li><a href="https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00683-3/tables/10" target="blank_">Referenzwerttabelle rechtsventrikulärer Parameter</a></li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <th>Morphologie und Funktionsanalyse</th>
+          <td>
+            <table>
+              <tr>
+                <th><label for="lv_enddiastolic_diameter">LV enddiastolischer Diameter (LV EDD):</label></th>
+                <td><input type="number" id="lv_enddiastolic_diameter" name="lv_enddiastolic_diameter" min="0.1" max="300" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="lv_enddiastolic_volume_index">LV enddiastolischer Volumenindex (LV EDVi):</label></th>
+                <td><input type="number" id="lv_enddiastolic_volume_index" name="lv_enddiastolic_volume_index" min="1" max="1000" step="1" data-field-units="ml/m2" data-field-type="NUMBER" /> ml/m<sup>2</sup></td>
+              </tr>
+              <tr>
+                <th><label for="lv_endsystolic_volume_index">LV endsystolischer Volumenindex (LV ESVi):</label></th>
+                <td><input type="number" id="lv_endsystolic_volume_index" name="lv_endsystolic_volume_index" min="1" max="1000" step="1" data-field-units="ml/m2" data-field-type="NUMBER" /> ml/m<sup>2</sup></td>
+              </tr>
+              <tr>
+                <th><label for="lv_ejection_fraction">LV Ejektionsfraktion (LV EF):</label></th>
+                <td><input type="number" id="lv_ejection_fraction" name="lv_ejection_fraction" min="0" max="100" step="1" data-field-units="%" data-field-type="NUMBER" /> %</td>
+              </tr>
+              <tr>
+                <th><label for="lv_ed_normalized_mass">LV ED Masse normiert:</label></th>
+                <td><input type="number" id="lv_ed_normalized_mass" name="lv_ed_normalized_mass" min="0" max="5000" step="1" data-field-units="g/m2" data-field-type="NUMBER" /> g/m<sup>2</sup></td>
+              </tr>
+              <tr>
+                <th><label for="lv_regional_wall_motion_abnormality">LV Regionale Wandbewegungsstörung:</label></th>
+                <td>
+                  <select name="lv_regional_wall_motion_abnormality" id="lv_regional_wall_motion_abnormality">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="Nein">Nein</option>
+                    <option value="Ja">Ja</option>
+                  </select>
+                  <input type="text" id="lv_regional_wall_motion_abnormality_comment" name="lv_regional_wall_motion_abnormality_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="regional_wall_thinning">Regionale Wandausdünnung:</label></th>
+                <td>
+                  <select name="regional_wall_thinning" id="regional_wall_thinning">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="Nein">Nein</option>
+                    <option value="Ja">Ja</option>
+                  </select>
+                  <input type="text" id="regional_wall_thinning_comment" name="regional_wall_thinning_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="rv_enddiastolic_diameter">RV enddiastolischer Diameter (RV EDD):</label></th>
+                <td><input type="number" id="rv_enddiastolic_diameter" name="rv_enddiastolic_diameter" min="0.1" max="300" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="rv_enddiastolic_volume_index">RV enddiastolischer Volumenindex (RV EDVi):</label></th>
+                <td><input type="number" id="rv_enddiastolic_volume_index" name="rv_enddiastolic_volume_index" min="1" max="1000" step="1" data-field-units="ml/m2" data-field-type="NUMBER" /> ml/m<sup>2</sup></td>
+              </tr>
+              <tr>
+                <th><label for="rv_endsystolic_volume_index">RV endsystolischer Volumenindex (RV ESVi):</label></th>
+                <td><input type="number" id="rv_endsystolic_volume_index" name="rv_endsystolic_volume_index" min="1" max="1000" step="1" data-field-units="ml/m2" data-field-type="NUMBER" /> ml/m<sup>2</sup></td>
+              </tr>
+              <tr>
+                <th><label for="rv_ejection_fraction">RV Ejektionsfraktion:</label></th>
+                <td><input type="number" id="rv_ejection_fraction" name="rv_ejection_fraction" min="0" max="100" step="1" data-field-units="%" data-field-type="NUMBER" /> %</td>
+              </tr>
+              <tr>
+                <th><label for="rv_regional_wall_motion_abnormality">RV Regionale Wandbewegungsstörung:</label></th>
+                <td>
+                  <select name="rv_regional_wall_motion_abnormality" id="rv_regional_wall_motion_abnormality">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="Nein">Nein</option>
+                    <option value="Ja">Ja</option>
+                  </select>
+                  <input type="text" id="rv_regional_wall_motion_abnormality_comment" name="rv_regional_wall_motion_abnormality_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <th>Vorhofgröße</th>
+          <td>
+            <table>
+              <tr>
+                <th><label for="atrium_size_visual">Visuell:</label></th>
+                <td>
+                  <select name="atrium_size_visual" id="atrium_size_visual">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="normal groß">normal groß</option>
+                    <option value="pathologisch">pathologisch</option>
+                  </select>
+                  <input type="text" id="regional_wall_thinning_comment" name="regional_wall_thinning_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="la_size_longitudinal">LA im Vierkammerblick longitudinal:</label></th>
+                <td><input type="number" id="la_size_longitudinal" name="la_size_longitudinal" min="0" max="200" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="la_size_transversal">LA im Vierkammerblick transversal:</label></th>
+                <td><input type="number" id="la_size_transversal" name="la_size_transversal" min="0" max="200" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="ra_size_longitudinal">RA im Vierkammerblick longitudinal:</label></th>
+                <td><input type="number" id="ra_size_longitudinal" name="ra_size_longitudinal" min="0" max="200" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="ra_size_transversal">RA im Vierkammerblick transversal:</label></th>
+                <td><input type="number" id="ra_size_transversal" name="ra_size_transversal" min="0" max="200" step="0.1" data-field-units="mm" data-field-type="NUMBER" /> mm</td>
+              </tr>
+              <tr>
+                <th><label for="atrial_septum_position">Vorhofseptumstellung:</label></th>
+                <td>
+                  <select name="atrial_septum_position" id="atrial_septum_position">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="normal">normal</option>
+                    <option value="abnorm">abnorm</option>
+                  </select>
+                  <input type="text" id="atrial_septum_position_comment" name="atrial_septum_position_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <th><label for="heart_valve_pathology">Herzklappenpathologie:</label></th>
+          <td>
+            <select name="heart_valve_pathology" id="heart_valve_pathology">
+              <option value="nicht untersucht">nicht untersucht</option>
+              <option value="nein">nein</option>
+              <option value="ja">ja</option>
+            </select>
+            <input type="text" id="heart_valve_pathology_comment" name="heart_valve_pathology_comment" data-field-type="TEXT" />
+          </td>
+        </tr>
+        <tr>
+          <th><label for="intracavitary_thrombi">Intrakavitäre Thromben:</label></th>
+          <td>
+            <select name="intracavitary_thrombi" id="intracavitary_thrombi">
+              <option value="&mdash;">&mdash;</option>
+              <option value="nein">nein</option>
+              <option value="ja">ja</option>
+            </select>
+            <input type="text" id="intracavitary_thrombi_comment" name="intracavitary_thrombi_comment" data-field-type="TEXT" />
+          </td>
+        </tr>
+        <tr>
+          <th>Gewebecharakterisierung</th>
+          <td>
+            <table>
+              <tr>
+                <th><label for="regional_myocardial_edema">Myokardödem regional:</label></th>
+                <td>
+                  <select name="regional_myocardial_edema" id="regional_myocardial_edema">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="nein">nein</option>
+                    <option value="ja">ja</option>
+                  </select>
+                  <input type="text" id="regional_myocardial_edema_comment" name="regional_myocardial_edema_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="lge_myocardium">Late Gadolinium Enhancement (LGE) Myokard:</label></th>
+                <td>
+                  <select name="lge_myocardium" id="lge_myocardium">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="nein">nein</option>
+                    <option value="ja">ja</option>
+                  </select>
+                  <table>
+                    <tr>
+                      <th><label for="lge_distribution">Lokalisation/Verteilungsmuster:</label></th>
+                      <td><textarea id="lge_distribution" name="lge_distribution" data-field-type="TEXTAREA"></textarea></td>
+                    </tr>
+                    <tr>
+                      <th><label for="lge_transmurality">Transmuralität:</label></th>
+                      <td>
+                        <select name="regional_myocardial_edema" id="regional_myocardial_edema">
+                          <option value="&mdash;">&mdash;</option>
+                          <option value="&lt; 50%">&lt; 50%</option>
+                          <option value="&gt; 50%">&gt; 50%</option>
+                        </select>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <th><label for="microvascular_obstruction">Mikrovaskuläre Obstruktion:</label></th>
+                <td>
+                  <select name="microvascular_obstruction" id="microvascular_obstruction">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="nein">nein</option>
+                    <option value="ja">ja</option>
+                  </select>
+                  <input type="text" id="microvascular_obstruction_comment" name="microvascular_obstruction_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="hemorrhage">Hämorrhagie:</label></th>
+                <td>
+                  <select name="hemorrhage" id="hemorrhage">
+                    <option value="&mdash;">&mdash;</option>
+                    <option value="nein">nein</option>
+                    <option value="ja">ja</option>
+                  </select>
+                  <input type="text" id="hemorrhage_comment" name="hemorrhage_comment" data-field-type="TEXT" />
+                </td>
+              </tr>
+              <tr>
+                <th><label for="t2_mapping">T2-Mapping:</label></th>
+                <td><input type="number" id="t2_mapping" name="t2_mapping" min="0" max="5000" step="1" data-field-units="ms" data-field-type="NUMBER" /> ms</td>
+              </tr>
+              <tr>
+                <th><label for="t1_mapping_native">T1-Mapping nativ:</label></th>
+                <td><input type="number" id="t1_mapping_native" name="t1_mapping_native" min="0" max="5000" step="1" data-field-units="ms" data-field-type="NUMBER" /> ms</td>
+              </tr>
+              <tr>
+                <th><label for="t1_mapping_post_ca">T1-Mapping post KM:</label></th>
+                <td><input type="number" id="t1_mapping_post_ca" name="t1_mapping_post_ca" min="0" max="5000" step="1" data-field-units="ms" data-field-type="NUMBER" /> ms</td>
+              </tr>
+              <tr>
+                <th><label for="ECV">ECV:</label></th>
+                <td><input type="number" id="ecv" name="ecv" min="0" max="100" step="1" data-field-units="%" data-field-type="NUMBER" /> %</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <th><label for="other_findings">Sonstiges:</label></th>
+          <td><textarea name="other_findings" data-field-type="TEXTAREA"></textarea></td>
+        </tr>
+      </table>
+    </section>
+
+    <section data-section-name="Beurteilung" data-section-required="true">
+      <header class="level1" data-english="Impression">Beurteilung</header>
+      <p>
+        <textarea name="impression" data-field-type="TEXTAREA"></textarea>
+      </p>
+    </section>
+  </body>
+</html>

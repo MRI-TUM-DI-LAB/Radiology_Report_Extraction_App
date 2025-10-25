@@ -1,0 +1,31 @@
+{
+    "PROCEDURE_INFORMATION": {
+        "ORAL_CONTRAST_PROTOCOL": "__FILL__",
+        "IV_CONTRAST_GIVEN": "__FILL__",
+        "MULTIPHASE_SCAN": "__FILL__"
+    },
+    "CLINICAL_INFORMATION": {
+        "SERUM_AMYLASE_LIPASE_LEVELS": "__FILL__",
+        "CHARACTERISTIC_CLINICAL_SYMPTOMS": "__FILL__",
+        "SIGNIFICANT_HISTORY": "__FILL__"
+    },
+    "COMPARISON": {
+        "COMPARISON_AVAILABLE": "__FILL__",
+        "PREVIOUS_SCAN_DATE": "__FILL__"
+    },
+    "FINDINGS": {
+        "PANCREAS_PERIPANCREATIC_REGION": {
+            "NORMAL_APPEARANCE": "__FILL__",
+            "PANCREATIC_DUCT_NOT_DILATED": "__FILL__",
+            "PANCREATIC_DUCT_DILATED": "__FILL__",
+            "NO_PANCREATIC_CALCIFICATIONS_NOTED": "__FILL__",
+            "PANCREATIC_CALCIFICATIONS_NOTED": "__FILL__"
+        },
+        "CTSI_BALTHAZAR_SCORE": "__FILL__",
+        "CTSI_PANCREATIC_NECROSIS_SCORE": "__FILL__",
+        "TOTAL_CTSI": "__FILL__",
+        "DESCRIBED_COLLECTIONS": "__FILL__",
+        "DESCRIBE_COLLECTIONS": "__FILL__",
+        "EXTENT_OF_INFLAMMATION": "__FILL__"
+    }
+}

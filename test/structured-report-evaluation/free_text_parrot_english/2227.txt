@@ -1,0 +1,13 @@
+English Translation:
+Clinic, Question, Justifying Indication:
+Patient with swelling in the neck area and difficulty swallowing. Question regarding peritonsillar abscess/parapharyngeal abscess.
+The justifying indication for the use of ionizing radiation was provided by the responsible, qualified physician.
+Information and Consent:After obtaining a risk history, the patient was verbally and in writing informed about the contrast agent application, the examination procedure, and potential risks (also refer to the consent form). Written consent was obtained from the patient.
+Examination Technique:
+Digital overview radiographs. Intravenous administration of a total of 75 ml Imeron 400 using split-bolus technique and acquisition of the neck in a biphasic contrast phase. Multiplanar reconstructions. Dose-length product: 310.20 mGy*cm.
+Findings:
+No relevant previous images are available for comparison.
+Mucosal swelling in the left maxillary sinus and, to a lesser extent, in the right maxillary sinus; the remaining included paranasal sinuses and mastoid cells are well aerated. Hypodense lesions with peripheral contrast enhancement in the tonsillar fossa on both sides, without extension into the respective parapharyngeal space, measuring approximately 22 x 20 x 46 mm on the right and 22 x 15 x 50 mm on the left. This causes significant narrowing of the distal nasopharynx/proximal oropharynx. Hypopharynx is largely symmetrical. Laryngeal skeleton and epiglottis are delicate. Symmetrical contrast enhancement of the major salivary glands and thyroid gland. Numerous markedly enlarged lymph nodes, for example, in the right Level IIa with a size of 21 x 18 mm, or in the left Level IIb with a size of 17 x 12 mm. Normal contrast enhancement of the large cervical vessels. No evidence of pneumonic infiltrates in the included apical lung sections. Early degenerative changes in the spine.
+Assessment:
+Large bilateral intra-/peritonsillar abscesses. The para- and retropharyngeal spaces are not affected.
+Most likely reactive, pronounced cervical lymphadenopathy.

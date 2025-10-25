@@ -1,0 +1,12 @@
+Clinical Information, Question, Justification for Examination:
+NMDA receptor encephalitis, low-grade glioma, MYB/MYBL1, partial tumor resection. Tumor progression?
+
+MRI of the brain at 3 Tesla. Supine position. Head coil. Sequences: Localization sequences in multiple planes, T2 TSE FS axial, T1 FLASH axial, T2 TSE sagittal, T2-FLAIR coronal, EPI DWI axial, T2* axial, T1 MPRAGE sagittal after administration of 2.7 ml Gadovist.
+
+Findings:
+Known tumor in the right cerebellar white matter with infiltration of the superior cortex, the superior and middle cerebellar peduncles, as well as the inferior portion of the vermis. The size is unchanged, but the tumor appears slightly less voluminous compared to the examination on 09/27/2021. Unchanged small resection cavity centrally within the lesion. No enhancement, no diffusion restrictions. Subtle postoperative hemosiderin deposits. 
+No leukoencephalopathy, no atrophy, no evidence of cerebrospinal fluid circulation disorder, age-appropriate small pituitary gland, no microbleeds/cavernomas. 
+Clear paranasal sinuses, mastoid cells, and tympanic cavities.
+
+Impression:
+Stable disease with an overall slightly less voluminous appearance of the tumor.

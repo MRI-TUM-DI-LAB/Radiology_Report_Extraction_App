@@ -1,0 +1,369 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "select": [
+        "-",
+        "CT",
+        "MR"
+      ],
+      "input": "__FILL__"
+    },
+    "Histologie": {
+      "select": [
+        "-",
+        "ausstehend",
+        "nachgewiesen"
+      ]
+    },
+    "IgG4": {
+      "select": [
+        "-",
+        "positiv",
+        "negativ"
+      ]
+    },
+    "Bildqualität:": {
+      "select": [
+        "exzellent",
+        "mittel",
+        "schlecht"
+      ]
+    },
+    "Pankreasparenchym": {
+      "select": [
+        "normal",
+        "lipotroph",
+        "ödematös",
+        "chron. Pankreatitis"
+      ]
+    },
+    "Pankreasläsion": {
+      "Tumorlokalisation": {
+        "select": [
+          "-",
+          "Pankreaskopf",
+          "Pankreasschwanz",
+          "Pankreaskörper",
+          "Proc. uncinatus"
+        ],
+        "Bild": "__FILL__",
+        "Serie": "__FILL__"
+      },
+      "Charakterisierung": {
+        "select": [
+          "-",
+          "zystisch",
+          "mikrozystisch",
+          "makrozystisch",
+          "nekrotisch"
+        ]
+      },
+      "Anzahl": {
+        "select": [
+          "monozystisch",
+          "oligozystisch",
+          "polyzystisch"
+        ]
+      },
+      "Tumorgröße": {
+        "input": "__FILL__"
+      },
+      "Gangassoziation": {
+        "select": [
+          "keine",
+          "Hauptgang",
+          "Seitast",
+          "kombiniert"
+        ]
+      },
+      "Kontur": {
+        "select": [
+          "scharf",
+          "unscharf"
+        ]
+      },
+      "Wand": {
+        "select": [
+          "keine",
+          "dünn",
+          "dick"
+        ]
+      },
+      "Septierungen": {
+        "select": [
+          "nein",
+          "ja"
+        ]
+      },
+      "solide Komponente": {
+        "select": [
+          "nein",
+          "ja - zentral",
+          "ja - peripher"
+        ]
+      },
+      "KM-Enhancement": {
+        "select": [
+          "nein",
+          "ja"
+        ]
+      },
+      "Kalzifikationen": {
+        "select": [
+          "nein",
+          "ja"
+        ]
+      },
+      "Infiltration": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__",
+        "Bild": "__FILL__",
+        "Serie": "__FILL__"
+      }
+    },
+    "Gallenwege": {
+      "Ductus pancreaticus": {
+        "select": [
+          "-",
+          "unauffällig",
+          "dilatiert"
+        ],
+        "input": "__FILL__"
+      },
+      "Ductus hepatocholedochus": {
+        "select": [
+          "-",
+          "unauffällig",
+          "dilatiert"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Gefäßbezug (arteriell)": {
+      "Aorta": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "Truncus coeliacus": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. hepatica communis": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. hepatica propria": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. gastroduodenalis": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. mesenterica superior": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "A. lienalis": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "Anatomische Varianten": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Gefäßbezug (venös)": {
+      "V. mesenterica superior": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung",
+          "1. Jejunalast infiltriert"
+        ]
+      },
+      "V. lienalis": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      },
+      "V. portae": {
+        "select": [
+          "nein",
+          "< 180°",
+          "> 180°",
+          "360°",
+          "Deformierung"
+        ]
+      }
+    },
+    "Gefäße (sonstiges)": {
+      "Atherosklerose Tr. coeliacus": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Atherosklerose A. mesenterica superior": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Abdomen": {
+      "Aszites": {
+        "select": [
+          "nein",
+          "wenig",
+          "ausgeprägt"
+        ]
+      },
+      "peritoneale Implantate": {
+        "select": [
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Leber": {
+        "select": [
+          "nein",
+          "Lebermetastasen",
+          "sonstiges"
+        ],
+        "L01": "__FILL__",
+        "L02": "__FILL__",
+        "textarea": "__FILL__"
+      },
+      "Milz": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Nieren / Ureteren": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Nebennieren": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Lymphknoten": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Darm": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Beckenorgane": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Knochen": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "Lunge (soweit miterfasst)": {
+        "select": [
+          "unauffällig",
+          "auffällig"
+        ],
+        "input": "__FILL__"
+      },
+      "sonstiges": {
+        "textarea": "__FILL__"
+      }
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__",
+    "Insgesamt TNM": {
+      "input": "__FILL__",
+      "select": [
+        "-",
+        "5 - sehr sicher",
+        "4 - sicher",
+        "3 - indifferent",
+        "2 - unsicher",
+        "1 - sehr unsicher"
+      ]
+    }
+  }
+}

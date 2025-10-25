@@ -1,0 +1,64 @@
+{
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "LEFT_VENTRICULAR_MEASUREMENTS": {
+            "END_DIASTOLIC_DIAMETER": "__FILL__",
+            "EJECTION_FRACTION": "__FILL__",
+            "STROKE_VOLUME": "__FILL__",
+            "END_DIASTOLIC_VOLUME": "__FILL__",
+            "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+            "END_SYSTOLIC_VOLUME": "__FILL__",
+            "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+            "CARDIAC_OUTPUT": "__FILL__",
+            "CARDIAC_INDEX": "__FILL__",
+            "INDEX_VALUES_NORMALIZED_TO_BODY_SURFACE_AREA": "__FILL__"
+        },
+        "RIGHT_VENTRICULAR_MEASUREMENTS": {
+            "END_DIASTOLIC_DIAMETER": "__FILL__",
+            "EJECTION_FRACTION": "__FILL__",
+            "STROKE_VOLUME": "__FILL__",
+            "END_DIASTOLIC_VOLUME": "__FILL__",
+            "INDEXED_END_DIASTOLIC_VOLUME": "__FILL__",
+            "END_SYSTOLIC_VOLUME": "__FILL__",
+            "INDEXED_END_SYSTOLIC_VOLUME": "__FILL__",
+            "CARDIAC_OUTPUT": "__FILL__",
+            "CARDIAC_INDEX": "__FILL__"
+        },
+        "VALVES": {
+            "AORTIC_VALVE": "__FILL__",
+            "AORTIC_FORWARD_VOLUME": "__FILL__",
+            "AORTIC_REGURGITANT_VOLUME": "__FILL__",
+            "AORTIC_VALVE_AREA": "__FILL__",
+            "MITRAL_VALVE": "__FILL__",
+            "MITRAL_REGURGITANT_VOLUME": "__FILL__",
+            "MITRAL_VALVE_AREA": "__FILL__",
+            "TRICUSPID_VALVE": "__FILL__",
+            "TRICUSPID_REGURGITANT_VOLUME": "__FILL__",
+            "PULMONIC_VALVE": "__FILL__",
+            "PULMONIC_REGURGITANT_VOLUME": "__FILL__",
+            "PULMONIC_FORWARD_VOLUME": "__FILL__",
+            "PULMONIC_VALVE_AREA": "__FILL__"
+        },
+        "IMPRESSION": {
+            "RIGHT_VENTRICLE": {
+                "SIZE": "__FILL__",
+                "FUNCTION": "__FILL__"
+            },
+            "LEFT_VENTRICLE": {
+                "SIZE": "__FILL__",
+                "FUNCTION": "__FILL__"
+            },
+            "RIGHT_ATRIUM": "__FILL__",
+            "LEFT_ATRIUM": "__FILL__",
+            "PERICARDIUM": "__FILL__",
+            "GREAT_VESSELS": "__FILL__",
+            "AORTA": "__FILL__",
+            "PULMONARY_ARTERY": "__FILL__",
+            "PULMONARY_VEINS": "__FILL__",
+            "INFERIOR_VENA_CAVA": "__FILL__",
+            "SUPERIOR_VENA_CAVA": "__FILL__",
+            "EXTRA_CARDIAC_FINDINGS": "__FILL__"
+        }
+    }
+}

@@ -1,0 +1,254 @@
+{
+  "section": [
+    {
+      "header": "Klinische Angaben",
+      "p": {
+        "textarea": "__FILL__"
+      },
+      "table": {
+        "tr": {
+          "th": "Patientencharakteristik",
+          "td": {
+            "table": {
+              "tr": [
+                {
+                  "td": [
+                    {
+                      "label": "Körpergewicht:"
+                    },
+                    "__FILL__"
+                  ]
+                },
+                {
+                  "td": [
+                    {
+                      "label": "Körpergröße:"
+                    },
+                    "__FILL__"
+                  ]
+                },
+                {
+                  "td": [
+                    {
+                      "label": "Körperoberfläche (BSA)::"
+                    },
+                    "__FILL__"
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "header": "Fragestellung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Methodik",
+      "table": {
+        "tr": {
+          "td": [
+            {
+              "label": "Technik:"
+            },
+            {
+              "textarea": "__FILL__"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "header": "Befund",
+      "table": [
+        {
+          "tr": {
+            "td": [
+              {
+                "label": "Vergleichsuntersuchung"
+              },
+              "__FILL__"
+            ]
+          }
+        },
+        {
+          "tr": {
+            "th": "Funktionsanalyse LV (blood volume)",
+            "td": {
+              "table": {
+                "tr": [
+                  {
+                    "td": [
+                      {
+                        "label": "LV enddiastolisches Volumen normiert (LV EDV/BSA):"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "LV endsystolisches Volumen normiert (LV ESV/BSA):"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "LV Ejektions-Fraktion (LV EF):"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "LV ED Masse normiert:"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "IVSD:"
+                      },
+                      "__FILL__"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": {
+              "label": "Anatomie"
+            },
+            "td": {
+              "textarea": "__FILL__"
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Adenosin Stress- und Ruhe-Perfusion",
+            "td": {
+              "table": {
+                "tr": [
+                  {
+                    "td": [
+                      {
+                        "label": "Perfusionsstörung unter Adenosin:"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "Ruhe-Perfusion:"
+                      },
+                      "__FILL__"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": {
+              "label": "Regionale Wandbewegungsstörungen LV:"
+            },
+            "td": "__FILL__"
+          }
+        },
+        {
+          "tr": {
+            "th": "Weitere kardiale Befunde",
+            "td": {
+              "table": {
+                "tr": [
+                  {},
+                  {
+                    "td": [
+                      {
+                        "label": "Intracavitäre Thromben:"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "Perikarderguss:"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "AV-Klappen:"
+                      },
+                      "__FILL__"
+                    ]
+                  },
+                  {
+                    "td": [
+                      {
+                        "label": "Trikuspide Aortenklappe:"
+                      },
+                      "__FILL__"
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Gewebecharakterisierung",
+            "td": {
+              "table": {
+                "tr": {
+                  "td": [
+                    {
+                      "label": "Late Enhancement (LGE):"
+                    },
+                    "__FILL__"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": {
+              "label": "Extrakardiale Auffälligkeiten"
+            },
+            "td": {
+              "textarea": "__FILL__"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "header": "Beurteilung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    }
+  ]
+}

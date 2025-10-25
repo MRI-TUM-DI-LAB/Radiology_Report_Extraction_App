@@ -1,0 +1,9 @@
+Patient: Heike Hofmann, DOB: 07/03/1982 Referring Physician: Dr. Neurologist Clinical Question: Rule out Multiple Sclerosis, follow-up evaluation
+
+Technique: MRI of the brain with and without contrast (Gadolinium) using T1-weighted, T2-weighted, FLAIR, and DWI sequences.
+
+Previous Findings: Brain MRI from 05/12/2023: Multiple demyelinating lesions periventricular and subcortical.
+
+Findings: Compared to the previous MRI from 05/12/2023, there are no new demyelinating lesions. The known periventricular and subcortical lesions on both sides show no contrast enhancement. No signs of active inflammation. Ventricles and sulci are of age-appropriate size. No midline shift. Brainstem and cerebellum are unremarkable.
+
+Impression: MRI findings are morphologically consistent with Multiple Sclerosis. No evidence of current disease activity.

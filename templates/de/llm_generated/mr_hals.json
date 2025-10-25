@@ -1,0 +1,81 @@
+{
+    "TECHNIK": "__FILL__",
+    "KLINISCHE_INDIKATION": "__FILL__",
+    "UNTERSUCHUNG": "__FILL__",
+    "BEFUNDE": {
+        "HALSWIRBELSÄULE": {
+            "AUSRICHTUNG": "__FILL__",
+            "WIRBELKÖRPER": "__FILL__",
+            "BANDSCHEIBENRÄUME": "__FILL__",
+            "RÜCKENMARK": "__FILL__"
+        },
+        "PARAVERTEBRALE_WEICHTEILE": {
+            "MUSKELN": "__FILL__",
+            "FASZIENLOGEN": "__FILL__"
+        },
+        "HALSGEFÄSSE": {
+            "KAROTISARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "JUGULARVENEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "VERTEBRALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            }
+        },
+        "SPEICHELDRÜSEN": {
+            "OHRSPEICHELDRÜSEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "UNTERKIEFERDRÜSEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "UNTERZUNGENDRÜSEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            }
+        },
+        "LYMPHKNOTEN": {
+            "GRÖSSE": "__FILL__",
+            "FORM": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "ENTZÜNDLICHE_VERÄNDERUNGEN": "__FILL__",
+            "METASTASENVERDACHT": "__FILL__"
+        },
+        "SCHILDDRÜSE": {
+            "GRÖSSE": "__FILL__",
+            "SIGNALINTENSITÄT": "__FILL__",
+            "ENTZÜNDLICHE_VERÄNDERUNGEN": "__FILL__",
+            "KNOTEN": "__FILL__",
+            "RAUMFORDERUNG": "__FILL__"
+        },
+        "PHARYNX_UND_LARYNX": {
+            "OROPHARYNX": "__FILL__",
+            "HYPOPHARYNX": "__FILL__",
+            "LARYNX": "__FILL__",
+            "EPIGLOTTIS": "__FILL__",
+            "STIMMBÄNDER": "__FILL__",
+            "TUMOR": "__FILL__",
+            "ENTZÜNDLICHE_VERÄNDERUNGEN": "__FILL__"
+        },
+        "UMGEBENDES_WEICHGEWEBE": {
+            "RAUMFORDERUNG": "__FILL__",
+            "ENTZÜNDLICHE_VERÄNDERUNGEN": "__FILL__",
+            "TUMORINVASION": "__FILL__",
+            "GEFÄSSINVASION": "__FILL__",
+            "NERVINVASION": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": {
+        "TUMORPRÄSENZ": "__FILL__",
+        "ENTZÜNDLICHER_PROZESS": "__FILL__",
+        "ANDERE_ANOMALIEN": "__FILL__"
+    },
+    "EMPFEHLUNG": "__FILL__"
+}

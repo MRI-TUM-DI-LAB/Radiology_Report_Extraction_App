@@ -1,0 +1,29 @@
+EXAM:
+  CT CHEST (PULMONARY ANGIOGRAM)CLINICAL HISTORY: A 65-year-old female 
+with sudden onset shortness of breath and chest pain, suspected 
+pulmonary embolism. COMPARISON: Chest x-ray dated __. TECHNIQUE: 
+Multiplanar and multi-phase CT pulmonary angiogram (CTPA) of the chest 
+was performed with the administration of intravenous contrast. CTDIvol: 
+13.50 mGy. DLP: 520 mGy*cm.FINDINGS: Filling defects consistent with 
+acute pulmonary emboli are seen in segmental and subsegmental branches 
+of the right upper lobe, right middle lobe, and bilateral lower lobes. 
+Bilateral patchy ground-glass opacities, more prominent in the right 
+lower lobe, possibly represent areas of pulmonary infarction or 
+alternative inflammatory processes. No lung masses, nodules, or 
+consolidations are identified. No enlarged mediastinal or hilar lymph 
+nodes are seen. The trachea and main bronchi are patent and show no 
+significant abnormality. No pleural thickening, nodularity, or effusion 
+is present. The chest wall is unremarkable without masses, soft tissue 
+abnormalities, or osseous lesions. The heart size is within normal 
+limits, with mild atherosclerotic calcification of the aortic arch and 
+coronary arteries. The visualized portions of the thoracic aorta 
+demonstrate no dissection or aneurysm. No suspicious lytic or blastic 
+lesions are seen in osseous structures, but mild degenerative changes 
+are noted in the thoracic spine. Unenhanced evaluation of the visualized
+ upper abdomen is grossly unremarkable. IMPRESSION: Acute pulmonary 
+emboli involving segmental and subsegmental branches of the right upper 
+lobe, right middle lobe, and bilateral lower lobes. Bilateral patchy 
+ground-glass opacities, possibly representing areas of pulmonary 
+infarction or alternative inflammatory processes. No lung masses, 
+nodules, or consolidations identified. No mediastinal or hilar 
+lymphadenopathy. No pleural or pericardial effusion.

@@ -1,0 +1,192 @@
+{
+    "FUNCTIONANDVIABILITY": {
+        "CLINICALHISTORY": "__FILL__",
+        "COMPARISON": {
+            "PRIORSTUDY": "__FILL__"
+        },
+        "FINDINGS": {
+            "LEFTVENTRICULARMEASUREMENTS": {
+                "ENDDIASTOLICDIAMETER": {
+                    "VALUE": "__FILL__",
+                    "NORMAL": {
+                        "MIN": "__FILL__",
+                        "MAX": "__FILL__"
+                    }
+                },
+                "EJECTIONFRACTION": {
+                    "VALUE": "__FILL__",
+                    "NORMAL": {
+                        "MALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "FEMALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "STROKEVOLUME": "__FILL__",
+                "ENDDIASTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "NORMAL": {
+                        "MALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "FEMALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "INDEXEDENDDIASTOLICVOLUME": "__FILL__",
+                "ENDSYSTOLICVOLUME": {
+                    "VALUE": "__FILL__",
+                    "NORMAL": {
+                        "MALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "FEMALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "INDEXEDENDSYSTOLICVOLUME": "__FILL__",
+                "CARDIACOUTPUT": {
+                    "VALUE": "__FILL__",
+                    "NORMAL": {
+                        "MALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "FEMALE": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "CARDIACINDEX": "__FILL__",
+                "INDEXVALUES": {
+                    "NORMALIZEDTO": "__FILL__",
+                    "BSA": "__FILL__"
+                }
+            },
+            "VALVEDISEASE": {
+                "AORTICVALVE": {
+                    "AORTICFORWARDVOLUME": "__FILL__",
+                    "AORTICREGURGITANTVOLUME": "__FILL__",
+                    "AORTICVALVEAREA": {
+                        "VALUE": "__FILL__",
+                        "SEVERITY": {
+                            "SEVERE": "< 1.0 cm2",
+                            "MODERATE": "1.0-1.5 cm2",
+                            "MILD": "1.5-2.0 cm2",
+                            "NORMAL": "> 2.0 cm2"
+                        }
+                    }
+                },
+                "MITRALVALVE": {
+                    "MITRALREGURGITANTVOLUME": "__FILL__",
+                    "MITRALREGURGITANTFRACTION": "__FILL__",
+                    "ASCENDINGAORTADIAMETER": "__FILL__",
+                    "LEFTATRIALDIMENSIONS": "__FILL__",
+                    "LEFTATRIALAREA": "__FILL__"
+                }
+            },
+            "LEFTVENTRICLEREGIONALWALLMOTION": {
+                "SCORING": {
+                    "NORMOKINETIC": 0,
+                    "HYPOKINETIC": 1,
+                    "AKINETIC": 2,
+                    "DYSKINETIC": 3
+                },
+                "BASE": {
+                    "ANTERIOR": "__FILL__",
+                    "ANTEROLATERAL": "__FILL__",
+                    "INFEROLATERAL": "__FILL__",
+                    "INFERIOR": "__FILL__",
+                    "INFERIOSEPTAL": "__FILL__",
+                    "ANTEROSEPTAL": "__FILL__"
+                },
+                "MID": "__FILL__",
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "APEX": {
+                "ANTERIOR": "__FILL__",
+                "LATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "SEPTUM": "__FILL__",
+                "TRUEAPEX": "__FILL__"
+            }
+        },
+        "LEFTVENTRICLEMYOCARDIALENHANCEMENT": {
+            "SCORING": {
+                "NONE": 0,
+                "1-25%": 1,
+                "26-50%": 2,
+                "51-75%": 3,
+                "76-100%": 4
+            },
+            "BASE": {
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "MID": {
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "APEX": {
+                "ANTERIOR": "__FILL__",
+                "LATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "SEPTUM": "__FILL__",
+                "TRUEAPEX": "__FILL__"
+            }
+        },
+        "NONCARDIACFINDINGS": {
+            "SCORING": {
+                "NONE": 0,
+                "1-25%": 1,
+                "26-50%": 2,
+                "51-75%": 3,
+                "76-100%": 4
+            }
+        }
+    },
+    "IMPRESSION": {
+        "GLOBALSYSTOLICLVFUNCTION": {
+            "NORMAL": "__FILL__",
+            "MILDLYIMPAIRED": "__FILL__",
+            "MODERATELYIMPAIRED": "__FILL__",
+            "SEVERELYIMPAIRED": "__FILL__"
+        },
+        "GLOBALSYSTOLICRVFUNCTION": {
+            "NORMAL": "__FILL__",
+            "MILDLYIMPAIRED": "__FILL__",
+            "MODERATELYIMPAIRED": "__FILL__",
+            "SEVERELYIMPAIRED": "__FILL__"
+        },
+        "LVVIABILITY": {
+            "NORMAL": "__FILL__"
+        },
+        "VALVULARDISEASE": {
+            "ABSENT": "__FILL__"
+        }
+    }
+}

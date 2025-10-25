@@ -1,0 +1,45 @@
+{
+    "AKTIV": "__FILL__",
+    "KLINISCHE_INFORMATIONEN": {
+        "FRAGE": "__FILL__"
+    },
+    "METHODE": {
+        "PRAE-MEDIKATION": "__FILL__",
+        "AUFNAHMETECHNIK": "__FILL__",
+        "REKONSTRUKTION/NACHVERARBEITUNG": "__FILL__",
+        "DLP": "__FILL__"
+    },
+    "PATIENTENMERKMALE": {
+        "GESCHLECHT": "__FILL__",
+        "KOERPERGEWICHT": "__FILL__",
+        "KOERPERGROESSE": "__FILL__",
+        "KOERPEROBERFLAECHE_(KOF)": "__FILL__",
+        "SCHRITTMACHER": "__FILL__",
+        "DURCHSCHNITTLICHE_FREQUENZ": "__FILL__",
+        "ARRHYTHMIE": "__FILL__"
+    },
+    "BEFUNDE": {
+        "VORUNTERSUCHUNG": "__FILL__",
+        "EINGESCHRAENKTE_BILDQUALITAET": "__FILL__",
+        "AGATSON_SCORE_(OPTIONAL)": "__FILL__",
+        "DOMINANTER_VERSORGUNGSTYP": "__FILL__",
+        "KORONARARTERIENURSPRUENGE_UND_VERLAUF": "__FILL__",
+        "PLAQUES": {
+            "LINKE_KORONARARTERIE_(LCA)": "__FILL__",
+            "RECHTE_KORONARARTERIE_(RIVA)": "__FILL__",
+            "LINKE_CIRCUMFLEXARTERIE_(LCX)": "__FILL__",
+            "RAMUS_INTERMEDIUS_(R._INTERMEDIUS)": "__FILL__",
+            "RECHTE_KORONARARTERIE_(RCA)": "__FILL__"
+        },
+        "GRAD_DER_STENOSE": "__FILL__",
+        "STENT": "__FILL__",
+        "KOMMENTARE": "__FILL__"
+    },
+    "BEURTEILUNG": {
+        "1": "__FILL__",
+        "2": "__FILL__",
+        "3": "__FILL__",
+        "4": "__FILL__"
+    },
+    "EMPFEHLUNGEN": "__FILL__"
+}

@@ -1,0 +1,28 @@
+EXAM:
+ Noncontrast and postcontrast MRI of the neckEXAM DATE: __ COMPARISON: 
+CT neck scan dated __. HISTORY: Patient presenting with a right neck 
+mass. Previous fine-needle aspiration with temporary resolution, but now
+ recurring. TECHNIQUE: A skin marker is placed over the area of 
+interest. The following sequences were obtained: coronal T1, coronal T2 
+inversion recovery, sagittal T1, sagittal T2 inversion recovery, axial 
+T1, and axial T2 inversion recovery. After the intravenous injection of 
+16 ml Dotarem, postcontrast axial, sagittal, and coronal T1-weighted 
+images were acquired. FINDINGS: The skin marker is positioned at the 
+mid-right side of the neck, where a subcutaneous, T2-hyperintense nodule
+ is identified. The nodule exhibits a mildly lobulated contour and 
+measures approximately 1.5 cm in craniocaudal dimension. Comparing axial
+ images with the prior CT neck scan from __, this finding corresponds to
+ a lymph node situated lateral to the sternocleidomastoid muscle and 
+just below the level of the submandibular glands. The lymph node has 
+increased in size since the previous examination. No other significant 
+lymphadenopathy is observed in the neck. Dental metal artifacts are 
+noted. The nodule demonstrates moderate enhancement. No evidence of mass
+ or fluid collection is identified. IMPRESSION: A mildly lobulated, 1.5 
+cm subcutaneous lymph node is identified in the area of palpable 
+abnormality on the right side of the neck, lateral to the 
+sternocleidomastoid muscle. This lymph node has increased in size 
+compared to the prior CT neck scan from __. Further evaluation, such as 
+repeat fine-needle aspiration or biopsy, is recommended to determine the
+ etiology of the increase in size. No significant fluid collection or 
+mass is seen in the right neck region. No additional evidence of 
+lymphadenopathy or mass lesions in the neck.

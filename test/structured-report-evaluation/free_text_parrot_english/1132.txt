@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of acute lower abdominal pain, rule out adnexitis  
+Technique: Abdominal and pelvic ultrasound, both transabdominal and transvaginal.  
+Findings: The uterus is anteflexed, normal in size with a homogeneous myometrium. The endometrium appears normal with a thickness of 7 mm, showing a secretory pattern. Both ovaries are follicular, with normal size and structure. There is no evidence of adnexitis. No free fluid is observed in the pouch of Douglas or elsewhere in the abdomen.  
+Conclusion: The pelvic organs appear normal on ultrasound. No evidence of adnexitis.

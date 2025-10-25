@@ -1,0 +1,23 @@
+{
+    "BEFUNDE": {
+        "SCHÄDELBASIS": "__FILL__",
+        "MRA_KOPF": "__FILL__",
+        "VENÖSES_SYSTEM": {
+            "JUGULARBULBUS": "__FILL__",
+            "JUGULAR_VENÖSES_SYSTEM": "__FILL__"
+        },
+        "INTRAKRANIELLE_HYPERTONIE": "__FILL__",
+        "HIRNPARENCHYM": {
+            "AKUTER_INFARKT_BLUTUNG": "__FILL__",
+            "MASSENEFFEKT_HERNIATION": "__FILL__",
+            "CHIARI_1_MALFORMATION": "__FILL__",
+            "WEISSE_SUBSTANZ": {
+                "SIGNALINTENSITÄTEN": "__FILL__"
+            }
+        },
+        "VENTRIKEL_EXTRA-AXIALE_RÄUME": "__FILL__",
+        "EXTRAKRANIELLE_STRUKTUREN": "__FILL__",
+        "ANDERE_BEFUNDE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

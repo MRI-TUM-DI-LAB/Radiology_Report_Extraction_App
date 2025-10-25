@@ -1,0 +1,7 @@
+Clinical Question: Internal knee injury?
+
+Technique: MRI of the right knee joint with and without contrast (Gadolinium).
+
+Findings: The anterior cruciate ligament (ACL) shows increased signal intensity and is disrupted along its course. There is bone marrow edema at the tibial insertion site. The medial meniscus exhibits a radial tear in the posterior horn. The lateral meniscus is intact. Joint effusion is present.
+
+Impression: Rupture of the right anterior cruciate ligament. Radial tear of the medial meniscus in the posterior horn.

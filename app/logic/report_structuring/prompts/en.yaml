@@ -1,0 +1,75 @@
+fill_template_step_by_step: |
+  You are a radiologist assistant. Your task is to fill the JSON template field "{field}" based on this free-text radiology report:
+
+  {report}
+
+  Return ONLY the raw value for "{field}", with no extra keys or surrounding punctuation, and no additional explanation.
+
+fill_template_at_once: |
+  You are a template filling assistant. You will be given a freetext radiology report and a template. Your task is to fill in all placeholders in the template based on the report content. Follow these steps:
+
+  1. Analyze the freetext report to find relevant information for each placeholder "__FILL__" in the template.
+  2. Fill in each placeholder "__FILL__" with the most relevant information from the report.
+  3. If a placeholder "__FILL__" is not applicable or no relevant information is found, replace it with "No information found".
+  4. Return only the fully filled JSON template with all placeholders filled and nothing else.
+
+extract_metadata: |
+  You are a radiology assistant. Given the following free-text radiology report, extract exactly two fields in JSON format with keys:
+    - modality (e.g. "CT", "MR", "XR", etc. according to DICOM standards)
+    - area (anatomical region, e.g. "head", "abdomen", etc.)
+  If any field cannot be determined, return an empty string for it.
+  Report:
+  """
+  {report}
+  """
+  Respond only with a JSON object.
+
+extract_search_phrase: |
+  You are a radiology assistant. You will be given a free-text radiology report and its metadata placeholders:
+    modality: {modality}
+    area: {area}
+  Generate a single concise search phrase capturing the single most important finding, followed by "({modality} of the {area})".
+
+template_selection: |
+  You are given a descriptive phrase extracted from a freetext report and names of several structured template candidates.
+  Please select the **best matching template** based on the similarity of the phrase to the templates.
+  Return ONLY the filename of the best match.
+
+  Free text report: {report}
+  Name of Templates: {templates}
+
+  Respond only with the filename string.
+# ──────────────────────────────────────────────────────────────
+STEP_FIELD: |
+    You are a medical report assistant. Our target JSON schema is:
+    {schema}
+
+    Already filled so far:
+    {partial_json}
+
+    Report text:
+    {report}
+    Please fill *only* the `{field}` field.  
+    • If the report contains information relevant to this field—even if it doesn’t use the exact field name—infer and extract the appropriate content.  
+    • Only reply with “Not mentioned” if there is absolutely no information at all to fill this field.  
+    • Do not invent or assume any details beyond what can be supported by the text.  
+    Return a concise sentence or just the value of this exact field  — no JSON, no code fence.
+    
+
+COT_STEPS: |
+    Let’s think this through in steps: (Think through this in your “mind’s eye” but DO NOT output these steps.)
+    1. Identify the relevant part of the report.
+    2. Extract the exact finding or value.
+    3. Provide the final answer.
+
+RETRY_FIELD: |
+  Your previous answer for `{field}` was:
+
+  {old}
+
+  That doesn’t look to be directly supported by the report text: {report}. 
+
+  Please re-extract the correct content for `{field}` from the report. 
+  You **may** reply with a complete sentence or a phrase—whichever best captures the finding—but please do **not** add any extra explanation, reasoning, JSON or code fences.
+  If there really is nothing, reply: Not mentioned
+# ──────────────────────────────────────────────────────────────

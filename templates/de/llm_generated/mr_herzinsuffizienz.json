@@ -1,0 +1,201 @@
+{
+    "HERZMRT": "__FILL__",
+    "KLINISCHEINFORMATIONEN": "__FILL__",
+    "VERGLEICH": {
+        "VORHERIGESTUDIENDATUM": "__FILL__"
+    },
+    "BEFUNDE": {
+        "LINKVENTRIKELMESSUNGEN": {
+            "ENDDIASTOLISCHERDURCHMESSER": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "EJEKTIONSFRAKTION": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "SCHLAGVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "ENDDIASTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "INDEXIERTESENDDIASTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "ENDSYSTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "INDEXIERTESENDSYSTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "HERZZEITVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "HERZINDEX": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "KOERPEROBERFLAECHE": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            }
+        },
+        "RECHTSVENTRIKELMESSUNGEN": {
+            "ENDDIASTOLISCHERDURCHMESSER": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "EJEKTIONSFRAKTION": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "SCHLAGVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "ENDDIASTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "INDEXIERTESENDDIASTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "ENDSYSTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "INDEXIERTESENDSYSTOLISCHESVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__"
+            },
+            "HERZZEITVOLUMEN": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            },
+            "HERZINDEX": {
+                "WERT": "__FILL__",
+                "EINHEIT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MAENNLICH": "__FILL__",
+                    "WEIBLICH": "__FILL__"
+                }
+            }
+        },
+        "KLAPPEN": {
+            "AORTENKLAPPE": {
+                "AORTALESVORWAERTSVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                },
+                "AORTALEINSUFFIZIENZVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                },
+                "AORTENKLAPPENFLAECHE": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                }
+            },
+            "MITRALKLAPPE": {
+                "MITRALKLAPPENINSUFFIZIENZVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                },
+                "MITRALKLAPPENINSUFFIZIENZFRAKTION": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                }
+            },
+            "PULMONALKLAPPE": {
+                "PULMONALESVORWAERTSVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                },
+                "PULMONALKLAPPENINSUFFIZIENZVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "EINHEIT": "__FILL__"
+                }
+            },
+            "TRIKUSPIDALKLAPPE": "__FILL__"
+        },
+        "SHUNTINFORMATIONEN": {
+            "QPQSRATIO": {
+                "WERT": "__FILL__"
+            }
+        },
+        "ANDEREBEFUNDE": "__FILL__"
+    },
+    "BEURTEILUNG": {
+        "GLOBALEVENTRIKELSYSTOLISCHEFUNKTION": {
+            "NORMAL": "__FILL__",
+            "LEICHTBEEINTRAECHTIGT": "__FILL__",
+            "MAESSIGBEEINTRAECHTIGT": "__FILL__",
+            "SCHWERBEEINTRAECHTIGT": "__FILL__"
+        },
+        "GLOBALERECHTSVENTRIKELSYSTOLISCHEFUNKTION": {
+            "NORMAL": "__FILL__",
+            "LEICHTBEEINTRAECHTIGT": "__FILL__",
+            "MAESSIGBEEINTRAECHTIGT": "__FILL__",
+            "SCHWERBEEINTRAECHTIGT": "__FILL__"
+        },
+        "INTRAKARDIALERSHUNT": {
+            "KEIN": "__FILL__"
+        },
+        "KLAPPENERKRANKUNG": {
+            "ABWESEND": "__FILL__"
+        }
+    },
+    "REFERENZ": "__FILL__"
+}

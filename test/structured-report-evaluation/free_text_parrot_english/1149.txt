@@ -1,0 +1,4 @@
+Clinical Question: Pulmonary nodule, evaluation  
+Technique: CT of the chest with contrast.  
+Findings: In the left upper lobe, there is a solid, round pulmonary nodule measuring approximately 1.5 cm in diameter. The nodule exhibits irregular borders and heterogeneous contrast enhancement. There is no evidence of lymph node metastases or distant metastases.  
+Impression: Suspicious-appearing pulmonary nodule in the left lung. Histological evaluation is recommended.

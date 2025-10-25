@@ -1,0 +1,34 @@
+{
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "UTERUS": {
+            "MESSUNGEN": "__FILL__",
+            "WEITERE_BEFUNDE": "__FILL__"
+        },
+        "TUMORLOKALISATION": "__FILL__",
+        "TUMORGRÖSSE": "__FILL__",
+        "MYOMETRIUMINVASION": "__FILL__",
+        "INVASION_DES_TUMORS_IN_DAS_ZERVIXSTROMA": "__FILL__",
+        "AUSDEHNUNG_DES_TUMORS_IN_ANGRENZENDE_STRUKTUREN": "__FILL__",
+        "ZUSÄTZLICHE_KOMMENTARE": "__FILL__",
+        "OVARIEN": {
+            "DARGESTELLT": "__FILL__",
+            "ERSCHEINUNGSBILD": "__FILL__",
+            "RECHTE_OVARGRÖSSE": "__FILL__",
+            "LINKE_OVARGRÖSSE": "__FILL__",
+            "ABNORMALE_BESCHREIBUNG": "__FILL__"
+        },
+        "LYMPHKNOTEN": {
+            "ANZAHL": "__FILL__",
+            "GRÖSSTE_PELVISCHE_LYMPHKNOTENLOKALISATION": "__FILL__",
+            "GRÖSSTE_PELVISCHE_LYMPHKNOTENGRÖSSE": "__FILL__",
+            "GRÖSSTE_PARA_AORTALE_LYMPHKNOTENGRÖSSE": "__FILL__",
+            "WAHRSCHEINLICHKEIT_FÜR_MALIGNITÄT": "__FILL__"
+        },
+        "ZUSÄTZLICHE_PELVISCHE_BEFUNDE": "__FILL__",
+        "KNOCHEN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

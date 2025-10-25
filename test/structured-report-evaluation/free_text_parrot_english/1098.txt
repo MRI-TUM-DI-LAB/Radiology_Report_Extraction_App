@@ -1,0 +1,16 @@
+CT Heart
+
+Findings
+1. Non-contrast CT with calcium scoring (tin filter used for radiation dose reduction). 2. Prospectively ECG-triggered CT coronary angiography using flash technique after administration of one ampoule (5 mg) of beta-blocker intravenously and 2 puffs of Isoket spray sublingually.
+Total dose applied: 138 mGycm
+Heart rate during data acquisition: 82 bpm
+Calcium score: Total Score (Agatston Score): 0
+CT Coronary Angiography:
+Right dominant coronary circulation. Structurally tricuspid aortic valve. Normal anatomical course of the coronary vessels, ascending aorta diameter = 31 mm, myocardial mass ED x g (LV) (normal range 75 - 175).
+
+LAD: Regular appearance, no stenoses, no plaques.
+LCX: Regular appearance of the normal caliber vessel pathway, no stenoses.
+RCA: Regular appearance of the vessel pathway, no stenoses.
+Incidental findings: No mediastinal or hilar lymphadenopathy (as far as captured). Normal appearance of the basal lung sections included in the scan, no pleural effusion, no infiltrate.
+
+Conclusion: Normal appearance of the coronary vessels with no evidence of coronary sclerosis. Normal anatomical course. No soft plaques. Right dominant coronary circulation. Structurally tricuspid aortic valve. No valve calcification.

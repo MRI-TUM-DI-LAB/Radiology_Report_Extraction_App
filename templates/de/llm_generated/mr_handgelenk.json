@@ -1,0 +1,19 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "TRIANGULÄRER_FASERKNORPEL": "__FILL__",
+        "SKAPHOLUNÄRES_BAND": "__FILL__",
+        "LUNOTRIQUETRALES_BAND": "__FILL__",
+        "BEUGESEHNEN": "__FILL__",
+        "STRECKSEHNEN": "__FILL__",
+        "KARPALTUNNEL": "__FILL__",
+        "GUYON_KANAL": "__FILL__",
+        "KNOCHENMARK": "__FILL__",
+        "GELENKERGUSS": "__FILL__",
+        "MUSKELN": "__FILL__",
+        "MASSEN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

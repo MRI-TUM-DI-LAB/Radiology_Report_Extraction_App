@@ -1,0 +1,16 @@
+{
+    "GESCHICHTE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "CTDI": "__FILL__",
+    "DLP": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "SPHENOID_UND_POSTERIORE_ETHMOID_SINUS": "__FILL__",
+        "SPHENOETHMOIDALER_REZEZUS": "__FILL__",
+        "FRONTALE,_ANTERIORE_ETHMOID,_UND_MAXILLARE_SINUS": "__FILL__",
+        "MAXILLARE_OSTIUM": "__FILL__",
+        "NASENHÖHLE": "__FILL__",
+        "ANDERE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

@@ -1,0 +1,451 @@
+{
+  "abschnitte": [
+    {
+      "ueberschrift": "Klinische Angaben",
+      "absatz": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "ueberschrift": "Fragestellung",
+      "absatz": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "ueberschrift": "Befund",
+      "tabelle_1": {
+        "zeilen": [
+          {
+            "zelle_1": "Technik",
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "Feldstärke"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "MR Protokoll"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Auswertesoftware"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Quelle der Normwerte"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "KM"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "zelle_1": "Patientencharakteristik",
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "Geschlecht"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Körpergewicht"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Körpergröße"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Körperoberlfäche (BSA)"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Hämatokrit"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "tabelle_2": {
+        "zeilen": [
+          {
+            "zelle_1": {
+              "label": "Vergleichsuntersuchung"
+            },
+            "zelle_2": {
+              "auswahl": "__FILL__",
+              "eingabe": "__FILL__"
+            }
+          }
+        ]
+      },
+      "tabelle_3": {
+        "zeilen": [
+          {
+            "kopfzeile": "Herz"
+          }
+        ]
+      },
+      "tabelle_4": {
+        "zeilen": [
+          {
+            "zelle_1": "Bildqualität",
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "Einschränkung"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "zelle_1": "Funktionsanalyse LV",
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "LV enddiastolischer Diameter (LV EDD):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LV enddiastolischer Volumenindex (LV EDVi):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LV endsystolischer  Volumenindex (LV ESVi):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LV Ejektions-Fraktion (LV EF):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LV ED Masse normiert:"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Max. LV-Wandstärke:"
+                    },
+                    "zelle_2": {
+                      "eingabe_1": "__FILL__",
+                      "eingabe_2": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Regionale Wandbewegungsstörungen LV:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LVOT-Obstruktion in Ruhe:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "LVOT-Obstruktion unter Valsalva:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "SAM-Phänomen der Mitralklappe:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Assoziierte exzentrische Mitralklappeninsuffizienz:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "zelle_1": null
+          },
+          {
+            "zelle_1": "Funktionsanalyse RV",
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "RV enddiastolischer Diameter (RV EDD):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "RV enddiastolischer Volumenindex (RV EDVi):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "RV endsystolischer  Volumenindex (RV ESVi):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "RV Ejektions-Fraktion (RV EF):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Regionale Wandbewegungsstörungen RV:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Interventrikuläre Septumdicke (IVSD):"
+                    },
+                    "zelle_2": {
+                      "eingabe": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "zelle_1": null
+          },
+          {
+            "zelle_1": null,
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": "Vorhofgröße endsystolisch im 4-Kammerblick",
+                    "zelle_2": {
+                      "label": "RA:"
+                    },
+                    "zelle_3": {
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": "(longitudinal x transversal)",
+                    "zelle_2": {
+                      "label": "LA:"
+                    },
+                    "zelle_3": {
+                      "eingabe": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "zelle_1": null,
+            "zelle_2": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "Herzklappenpathologie:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Intracavitäre Thromben:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "Z.n. interventioneller Therapie:"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "tabelle_5": {
+        "zeilen": [
+          {
+            "kopfzeile": "Gewebecharakterisierung"
+          },
+          {
+            "zelle_1": {
+              "tabelle": {
+                "zeilen": [
+                  {
+                    "zelle_1": {
+                      "label": "Late Gadolinium Enhancement (LGE):"
+                    },
+                    "zelle_2": {
+                      "auswahl": "__FILL__",
+                      "eingabe": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "T2-Mapping:"
+                    },
+                    "zelle_2": {
+                      "eingabe_1": "__FILL__",
+                      "eingabe_2": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": {
+                      "label": "T1-Mapping:"
+                    },
+                    "zelle_2": {
+                      "eingabe_1": "__FILL__",
+                      "eingabe_2": "__FILL__"
+                    }
+                  },
+                  {
+                    "zelle_1": "Mit Angabe verwendeter Referenzwerte – aus eigenem Pool"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "tabelle_6": {
+        "zeilen": [
+          {
+            "kopfzeile": "Sonstige Auffälligkeiten"
+          },
+          {
+            "zelle_1": {
+              "textarea": "__FILL__"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "ueberschrift": "Beurteilung",
+      "absatz": {
+        "textarea": "__FILL__"
+      }
+    }
+  ]
+}

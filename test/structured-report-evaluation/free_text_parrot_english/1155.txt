@@ -1,0 +1,7 @@
+Clinical Question: Sinusitis?
+
+Technique: CT scan of the paranasal sinuses.
+
+Findings: The paranasal sinuses are largely aerated. There is a mild mucosal swelling in the right maxillary sinus. The other paranasal sinuses appear unremarkable.
+
+Conclusion: Mild right maxillary sinusitis.

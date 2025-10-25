@@ -1,0 +1,14 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "BONE_MARROW": "__FILL__",
+        "FLEXOR_TENDONS": "__FILL__",
+        "EXTENSOR_TENDONS": "__FILL__",
+        "JOINT": "__FILL__",
+        "MUSCLES": "__FILL__",
+        "SOFT_TISSUES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

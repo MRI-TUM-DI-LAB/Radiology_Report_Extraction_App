@@ -1,0 +1,4 @@
+Clinical Question: Evaluation of chronic abdominal pain  
+Technique: MRI of the abdomen with contrast.  
+Findings: The liver, gallbladder, pancreas, spleen, and kidneys appear normal. There is a segment of the small intestine with wall thickening and contrast enhancement, consistent with inflammation, most likely in the terminal ileum. No evidence of strictures or fistulas.  
+Impression: Inflammatory changes in the small intestine, further evaluation recommended.

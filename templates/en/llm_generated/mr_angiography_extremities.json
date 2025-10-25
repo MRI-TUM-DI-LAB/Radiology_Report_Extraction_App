@@ -1,0 +1,66 @@
+{
+    "TECHNIQUE": "__FILL__",
+    "CONTRAST": "__FILL__",
+    "CLINICAL_HISTORY": "__FILL__",
+    "FINDINGS": {
+        "PELVIS": {
+            "ILIAC_ARTERIES": {
+                "LEFT_COMMON_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_COMMON_ILIAC_ARTERY": "__FILL__",
+                "LEFT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_EXTERNAL_ILIAC_ARTERY": "__FILL__",
+                "LEFT_INTERNAL_ILIAC_ARTERY": "__FILL__",
+                "RIGHT_INTERNAL_ILIAC_ARTERY": "__FILL__"
+            },
+            "VENOUS_SYSTEM": {
+                "LEFT_COMMON_ILIAC_VEIN": "__FILL__",
+                "RIGHT_COMMON_ILIAC_VEIN": "__FILL__",
+                "LEFT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                "RIGHT_EXTERNAL_ILIAC_VEIN": "__FILL__",
+                "LEFT_INTERNAL_ILIAC_VEIN": "__FILL__",
+                "RIGHT_INTERNAL_ILIAC_VEIN": "__FILL__"
+            }
+        },
+        "LOWER_EXTREMITIES": {
+            "FEMORAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "POPLITEAL_ARTERIES": {
+                "LEFT": "__FILL__",
+                "RIGHT": "__FILL__"
+            },
+            "TIBIAL_AND_PERONEAL_ARTERIES": {
+                "TRUNK": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "ANTERIOR_TIBIAL_ARTERY": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "PERONEAL_ARTERY": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                },
+                "POSTERIOR_TIBIAL_ARTERY": {
+                    "LEFT": "__FILL__",
+                    "RIGHT": "__FILL__"
+                }
+            },
+            "VENOUS_SYSTEM": {
+                "LEFT_FEMORAL_VEIN": "__FILL__",
+                "RIGHT_FEMORAL_VEIN": "__FILL__",
+                "LEFT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                "RIGHT_GREAT_SAPHENOUS_VEIN": "__FILL__",
+                "LEFT_SMALL_SAPHENOUS_VEIN": "__FILL__",
+                "RIGHT_SMALL_SAPHENOUS_VEIN": "__FILL__"
+            }
+        }
+    },
+    "IMPRESSION": {
+        "SUMMARY": "__FILL__",
+        "ADDITIONAL_FINDINGS": "__FILL__",
+        "RECOMMENDATIONS": "__FILL__"
+    }
+}

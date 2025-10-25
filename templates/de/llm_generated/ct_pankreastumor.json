@@ -1,0 +1,33 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": {
+        "PANKREASTUMOR_TABELLE": {
+            "PANKREASTUMOR_VORHANDEN": "__FILL__",
+            "LAGE": "__FILL__",
+            "GRÖSSE": "__FILL__",
+            "VERSTÄRKUNG_RELATIV_ZUM_PANKREAS": "__FILL__",
+            "AUF_PANKREAS_BESCHRÄNKT_MIT_KLARER_FETTEBENE": "__FILL__",
+            "GALLENWEGBETEILIGUNG": "__FILL__",
+            "VERBLEIBENDER_PANKREAS": "__FILL__"
+        },
+        "ADENOPATHIE_VORHANDEN": "__FILL__",
+        "METASTASIERENDE_ERKRANKUNG": "__FILL__",
+        "ASZITES_PERIPANKREATISCHE_FLÜSSIGKEIT": "__FILL__",
+        "PANKREATISCHE_GEFÄSS_TABELLE": {
+            "GEFÄSS_TUMOR_BETEILIGUNG_UND_GRAD": "__FILL__",
+            "ZÖLIAKIE_BETEILIGUNG": "__FILL__",
+            "SMA_BETEILIGUNG": "__FILL__",
+            "SMV_BETEILIGUNG": "__FILL__",
+            "ANDERE_GEFÄSS_BETEILIGUNG": "__FILL__",
+            "THROMBOSE_JEGLICHES_GEFÄSS": "__FILL__",
+            "ABERRIERENDE_ANATOMIE": {
+                "ERSETZTE_RECHTE_LEBERARTERIE": "__FILL__",
+                "GRÖSSERE_AKZESSORISCHE_ODER_ANDERE_ERSETZTE_ARTERIEN_VENEN_KOLLATERALEN_ERWEITERTE_GEFÄSSE": "__FILL__"
+            },
+            "ATHEROSKLEROTISCHE_URSPRÜNGE_DES_TRUNCUS_COELIACUS_SMA": "__FILL__",
+            "DISTANZ_ZUR_SMV": "__FILL__"
+        }
+    },
+    "BEURTEILUNG": "__FILL__"
+}

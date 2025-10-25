@@ -1,0 +1,14 @@
+{
+    "GESCHICHTE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "NASENNEBENHÖHLEN_NASENHÖHLE": "__FILL__",
+        "PERINEURALE_KONTRASTMITTELAUFNAHME": "__FILL__",
+        "SINUS_CAVERNOSI": "__FILL__",
+        "SCHÄDELBASIS": "__FILL__",
+        "WEICHTEILE_FOSSA_INFRATEMPORALIS": "__FILL__",
+        "ANDERES": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

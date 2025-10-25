@@ -1,0 +1,12 @@
+{
+    "SIDE": "__FILL__",
+    "NUMBER_OF_VIEWS": "__FILL__",
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "BONES": "__FILL__",
+        "JOINTS": "__FILL__",
+        "SOFT_TISSUES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

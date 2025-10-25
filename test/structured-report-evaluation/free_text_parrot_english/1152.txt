@@ -1,0 +1,4 @@
+Clinical Question: Status post breast cancer surgery, follow-up
+Technique: Bilateral mammography in two views (craniocaudal and mediolateral oblique).
+Findings: Status post breast-conserving therapy on the right with partial resection of glandular tissue in the upper outer quadrant. No signs of local recurrence. The left breast is unremarkable.
+Conclusion: Mammographically, there is no evidence of local recurrence of breast cancer.

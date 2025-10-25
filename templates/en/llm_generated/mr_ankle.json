@@ -1,0 +1,28 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "ACHILLES_TENDON": "__FILL__",
+        "POSTERIOR_TIBIAL_TENDON": "__FILL__",
+        "FLEXOR_DIGITORUM_TENDON": "__FILL__",
+        "FLEXOR_HALLUCIS_TENDON": "__FILL__",
+        "PERONEAL_TENDONS": "__FILL__",
+        "ANTERIOR_TIBIALIS_TENDON": "__FILL__",
+        "EXTENSOR_DIGITORUM_TENDON": "__FILL__",
+        "EXTENSOR_HALLUCIS_LONGUS": "__FILL__",
+        "ANTERIOR_TIBIOFIBULAR_LIGAMENT": "__FILL__",
+        "POSTERIOR_TIBIOFIBULAR_LIGAMENT": "__FILL__",
+        "ANTERIOR_TALOFIBULAR_LIGAMENT": "__FILL__",
+        "POSTERIOR_TALOFIBULAR_LIGAMENT": "__FILL__",
+        "CALCANEOFIBULAR_LIGAMENT": "__FILL__",
+        "TIBIOTALAR_LIGAMENT": "__FILL__",
+        "TIBIOSPRING_LIGAMENT": "__FILL__",
+        "SPRING_LIGAMENT": "__FILL__",
+        "SINUS_TARSI": "__FILL__",
+        "PLANTAR_FASCIA": "__FILL__",
+        "TIBIOTALAR_JOINT_SPACE": "__FILL__",
+        "MARROW_SIGNAL": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

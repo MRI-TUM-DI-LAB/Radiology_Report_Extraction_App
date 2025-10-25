@@ -1,0 +1,125 @@
+{
+  "Klinische Information": {
+    "textarea": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Voruntersuchungen:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Stroke": {
+      "Blutung:": {
+        "select": "__FILL__",
+        "Lokalisation:": "__FILL__"
+      },
+      "Hyperdenses Arterienzeichen:": {
+        "select": "__FILL__",
+        "Seite:": "__FILL__",
+        "Lokalisation:": "__FILL__"
+      },
+      "Stadium der Ischämie:": {
+        "select": "__FILL__"
+      },
+      "Lokalisation supratentoriell:": {
+        "Nucleus caudatus (C):": "__FILL__",
+        "Nucleus lentiformis (L):": "__FILL__",
+        "Capsula interna (IC):": "__FILL__",
+        "Insula (I):": "__FILL__",
+        "Mediastromgebiet anterior (M1):": "__FILL__",
+        "Mediastromgebiet lateral (M2):": "__FILL__",
+        "Mediastromgebiet posterior (M3):": "__FILL__",
+        "Mediastromgebiet anterior superior (M4):": "__FILL__",
+        "Mediastromgebiet lateral superior (M5):": "__FILL__",
+        "Mediastromgebiet posterior superior (M6):": "__FILL__",
+        "Thalamus": "__FILL__",
+        "Anteriorstromgebiet": "__FILL__",
+        "Posteriorstromgebiet": "__FILL__",
+        "Vordere Grenzzone (frontoparietal):": "__FILL__",
+        "Hintere Grenzzone (parietookzipital):": "__FILL__"
+      },
+      "Lokalisation infratentoriell:": {
+        "Mittelhirn": "__FILL__",
+        "Pons": "__FILL__",
+        "Rechte Kleinhirnhemisphäre": "__FILL__",
+        "Linke Kleinhirnhemisphäre": "__FILL__"
+      },
+      "ASPECT-Score:": {
+        "input": "__FILL__"
+      },
+      "pc-ASPECT-Score:": {
+        "input": "__FILL__"
+      },
+      "Hämorrhagische Transformation:": {
+        "select": "__FILL__"
+      },
+      "Schwellung:": {
+        "select": "__FILL__"
+      },
+      "Herniation:": {
+        "nein": "__FILL__",
+        "subfalzine Herniation": "__FILL__",
+        "Uncusherniation": "__FILL__",
+        "zentrale Herniation": "__FILL__",
+        "aszendierende transtentorielle Herniation": "__FILL__",
+        "Tonsilläre Herniation": "__FILL__"
+      },
+      "Alte postischämische Defekte:": {
+        "select": "__FILL__",
+        "Lokalisation:": "__FILL__"
+      },
+      "Mikroangiopathische Marklagerveränderungen:": {
+        "select": "__FILL__"
+      },
+      "Sonstiges:": {
+        "textarea": "__FILL__"
+      }
+    },
+    "Liquorräume": {
+      "Basale Zisternen:": {
+        "input": "__FILL__"
+      },
+      "Äußere Liquorräume:": {
+        "select": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Innere Liquorräume:": {
+        "select": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      }
+    },
+    "Extraaxiales Kompartiment": {
+      "Epiduralraum:": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Subduralraum:": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      }
+    },
+    "Ossärer Status und erfasstes Viszerokranium": {
+      "Schädelkalotte:": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Schädelbasis:": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Orbitae:": {
+        "Soweit erfasst, unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Miterfasster Gesichtsschädel:": {
+        "Soweit erfasst, unauffällig": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      }
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

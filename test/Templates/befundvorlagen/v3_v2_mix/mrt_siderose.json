@@ -1,0 +1,92 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Technik": {
+      "Feldstärke": "__FILL__",
+      "MR Protokoll Herz": "__FILL__",
+      "MR Protokoll Leber": "__FILL__",
+      "Auswertesoftware": "__FILL__",
+      "Quelle der Normwerte": "__FILL__",
+      "KM": "__FILL__"
+    },
+    "Patientencharakteristik": {
+      "Geschlecht": "__FILL__",
+      "Körpergewicht": "__FILL__",
+      "Körpergröße": "__FILL__",
+      "Körperoberlfäche (BSA)": "__FILL__",
+      "Hämatokrit": "__FILL__"
+    },
+    "Vergleichsuntersuchung": "__FILL__",
+    "Herz": {
+      "Bildqualität": {
+        "Einschränkung": "__FILL__"
+      },
+      "Funktionsanalyse LV": {
+        "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+        "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+        "LV endsystolischer  Volumenindex (LV ESVi):": "__FILL__",
+        "LV Ejektions-Fraktion (LV EF):": "__FILL__",
+        "LV ED Masse normiert:": "__FILL__",
+        "Regionale Wandbewegungsstörungen LV:": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Funktionsanalyse RV": {
+        "RV enddiastolischer Diameter (RV EDD):": "__FILL__",
+        "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+        "RV endsystolischer  Volumenindex (RV ESVi):": "__FILL__",
+        "RV Ejektions-Fraktion (RV EF):": "__FILL__",
+        "Regionale Wandbewegungsstörungen RV:": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Vorhofgröße endsystolisch im 4-Kammerblick": {
+        "RA:": "__FILL__",
+        "LA:": "__FILL__"
+      },
+      "Herzklappenpathologie:": "__FILL__",
+      "Intracavitäre Thromben:": "__FILL__",
+      "Perikarderguss:": {
+        "select": "__FILL__",
+        "max. Saumbreite": "__FILL__"
+      }
+    },
+    "Quantitative Gewebecharakterisierung Herz": {
+      "T2*-Mapping (Septum):": "__FILL__",
+      "T1-Mapping nativ (Septum):": "__FILL__"
+    },
+    "Befund Leber": {
+      "Leberparenchym": "__FILL__",
+      "Gallenwege/ Gallenblase": "__FILL__",
+      "Lymphknoten": {
+        "select": "__FILL__",
+        "LK": "__FILL__",
+        "ca.": "__FILL__"
+      },
+      "Milz": "__FILL__",
+      "Aszites": "__FILL__"
+    },
+    "Quantitative Gewebecharakterisierung Leber": {
+      "T2*-Mapping:": "__FILL__",
+      "T1-Mapping nativ:": "__FILL__",
+      "Fett-Fraktion:": "__FILL__"
+    },
+    "Sonstige Auffälligkeiten:": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "Herz": [
+      "__FILL__",
+      "__FILL__"
+    ],
+    "Leber": [
+      "__FILL__",
+      "__FILL__"
+    ],
+    "textarea": "__FILL__"
+  }
+}

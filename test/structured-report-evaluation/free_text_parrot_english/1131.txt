@@ -1,0 +1,4 @@
+Clinical Question: Rule out pneumonia, fever  
+Technique: Chest X-ray in two views (posteroanterior and lateral) in an upright position.  
+Findings: There is a dense, homogeneous opacity in the right lower lobe with air bronchograms and air inclusions. The opacity is poorly defined against the surrounding lung tissue. No pleural effusion is present. The heart and mediastinum appear normal. The skeletal structures show no acute pathological changes.  
+Conclusion: Infiltrate in the right lower lobe consistent with pneumonia.

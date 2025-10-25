@@ -1,0 +1,38 @@
+{
+  "Klinische Angaben": {
+    "Aufnahme-Status": "__FILL__",
+    "Intubiert": "__FILL__",
+    "COVID-PCR Status": "__FILL__",
+    "am": "__FILL__",
+    "Sonstiges": "__FILL__"
+  },
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Zum Vergleich": "__FILL__",
+    "CT-Protokoll": "__FILL__",
+    "Lungenparenchym/Atemwege": {
+      "Milchglastrübung": "__FILL__",
+      "Dominantes Milchglasmuster": "__FILL__",
+      "Morphologie der Milchglastrübungen": "__FILL__",
+      "Verteilungsmuster der Milchglastrübungen": "__FILL__",
+      "Seiten-Ausprägung der Milchglastrübungen": "__FILL__",
+      "Dominates Lungenfeld der Milchglastrübungen": "__FILL__",
+      "Ausdehnung/Severity des Lungenbefalls quantitativ": "__FILL__",
+      "Konsolidierungs-Muster": "__FILL__",
+      "Zentrilobuläre Noduli/Tree in bud": "__FILL__",
+      "Lungengerüstveränderungen": "__FILL__",
+      "Sonstiges": "__FILL__"
+    },
+    "Weitere Befunde": {
+      "Pleuraerguss links": "__FILL__",
+      "Pleuraerguss rechts": "__FILL__",
+      "Lymphknoten": "__FILL__",
+      "Sonstiges": "__FILL__"
+    },
+    "vom": "__FILL__"
+  },
+  "Beurteilung": {
+    "Klassifikation des Lungenbefalls": "__FILL__",
+    "Sonstiges": "__FILL__"
+  }
+}

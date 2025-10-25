@@ -1,0 +1,244 @@
+{
+    "182": {
+        "ICD-10 codes": [
+            "K85",
+            "K922",
+            "K91840"
+        ],
+        "ICD-10 descriptions": [
+            "Acute pancreatitis",
+            "Gastrointestinal hemorrhage, unspecified",
+            "Postprocedural hemorrhage of a digestive system organ or structure following a digestive system procedure"
+        ]
+    },
+    "183": {
+        "ICD-10 codes": [
+            "I6351",
+            "I6601",
+            "R290",
+            "R4701"
+        ],
+        "ICD-10 descriptions": [
+            "Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery",
+            "Occlusion and stenosis of right middle cerebral artery",
+            "Tetany",
+            "Aphasia"
+        ]
+    },
+    "184": {
+        "ICD-10 codes": [
+            "B259",
+            "Z4502"
+        ],
+        "ICD-10 descriptions": [
+            "Cytomegaloviral disease, unspecified",
+            "Encounter for adjustment and management of automatic implantable cardiac defibrillator"
+        ]
+    },
+    "185": {
+        "ICD-10 codes": [
+            "N185",
+            "Z992",
+            "Z4901"
+        ],
+        "ICD-10 descriptions": [
+            "Chronic kidney disease, stage 5",
+            "Dependence on renal dialysis",
+            "Encounter for fitting and adjustment of extracorporeal dialysis catheter"
+        ]
+    },
+    "187": {
+        "ICD-10 codes": [
+            "I70232",
+            "I70292",
+            "I70262",
+            "I743",
+            "Z9861",
+            "Z95820"
+        ],
+        "ICD-10 descriptions": [
+            "Atherosclerosis of native arteries of right leg with ulceration of calf",
+            "Other atherosclerosis of native arteries of extremities, left leg",
+            "Atherosclerosis of native arteries of extremities with gangrene, left leg",
+            "Embolism and thrombosis of arteries of the lower extremities",
+            "Coronary angioplasty status",
+            "Peripheral vascular angioplasty status with implants and grafts"
+        ]
+    },
+    "188": {
+        "ICD-10 codes": [
+            "M1711"
+        ],
+        "ICD-10 descriptions": [
+            "Unilateral primary osteoarthritis, right knee"
+        ]
+    },
+    "189": {
+        "ICD-10 codes": [
+            "G319",
+            "G971"
+        ],
+        "ICD-10 descriptions": [
+            "Degenerative disease of nervous system, unspecified",
+            "Other reaction to spinal and lumbar puncture"
+        ]
+    },
+    "190": {
+        "ICD-10 codes": [
+            "C50912",
+            "Z452"
+        ],
+        "ICD-10 descriptions": [
+            "Malignant neoplasm of unspecified site of left female breast",
+            "Encounter for adjustment and management of vascular access device"
+        ]
+    },
+    "191": {
+        "ICD-10 codes": [
+            "C787",
+            "C6930"
+        ],
+        "ICD-10 descriptions": [
+            "Secondary malignant neoplasm of liver and intrahepatic bile duct",
+            "Malignant neoplasm of unspecified choroid"
+        ]
+    },
+    "192": {
+        "ICD-10 codes": [
+            "I620",
+            "T8119XA",
+            "T801XXA"
+        ],
+        "ICD-10 descriptions": [
+            "Nontraumatic subdural hemorrhage",
+            "Other postprocedural shock, initial encounter",
+            "Vascular complications following infusion, transfusion and therapeutic injection, initial encounter"
+        ]
+    },
+    "193": {
+        "ICD-10 codes": [
+            "I70232",
+            "I70292",
+            "I70202"
+        ],
+        "ICD-10 descriptions": [
+            "Atherosclerosis of native arteries of right leg with ulceration of calf",
+            "Other atherosclerosis of native arteries of extremities, left leg",
+            "Unspecified atherosclerosis of native arteries of extremities, left leg"
+        ]
+    },
+    "194": {
+        "ICD-10 codes": [
+            "I608",
+            "I671",
+            "Z9861",
+            "Z09"
+        ],
+        "ICD-10 descriptions": [
+            "Other nontraumatic subarachnoid hemorrhage",
+            "Cerebral aneurysm, nonruptured",
+            "Coronary angioplasty status",
+            "Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm"
+        ]
+    },
+    "195": {
+        "ICD-10 codes": [
+            "I81",
+            "Z98890",
+            "R938"
+        ],
+        "ICD-10 descriptions": [
+            "Portal vein thrombosis",
+            "Other specified postprocedural states",
+            "Abnormal findings on diagnostic imaging of other specified body structures"
+        ]
+    },
+    "196": {
+        "ICD-10 codes": [
+            "E871",
+            "E222",
+            "R918",
+            "M4854XA",
+            "M4844XA",
+            "S2249XA",
+            "S2241XA"
+        ],
+        "ICD-10 descriptions": [
+            "Hypo-osmolality and hyponatremia",
+            "Syndrome of inappropriate secretion of antidiuretic hormone",
+            "Other nonspecific abnormal finding of lung field",
+            "Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture",
+            "Fatigue fracture of vertebra, thoracic region, initial encounter for fracture",
+            "Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",
+            "Multiple fractures of ribs, right side, initial encounter for closed fracture"
+        ]
+    },
+    "197": {
+        "ICD-10 codes": [
+            "M24242",
+            "S62632A"
+        ],
+        "ICD-10 descriptions": [
+            "Disorder of ligament, left hand",
+            "Displaced fracture of distal phalanx of right middle finger, initial encounter for closed fracture"
+        ]
+    },
+    "198": {
+        "ICD-10 codes": [
+            "J9311",
+            "J439",
+            "J90",
+            "J95851",
+            "R918"
+        ],
+        "ICD-10 descriptions": [
+            "Primary spontaneous pneumothorax",
+            "Emphysema, unspecified",
+            "Pleural effusion, not elsewhere classified",
+            "Ventilator associated pneumonia",
+            "Other nonspecific abnormal finding of lung field"
+        ]
+    },
+    "199": {
+        "ICD-10 codes": [
+            "Z96641",
+            "Z98890"
+        ],
+        "ICD-10 descriptions": [
+            "Presence of right artificial hip joint",
+            "Other specified postprocedural states"
+        ]
+    },
+    "200": {
+        "ICD-10 codes": [
+            "Z96641",
+            "Z9889",
+            "R918"
+        ],
+        "ICD-10 descriptions": [
+            "Presence of right artificial hip joint",
+            "Other specified postprocedural states",
+            "Other nonspecific abnormal finding of lung field"
+        ]
+    },
+    "201": {
+        "ICD-10 codes": [
+            "I81",
+            "S82022",
+            "Z96641",
+            "M1711",
+            "R918",
+            "I509",
+            "R092"
+        ],
+        "ICD-10 descriptions": [
+            "Portal vein thrombosis",
+            "Displaced longitudinal fracture of left patella",
+            "Presence of right artificial hip joint",
+            "Unilateral primary osteoarthritis, right knee",
+            "Other nonspecific abnormal finding of lung field",
+            "Heart failure, unspecified",
+            "Respiratory arrest"
+        ]
+    }
+}

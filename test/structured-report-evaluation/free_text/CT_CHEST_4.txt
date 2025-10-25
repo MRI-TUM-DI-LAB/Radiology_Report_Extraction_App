@@ -1,0 +1,26 @@
+EXAM:
+ CHEST CT SCAN WITH CONTRAST EXAM DATE: __.HISTORY: 52-year-old female 
+with shortness of breath and cough. COMPARISON: Chest x-ray performed 
+__. TECHNIQUE: Volumetric scanning was performed of the chest using 3 mm
+ of collimation at 3 mm intervals after administering 100 mL of nonionic
+ Ultravist 370 contrast. DLP = 740.50 mGy*cm. FINDINGS: The lung fields 
+show scattered areas of ground-glass opacities in the bilateral upper 
+lobes, more pronounced on the right side. No evidence of pulmonary 
+nodules, masses, or pneumothorax. The tracheobronchial tree is patent 
+and unremarkable. No significant mediastinal or hilar lymphadenopathy is
+ identified. The heart, pericardium, great vessels, and mediastinum are 
+within normal limits. A small right pleural effusion is present. No left
+ pleural effusion is detected. The diaphragm appears intact. The liver 
+shows normal attenuation, and no focal lesions are identified. The 
+spleen, pancreas, and adrenal glands appear unremarkable. The kidneys 
+are normal in size and attenuation, with no evidence of hydronephrosis 
+or calculi. No free fluid is present in the abdomen. Mild degenerative 
+changes are observed in the thoracic spine. The visualized osseous 
+structures and soft tissues appear within normal limits. IMPRESSION: 
+Scattered ground-glass opacities in the bilateral upper lobes, more 
+pronounced on the right side. These findings may represent an infectious
+ or inflammatory process, such as atypical pneumonia. Clinical 
+correlation and appropriate treatment are advised. Small right pleural 
+effusion. No significant mediastinal or hilar lymphadenopathy. Normal 
+appearance of the visualized upper abdominal structures. Mild 
+degenerative changes in the thoracic spine.

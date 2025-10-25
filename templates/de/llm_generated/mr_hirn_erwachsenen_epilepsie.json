@@ -1,0 +1,18 @@
+{
+    "GESCHICHTE": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "MASSE": "__FILL__",
+        "INFARKT_ODER_BLUTUNG": "__FILL__",
+        "FERNVERLETZUNG": "__FILL__",
+        "GEFÄSSVERÄNDERUNG": "__FILL__",
+        "HIPPOCAMPUS": "__FILL__",
+        "KORTEX": {
+            "HETEROTOPIE_FOKAL_KORTIKALE_DYSPLASIE": "__FILL__",
+            "ENZEPHALITIS_POST-IKTALE_VERÄNDERUNG": "__FILL__"
+        },
+        "ANDERES": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

@@ -1,0 +1,50 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "EKG": {
+    "Mittlere Herzfrequenz": "__FILL__",
+    "EKG-Befund/Kommentar": "__FILL__"
+  },
+  "Klinische Fragestellung": "__FILL__",
+  "Methodik": {
+    "Prämedikation": {
+      "Nitro sublingual": "__FILL__",
+      "Metoprolol": "__FILL__",
+      "Sonstiges": "__FILL__"
+    },
+    "Technik": "__FILL__"
+  },
+  "Befund": {
+    "Qualität": "__FILL__",
+    "Herzmorphologie": {
+      "Rechter Vorhof": "__FILL__",
+      "Rechter Ventrikel": "__FILL__",
+      "Linker Vorhof": "__FILL__",
+      "Linker Ventrikel": "__FILL__",
+      "Herzschrittmacher/ICD": "__FILL__",
+      "Sonstiges": "__FILL__"
+    },
+    "Koronararterien": "__FILL__",
+    "Thorax": "__FILL__",
+    "Abdomen": "__FILL__",
+    "Skelett": "__FILL__",
+    "Weitere Bemerkungen": "__FILL__"
+  },
+  "Beurteilung": {
+    "Anulus Messungen": {
+      "Annulus": "__FILL__",
+      "Mittlerer Durchmesser": "__FILL__",
+      "Fläche": "__FILL__",
+      "Abstand zum Abgang der RCA": "__FILL__",
+      "Abstand zum Abgang der LCA": "__FILL__"
+    },
+    "Annulus Angulation": {
+      "RAO": "__FILL__",
+      "Caudal": "__FILL__"
+    },
+    "Arterieller Zugangsweg": {
+      "Rechts iliofemoral minimal": "__FILL__",
+      "Links iliofemoral minimal": "__FILL__"
+    },
+    "Sonstiges": "__FILL__"
+  }
+}

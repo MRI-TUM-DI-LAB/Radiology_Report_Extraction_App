@@ -1,0 +1,500 @@
+{
+    "182": {
+        "report_id": "182",
+        "predicted_phrases": [
+            "Pancreatitis, unspecified",
+            "Active perigastric bleeding",
+            "Successful embolization of an active bleed from the left gastric artery using microcoils and tissue adhesive (Glubran/Lipiodol)",
+            "Spontaneous evacuation of 2.5 liters of old blood"
+        ],
+        "chosen_reformulations": [
+            "Pancreatitis, unspecified",
+            "Active perigastric bleeding",
+            "Successful embolization of an active bleed from the left gastric artery using microcoils and tissue adhesive (Glubran/Lipiodol)",
+            "Spontaneous evacuation of 2.5 liters of old blood"
+        ],
+        "ICD-10 codes": [
+            "K859",
+            "K250"
+        ],
+        "ICD-10 descriptions": [
+            "Acute pancreatitis, unspecified",
+            "Acute gastric ulcer with hemorrhage"
+        ],
+        "similarity_scores": [
+            0.044304072856903076,
+            0.3276069760322571
+        ]
+    },
+    "183": {
+        "report_id": "183",
+        "predicted_phrases": [
+            "Right arm paresis",
+            "aphasia",
+            "slowness",
+            "M1 occlusion on the left",
+            "stenosis in the carotid siphon",
+            "thrombus approximately 3 mm in length"
+        ],
+        "chosen_reformulations": [
+            "Right arm paresis",
+            "aphasia",
+            "slowness",
+            "M1 occlusion on the left",
+            "stenosis in the carotid siphon",
+            "thrombus approximately 3 mm in length"
+        ],
+        "ICD-10 codes": [
+            "R4701",
+            "R464",
+            "I652"
+        ],
+        "ICD-10 descriptions": [
+            "Aphasia",
+            "Slowness and poor responsiveness",
+            "Occlusion and stenosis of carotid artery"
+        ],
+        "similarity_scores": [
+            0.018511295318603516,
+            0.1514320969581604,
+            0.2109176516532898
+        ]
+    },
+    "184": {
+        "report_id": "184",
+        "predicted_phrases": [
+            "CMV infection",
+            "Poor venous access"
+        ],
+        "chosen_reformulations": [
+            "CMV infection",
+            "Poor venous access"
+        ],
+        "ICD-10 codes": [
+            "I872"
+        ],
+        "ICD-10 descriptions": [
+            "Venous insufficiency (chronic) (peripheral)"
+        ],
+        "similarity_scores": [
+            0.17415714263916016
+        ]
+    },
+    "185": {
+        "report_id": "185",
+        "predicted_phrases": [
+            "Dialysis-dependent renal insufficiency",
+            "Right jugular insertion of a tunneled dialysis catheter (GlidePath Long-Term, 23 cm length from hub to catheter tip)",
+            "Projection of the catheter tip in the right atrium"
+        ],
+        "chosen_reformulations": [
+            "Dialysis-dependent renal insufficiency",
+            "Right jugular insertion of a tunneled dialysis catheter (GlidePath Long-Term, 23 cm length from hub to catheter tip)",
+            "Projection of the catheter tip in the right atrium"
+        ],
+        "ICD-10 codes": [
+            "Z992"
+        ],
+        "ICD-10 descriptions": [
+            "Dependence on renal dialysis"
+        ],
+        "similarity_scores": [
+            0.10546547174453735
+        ]
+    },
+    "186": {
+        "report_id": "186",
+        "predicted_phrases": [
+            "Bilioma following atypical liver resection of segments 2/3",
+            "purulent fluid was aspirated"
+        ],
+        "chosen_reformulations": [
+            "Bilioma following atypical liver resection of segments 2/3",
+            "purulent fluid was aspirated"
+        ],
+        "ICD-10 codes": [
+            "Y844"
+        ],
+        "ICD-10 descriptions": [
+            "Aspiration of fluid as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+        ],
+        "similarity_scores": [
+            0.28054237365722656
+        ]
+    },
+    "187": {
+        "report_id": "187",
+        "predicted_phrases": [
+            "PAD stage 4 on the left",
+            "proximal occlusion of the left SFA",
+            "collateral refilling of the distal SFA",
+            "High-grade calcified stenoses of the right CFA"
+        ],
+        "chosen_reformulations": [
+            "PAD stage 4 on the left",
+            "proximal occlusion of the left SFA",
+            "collateral refilling of the distal SFA",
+            "High-grade calcified stenoses of the right CFA"
+        ],
+        "ICD-10 codes": [
+            "M61471"
+        ],
+        "ICD-10 descriptions": [
+            "Other calcification of muscle, right ankle and foot"
+        ],
+        "similarity_scores": [
+            0.3408815860748291
+        ]
+    },
+    "188": {
+        "report_id": "188",
+        "predicted_phrases": [
+            "Painful osteoarthritis of the right knee",
+            "Immobilizing pain"
+        ],
+        "chosen_reformulations": [
+            "Painful osteoarthritis of the right knee",
+            "Immobilizing pain"
+        ],
+        "ICD-10 codes": [
+            "M1711",
+            "R52"
+        ],
+        "ICD-10 descriptions": [
+            "Unilateral primary osteoarthritis, right knee",
+            "Pain, unspecified"
+        ],
+        "similarity_scores": [
+            0.09931337833404541,
+            0.2685157060623169
+        ]
+    },
+    "189": {
+        "report_id": "189",
+        "predicted_phrases": [
+            "cognitive deficits of unclear etiology, unspecified",
+            "spinal ossification, unspecified"
+        ],
+        "chosen_reformulations": [
+            "cognitive deficits of unclear etiology, unspecified",
+            "spinal ossification, unspecified"
+        ],
+        "ICD-10 codes": [
+            "R4184",
+            "M429"
+        ],
+        "ICD-10 descriptions": [
+            "Other specified cognitive deficit",
+            "Spinal osteochondrosis, unspecified"
+        ],
+        "similarity_scores": [
+            0.09815913438796997,
+            0.19300568103790283
+        ]
+    },
+    "190": {
+        "report_id": "190",
+        "predicted_phrases": [
+            "recurrence of breast cancer"
+        ],
+        "chosen_reformulations": [
+            "recurrence of breast cancer"
+        ],
+        "ICD-10 codes": [
+            "C7981"
+        ],
+        "ICD-10 descriptions": [
+            "Secondary malignant neoplasm of breast"
+        ],
+        "similarity_scores": [
+            0.22562462091445923
+        ]
+    },
+    "191": {
+        "report_id": "191",
+        "predicted_phrases": [
+            "Hepatic metastasis from choroidal melanoma",
+            "First TACE of the liver"
+        ],
+        "chosen_reformulations": [
+            "Hepatic metastasis from choroidal melanoma",
+            "First TACE of the liver"
+        ],
+        "ICD-10 codes": [
+            "C693"
+        ],
+        "ICD-10 descriptions": [
+            "Malignant neoplasm of choroid"
+        ],
+        "similarity_scores": [
+            0.2894437313079834
+        ]
+    },
+    "192": {
+        "report_id": "192",
+        "predicted_phrases": [
+            "Epidural hematoma from T8 to L4"
+        ],
+        "chosen_reformulations": [
+            "Epidural hematoma from T8 to L4"
+        ],
+        "ICD-10 codes": [
+            "S064"
+        ],
+        "ICD-10 descriptions": [
+            "Epidural hemorrhage"
+        ],
+        "similarity_scores": [
+            0.14239901304244995
+        ]
+    },
+    "193": {
+        "report_id": "193",
+        "predicted_phrases": [
+            "Peripheral arterial disease (PAD) stage IV on the left",
+            "Persistent occlusion of the superficial femoral artery with reconstitution 12 cm distally via collaterals from the well-contrasted profunda femoris artery",
+            "Moderate to severe stenoses of the superficial femoral artery extending into the popliteal artery (in segments P1 and P2)",
+            "Mild stenosis of the anterior tibial artery",
+            "The fibular and anterior tibial arteries taper off in the distal lower leg at the level of the malleolus",
+            "Persistent, high-grade stenoses of the superficial femoral artery and popliteal artery (in segments P1 and P2)",
+            "The fibular and anterior tibial arteries taper off at the level of the malleolus with subtotal stenoses"
+        ],
+        "chosen_reformulations": [
+            "Peripheral arterial disease (PAD) stage IV on the left",
+            "Persistent occlusion of the superficial femoral artery with reconstitution 12 cm distally via collaterals from the well-contrasted profunda femoris artery",
+            "Moderate to severe stenoses of the superficial femoral artery extending into the popliteal artery (in segments P1 and P2)",
+            "Mild stenosis of the anterior tibial artery",
+            "The fibular and anterior tibial arteries taper off in the distal lower leg at the level of the malleolus",
+            "Persistent, high-grade stenoses of the superficial femoral artery and popliteal artery (in segments P1 and P2)",
+            "The fibular and anterior tibial arteries taper off at the level of the malleolus with subtotal stenoses"
+        ],
+        "ICD-10 codes": [
+            "I739"
+        ],
+        "ICD-10 descriptions": [
+            "Peripheral vascular disease, unspecified"
+        ],
+        "similarity_scores": [
+            0.2350069284439087
+        ]
+    },
+    "194": {
+        "report_id": "194",
+        "predicted_phrases": [
+            "Known ulcerating stenoses at the origins of the internal carotid arteries bilaterally",
+            "AV fistula from the V2 segment of the right vertebral artery"
+        ],
+        "chosen_reformulations": [
+            "Known ulcerating stenoses at the origins of the internal carotid arteries bilaterally",
+            "AV fistula from the V2 segment of the right vertebral artery"
+        ],
+        "ICD-10 codes": [
+            "I6523"
+        ],
+        "ICD-10 descriptions": [
+            "Occlusion and stenosis of bilateral carotid arteries"
+        ],
+        "similarity_scores": [
+            0.20491093397140503
+        ]
+    },
+    "195": {
+        "report_id": "195",
+        "predicted_phrases": [
+            "Superior vena cava: 11 mmHg",
+            "Portal vein: 14 mmHg",
+            "This results in a normal pressure gradient of 3 mmHg"
+        ],
+        "chosen_reformulations": [
+            "Superior vena cava: 11 mmHg",
+            "Portal vein: 14 mmHg",
+            "This results in a normal pressure gradient of 3 mmHg"
+        ],
+        "ICD-10 codes": [
+            "I81"
+        ],
+        "ICD-10 descriptions": [
+            "Portal vein thrombosis"
+        ],
+        "similarity_scores": [
+            0.20847326517105103
+        ]
+    },
+    "196": {
+        "report_id": "196",
+        "predicted_phrases": [
+            "hyponatremia",
+            "SIADH",
+            "Compression fractures with wedge deformity of T8 and T9 vertebrae",
+            "compression fracture of T12",
+            "Older-appearing rib fractures on both sides"
+        ],
+        "chosen_reformulations": [
+            "hyponatremia",
+            "SIADH",
+            "Compression fractures with wedge deformity of T8 and T9 vertebrae",
+            "compression fracture of T12",
+            "Older-appearing rib fractures on both sides"
+        ],
+        "ICD-10 codes": [
+            "E871",
+            "S22080",
+            "S2249"
+        ],
+        "ICD-10 descriptions": [
+            "Hypo-osmolality and hyponatremia",
+            "Wedge compression fracture of T11-T12 vertebra",
+            "Multiple fractures of ribs, unspecified side"
+        ],
+        "similarity_scores": [
+            0.13426250219345093,
+            0.20127004384994507,
+            0.1444467306137085
+        ]
+    },
+    "197": {
+        "report_id": "197",
+        "predicted_phrases": [
+            "SLAC wrist on the left side",
+            "Old avulsion fracture of the ulnar styloid process",
+            "Scapholunate dissociation (SL gap 5 mm) with consequent disruption of the second and third Gilula's arcs"
+        ],
+        "chosen_reformulations": [
+            "SLAC wrist on the left side",
+            "Old avulsion fracture of the ulnar styloid process",
+            "Scapholunate dissociation (SL gap 5 mm) with consequent disruption of the second and third Gilula's arcs"
+        ],
+        "ICD-10 codes": [
+            "M25332",
+            "S5261"
+        ],
+        "ICD-10 descriptions": [
+            "Other instability, left wrist",
+            "Fracture of ulna styloid process"
+        ],
+        "similarity_scores": [
+            0.2100992202758789,
+            0.13115936517715454
+        ]
+    },
+    "198": {
+        "report_id": "198",
+        "predicted_phrases": [
+            "recurrent pneumothoraces, unspecified",
+            "indwelling pleural drain, unspecified",
+            "Scarring changes in the lung framework, unspecified",
+            "bullous emphysema, unspecified",
+            "Small, stable pleural effusion on the right",
+            "Reduced aeration of the middle lobe, unspecified",
+            "Reduced aeration of the left lower lobe, unspecified",
+            "Consistent presence of a pleural drain on the right"
+        ],
+        "chosen_reformulations": [
+            "recurrent pneumothoraces, unspecified",
+            "indwelling pleural drain, unspecified",
+            "Scarring changes in the lung framework, unspecified",
+            "bullous emphysema, unspecified",
+            "Small, stable pleural effusion on the right",
+            "Reduced aeration of the middle lobe, unspecified",
+            "Reduced aeration of the left lower lobe, unspecified",
+            "Consistent presence of a pleural drain on the right"
+        ],
+        "ICD-10 codes": [
+            "J9383",
+            "J439",
+            "J90"
+        ],
+        "ICD-10 descriptions": [
+            "Other pneumothorax",
+            "Emphysema, unspecified",
+            "Pleural effusion, not elsewhere classified"
+        ],
+        "similarity_scores": [
+            0.12614071369171143,
+            0.10342854261398315,
+            0.12138646841049194
+        ]
+    },
+    "199": {
+        "report_id": "199",
+        "predicted_phrases": [
+            "Newly inserted cemented knee prosthesis on the right, unspecified"
+        ],
+        "chosen_reformulations": [
+            "Newly inserted cemented knee prosthesis on the right, unspecified"
+        ],
+        "ICD-10 codes": [
+            "T84012"
+        ],
+        "ICD-10 descriptions": [
+            "Broken internal right knee prosthesis"
+        ],
+        "similarity_scores": [
+            0.1359986662864685
+        ]
+    },
+    "200": {
+        "report_id": "200",
+        "predicted_phrases": [
+            "Newly inserted cemented knee prosthesis on the right",
+            "extracorporeal foreign material, unspecified",
+            "Moderate postoperative air inclusions",
+            "anterior skin staple closure"
+        ],
+        "chosen_reformulations": [
+            "Newly inserted cemented knee prosthesis on the right",
+            "extracorporeal foreign material, unspecified",
+            "Moderate postoperative air inclusions",
+            "anterior skin staple closure"
+        ],
+        "ICD-10 codes": [
+            "Z189",
+            "J95812",
+            "Z481"
+        ],
+        "ICD-10 descriptions": [
+            "Retained foreign body fragments, unspecified material",
+            "Postprocedural air leak",
+            "Encounter for planned postprocedural wound closure"
+        ],
+        "similarity_scores": [
+            0.15165400505065918,
+            0.20242273807525635,
+            0.3484846353530884
+        ]
+    },
+    "201": {
+        "report_id": "201",
+        "predicted_phrases": [
+            "enlarged heart",
+            "widened upper mediastinum, unspecified",
+            "shift of the trachea to the right, unspecified",
+            "Mild pulmonary venous congestion",
+            "Blunted right hilum",
+            "Comminuted fracture of the patella treated with two K-wires and tension band osteosynthesis",
+            "still discernible fracture zone",
+            "slight dorsal step-off",
+            "Grade II gonarthrosis, more pronounced laterally"
+        ],
+        "chosen_reformulations": [
+            "enlarged heart",
+            "widened upper mediastinum, unspecified",
+            "shift of the trachea to the right, unspecified",
+            "Mild pulmonary venous congestion",
+            "Blunted right hilum",
+            "Comminuted fracture of the patella treated with two K-wires and tension band osteosynthesis",
+            "still discernible fracture zone",
+            "slight dorsal step-off",
+            "Grade II gonarthrosis, more pronounced laterally"
+        ],
+        "ICD-10 codes": [
+            "S8204"
+        ],
+        "ICD-10 descriptions": [
+            "Comminuted fracture of patella"
+        ],
+        "similarity_scores": [
+            0.17594754695892334
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+EXAMINATION:
+ Cardiac MRI PATIENT HISTORY: A 65-year-old male with a history of 
+hypertension and dyspnea on exertion. Evaluation for possible 
+hypertrophic cardiomyopathy is requested. TECHNIQUE: 3 Tesla MRI 
+scanner. The study includes cine imaging in standard long-axis and 
+short-axis views, T2-weighted imaging, T2* imaging, late gadolinium 
+enhancement (LGE) sequences, and volumetric quantification measurements.
+ FINDINGS: The left ventricle demonstrates asymmetric septal hypertrophy
+ with a maximal wall thickness of 18 mm in the basal anteroseptal 
+segment. The left ventricular ejection fraction is preserved at 
+approximately 55%. The right ventricle appears normal in size and 
+function. Mild aortic regurgitation is observed, and the other valves 
+appear normal. No significant pericardial effusion is identified. Late 
+gadolinium enhancement reveals patchy mid-myocardial enhancement in the 
+hypertrophied septal segments, suggestive of myocardial fibrosis. 
+T2-weighted images show no signs of myocardial edema or inflammation. 
+T2* imaging reveals a myocardial T2* value of 32 milliseconds, 
+indicating no significant myocardial iron overload. The atria are normal
+ in size, and no intracardiac thrombus is detected. Volumetric 
+Measurements: Patient weight/height: 92 kg, 180 cm, BSA 2.18 m^2 RVEDV: 
+156 mL, 72 mL/m^2 RVESV: 68 mL, 31 mL/m^2 RVSV: 88 mL, 40 mL/m^2 RVEF: 
+56 % LVEDV: 193 mL, 89 mL/m^2 LVESV: 87 mL, 40 mL/m^2 LVSV: 106 mL, 49 
+mL/m^2 LVEF: 55 % IMPRESSION: Asymmetric septal hypertrophy with maximal
+ wall thickness of 18 mm in the basal anteroseptal segment, consistent 
+with hypertrophic cardiomyopathy. Preserved left ventricular ejection 
+fraction at 55%. Patchy mid-myocardial enhancement in the hypertrophied 
+septal segments, suggestive of myocardial fibrosis. Mild aortic 
+regurgitation and no significant pericardial effusion. No evidence of 
+significant myocardial iron overload based on T2* value.

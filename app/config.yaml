@@ -1,0 +1,48 @@
+general:
+  log_level: "info"
+
+embedding_model: # Settings for the embedding model
+  model: "jinaai/jina-embeddings-v3" # can also be a local path
+  local_files_only: false # enforces using only local files for the model.
+                          # If true, 'model' must be a local path to a valid SentenceTransformer model.
+
+llm: # Settings for the LLM
+  llm_service: "vertexai" # vertexai or ollama
+  vertexai: # Settings for Vertex AI. If llm_service is set to vertexai, these settings will be used.
+    vertexai_model: "gemini-2.0-flash"
+    google_cloud_project: "llm-structuring"
+    google_cloud_region: "us-central1"
+    google_application_credentials: "./vertexai_credentials.json" # Path to your Google Cloud credentials JSON file
+  ollama: # Settings for Ollama. If llm_service is set to ollama, these settings will be used.
+    ollama_model: "gemma3-27-it:latest"
+    ollama_endpoint: "http://localhost:11434/api/generate"
+
+report_structuring: # Settings for the report structuring pipeline
+  enabled: true
+  json_placeholder: "__FILL__" # Placeholder for the JSON fields in the report templates.
+  detect_languages: ["en", "de"] # Languages supported by the report structuring pipeline.
+                                 # This prevents langid from detecting e.g. latin because 
+                                 # medical reports often contain a lot of latin terms.
+  filling_mode: "step-by-step-context" # at-once or step-by-step or step-by-step-context
+  chromadb_path: "chroma_data/template_db"
+  chromadb_collection_name: "reports"
+
+radlex: # Settings for the radlex pipeline
+  enabled: true
+  mapping_path: "logic/radlex/data/radlex_mappings.json"
+  chromadb_path: "chroma_data/radlex_db"
+  chromadb_collection_name: "radlex"
+  max_docs: 10000
+  reasoning: false
+  reformulate_entities: true
+  batch_size: 512 # Used when the database is being built initially
+
+icd_coding: # Settings for the ICD coding pipeline
+  enabled: true
+  max_docs: 5
+  chromadb_path: "chroma_data/icd_db"
+  chromadb_collection_name: "icd_chroma_db"
+  reasoning: true
+  thresholding: true
+  reformulate_entities: true
+  batch_size: 512 # Used when the database is being built initially

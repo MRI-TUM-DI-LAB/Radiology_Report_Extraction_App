@@ -1,0 +1,4 @@
+Clinical Question: Suspected Achilles tendon rupture  
+Technique: Ultrasound of the right Achilles tendon.  
+Findings: The Achilles tendon is thickened in the middle third and shows a disruption of the fiber structure. A hematoma is present at the site of the rupture.  
+Conclusion: Rupture of the right Achilles tendon.

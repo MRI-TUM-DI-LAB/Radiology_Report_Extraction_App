@@ -1,0 +1,26 @@
+MRI
+ ABDOMEN AND PELVIS FOR EVALUATION OF THE PROSTATECOMPARISON: ()CLINICAL
+ HISTORY: The patient is a 72-year-old male with elevated PSA levels and
+ a history of prostate cancer. A multiparametric prostate MRI was 
+performed to assess the possibility of extraprostatic extension. 
+TECHNIQUE: Multiplanar, multisequence MRI of the abdomen and pelvis was 
+performed, including diffusion, T2, and dynamic contrast-enhanced (DCE) 
+imaging of the prostate. The post-contrast images were obtained 
+following the uneventful intravenous administration of 8 mL of 
+gadobutrol (Gadavist) gadolinium-containing contrast. FINDINGS: The 
+prostate gland measures 4.1 x 4.3 x 4.6 cm (volume 42 mL). There is a 
+focal area of T2 hypointensity in the left mid-gland measuring 
+approximately 11 x 9 mm in diameter. The area shows restricted diffusion
+ on the ADC map, with a value of 890 x 10^-3 mm^2/s. The dynamic 
+contrast-enhanced (DCE) characteristics show focal enhancing lesion with
+ washout kinetics in the left mid-gland, with a PI-RADS v2 score of 5. 
+The area shows capsular abutment and is likely associated with 
+extraprostatic extension. No other suspicious lesions or abnormal signal
+ intensity are seen in the peripheral zone of the prostate gland. 
+IMPRESSION: Based on the above findings, a focal area of T2 
+hypointensity with restricted diffusion and washout kinetics on DCE 
+suggests the presence of clinically significant cancer in the left 
+mid-gland with a PI-RADS v2 score of 5. The capsular abutment and likely
+ extraprostatic extension of the lesion is concerning for prostate 
+cancer invasion into surrounding tissues. This finding requires further 
+evaluation and monitoring for possible treatment options.

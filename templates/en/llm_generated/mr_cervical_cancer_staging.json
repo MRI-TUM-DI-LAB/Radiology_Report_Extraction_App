@@ -1,0 +1,20 @@
+{
+    "CLINICAL_INFORMATION/HISTORY": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "FINDINGS": {
+        "UTERUS": "__FILL__",
+        "TUMOR_SITE": "__FILL__",
+        "TUMOR_SIZE": "__FILL__",
+        "UTERINE_INVASION": "__FILL__",
+        "PARAMETRAL_INVASION": "__FILL__",
+        "VAGINAL_INVASION": "__FILL__",
+        "TUMOR_EXTENSION": "__FILL__",
+        "ADDITIONAL_COMMENTS": "__FILL__",
+        "OVARIES": "__FILL__",
+        "LYMPH_NODES": "__FILL__",
+        "ADDITIONAL_FINDINGS": "__FILL__",
+        "BONES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

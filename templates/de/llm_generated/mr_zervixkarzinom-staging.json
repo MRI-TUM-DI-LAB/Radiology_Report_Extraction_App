@@ -1,0 +1,20 @@
+{
+    "KLINISCHE_INFORMATIONEN/ANAMNESE": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "UTERUS": "__FILL__",
+        "TUMORLOKALISATION": "__FILL__",
+        "TUMORGRÖSSE": "__FILL__",
+        "UTERUSINVASION": "__FILL__",
+        "PARAMETRIALE_INVASION": "__FILL__",
+        "VAGINALE_INVASION": "__FILL__",
+        "TUMORAUSDEHNUNG": "__FILL__",
+        "ZUSÄTZLICHE_KOMMENTARE": "__FILL__",
+        "OVARIEN": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__",
+        "ZUSÄTZLICHE_BEFUNDE": "__FILL__",
+        "KNOCHEN": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

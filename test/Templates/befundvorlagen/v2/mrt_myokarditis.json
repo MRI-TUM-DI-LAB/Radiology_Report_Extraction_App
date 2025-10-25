@@ -1,0 +1,144 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Technik": {
+      "Feldstärke": "__FILL__",
+      "Feldstärke_möglichkeiten": [
+        "1.5 T",
+        "3 T"
+      ],
+      "MR Protokoll": "__FILL__",
+      "Auswertesoftware": "__FILL__",
+      "Quelle der Normwerte": "__FILL__",
+      "KM": "__FILL__"
+    },
+    "Patientencharakteristik": {
+      "Geschlecht": "__FILL__",
+      "Geschlecht_möglichkeiten": [
+        "männlich",
+        "weiblich"
+      ],
+      "Körpergewicht": "__FILL__",
+      "Körpergröße": "__FILL__",
+      "Körperoberlfäche (BSA)": "__FILL__",
+      "Hämatokrit": "__FILL__"
+    },
+    "Vergleichsuntersuchung": {
+      "Vergleichsuntersuchung": "__FILL__",
+      "Vergleichsuntersuchung_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "Vergleichsuntersuchung_eingabe": "__FILL__"
+    },
+    "Herz": {
+      "Bildqualität": {
+        "Einschränkung": "__FILL__",
+        "Einschränkung_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Einschränkung_eingabe": "__FILL__"
+      },
+      "Funktionsanalyse LV": {
+        "LV enddiastolischer Diameter (LV EDD):": "__FILL__",
+        "LV enddiastolischer Volumenindex (LV EDVi):": "__FILL__",
+        "LV endsystolischer  Volumenindex (LV ESVi):": "__FILL__",
+        "LV Ejektions-Fraktion (LV EF):": "__FILL__",
+        "LV ED Masse normiert:": "__FILL__",
+        "Regionale Wandbewegungsstörungen LV:": "__FILL__",
+        "Regionale Wandbewegungsstörungen LV:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Regionale Wandbewegungsstörungen LV:_eingabe": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Funktionsanalyse RV": {
+        "RV enddiastolischer Diameter (RV EDD):": "__FILL__",
+        "RV enddiastolischer Volumenindex (RV EDVi):": "__FILL__",
+        "RV endsystolischer  Volumenindex (RV ESVi):": "__FILL__",
+        "RV Ejektions-Fraktion (RV EF):": "__FILL__",
+        "Regionale Wandbewegungsstörungen RV:": "__FILL__",
+        "Regionale Wandbewegungsstörungen RV:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Regionale Wandbewegungsstörungen RV:_eingabe": "__FILL__",
+        "Interventrikuläre Septumdicke (IVSD):": "__FILL__"
+      },
+      "Morphologie": {
+        "RA:": "__FILL__",
+        "LA:": "__FILL__",
+        "Herzklappenpathologie:": "__FILL__",
+        "Herzklappenpathologie:_möglichkeiten": [
+          "-",
+          "nicht untersucht",
+          "nein",
+          "ja"
+        ],
+        "Herzklappenpathologie:_eingabe": "__FILL__",
+        "Intracavitäre Thromben:": "__FILL__",
+        "Intracavitäre Thromben:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ]
+      },
+      "Gewebecharakterisierung": {
+        "Myokardödem regional:": "__FILL__",
+        "Myokardödem regional:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Myokardödem regional:_eingabe": "__FILL__",
+        "Myokardödem global:": "__FILL__",
+        "Myokardödem global:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Late Gadolinium Enhancement (LGE) Myokard:": "__FILL__",
+        "Late Gadolinium Enhancement (LGE) Myokard:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Late Gadolinium Enhancement (LGE) Myokard:_eingabe": "__FILL__",
+        "Late Gadolinium Enhancement (LGE) Perikard:": "__FILL__",
+        "Late Gadolinium Enhancement (LGE) Perikard:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Perikarderguss:": "__FILL__",
+        "Perikarderguss:_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Perikarderguss:_eingabe": "__FILL__",
+        "T2-Mapping:": "__FILL__",
+        "T1-Mapping nativ:": "__FILL__",
+        "T1-Mapping post KM:": "__FILL__",
+        "ECV:": "__FILL__"
+      }
+    },
+    "Sonstige Auffälligkeiten": "__FILL__"
+  },
+  "Beurteilung": {
+    "MR-tomographisch Myokarditis:": "__FILL__",
+    "MR-tomographisch Myokarditis:_möglichkeiten": [
+      "-",
+      "nein",
+      "möglich",
+      "ja"
+    ],
+    "Beurteilung_text": "__FILL__"
+  }
+}

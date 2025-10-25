@@ -1,0 +1,23 @@
+{
+    "INDIKATION": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "VERGROESSERTES_KARDIOMEDIASTINUM": "__FILL__",
+        "KARDIOMEGALIE": "__FILL__",
+        "LUNGENLAESION": "__FILL__",
+        "LUNGENVERDICHTUNG": "__FILL__",
+        "OEDEM": "__FILL__",
+        "KONSOLIDIERUNG": "__FILL__",
+        "PNEUMONIE": "__FILL__",
+        "ATELEKTASE": "__FILL__",
+        "PNEUMOTHORAX": "__FILL__",
+        "PLEURAERGUSS": "__FILL__",
+        "PLEURA_ANDERE": "__FILL__",
+        "FRAKTUR": "__FILL__",
+        "UNTERSTUETZENDE_VORRICHTUNGEN": "__FILL__",
+        "UEBERLAGERNDE_WEICHTEILE": "__FILL__",
+        "OBERBAUCH": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

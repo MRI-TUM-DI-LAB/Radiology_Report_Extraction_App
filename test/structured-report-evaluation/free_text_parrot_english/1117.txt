@@ -1,0 +1,5 @@
+Clinical Question: Follow-up for pneumonia, progress evaluation  
+Technique: Chest X-ray in two views (posteroanterior and lateral) while standing.  
+Previous Findings: Chest X-ray from August 1, 2024: Alveolar infiltrates in the right upper lobe consistent with pneumonia.  
+Findings: Compared to the previous examination, there is a marked improvement in the alveolar infiltrates in the right upper lobe. The lung markings in this area are still mildly pronounced, but the lung transparency has significantly improved. The pulmonary hila remain slightly accentuated. No pleural effusion. Heart and mediastinum are unremarkable. The skeletal structure shows no acute pathological changes.  
+Conclusion: Resolving pneumonia in the right upper lobe.

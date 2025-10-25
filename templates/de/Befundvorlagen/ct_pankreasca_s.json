@@ -1,0 +1,121 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung": {
+      "Art": "__FILL__",
+      "Datum": "__FILL__",
+      "Details": "__FILL__"
+    },
+    "Histologie": "__FILL__",
+    "IgG4": "__FILL__",
+    "Bildqualität": "__FILL__",
+    "Pankreasparenchym": "__FILL__",
+    "Pankreaskarzinom": {
+      "Tumorlokalisation": "__FILL__",
+      "Tumorgröße": {
+        "Tumorgröße_1": "__FILL__",
+        "Tumorgröße_2": "__FILL__",
+        "Bild": "__FILL__",
+        "Serie": "__FILL__"
+      },
+      "Tumorinfiltration (T-Stadium)": {
+        "Bild": "__FILL__",
+        "Serie": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Tumorinfiltration Nachbarorgane": "__FILL__",
+      "KM-Enhancement arteriell": "__FILL__",
+      "KM-Enhancement venös": "__FILL__"
+    },
+    "Gallenwege": {
+      "Ductus pancreaticus": {
+        "Ductus pancreaticus_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Ductus hepatocholedochus": {
+        "Ductus hepatocholedochus_Wert": "__FILL__",
+        "Details": "__FILL__"
+      }
+    },
+    "Gefäßbezug (arteriell)": {
+      "Aorta": "__FILL__",
+      "Truncus coeliacus": "__FILL__",
+      "A. hepatica communis": "__FILL__",
+      "A. hepatica propria": "__FILL__",
+      "A. gastroduodenalis": "__FILL__",
+      "A. mesenterica superior": "__FILL__",
+      "A. lienalis": "__FILL__",
+      "Anatomische Varianten": {
+        "Anatomische Varianten_Wert": "__FILL__",
+        "Details": "__FILL__"
+      }
+    },
+    "Gefäßbezug (venös)": {
+      "V. mesenterica superior": "__FILL__",
+      "V. lienalis": "__FILL__",
+      "V. portae": "__FILL__"
+    },
+    "Gefäße (sonstiges)": {
+      "Atherosklerose Tr. coeliacus": {
+        "Atherosklerose Tr. coeliacus_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Atherosklerose A. mesenterica superior": {
+        "Atherosklerose A. mesenterica superior_Wert": "__FILL__",
+        "Details": "__FILL__"
+      }
+    },
+    "Abdomen": {
+      "Aszites": "__FILL__",
+      "peritoneale Implantate": {
+        "peritoneale Implantate_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Leber": {
+        "L01": "__FILL__",
+        "L02": "__FILL__",
+        "Leber_Text": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Milz": {
+        "Milz_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Nieren / Ureteren": {
+        "Nieren_Ureteren_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Nebennieren": {
+        "Nebennieren_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Lymphknoten": {
+        "Lymphknoten_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Darm": {
+        "Darm_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Beckenorgane": {
+        "Beckenorgane_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Knochen": {
+        "Knochen_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Lunge (soweit miterfasst)": {
+        "Lunge_Wert": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Sonstiges": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "Beurteilung_Text": "V.a. Pankreas-Ca im __FILL__\nBek. Pankreas-Ca im __FILL__",
+    "Insgesamt TNM": "__FILL__",
+    "Wahrscheinlichkeit": "__FILL__"
+  }
+}

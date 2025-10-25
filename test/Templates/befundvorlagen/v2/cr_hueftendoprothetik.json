@@ -1,0 +1,99 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Bildqualität": "__FILL__",
+    "Bildqualität_möglichkeiten": [
+      "gut",
+      "ausreichend",
+      "eingeschränkt"
+    ],
+    "Bildqualität_eingabe": "__FILL__",
+    "Beurteiltes Hüftgelenk": "__FILL__",
+    "Beurteiltes Hüftgelenk_möglichkeiten": [
+      "rechts",
+      "links"
+    ],
+    "Gelenkstellung": "__FILL__",
+    "Gelenkstellung_möglichkeiten": [
+      "—",
+      "regelrecht",
+      "gering inkongruent (varisch)",
+      "mittelgradig inkongruent (varisch)",
+      "ausgeprägt inkongruent (varisch)"
+    ],
+    "Gelenkstellung_eingabe": "__FILL__",
+    "Subchondrale Sklerosierung": "__FILL__",
+    "Subchondrale Sklerosierung_möglichkeiten": [
+      "—",
+      "keine",
+      "gering",
+      "mittelgradig",
+      "ausgeprägt"
+    ],
+    "Subchondrale Sklerosierung_eingabe": "__FILL__",
+    "Artikuläre Osteophyten": "__FILL__",
+    "Artikuläre Osteophyten_möglichkeiten": [
+      "—",
+      "keine",
+      "gering",
+      "mittelgradig",
+      "ausgeprägt"
+    ],
+    "Artikuläre Osteophyten_eingabe": "__FILL__",
+    "Deformierungen der Gelenkpartner": "__FILL__",
+    "Deformierungen der Gelenkpartner_möglichkeiten": [
+      "—",
+      "keine",
+      "gering",
+      "mittelgradig",
+      "ausgeprägt"
+    ],
+    "Deformierungen der Gelenkpartner_eingabe": "__FILL__",
+    "Spongiosa (zystische Deformierungen in Gelenkpfanne und Hüftkopf)": "__FILL__",
+    "Spongiosa (zystische Deformierungen in Gelenkpfanne und Hüftkopf)_möglichkeiten": [
+      "—",
+      "keine",
+      "gering",
+      "mittelgradig",
+      "ausgeprägt"
+    ],
+    "Spongiosa (zystische Deformierungen in Gelenkpfanne und Hüftkopf)_eingabe": "__FILL__",
+    "Beckenarchitektur (Dysplasien)": "__FILL__",
+    "Beckenarchitektur (Dysplasien)_möglichkeiten": [
+      "—",
+      "nein",
+      "ja"
+    ],
+    "Beckenarchitektur (Dysplasien)_eingabe": "__FILL__",
+    "Paraartikuläre Weichteile (Kalzifikationen)": "__FILL__",
+    "Paraartikuläre Weichteile (Kalzifikationen)_möglichkeiten": [
+      "—",
+      "keine",
+      "vereinzelt",
+      "ankylosierend"
+    ],
+    "Paraartikuläre Weichteile (Kalzifikationen)_eingabe": "__FILL__",
+    "Sonstiges Befund": "__FILL__"
+  },
+  "Beurteilung": {
+    "Coxarthrose": "__FILL__",
+    "Coxarthrose_möglichkeiten": [
+      "—",
+      "keine",
+      "dysplastisch",
+      "degenerativ",
+      "posttraumatisch"
+    ],
+    "Kellgren-Score": "__FILL__",
+    "Kellgren-Score_möglichkeiten": [
+      "—",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Sonstiges Beurteilung": "__FILL__"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "INDICATION": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "MULTIPLANAR_IMAGES": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "MARROW_SIGNAL": "__FILL__",
+        "FOCUSED_IMAGING": "__FILL__",
+        "INTRA-ABDOMINAL_CONTENTS": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

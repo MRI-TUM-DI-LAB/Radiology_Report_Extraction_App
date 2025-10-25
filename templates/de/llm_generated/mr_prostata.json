@@ -1,0 +1,61 @@
+{
+    "INDIKATION": {
+        "DATUM": "__FILL__",
+        "SERUM_PSA_WERT": "__FILL__",
+        "VORHERIGE_BIOPSIE": {
+            "TYP": "__FILL__",
+            "DATUM": "__FILL__",
+            "ERGEBNISSE": "__FILL__"
+        },
+        "VORHERIGE_THERAPIE": {
+            "BESTRAHLUNG": "__FILL__",
+            "HORMONE": "__FILL__"
+        }
+    },
+    "TECHNIK": {
+        "PI_RADS_KONFORM": "__FILL__",
+        "FELDSTAERKE": "__FILL__",
+        "VERWENDETE_SPULEN": "__FILL__",
+        "IV_KONTRASTMITTELGABE": {
+            "WEG": "__FILL__",
+            "RATE": "__FILL__"
+        },
+        "PULSSEQUENZPARAMETER": "__FILL__"
+    },
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "QUALITAET": "__FILL__",
+        "PERIPHERE_ZONE": "__FILL__",
+        "TRANSITIONSZONE": "__FILL__",
+        "LAESIONEN": [
+            {
+                "BLUTUNG": "__FILL__",
+                "RANG": "__FILL__",
+                "ZONE": "__FILL__",
+                "SEITE": "__FILL__",
+                "POSITION": "__FILL__",
+                "BILDSERIENNUMMER": "__FILL__",
+                "LAENGE": "__FILL__",
+                "BREITE": "__FILL__",
+                "HOEHE": "__FILL__",
+                "VOLUMEN": "__FILL__",
+                "PSA_DICHTE": "__FILL__",
+                "EXTRA_PROSTATISCHE_EXTENSION": "__FILL__",
+                "PI_RADS_KATEGORIE": "__FILL__"
+            }
+        ],
+        "NEUROVASKULAERE_BUENDEL": {
+            "EINDRUCK": "__FILL__",
+            "DISTANZ_VON_INDEXLAESION": "__FILL__"
+        },
+        "SAMENBLAESCHEN": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__",
+        "KNOCHEN": "__FILL__",
+        "ANDERE_BECKENORGANE": "__FILL__"
+    },
+    "EINDRUCK": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSAETZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

@@ -1,0 +1,21 @@
+CT
+ SINUSESCLINICAL HISTORY: A 49-year-old male patient with recurrent 
+episodes of sinusitis, now presenting with facial swelling and pain. 
+COMPARISON: None available at the time of dictation. TECHNIQUE: A CT 
+scan of the sinuses was performed following the administration of 60 mL 
+of iopamidol __% injection IV contrast. The estimated radiation dose 
+(CTDIvol [mGy]) for each series in this exam is __, and the estimated 
+cumulative dose (DLP [mGy-cm]) is __.FINDINGS: The frontal sinuses are 
+clear. The ethmoid sinuses exhibit mild mucosal thickening. The 
+maxillary sinuses demonstrate complete opacification bilaterally, with 
+air-fluid levels suggestive of acute sinusitis. The sphenoid sinuses 
+reveal complete opacification, also suggestive of acute sinusitis. The 
+nasal cavity displays a deviated septum to the left with compensatory 
+hypertrophy of the right inferior turbinate. There is soft tissue 
+swelling in the left premaxillary region, concerning for cellulitis. 
+IMPRESSION: Complete opacification of the bilateral maxillary and 
+sphenoid sinuses with air-fluid levels, indicative of acute sinusitis. 
+Mild mucosal thickening of the ethmoid sinuses. Deviated septum to the 
+left with compensatory hypertrophy of the right inferior turbinate. Soft
+ tissue swelling in the left premaxillary region, concerning for 
+cellulitis. Clinical correlation is advised.

@@ -1,0 +1,141 @@
+{
+  "Klinische Information": "__FILL__",
+  "Fragestellung": "__FILL__",
+  "Befund": {
+    "Stroke": {
+      "Blutung": {
+        "Lokalisation": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Hyperdenses Arterienzeichen": {
+        "Seite": {
+          "Lokalisation": "__FILL__",
+          "Details": "__FILL__"
+        },
+        "Details": "__FILL__"
+      },
+      "Stadium der Ischämie": "__FILL__",
+      "Lokalisation supratentoriell": {
+        "Thalamus": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Anteriorstromgebiet": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Posteriorstromgebiet": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Nucleus caudatus (C)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Nucleus lentiformis (L)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Capsula interna (IC)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Insula (I)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet anterior (M1)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet lateral (M2)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet posterior (M3)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet anterior superior (M4)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet lateral superior (M5)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Mediastromgebiet posterior superior (M6)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Vordere Grenzzone (frontoparietal)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        },
+        "Hintere Grenzzone (parietookzipital)": {
+          "rechts": "__FILL__",
+          "links": "__FILL__"
+        }
+      },
+      "Lokalisation infratentoriell": {
+        "Mittelhirn": "__FILL__",
+        "Pons": "__FILL__",
+        "Rechte Kleinhirnhemisphäre": "__FILL__",
+        "Linke Kleinhirnhemisphäre": "__FILL__"
+      },
+      "ASPECT-Score": "__FILL__",
+      "pc-ASPECT-Score": "__FILL__",
+      "Hämorrhagische Transformation": "__FILL__",
+      "Schwellung": "__FILL__",
+      "Herniation": {
+        "nein": "__FILL__",
+        "subfalzine Herniation": "__FILL__",
+        "Uncusherniation": "__FILL__",
+        "zentrale Herniation": "__FILL__",
+        "aszendierende transtentorielle Herniation": "__FILL__",
+        "Tonsilläre Herniation": "__FILL__"
+      },
+      "Alte postischämische Defekte": {
+        "Lokalisation": "__FILL__",
+        "Details": "__FILL__"
+      },
+      "Mikroangiopathische Marklagerveränderungen": "__FILL__",
+      "Sonstiges": "__FILL__"
+    },
+    "Liquorräume": {
+      "Basale Zisternen": "__FILL__",
+      "Äußere Liquorräume": "__FILL__",
+      "Innere Liquorräume": "__FILL__"
+    },
+    "Extraaxiales Kompartiment": {
+      "Epiduralraum": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Subduralraum": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      }
+    },
+    "Ossärer Status und erfasstes Viszerokranium": {
+      "Schädelkalotte": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Schädelbasis": {
+        "Unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Orbitae": {
+        "Soweit erfasst, unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      },
+      "Miterfasster Gesichtsschädel": {
+        "Soweit erfasst, unauffällig": "__FILL__",
+        "Sonstiges": "__FILL__"
+      }
+    },
+    "Voruntersuchungen": "__FILL__"
+  },
+  "Beurteilung": "__FILL__"
+}

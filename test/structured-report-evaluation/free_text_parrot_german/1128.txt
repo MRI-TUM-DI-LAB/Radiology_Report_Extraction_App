@@ -1,0 +1,5 @@
+Patient: Heike Hofmann, geb. 03.07.1982 Auftraggeber: Dr. med. Neurologe Fragestellung: Ausschluss Multiple Sklerose, Verlaufskontrolle
+Technik: MRT Gehirn mit und ohne Kontrastmittel (Gadolinium) in T1w-, T2w-, FLAIR- und DWI-Sequenzen.
+Vorbefund: MRT Gehirn vom 12.05.2023: Multiple demyelinisierende Herde periventrikulär und subkortikal.
+Befund: Im Vergleich zum Vorbefund vom 12.05.2023 zeigen sich keine neuen demyelinisierenden Herde. Die bekannten Herde periventrikulär und subkortikal beidseits zeigen kein Kontrastmittelenhancement. Keine Anzeichen einer aktiven Entzündung. Ventrikel und Sulci sind altersentsprechend weit. Keine Mittellinienverlagerung. Hirnstamm und Kleinhirn unauffällig.
+Beurteilung: MRT-Bild morphologisch vereinbar mit einer Multiplen Sklerose. Kein Hinweis auf eine aktuelle Krankheitsaktivität.

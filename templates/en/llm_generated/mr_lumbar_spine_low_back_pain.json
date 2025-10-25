@@ -1,0 +1,24 @@
+{
+    "FINDINGS": {
+        "NUMBERING": "__FILL__",
+        "SPINAL_CORD": {
+            "CONUS": "__FILL__",
+            "CONUS_TERMINATION_LEVEL": "__FILL__"
+        },
+        "DISCS": "__FILL__",
+        "BONES": {
+            "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+            "MARROW_SIGNAL": "__FILL__",
+            "VERTEBRAL_ABNORMALITIES": "__FILL__"
+        },
+        "SOFT_TISSUES": "__FILL__",
+        "T12-L1": "__FILL__",
+        "L1-L2": "__FILL__",
+        "L2-L3": "__FILL__",
+        "L3-L4": "__FILL__",
+        "L4-L5": "__FILL__",
+        "L5-S1": "__FILL__",
+        "OTHER": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

@@ -1,0 +1,13 @@
+{
+    "VERFAHREN": "__FILL__",
+    "SEITLICHKEIT": "__FILL__",
+    "ANZAHL_DER_AUFNAHMEN": "__FILL__",
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "KNOCHEN": "__FILL__",
+        "GELENKE": "__FILL__",
+        "WEICHTEILE": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

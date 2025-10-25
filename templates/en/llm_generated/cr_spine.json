@@ -1,0 +1,13 @@
+{
+    "VIEWS": "__FILL__",
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "NUMBER_OF_LUMBAR-TYPE_VERTEBRAE": "__FILL__",
+        "VERTEBRAL_BODIES": "__FILL__",
+        "DISK_SPACES": "__FILL__",
+        "SOFT_TISSUES": "__FILL__",
+        "ALIGNMENT": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

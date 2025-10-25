@@ -1,0 +1,24 @@
+{
+    "BEFUNDE": {
+        "NUMMERIERUNG": "__FILL__",
+        "RÜCKENMARK": {
+            "CONUS": "__FILL__",
+            "CONUS_TERMINIERUNGSHÖHE": "__FILL__"
+        },
+        "BANDSCHEIBEN": "__FILL__",
+        "KNOCHEN": {
+            "WIRBELKÖRPERHÖHE_AUSRICHTUNG": "__FILL__",
+            "KNOCHENMARK_SIGNAL": "__FILL__",
+            "WIRBELKÖRPER_ANOMALIEN": "__FILL__"
+        },
+        "WEICHTEILE": "__FILL__",
+        "T12-L1": "__FILL__",
+        "L1-L2": "__FILL__",
+        "L2-L3": "__FILL__",
+        "L3-L4": "__FILL__",
+        "L4-L5": "__FILL__",
+        "L5-S1": "__FILL__",
+        "ANDERES": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

@@ -1,0 +1,4 @@
+Clinical Question: Fracture following a traffic accident  
+Technique: X-ray of the left thigh in two views (anteroposterior and lateral).  
+Findings: There is a subtrochanteric fracture of the left femur with lateral displacement and slight shortening. The fracture runs obliquely and involves the shaft area below the lesser trochanter. The joint surfaces of the hip and knee are not affected. No additional fractures are observed in the imaged area.  
+Conclusion: Subtrochanteric fracture of the left femur with displacement.

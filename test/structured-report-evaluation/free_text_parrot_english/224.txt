@@ -1,0 +1,7 @@
+Clinical Information, Question, Justification: CNS lymphoma. Status post steroid therapy; depression + confusion, correlation? Progression? 
+
+Technique: 1.5 Tesla MRI of the head. Localizer, T2 TSE FS axial, T1 FL2D axial, T2 FL2D axial Hemo, DWI with ADC mapping, T2 TIRM coronal dark-fluid, after uncomplicated intravenous administration of 7.5 ml Gadovist, T1 FL2D axial with subtraction and T1-MPRAGE sagittal with MPR.
+
+Findings: Compared to the previous MRI examination, there is no evidence of white matter lesions outside of the known punctate supratentorial T2-weighted hyperintensities and initial lining bilaterally periventricularly. No pathological contrast enhancement. No generalized or focal edema. No pathological diffusion restrictions or susceptibility artifacts suggestive of bleeding. Known prominence of the internal and external cerebrospinal fluid spaces with preserved symmetry. Pituitary gland size appropriate for age, pineal gland unremarkable. Normal appearance of the orbits. Normal T2-weighted flow void of the major intracranial blood vessels. Paranasal sinuses and mastoid air cells are aerated. Normal signal of the skull cap and bony skull base.
+
+Conclusion: No recurrence of the completely regressed cerebral lymphoma manifestations. No evidence of a new malignancy-suspect barrier disruption or any other acute pathology.

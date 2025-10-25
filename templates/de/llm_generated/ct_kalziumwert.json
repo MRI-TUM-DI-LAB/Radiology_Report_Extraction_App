@@ -1,0 +1,34 @@
+{
+    "EKG_GATING": "__FILL__",
+    "SCAN_BEREICH": {
+        "VON": "__FILL__",
+        "BIS": "__FILL__"
+    },
+    "KOMPLIKATIONEN": "__FILL__",
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": "__FILL__",
+    "TECHNISCHE_QUALITAET": {
+        "UNTERSUCHUNGSQUALITAET": "__FILL__",
+        "LIMITIERUNG": "__FILL__"
+    },
+    "GESAMTWERTUNGEN": {
+        "AGATSTON_WERT": "__FILL__",
+        "GESAMT_KALZIUM_WERT": "__FILL__",
+        "GESAMT_VOLUMEN_WERT": "__FILL__",
+        "PERCENTIL": "__FILL__"
+    },
+    "ARTERIEN_WERTE": {
+        "LINKER_HAUPTSTAMM": "__FILL__",
+        "LINKER_VORDERER_ABSTEIGENDER_ARTERIE": "__FILL__",
+        "LINKE_CIRCUMFLEX_ARTERIE": "__FILL__",
+        "RECHTE_KORONARARTERIE": "__FILL__"
+    },
+    "HERZKAMMER": "__FILL__",
+    "AORTENWURZEL": "__FILL__",
+    "THORAXAORTA": "__FILL__",
+    "PULMONALARTERIE": "__FILL__",
+    "LUNGEN": "__FILL__",
+    "ANDERE": "__FILL__",
+    "EINDRUCK": "__FILL__"
+}

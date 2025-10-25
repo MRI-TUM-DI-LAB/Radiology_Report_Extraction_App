@@ -1,0 +1,33 @@
+{
+    "BEFUNDE": {
+        "CT_KOPF": {
+            "HIRNPARENCHYM": {
+                "AKUTE_BLUTUNG": "__FILL__",
+                "MASSENEFFEKT_HERNIATION": "__FILL__",
+                "GRAU_WEISS_DIFFERENZIERUNG": "__FILL__",
+                "WEISSE_SUBSTANZ": "__FILL__"
+            },
+            "VENTRIKEL_EXTRAAXIALE_RAEUME": "__FILL__",
+            "EXTRAKRANIELLE_STRUKTUREN": "__FILL__"
+        },
+        "CT_PERFUSION": {
+            "INFARKTKERN": "__FILL__",
+            "GEFAEHRDETES_GEWEBE": "__FILL__",
+            "MISMATCH_VERHAELTNIS": "__FILL__"
+        },
+        "CTA_KOPF": "__FILL__",
+        "CTA_HALS_GROSSE_GEFAESSE": "__FILL__",
+        "RECHTE_ICA": {
+            "STENOSE_DISSEKTION": "__FILL__"
+        },
+        "LINKE_ICA": {
+            "STENOSE_DISSEKTION": "__FILL__"
+        },
+        "VERTEBRALARTERIEN": {
+            "EXTRAKRANIELLE_SEGMENTE": "__FILL__",
+            "DISSEKTION": "__FILL__"
+        },
+        "ANDERE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

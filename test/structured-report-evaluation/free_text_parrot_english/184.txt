@@ -1,0 +1,9 @@
+Clinical Information, Question, Justification for Procedure: Patient with CMV infection. Poor venous access, PICC line placement requested for Ganciclovir therapy. 
+
+Consent and Explanation: Explanation provided regarding the procedure, approach, risks, potential side effects, and alternatives (see also consent documentation). Written consent obtained.
+
+Methodology: Supine position. Ultrasound of the left upper arm. Skin disinfection and sterile draping. Local anesthesia with 1% lidocaine hydrochloride. Ultrasound-guided insertion of a 5F single-lumen PICC (peripherally inserted central catheter) via a left arm vein through the brachial vein to the cavoatrial junction. Adjustment of catheter tip to appropriate length and system fixation. Antegrade and retrograde flow control. Flushing with normal saline. Post-procedure imaging. Sterile dressing applied.
+
+Assessment: 
+• Technically successful and complication-free micro-surgical placement of a PICC.
+• Correct positioning of the catheter tip at the junction of the superior vena cava and the right atrium.

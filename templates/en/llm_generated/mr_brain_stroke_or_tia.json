@@ -1,0 +1,32 @@
+{
+    "HISTORY": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "BRAIN_PARENCHYMA": {
+            "ACUTE_INFARCT_HEMORRHAGE": "__FILL__",
+            "MASS_EFFECT_HERNIATION": "__FILL__",
+            "WHITE_MATTER": {
+                "SIGNAL_INTENSITIES": "__FILL__"
+            }
+        },
+        "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+        "FLOW_VOIDS": "__FILL__",
+        "EXTRACRANIAL_STRUCTURES": "__FILL__",
+        "MRA_HEAD": {
+            "ANEURYSM": "__FILL__",
+            "OCCLUSION_STENOSIS": "__FILL__"
+        },
+        "MRA_NECK_GREAT_VESSELS": "__FILL__",
+        "RIGHT_ICA": {
+            "STENOSIS": "__FILL__",
+            "NO_STENOSIS": "__FILL__"
+        },
+        "LEFT_ICA": {
+            "STENOSIS": "__FILL__",
+            "NO_STENOSIS": "__FILL__"
+        },
+        "VERTEBRAL_ARTERIES": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

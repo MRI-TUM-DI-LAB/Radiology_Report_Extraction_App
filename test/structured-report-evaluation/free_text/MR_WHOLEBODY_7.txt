@@ -1,0 +1,33 @@
+WHOLE
+ BODY MRI: __CLINICAL HISTORY: 32-year-old female patient with a known 
+history of tuberous sclerosis.COMPARISON: Whole-body MRI dated __. 
+IMAGING TECHNIQUE: Whole body MRI was performed using multisequence 
+imaging, with postcontrast images obtained following the intravenous 
+administration of 12 mL Dotarem.FINDINGS:Brain: Several cortical and 
+subcortical tubers in the brain, most notably in the left frontal lobe 
+and right parietal lobe, along with subependymal nodules near the 
+foramina of Monro. No hydrocephalus or mass effect was noted. There was 
+evidence of a subependymal giant cell astrocytoma (SEGA) in the region 
+of the right foramen of Monro, measuring 1.2 x 1.0 cm, which appeared 
+stable when compared to the prior examination. The cerebellum, 
+brainstem, and cranial nerves appeared unremarkable. No abnormal 
+enhancement or restricted diffusion was noted in the brain parenchyma. 
+Abdomen: The abdominal MRI revealed multiple angiomyolipomas involving 
+both kidneys, with the largest lesion in the upper pole of the right 
+kidney measuring 3.4 x 3.1 cm. These lesions appeared stable compared to
+ the previous examination. No hydronephrosis or renal masses were 
+identified. The liver showed multiple small hypointense lesions on 
+T1-weighted images and hyperintense lesions on T2-weighted images, 
+consistent with hepatic hamartomas. No intrahepatic or extrahepatic 
+biliary duct dilation was observed. The pancreas, spleen, and adrenal 
+glands appeared unremarkable. No retroperitoneal or mesenteric 
+lymphadenopathy was noted. The gastrointestinal tract, urinary bladder, 
+and reproductive organs were unremarkable. The musculoskeletal 
+examination showed no significant abnormalities, and no suspicious 
+osseous lesions were identified. IMPRESSION: The MRI findings are 
+consistent with the patient's known history of tuberous sclerosis. 
+Several cortical and subcortical tubers, subependymal nodules, and a 
+stable SEGA were observed in the brain. The abdominal examination 
+revealed multiple angiomyolipomas in both kidneys and hepatic 
+hamartomas, with no significant interval change when compared to the 
+prior examination. No new or concerning findings were identified.

@@ -1,0 +1,76 @@
+{
+  "Befund": {
+    "Untersuchung": "__FILL__",
+    "Summe Baseline": "__FILL__",
+    "Summe Nadir": "__FILL__",
+    "Summe letzte Messung": "__FILL__",
+    "Target-Lesions": {
+      "Lesionen": [
+        {
+          "Name": "__FILL__",
+          "größter Durchmesser": "__FILL__"
+        },
+        {
+          "Name": "__FILL__",
+          "größter Durchmesser": "__FILL__"
+        },
+        {
+          "Name": "__FILL__",
+          "größter Durchmesser": "__FILL__"
+        },
+        {
+          "Name": "__FILL__",
+          "größter Durchmesser": "__FILL__"
+        },
+        {
+          "Name": "__FILL__",
+          "größter Durchmesser": "__FILL__"
+        }
+      ]
+    },
+    "Non-Target-Lesions": {
+      "Lesionen": [
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        },
+        {
+          "Name": "__FILL__"
+        }
+      ]
+    }
+  },
+  "Beurteilung": {
+    "Target Summe": "__FILL__",
+    "- relativ zur Baseline": "__FILL__",
+    "- relativ zum Nadir": "__FILL__",
+    "- relativ zur letzten Messung": "__FILL__",
+    "Non-Targets": "__FILL__",
+    "- Target response": "__FILL__",
+    "- Non-Target response": "__FILL__",
+    "Gesamt Response": "__FILL__"
+  }
+}

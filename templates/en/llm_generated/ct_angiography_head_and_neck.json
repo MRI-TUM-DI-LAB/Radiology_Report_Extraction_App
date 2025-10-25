@@ -1,0 +1,21 @@
+{
+    "HISTORY": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "CTDI": "__FILL__",
+    "DLP": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "CTA_HEAD": "__FILL__",
+        "CTA_NECK": {
+            "GREAT_VESSELS": "__FILL__",
+            "RIGHT_ICA": "__FILL__",
+            "LEFT_ICA": "__FILL__",
+            "VERTEBRAL_ARTERIES": "__FILL__",
+            "OTHER": "__FILL__"
+        }
+    },
+    "IMPRESSION": {
+        "1": "__FILL__",
+        "2": "__FILL__"
+    }
+}

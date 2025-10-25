@@ -1,0 +1,18 @@
+{
+    "HISTORY": "__FILL__",
+    "TECHNIQUE": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": {
+        "MASS": "__FILL__",
+        "INFARCT_OR_HEMORRHAGE": "__FILL__",
+        "REMOTE_INJURY": "__FILL__",
+        "VASCULAR_LESION": "__FILL__",
+        "HIPPOCAMPI": "__FILL__",
+        "CORTEX": {
+            "HETEROTOPIA_FOCAL_CORTICAL_DYSPLASIA": "__FILL__",
+            "ENCEPHALITIS_POST-ICTAL_CHANGE": "__FILL__"
+        },
+        "OTHER": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

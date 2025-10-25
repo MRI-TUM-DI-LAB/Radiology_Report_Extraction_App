@@ -1,0 +1,618 @@
+{
+  "section": [
+    {
+      "header": "Klinische Information",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Fragestellung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Befund",
+      "table": [
+        {
+          "tr": {
+            "td": [
+              {
+                "label": "Voruntersuchungen:"
+              },
+              {
+                "input": "__FILL__"
+              }
+            ]
+          }
+        },
+        {
+          "tr": {
+            "th": "Stroke",
+            "td": {
+              "table": [
+                {
+                  "tr": {
+                    "td": [
+                      {
+                        "label": "Blutung:"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Lokalisation:"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Hyperdenses Arterienzeichen:"
+                    },
+                    "td": {
+                      "input": [
+                        "__FILL__",
+                        "__FILL__"
+                      ],
+                      "label": [
+                        "Seite:",
+                        "Lokalisation:"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Stadium der Ischämie:"
+                    },
+                    "td": "__FILL__"
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Lokalisation supratentoriell:",
+                    "td": {
+                      "table": [
+                        {
+                          "tr": {
+                            "th": "Nucleus caudatus (C):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Nucleus lentiformis (L):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Capsula interna (IC):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Insula (I):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet anterior (M1):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet lateral (M2):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet posterior (M3):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet anterior superior (M4):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet lateral superior (M5):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Mediastromgebiet posterior superior (M6):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Thalamus:",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Anteriorstromgebiet:",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Posteriorstromgebiet:",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Vordere Grenzzone (frontoparietal):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        },
+                        {
+                          "tr": {
+                            "th": "Hintere Grenzzone (parietookzipital):",
+                            "td": {
+                              "input": [
+                                "__FILL__",
+                                "__FILL__"
+                              ],
+                              "label": [
+                                "rechts",
+                                "links"
+                              ]
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Lokalisation infratentoriell:",
+                    "td": {
+                      "ul": {
+                        "li": [
+                          {
+                            "input": "__FILL__",
+                            "label": "Mittelhirn"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "Pons"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "Rechte Kleinhirnhemisphäre"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "Linke Kleinhirnhemisphäre"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "ASPECT-Score:"
+                    },
+                    "td": {
+                      "input": "__FILL__"
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "pc-ASPECT-Score:"
+                    },
+                    "td": {
+                      "input": "__FILL__"
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Hämorrhagische Transformation:"
+                    },
+                    "td": "__FILL__"
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Schwellung:"
+                    },
+                    "td": "__FILL__"
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Herniation:",
+                    "td": {
+                      "ul": {
+                        "li": [
+                          {
+                            "input": "__FILL__",
+                            "label": "nein"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "subfalzine Herniation"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "Uncusherniation"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "zentrale Herniation"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "aszendierende transtentorielle Herniation"
+                          },
+                          {
+                            "input": "__FILL__",
+                            "label": "Tonsilläre Herniation"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Alte postischämische Defekte:"
+                    },
+                    "td": {
+                      "input": "__FILL__",
+                      "label": "Lokalisation:"
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "td": "__FILL__"
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Sonstiges:"
+                    },
+                    "td": {
+                      "textarea": "__FILL__"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Liquorräume",
+            "td": {
+              "table": [
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Basale Zisternen:"
+                    },
+                    "td": {
+                      "input": "__FILL__"
+                    }
+                  }
+                },
+                {
+                  "tr": {
+                    "th": {
+                      "label": "Äußere Liquorräume:"
+                    },
+                    "td": [
+                      "__FILL__",
+                      {
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "td": [
+                      "__FILL__",
+                      {
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Extraaxiales Kompartiment",
+            "td": {
+              "table": [
+                {
+                  "tr": {
+                    "th": "Epiduralraum:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Subduralraum:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "tr": {
+            "th": "Ossärer Status und erfasstes Viszerokranium",
+            "td": {
+              "table": [
+                {
+                  "tr": {
+                    "th": "Schädelkalotte:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Schädelbasis:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Orbitae:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Soweit erfasst, unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "tr": {
+                    "th": "Miterfasster Gesichtsschädel:",
+                    "td": [
+                      {
+                        "input": "__FILL__",
+                        "label": "Soweit erfasst, unauffällig"
+                      },
+                      {
+                        "input": "__FILL__",
+                        "label": "Sonstiges:"
+                      },
+                      {
+                        "input": "__FILL__"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "header": "Beurteilung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    }
+  ]
+}

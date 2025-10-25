@@ -1,0 +1,51 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "MRT_KNOCHEN": {
+            "VERDAECHTIGE_KNOCHENLAESIONEN": "__FILL__",
+            "SPINALKANALABMESSUNGEN": "__FILL__",
+            "SAKRALE_WURZELZYSTEN": "__FILL__",
+            "WIRBELKOERPERHAEMANGIOM/HAEMANGIOME": "__FILL__"
+        },
+        "MRT_KOPF": {
+            "VERDAECHTIGE_HIRNLAESIONEN": "__FILL__",
+            "VENTRIKELSYSTEM": "__FILL__",
+            "MITTELLINIENSTRUKTUREN": "__FILL__",
+            "DIFFUSE_WEISSE_SUBSTANZVERAENDERUNGEN": "__FILL__",
+            "SCHLEIMHAUTVERDICKUNG_DER_NASENNEBENHOEHLEN": "__FILL__"
+        },
+        "MRT_HALS": {
+            "PHARYNGEALE_UND_LARYNGEALE_BEFUNDE": "__FILL__",
+            "ZERVIKALE_LYMPHKNOTEN": "__FILL__",
+            "SCHILDDRUESENKNOTEN": "__FILL__"
+        },
+        "MRT_BRUSTKORB": {
+            "VERDAECHTIGE_LAESIONEN_IN_BEIDEN_LUNGENFLUEGELN": "__FILL__",
+            "VERGROESSERTE_MEDIASTINALE_LYMPHKNOTEN": "__FILL__",
+            "VERGROESSERTE_SUPRA-/SUBKLAVIKULARE_LYMPHKNOTEN": "__FILL__",
+            "THYMUSHYPERPLASIE": "__FILL__"
+        },
+        "MRT_ABDOMEN": {
+            "LEBER": "__FILL__",
+            "PANKREAS": "__FILL__",
+            "MILZ": "__FILL__",
+            "NEBENNIEREN": "__FILL__",
+            "NIEREN": "__FILL__",
+            "LYMPHKNOTEN_IM_ABDOMEN": "__FILL__",
+            "ZYSTEN_IN_SEGMENTEN_I-VIII_DER_LEBER": "__FILL__",
+            "HAEMANGIOME_IN_SEGMENTEN_I-VIII_DER_LEBER": "__FILL__",
+            "SIMPLE_NIERENZYSTEN": "__FILL__"
+        },
+        "MRT_BECKEN": {
+            "MASSEN_IM_BECKEN": "__FILL__",
+            "FREIE_FLUESSIGKEIT_IM_BECKEN": "__FILL__",
+            "VERGROESSERTE_BECKENLYMPHKNOTEN": "__FILL__",
+            "UTERUSLEIOMYOM": "__FILL__"
+        },
+        "MRT_GLIEDMASSEN": {
+            "VERDAECHTIGE_BEFUNDE_IN_DEN_UNTERSUCHTEN_ABSCHNITTEN": "__FILL__"
+        }
+    },
+    "SCHLUSSFOLGERUNGEN_UND_MANAGEMENT": "__FILL__"
+}

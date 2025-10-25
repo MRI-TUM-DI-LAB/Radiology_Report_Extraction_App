@@ -1,0 +1,97 @@
+{
+    "TECHNIQUE": "__FILL__",
+    "CLINICAL_INDICATION": "__FILL__",
+    "EXAMINATION": "__FILL__",
+    "FINDINGS": {
+        "LIVER": {
+            "SIZE": "__FILL__",
+            "CONTOUR": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "FOCAL_LESIONS": "__FILL__",
+            "BILIARY_DILATATION": "__FILL__",
+            "INTRAHEPATIC_DUCTS": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "GALLBLADDER": {
+            "DISTENDED": "__FILL__",
+            "GALLSTONES": "__FILL__",
+            "WALL_THICKENING": "__FILL__",
+            "PERICHOLECYSTIC_FLUID": "__FILL__",
+            "BILIARY_DILATATION": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "PANCREAS": {
+            "SIZE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "FOCAL_LESIONS": "__FILL__",
+            "DUCTAL_DILATATION": "__FILL__",
+            "LESIONS": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "SPLEEN": {
+            "SIZE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "FOCAL_LESIONS": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "KIDNEYS": {
+            "SIZE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "FOCAL_LESIONS": "__FILL__",
+            "HYDRONEPHROSIS": "__FILL__",
+            "RENAL_CALCULI": "__FILL__",
+            "CORTICOMEDULLARY_DIFFERENTIATION": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "ADRENAL_GLANDS": {
+            "SIZE": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "ADRENAL_MASSES": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "GI_TRACT": {
+            "STOMACH": "__FILL__",
+            "SMALL_BOWEL": "__FILL__",
+            "COLON": "__FILL__",
+            "WALL_THICKNESS": "__FILL__",
+            "SIGNAL_INTENSITY": "__FILL__",
+            "OBSTRUCTION": "__FILL__",
+            "INFLAMMATORY_CHANGES": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "LYMPH_NODES": {
+            "ENLARGED_ABDOMINAL_NODES": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "PERITONEUM": {
+            "ASCITES": "__FILL__",
+            "FREE_AIR": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "VESSELS": {
+            "AORTA": "__FILL__",
+            "IVC": "__FILL__",
+            "ANEURYSM": "__FILL__",
+            "DISSECTION": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "BASAL_LUNGS": {
+            "VENTILATION": "__FILL__",
+            "EFFUSION": "__FILL__",
+            "INFILTRATION": "__FILL__",
+            "FOCAL_LESIONS": "__FILL__",
+            "OTHER": "__FILL__"
+        },
+        "SPINE_AND_PELVIS": {
+            "FOCAL_LESIONS": "__FILL__",
+            "FACTURES": "__FILL__",
+            "BONE_MARROW_SIGNAL": "__FILL__",
+            "OTHER": "__FILL__"
+        }
+    },
+    "IMPRESSION": {
+        "MAIN_FINDINGS": "__FILL__",
+        "OTHER_ABNORMALITIES": "__FILL__"
+    },
+    "RECOMMENDATION": "__FILL__"
+}

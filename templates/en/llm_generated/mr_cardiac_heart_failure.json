@@ -1,0 +1,201 @@
+{
+    "CARDIACMRI": "__FILL__",
+    "CLINICALINFORMATION": "__FILL__",
+    "COMPARISON": {
+        "PRIORSTUDYDATE": "__FILL__"
+    },
+    "FINDINGS": {
+        "LEFTVENTRICULARMEASUREMENTS": {
+            "ENDDIASTOLICDIAMETER": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "EJECTIONFRACTION": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "STROKEVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "ENDDIASTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "INDEXEDENDDIASTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "ENDSYSTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "INDEXEDENDSYSTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "CARDIACOUTPUT": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "CARDIACINDEX": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "BODYSURFACEAREA": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            }
+        },
+        "RIGHTVENTRICULARMEASUREMENTS": {
+            "ENDDIASTOLICDIAMETER": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "EJECTIONFRACTION": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "STROKEVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "ENDDIASTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "INDEXEDENDDIASTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "ENDSYSTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "INDEXEDENDSYSTOLICVOLUME": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__"
+            },
+            "CARDIACOUTPUT": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            },
+            "CARDIACINDEX": {
+                "VALUE": "__FILL__",
+                "UNIT": "__FILL__",
+                "NORMALRANGE": {
+                    "MALE": "__FILL__",
+                    "FEMALE": "__FILL__"
+                }
+            }
+        },
+        "VALVES": {
+            "AORTICVALVE": {
+                "AORTICFORWARDVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "AORTICREGURGITANTVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "AORTICVALVEAREA": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                }
+            },
+            "MITRALVALVE": {
+                "MITRALREGURGITANTVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "MITRALREGURGITANTFRACTION": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                }
+            },
+            "PULMONICVALVE": {
+                "PULMONICFORWARDVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                },
+                "PULMONICREGURGITANTVOLUME": {
+                    "VALUE": "__FILL__",
+                    "UNIT": "__FILL__"
+                }
+            },
+            "TRICUSPIDVALVE": "__FILL__"
+        },
+        "SHUNTINFORMATION": {
+            "QPQSRATIO": {
+                "VALUE": "__FILL__"
+            }
+        },
+        "OTHERFINDINGS": "__FILL__"
+    },
+    "IMPRESSION": {
+        "GLOBALSYSTOLICLVFUNCTION": {
+            "NORMAL": "__FILL__",
+            "MILDLYIMPAIRED": "__FILL__",
+            "MODERATELYIMPAIRED": "__FILL__",
+            "SEVERELYIMPAIRED": "__FILL__"
+        },
+        "GLOBALSYSTOLICRVFUNCTION": {
+            "NORMAL": "__FILL__",
+            "MILDLYIMPAIRED": "__FILL__",
+            "MODERATELYIMPAIRED": "__FILL__",
+            "SEVERELYIMPAIRED": "__FILL__"
+        },
+        "INTRACARDIACSHUNT": {
+            "NONE": "__FILL__"
+        },
+        "VALVULARDISEASE": {
+            "ABSENT": "__FILL__"
+        }
+    },
+    "REFERENCE": "__FILL__"
+}

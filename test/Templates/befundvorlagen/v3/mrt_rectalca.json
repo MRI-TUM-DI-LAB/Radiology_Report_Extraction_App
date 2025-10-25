@@ -1,0 +1,384 @@
+{
+  "section": [
+    {
+      "header": "Klinische Angaben",
+      "p": {
+        "textarea": "__FILL__"
+      },
+      "table": [
+        {
+          "tr": [
+            {
+              "td": [
+                {
+                  "label": "Histologie"
+                },
+                {
+                  "select": "__FILL__"
+                },
+                {
+                  "input": "__FILL__"
+                }
+              ]
+            },
+            {
+              "td": [
+                {
+                  "label": "neoadjuvante Vorbehandlung"
+                },
+                {
+                  "select": "__FILL__"
+                },
+                {
+                  "input": "__FILL__"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Fragestellung",
+      "p": {
+        "textarea": "__FILL__"
+      }
+    },
+    {
+      "header": "Befund",
+      "table": [
+        {
+          "tr": {
+            "td": [
+              "Rektumkarzinom (T)",
+              {
+                "table": [
+                  {
+                    "tr": [
+                      {
+                        "td": [
+                          {
+                            "label": "Tumorlokalisation"
+                          },
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Distanz zur Anokutan-Linie"
+                        }
+                      },
+                      {
+                        "td": {
+                          "input": "__FILL__"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Tumorausdehnung (Länge)"
+                        }
+                      },
+                      {
+                        "td": {
+                          "input": "__FILL__"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Zirkumferenz in SSL"
+                        }
+                      },
+                      {
+                        "td": [
+                          "von",
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h bis",
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h SSL"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Tumorinfiltration"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h SSL",
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Abstand zur mesorektalen Faszie"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h SSL",
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Veneninfiltration"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "tr": {
+            "td": [
+              "Lymphknoten lokal (N)",
+              {
+                "table": [
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "mesorektal / präsakral / lokal"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          "max.",
+                          {
+                            "input": "__FILL__"
+                          },
+                          "cm bei",
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h SSL",
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Abstand zur mesorektalen Faszie"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          },
+                          "h SSL",
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "tr": {
+            "td": [
+              "Fernmetastasen (M)",
+              {
+                "table": [
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Lymphknoten distant"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Aszitis"
+                        }
+                      },
+                      {
+                        "td": {
+                          "select": "__FILL__"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Peritoneum"
+                        }
+                      },
+                      {
+                        "td": [
+                          {
+                            "select": "__FILL__"
+                          },
+                          {
+                            "input": "__FILL__"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Beckenstrukturen"
+                        }
+                      },
+                      {
+                        "td": {
+                          "select": "__FILL__"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tr": [
+                      {
+                        "td": {
+                          "label": "Skelett"
+                        }
+                      },
+                      {
+                        "td": {
+                          "select": "__FILL__"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "tr": [
+            {
+              "td": {
+                "label": "Sonstige Befunde"
+              }
+            },
+            {
+              "td": {
+                "textarea": "__FILL__"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "header": "Beurteilung",
+      "table": {
+        "tr": {
+          "td": [
+            {},
+            {
+              "select": "__FILL__"
+            }
+          ]
+        }
+      },
+      "p": [
+        {
+          "label": "Insgesamt TNM"
+        },
+        {
+          "input": "__FILL__"
+        }
+      ]
+    }
+  ]
+}

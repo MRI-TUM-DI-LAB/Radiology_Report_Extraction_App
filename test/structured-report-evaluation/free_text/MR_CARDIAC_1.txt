@@ -1,0 +1,29 @@
+CLINICAL
+ HISTORY: Evaluate for myocarditis COMPARISON: None. PROCEDURE: Field 
+Strength: 3 T MRI Protocol Name: Cardiac Myocarditis Assessment Series 
+Acquired: Axial T2-weighted imaging of the upper abdomen and the heart 
+SAX & Cine imagine of the heart in multiple planes. FINDINGS: Normal
+ size of both ventricles. Mild global hypokinesis of the left ventricle 
+is noted, with an ejection fraction of 48%. No significant segmental 
+wall motion abnormality. No obvious valvular regurgitation. A small 
+pericardial effusion is present. Late gadolinium enhancement (LGE) 
+images demonstrate patchy areas of subepicardial enhancement in the 
+lateral and inferolateral walls of the left ventricle, suggestive of 
+myocardial inflammation. T2-weighted images reveal increased signal 
+intensity in the lateral and inferolateral walls, consistent with 
+myocardial edema. QUANTITATIVE MEASUREMENTS Biometrics: 75.5 kg, 170 cm,
+ BSA 1.89 m^2 Volume Quantification: RVEDV: 135 mL, 71 mL/m^2 RVESV: 55 
+mL, 29 mL/m^2 RVSV: 80 mL, 42 mL/m^2 RVEF: 59 % LVEDV: 180 mL, 95 mL/m^2
+ LVESV: 93 mL, 49 mL/m^2 LVSV: 87 mL, 46 mL/m^2 LVEF: 48 % IMPRESSION: 
+Findings suggestive of myocarditis with patchy areas of subepicardial 
+enhancement in the lateral and inferolateral walls of the left 
+ventricle, along with increased T2 signal intensity consistent with 
+myocardial edema. Mild global hypokinesis of the left ventricle with an 
+ejection fraction of 48%. Small pericardial effusion. RECOMMENDATIONS: 
+Clinical correlation is advised to determine the relevance of these 
+findings in relation to the patient's symptoms. Further evaluation and 
+management of myocarditis should be discussed with the patient's 
+healthcare provider, considering the patient's symptoms and physical 
+examination findings. Follow-up cardiac MRI may be considered to monitor
+ the resolution of myocardial inflammation and improvement of left 
+ventricular function.

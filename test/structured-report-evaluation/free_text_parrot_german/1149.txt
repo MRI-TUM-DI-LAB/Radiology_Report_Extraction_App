@@ -1,0 +1,4 @@
+Fragestellung: Lungenrundherd, Abklärung
+Technik: CT Thorax mit Kontrastmittel.
+Befund: Im linken Oberlappen zeigt sich ein solider, rundlicher Lungenherd mit einem Durchmesser von ca. 1,5 cm. Der Herd zeigt eine unregelmäßige Begrenzung und eine inhomogene Kontrastmittelanreicherung. Kein Hinweis auf Lymphknotenmetastasen oder Fernmetastasen.
+Beurteilung: Lungenrundherd links mit verdächtigem Aspekt. Histologische Abklärung empfohlen.

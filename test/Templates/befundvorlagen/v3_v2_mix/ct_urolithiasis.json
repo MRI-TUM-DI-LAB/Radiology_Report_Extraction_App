@@ -1,0 +1,71 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Klinische Fragestellung": "__FILL__",
+  "Befund": {
+    "Vergleichsuntersuchung:": {
+      "input": "__FILL__"
+    },
+    "Bildqualität:": {
+      "input": "__FILL__"
+    },
+    "Urolithiasis:": {
+      "Lage:": {
+        "select1": "__FILL__",
+        "select2": "__FILL__"
+      },
+      "Maximaler Durchmesser:": "__FILL__",
+      "Volumen:": "__FILL__",
+      "Mittlere Dichte:": "__FILL__",
+      "Substanz nach Dual-Energy-Analyse:": {
+        "select": "__FILL__",
+        "input": "__FILL__"
+      },
+      "Soft tissue rim sign:": {
+        "select": "__FILL__",
+        "Ureterwanddicke:": "__FILL__"
+      },
+      "Zentrale Dichteabsenkung:": "__FILL__",
+      "Comet tail sign:": "__FILL__",
+      "Weitere Konkremente:": {
+        "select": "__FILL__",
+        "textarea": "__FILL__"
+      }
+    },
+    "Harntransportstörung": {
+      "Aufweitung des Nierenbeckenkelchsystems": {
+        "Links:": "__FILL__",
+        "Rechts:": "__FILL__"
+      },
+      "Aufweitung des Ureters": {
+        "Links:": {
+          "select": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        },
+        "Rechts:": {
+          "select": "__FILL__",
+          "Max. Durchmesser:": "__FILL__"
+        }
+      }
+    },
+    "Perirenales Ödem:": "__FILL__",
+    "Periureterales Ödem": {
+      "Links:": [
+        "__FILL__",
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Rechts:": [
+        "__FILL__",
+        "__FILL__",
+        "__FILL__"
+      ],
+      "Seitenvergleich:": "__FILL__"
+    },
+    "Bauchorgane:": "__FILL__",
+    "Gefäße:": "__FILL__",
+    "Lymphknoten:": "__FILL__",
+    "Skelett:": "__FILL__",
+    "Basaler Thorax:": "__FILL__"
+  },
+  "Beurteilung": "__FILL__"
+}

@@ -1,0 +1,228 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Technik": {
+      "Feldstärke": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "1.5 T",
+          "3 T"
+        ]
+      },
+      "MR Protokoll": {
+        "input": "__FILL__"
+      },
+      "Auswertesoftware": {
+        "input": "__FILL__"
+      },
+      "Quelle der Normwerte": {
+        "input": "__FILL__"
+      },
+      "KM": {
+        "input": "__FILL__"
+      }
+    },
+    "Patientencharakteristik": {
+      "Geschlecht": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "männlich",
+          "weiblich"
+        ]
+      },
+      "Körpergewicht": {
+        "input": "__FILL__"
+      },
+      "Körpergröße": {
+        "input": "__FILL__"
+      },
+      "Körperoberlfäche (BSA)": {
+        "input": "__FILL__"
+      },
+      "Hämatokrit": {
+        "input": "__FILL__"
+      }
+    },
+    "Vergleichsuntersuchung": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "keine",
+        "vorliegend"
+      ],
+      "input": "__FILL__"
+    },
+    "Herz": {},
+    "Bildqualität": {
+      "Einschränkung": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      }
+    },
+    "Funktionsanalyse LV": {
+      "LV enddiastolischer Diameter (LV EDD):": {
+        "input": "__FILL__"
+      },
+      "LV enddiastolischer Volumenindex (LV EDVi):": {
+        "input": "__FILL__"
+      },
+      "LV endsystolischer  Volumenindex (LV ESVi):": {
+        "input": "__FILL__"
+      },
+      "LV Ejektions-Fraktion (LV EF):": {
+        "input": "__FILL__"
+      },
+      "LV ED Masse normiert:": {
+        "input": "__FILL__"
+      },
+      "Max. LV-Wandstärke:": {
+        "input": "__FILL__",
+        "Lokalisation": {
+          "input": "__FILL__"
+        }
+      },
+      "Regionale Wandbewegungsstörungen LV:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "LVOT-Obstruktion in Ruhe:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ]
+      },
+      "LVOT-Obstruktion unter Valsalva:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ]
+      },
+      "SAM-Phänomen der Mitralklappe:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ]
+      },
+      "Assoziierte exzentrische Mitralklappeninsuffizienz:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ]
+      }
+    },
+    "Funktionsanalyse RV": {
+      "RV enddiastolischer Diameter (RV EDD):": {
+        "input": "__FILL__"
+      },
+      "RV enddiastolischer Volumenindex (RV EDVi):": {
+        "input": "__FILL__"
+      },
+      "RV endsystolischer  Volumenindex (RV ESVi):": {
+        "input": "__FILL__"
+      },
+      "RV Ejektions-Fraktion (RV EF):": {
+        "input": "__FILL__"
+      },
+      "Regionale Wandbewegungsstörungen RV:": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "input": "__FILL__"
+      },
+      "Interventrikuläre Septumdicke (IVSD):": {
+        "input": "__FILL__"
+      }
+    },
+    "Vorhofgröße endsystolisch im 4-Kammerblick": {
+      "RA:": {
+        "input": "__FILL__"
+      },
+      "LA:": {
+        "input": "__FILL__"
+      }
+    },
+    "Herzklappenpathologie:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "-",
+        "nicht untersucht",
+        "nein",
+        "ja"
+      ],
+      "input": "__FILL__"
+    },
+    "Intracavitäre Thromben:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "-",
+        "nein",
+        "ja"
+      ],
+      "input": "__FILL__"
+    },
+    "Z.n. interventioneller Therapie:": {
+      "select": "__FILL__",
+      "select_möglichkeiten": [
+        "-",
+        "nein",
+        "ja"
+      ]
+    },
+    "Gewebecharakterisierung": {
+      "Late Gadolinium Enhancement (LGE):": {
+        "select": "__FILL__",
+        "select_möglichkeiten": [
+          "-",
+          "nein",
+          "ja"
+        ],
+        "Verteilungsmuster": {
+          "input": "__FILL__"
+        }
+      },
+      "T2-Mapping:": {
+        "input": "__FILL__",
+        "Norm": {
+          "input": "__FILL__"
+        }
+      },
+      "T1-Mapping:": {
+        "input": "__FILL__",
+        "Norm": {
+          "input": "__FILL__"
+        }
+      }
+    },
+    "Sonstige Auffälligkeiten": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__"
+  }
+}

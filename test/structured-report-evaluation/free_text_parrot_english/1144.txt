@@ -1,0 +1,4 @@
+Clinical Question: Suspected Endometriosis  
+Technique: MRI of the pelvis with and without contrast (Gadolinium).  
+Findings: There is a cystic mass in the region of the right ovary measuring approximately 3 cm in diameter. The mass exhibits high signal intensity on T1-weighted sequences and low signal intensity on T2-weighted sequences, consistent with an endometriotic cyst (endometriotic lesion). No abnormalities are noted in the region of the left ovary. The uterus is normal in size and contour. No evidence of additional endometriotic lesions.  
+Impression: Endometriotic cyst (endometrioma) of the right ovary.

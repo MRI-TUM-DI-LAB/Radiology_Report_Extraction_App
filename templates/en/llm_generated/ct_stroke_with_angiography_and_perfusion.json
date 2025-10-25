@@ -1,0 +1,33 @@
+{
+    "FINDINGS": {
+        "CT_HEAD": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_HEMORRHAGE": "__FILL__",
+                "MASS_EFFECT_HERNIATION": "__FILL__",
+                "GRAY_WHITE_DIFFERENTIATION": "__FILL__",
+                "WHITE_MATTER": "__FILL__"
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "__FILL__",
+            "EXTRACRANIAL_STRUCTURES": "__FILL__"
+        },
+        "CT_PERFUSION": {
+            "INFARCT_CORE": "__FILL__",
+            "TISSUE_AT_RISK": "__FILL__",
+            "MISMATCH_RATIO": "__FILL__"
+        },
+        "CTA_HEAD": "__FILL__",
+        "CTA_NECK_GREAT_VESSELS": "__FILL__",
+        "RIGHT_ICA": {
+            "STENOSIS_DISSECTION": "__FILL__"
+        },
+        "LEFT_ICA": {
+            "STENOSIS_DISSECTION": "__FILL__"
+        },
+        "VERTEBRAL_ARTERIES": {
+            "EXTRACRANIAL_SEGMENTS": "__FILL__",
+            "DISSECTION": "__FILL__"
+        },
+        "OTHER": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

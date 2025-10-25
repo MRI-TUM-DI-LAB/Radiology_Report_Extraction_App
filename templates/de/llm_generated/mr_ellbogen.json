@@ -1,0 +1,21 @@
+{
+    "INDIKATION": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "BIZEPSSEHNE": "__FILL__",
+        "BRACHIALISSEHNE": "__FILL__",
+        "TRIZEPSSEHNE": "__FILL__",
+        "RADIALES_KOLLATERALBAND": "__FILL__",
+        "ULNARES_KOLLATERALBAND": "__FILL__",
+        "LATERALES_ULNARES_KOLLATERALBAND": "__FILL__",
+        "GEMEINSAME_EXTENSORENSEHNE": "__FILL__",
+        "GEMEINSAME_FLEXORENSEHNE": "__FILL__",
+        "GELENKSPALT": "__FILL__",
+        "KNOCHENMARKSSIGNAL": "__FILL__",
+        "MUSKELN": "__FILL__",
+        "NERVEN": "__FILL__",
+        "CUBITALTUNNEL": "__FILL__"
+    },
+    "BEURTEILUNG": "__FILL__"
+}

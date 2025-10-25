@@ -1,0 +1,173 @@
+{
+  "Befund": {
+    "Untersuchung": "__FILL__",
+    "Untersuchung_möglichkeiten": [
+      "Baseline",
+      "Follow-up"
+    ],
+    "Summe Baseline": "__FILL__",
+    "Summe Nadir": "__FILL__",
+    "Summe letzte Messung": "__FILL__",
+    "Target-Lesions": [
+      {
+        "Name": "__FILL__",
+        "größter Durchmesser": "__FILL__"
+      },
+      {
+        "Name": "__FILL__",
+        "größter Durchmesser": "__FILL__"
+      },
+      {
+        "Name": "__FILL__",
+        "größter Durchmesser": "__FILL__"
+      },
+      {
+        "Name": "__FILL__",
+        "größter Durchmesser": "__FILL__"
+      },
+      {
+        "Name": "__FILL__",
+        "größter Durchmesser": "__FILL__"
+      }
+    ],
+    "Non-Target-Lesions": [
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      },
+      {
+        "Name": "__FILL__",
+        "Zustand": "__FILL__",
+        "Zustand_möglichkeiten": [
+          "-",
+          "vorhanden",
+          "verschwunden",
+          "eindeutig progredient"
+        ]
+      }
+    ]
+  },
+  "Beurteilung": {
+    "Target Summe": "__FILL__",
+    "- relativ zur Baseline": "__FILL__",
+    "- relativ zum Nadir": "__FILL__",
+    "- relativ zur letzten Messung": "__FILL__",
+    "Non-Targets": "__FILL__",
+    "Non-Targets_möglichkeiten": [
+      "-",
+      "keine",
+      "vorhanden",
+      "verschwunden",
+      "eindeutig progredient"
+    ],
+    "- Target response": "__FILL__",
+    "- Target response_möglichkeiten": [
+      "-",
+      "Complete Response",
+      "Partial response",
+      "Stable disease",
+      "Progressive disease"
+    ],
+    "- Non-Target response": "__FILL__",
+    "- Non-Target response_möglichkeiten": [
+      "-",
+      "Complete Response",
+      "Stable disease",
+      "Progressive disease"
+    ],
+    "Gesamt Response": "__FILL__",
+    "Gesamt Response_möglichkeiten": [
+      "-",
+      "Complete Response",
+      "Partial response",
+      "Stable disease",
+      "Progressive disease"
+    ]
+  }
+}

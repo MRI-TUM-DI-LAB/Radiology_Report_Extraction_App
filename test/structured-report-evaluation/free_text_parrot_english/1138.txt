@@ -1,0 +1,7 @@
+Clinical Question: Breast cancer?
+
+Technique: MRI of the breast with and without contrast (Gadolinium).
+
+Findings: In the right breast, there is an irregularly bordered mass in the upper outer quadrant measuring approximately 2 cm in diameter. The mass shows intense contrast enhancement. In the right axilla, there are several suspicious lymph nodes with a maximum diameter of 1.5 cm. The left breast appears unremarkable.
+
+Conclusion: MRI findings are consistent with a right-sided breast carcinoma with axillary lymph node metastasis.

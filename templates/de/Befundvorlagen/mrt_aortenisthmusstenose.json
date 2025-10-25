@@ -1,0 +1,107 @@
+{
+  "Klinische Angaben": "__FILL__",
+  "Patientencharakteristik": {
+    "Geschlecht": "__FILL__",
+    "Körpergewicht": "__FILL__",
+    "Körpergröße": "__FILL__",
+    "Körperoberfläche (BSA)": "__FILL__"
+  },
+  "Klinische Fragestellung": "__FILL__",
+  "Methodik": {
+    "Kontrastmittel": {
+      "Name": "__FILL__",
+      "Menge": "__FILL__",
+      "Flussgeschwindigkeit": "__FILL__"
+    },
+    "Flussdichte": "__FILL__",
+    "MR-Protokoll": "__FILL__",
+    "Auswertesoftware": "__FILL__"
+  },
+  "Befund": {
+    "Messwerte Aorta": {
+      "Proximaler Aortenbogen (vor TBC)": {
+        "min": "__FILL__",
+        "max": "__FILL__"
+      },
+      "Mittlerer Aortenbogen (TBC – ACC sin.)": {
+        "min": "__FILL__",
+        "max": "__FILL__"
+      },
+      "Distaler Aortenbogen (ACC sin. – ASS)": {
+        "min": "__FILL__",
+        "max": "__FILL__"
+      },
+      "Isthmus": {
+        "min": "__FILL__",
+        "max": "__FILL__"
+      },
+      "Sinus valsalvae (2 Ebenen)": "__FILL__",
+      "Sinutubulärer Übergang (2 Ebenen)": "__FILL__",
+      "Aorta ascendens (Höhe PA-Bifurkation)": "__FILL__",
+      "Aorta descendens (Höhe PA-Bifurkation)": "__FILL__",
+      "Aorta descendens (Höhe Zwerchfell)": "__FILL__",
+      "Für die Messungen verwendete Sequenzen": "__FILL__"
+    },
+    "Aorten-Morphologie": {
+      "Stenose(n)": "__FILL__",
+      "Aneurysma": "__FILL__",
+      "Dissektionshinweise": "__FILL__",
+      "Aortenbogenhypoplasie": "__FILL__",
+      "Kinking": "__FILL__",
+      "Stent": "__FILL__",
+      "Anomalien supraaortaler Gefäße": "__FILL__",
+      "PDA (Ductus arteriosus apertus)": "__FILL__",
+      "Kollateralen": "__FILL__"
+    },
+    "Linksventrikulärer Ausflusstrakt und Aortenklappe": {
+      "LVOT Diameter (2 Ebenen)": "__FILL__",
+      "Annulus (2 Ebenen)": "__FILL__",
+      "Aortenklappe": "__FILL__",
+      "Aortenklappenfunktion": "__FILL__"
+    },
+    "Flussmessungen": {
+      "Aorta ascendens": {
+        "Schlagvolumen eff.": "__FILL__",
+        "Cardiac Index": "__FILL__",
+        "Regurgitationsfraktion": "__FILL__",
+        "vmax": "__FILL__"
+      },
+      "Auf Höhe ISTA": {
+        "Diastolischer antegrader Fluss": "__FILL__",
+        "vmax": "__FILL__"
+      },
+      "Kollateralfluss": {
+        "Cardiac Index vor ISTA": "__FILL__",
+        "Cardiac Index auf Höhe Zwechfell": "__FILL__"
+      }
+    },
+    "Morphologie und Funktionsanalyse": {
+      "LV enddiastolischer Diameter (LV EDD)": "__FILL__",
+      "LV enddiastolischer Volumenindex (LV EDVi)": "__FILL__",
+      "LV endsystolischer Volumenindex (LV ESVi)": "__FILL__",
+      "LV Ejektionsfraktion (LV EF)": "__FILL__",
+      "LV ED Masse normiert": "__FILL__",
+      "LV Regionale Wandbewegungsstörung": "__FILL__",
+      "RV enddiastolischer Diameter (RV EDD im 4KB)": "__FILL__",
+      "RV enddiastolischer Volumenindex (RV EDVi)": "__FILL__",
+      "RV endsystolischer Volumenindex (RV ESVi)": "__FILL__",
+      "RV Ejektionsfraktion": "__FILL__",
+      "RV Regionale Wandbewegungsstörung": "__FILL__"
+    },
+    "Vorhof": {
+      "Vorhofgröße visuell": "__FILL__",
+      "LA im Vierkammerblick longitudinal": "__FILL__",
+      "LA im Vierkammerblick transversal": "__FILL__",
+      "RA im Vierkammerblick longitudinal": "__FILL__",
+      "RA im Vierkammerblick transversal": "__FILL__",
+      "Vorhofseptumstellung": "__FILL__",
+      "Vorhofseptumdefekt/PFO": "__FILL__"
+    },
+    "Vergleichsuntersuchung": "__FILL__",
+    "Bildqualität": "__FILL__",
+    "Quelle der Normwerte": "__FILL__",
+    "Sonstige Herzklappenpathologie": "__FILL__",
+    "Sonstiges": "__FILL__"
+  },
+  "Beurteilung": "__FILL__"
+}

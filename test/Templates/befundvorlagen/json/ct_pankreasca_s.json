@@ -1,0 +1,133 @@
+{
+  "Abschnitte": [
+    {
+      "Klinische Angaben": "__FILL__"
+    },
+    {
+      "Fragestellung": "__FILL__"
+    },
+    {
+      "Befund": {
+        "Vergleichsuntersuchung:": {
+          "Auswahl_1": "__FILL__",
+          "Auswahl_2": "__FILL__",
+          "Eingabe": "__FILL__"
+        },
+        "Histologie": "__FILL__",
+        "IgG4": "__FILL__",
+        "Bildqualität:": "__FILL__",
+        "Pankreasparenchym": "__FILL__",
+        "Pankreaskarzinom": {
+          "Tumorlokalisation": "__FILL__",
+          "Tumorgröße": {
+            "Eingabe_1": "__FILL__",
+            "Eingabe_2": "__FILL__",
+            "Bild": "__FILL__",
+            "Serie": "__FILL__"
+          },
+          "Tumorinfiltration (T-Stadium)": {
+            "Auswahl": "__FILL__",
+            "Bild": "__FILL__",
+            "Serie": "__FILL__"
+          },
+          "Tumorinfiltration Nachbarorgane": "__FILL__",
+          "KM-Enhancement arteriell": "__FILL__",
+          "KM-Enhancement venös": "__FILL__"
+        },
+        "Gallenwege": {
+          "Ductus pancreaticus": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Ductus hepatocholedochus": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          }
+        },
+        "Gefäßbezug (arteriell)": {
+          "Aorta": "__FILL__",
+          "Truncus coeliacus": "__FILL__",
+          "A. hepatica communis": "__FILL__",
+          "A. hepatica propria": "__FILL__",
+          "A. gastroduodenalis": "__FILL__",
+          "A. mesenterica superior": "__FILL__",
+          "A. lienalis": "__FILL__",
+          "Anatomische Varianten": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          }
+        },
+        "Gefäßbezug (venös)": {
+          "V. mesenterica superior": "__FILL__",
+          "V. lienalis": "__FILL__",
+          "V. portae": "__FILL__"
+        },
+        "Gefäße (sonstiges)": {
+          "Atherosklerose Tr. coeliacus": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Atherosklerose A. mesenterica superior": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          }
+        },
+        "Abdomen": {
+          "Aszites": "__FILL__",
+          "peritoneale Implantate": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Leber": {
+            "Auswahl": "__FILL__",
+            "L01": "__FILL__",
+            "L02": "__FILL__",
+            "Textbereich": "__FILL__"
+          },
+          "Milz": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Nieren / Ureteren": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Nebennieren": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Lymphknoten": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Darm": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Beckenorgane": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Knochen": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "Lunge (soweit miterfasst)": {
+            "Auswahl": "__FILL__",
+            "Eingabe": "__FILL__"
+          },
+          "sonstiges": "__FILL__"
+        }
+      }
+    },
+    {
+      "Beurteilung": {
+        "Textbereich": "__FILL__",
+        "Insgesamt TNM": {
+          "Eingabe": "__FILL__",
+          "Auswahl": "__FILL__"
+        }
+      }
+    }
+  ]
+}

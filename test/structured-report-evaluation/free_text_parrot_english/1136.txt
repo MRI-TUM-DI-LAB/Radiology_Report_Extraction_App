@@ -1,0 +1,4 @@
+Clinical Question: Rule out aortic aneurysm  
+Technique: CT of the chest and abdomen with contrast.  
+Findings: The ascending aorta has a normal caliber with a maximum diameter of 3.8 cm. The descending aorta shows a slight rightward convex deviation but also has a normal caliber with a maximum diameter of 3.5 cm. There is no evidence of dissection or aneurysm. The abdominal aorta has a normal caliber with a maximum diameter of 2.5 cm. The renal arteries are bilaterally normal in caliber with no stenosis.  
+Conclusion: No evidence of an aortic aneurysm.

@@ -1,0 +1,18 @@
+{
+    "INDIKATION": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "TECHNIK": "__FILL__",
+    "BEFUNDE": {
+        "UNTERSTÜTZENDE_VORRICHTUNGEN": "__FILL__",
+        "LUNGENPARENCHYM": "__FILL__",
+        "TRACHEA_UND_ZENTRALE_ATEMWEGE": "__FILL__",
+        "PERIPHERE_BRONCHIEN": "__FILL__",
+        "LYMPHKNOTEN": "__FILL__",
+        "HERZ/GROSSE_GEFÄSSE": "__FILL__",
+        "PULMONALE_GEFÄSSSTRUKTUR": "__FILL__",
+        "ANDERE_MEDIASTINALE_STRUKTUREN": "__FILL__",
+        "PLEURA": "__FILL__",
+        "BRUSTGEWEBE": "__FILL__"
+    },
+    "EINDRUCK": "__FILL__"
+}

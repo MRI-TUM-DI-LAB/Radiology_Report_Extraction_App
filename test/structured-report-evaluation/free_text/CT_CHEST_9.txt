@@ -1,0 +1,26 @@
+EXAM:
+ CHEST CT SCAN WITHOUT CONTRAST CLINICAL HISTORY: A 68-year-old male 
+with a history of smoking, chronic cough, and dyspnea, suspicion of 
+emphysema. COMPARISON: Chest x-ray dated __. TECHNIQUE: CT chest without
+ contrast was performed. CTDIvol: 11.8 mGy. DLP: 420 mGy*cm. FINDINGS: 
+There is diffuse centrilobular emphysema involving both lungs, more 
+pronounced in the upper lobes, characterized by multiple areas of low 
+attenuation and destruction of pulmonary parenchyma with associated 
+vascular attenuation. No focal lung masses, nodules, or significant 
+areas of consolidation are identified. A few scattered subpleural bullae
+ are present bilaterally, the largest in the right upper lobe measuring 
+approximately 1.8 x 1.2 cm. The trachea and main bronchi are patent with
+ no significant wall thickening or stenosis. There is no significant 
+mediastinal or hilar lymphadenopathy. The heart size is within normal 
+limits, with mild atherosclerotic calcification of the coronary 
+arteries. No pericardial effusion is noted. The visualized portions of 
+the thoracic aorta are unremarkable without dissection or aneurysm. The 
+pleura is unremarkable, with no pleural thickening, nodularity, or 
+effusion. The chest wall is normal in appearance without masses, soft 
+tissue abnormalities, or osseous lesions. Mild degenerative changes are 
+noted in the visualized thoracic spine. Unenhanced evaluation of the 
+visualized upper abdomen is grossly unremarkable. IMPRESSION: Diffuse 
+centrilobular emphysema involving both lungs, more pronounced in the 
+upper lobes, consistent with the patient's smoking history. Scattered 
+subpleural bullae, the largest in the right upper lobe, without 
+pneumothorax.

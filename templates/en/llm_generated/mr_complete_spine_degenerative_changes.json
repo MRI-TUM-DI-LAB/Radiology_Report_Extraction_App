@@ -1,0 +1,45 @@
+{
+    "FINDINGS": {
+        "NUMBERING": {
+            "CERVICAL": "__FILL__",
+            "LUMBAR": "__FILL__"
+        },
+        "SPINAL_CORD": {
+            "MYELON": "__FILL__",
+            "CONUS": "__FILL__",
+            "CONUS_TERMINATION_LEVEL": "__FILL__"
+        },
+        "DISCS": "__FILL__",
+        "BONES": {
+            "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "__FILL__",
+            "MARROW_SIGNAL": "__FILL__",
+            "VERTEBRAL_ABNORMALITIES": "__FILL__"
+        },
+        "SOFT_TISSUES": "__FILL__",
+        "C2-C3": "__FILL__",
+        "C3-C4": "__FILL__",
+        "C4-C5": "__FILL__",
+        "C5-C6": "__FILL__",
+        "C6-C7": "__FILL__",
+        "C7-T1": "__FILL__",
+        "T1-T2": "__FILL__",
+        "T2-T3": "__FILL__",
+        "T3-T4": "__FILL__",
+        "T4-T5": "__FILL__",
+        "T5-T6": "__FILL__",
+        "T6-T7": "__FILL__",
+        "T7-T8": "__FILL__",
+        "T8-T9": "__FILL__",
+        "T9-T10": "__FILL__",
+        "T10-T11": "__FILL__",
+        "T11-T12": "__FILL__",
+        "T12-L1": "__FILL__",
+        "L1-L2": "__FILL__",
+        "L2-L3": "__FILL__",
+        "L3-L4": "__FILL__",
+        "L4-L5": "__FILL__",
+        "L5-S1": "__FILL__",
+        "OTHER": "__FILL__"
+    },
+    "IMPRESSION": "__FILL__"
+}

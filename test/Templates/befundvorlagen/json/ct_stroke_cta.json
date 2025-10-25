@@ -1,0 +1,111 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__"
+  },
+  "Klinische Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Voruntersuchung:": {
+      "select": "__FILL__",
+      "input": "__FILL__"
+    },
+    "Vordere Zirkulation:": {
+      "Aortenbogen:": {
+        "input": [
+          "__FILL__",
+          "__FILL__",
+          "__FILL__"
+        ]
+      },
+      "ACC rechts:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "ACC links:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "ACI extrakraniell rechts:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "ACI extrakraniell links:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "ACI intrakraniell rechts:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "ACI intrakraniell links:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "M1/2 rechts:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "M1/2 links:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "A1/2 rechts:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "A1/2 links:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "Sonstiges:": "__FILL__"
+    },
+    "Hintere Zirkulation:": {
+      "VA rechts:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "VA links:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "BA:": {
+        "select": "__FILL__",
+        "Plaquemorphologie:": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Sonstiges:": "__FILL__"
+      },
+      "P1/2 rechts:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Embryonaler Abgang aus ACI:": "__FILL__"
+      },
+      "P1/2 links:": {
+        "select": "__FILL__",
+        "Aneurysma:": "__FILL__",
+        "Embryonaler Abgang aus ACI:": "__FILL__"
+      },
+      "Sonstiges:": "__FILL__"
+    },
+    "Nebenbefunde:": {
+      "Knöcherner Status:": "__FILL__",
+      "Halsweichteile:": "__FILL__",
+      "Obere Thoraxapertur:": "__FILL__"
+    }
+  },
+  "Beurteilung:": {
+    "textarea": "__FILL__"
+  }
+}

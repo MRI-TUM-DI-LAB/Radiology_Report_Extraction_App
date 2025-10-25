@@ -1,0 +1,192 @@
+{
+    "FUNKTIONUNDVIABILITÄT": {
+        "KLINISCHEANAMNESE": "__FILL__",
+        "VERGLEICH": {
+            "VORHERIGESTUDIE": "__FILL__"
+        },
+        "BEFUNDE": {
+            "LINKSVENTRIKULÄREMESSUNGEN": {
+                "ENDDIASTOLISCHERDURCHMESSER": {
+                    "WERT": "__FILL__",
+                    "NORMAL": {
+                        "MIN": "__FILL__",
+                        "MAX": "__FILL__"
+                    }
+                },
+                "EJEKTIONSFRAKTION": {
+                    "WERT": "__FILL__",
+                    "NORMAL": {
+                        "MÄNNLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "WEIBLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "SCHLAGVOLUMEN": "__FILL__",
+                "ENDDIASTOLISCHESVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "NORMAL": {
+                        "MÄNNLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "WEIBLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "INDEXIERTESENDDIASTOLISCHESVOLUMEN": "__FILL__",
+                "ENDSYSTOLISCHESVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "NORMAL": {
+                        "MÄNNLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "WEIBLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "INDEXIERTESENDSYSTOLISCHESVOLUMEN": "__FILL__",
+                "HERZZEITVOLUMEN": {
+                    "WERT": "__FILL__",
+                    "NORMAL": {
+                        "MÄNNLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        },
+                        "WEIBLICH": {
+                            "MIN": "__FILL__",
+                            "MAX": "__FILL__"
+                        }
+                    }
+                },
+                "HERZINDEX": "__FILL__",
+                "INDEXWERTE": {
+                    "NORMALISIERTAN": "__FILL__",
+                    "KOF": "__FILL__"
+                }
+            },
+            "KLAPPENERKRANKUNG": {
+                "AORTENKLAPPE": {
+                    "AORTALESVORWÄRTSVOLUMEN": "__FILL__",
+                    "AORTALESREGURGITATIONSVOLUMEN": "__FILL__",
+                    "AORTENKLAPPENFLÄCHE": {
+                        "WERT": "__FILL__",
+                        "SCHWEREGRAD": {
+                            "SCHWER": "< 1.0 cm2",
+                            "MÄSSIG": "1.0-1.5 cm2",
+                            "LEICHT": "1.5-2.0 cm2",
+                            "NORMAL": "> 2.0 cm2"
+                        }
+                    }
+                },
+                "MITRALKLAPPE": {
+                    "MITRALREGURGITATIONSVOLUMEN": "__FILL__",
+                    "MITRALREGURGITATIONSFRAKTION": "__FILL__",
+                    "AUFSTEIGENDEAORTADURCHMESSER": "__FILL__",
+                    "LINKERVORHOFDIMENSIONEN": "__FILL__",
+                    "LINKERVORHOFFLÄCHE": "__FILL__"
+                }
+            },
+            "REGIONALEWANDBEWEGUNGDESLINKENVENTRIKELS": {
+                "BEWERTUNG": {
+                    "NORMOKINETISCH": 0,
+                    "HYPOKINETISCH": 1,
+                    "AKINETISCH": 2,
+                    "DYSKINETISCH": 3
+                },
+                "BASIS": {
+                    "ANTERIOR": "__FILL__",
+                    "ANTEROLATERAL": "__FILL__",
+                    "INFEROLATERAL": "__FILL__",
+                    "INFERIOR": "__FILL__",
+                    "INFERIOSEPTAL": "__FILL__",
+                    "ANTEROSEPTAL": "__FILL__"
+                },
+                "MITTE": "__FILL__",
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "SPITZE": {
+                "ANTERIOR": "__FILL__",
+                "LATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "SEPTUM": "__FILL__",
+                "ECHTESPITZE": "__FILL__"
+            }
+        },
+        "LINKSVENTRIKELMYOKARDVERSTÄRKUNG": {
+            "BEWERTUNG": {
+                "KEINE": 0,
+                "1-25%": 1,
+                "26-50%": 2,
+                "51-75%": 3,
+                "76-100%": 4
+            },
+            "BASIS": {
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "MITTE": {
+                "ANTERIOR": "__FILL__",
+                "ANTEROLATERAL": "__FILL__",
+                "INFEROLATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "INFERIOSEPTAL": "__FILL__",
+                "ANTEROSEPTAL": "__FILL__"
+            },
+            "SPITZE": {
+                "ANTERIOR": "__FILL__",
+                "LATERAL": "__FILL__",
+                "INFERIOR": "__FILL__",
+                "SEPTUM": "__FILL__",
+                "ECHTESPITZE": "__FILL__"
+            }
+        },
+        "NICHTKARDIALEBEFUNDE": {
+            "BEWERTUNG": {
+                "KEINE": 0,
+                "1-25%": 1,
+                "26-50%": 2,
+                "51-75%": 3,
+                "76-100%": 4
+            }
+        }
+    },
+    "EINDRUCK": {
+        "GLOBALE LINKSVENTRIKULÄRE SYSTOLISCHEFUNKTION": {
+            "NORMAL": "__FILL__",
+            "LEICHTBEEINTRÄCHTIGT": "__FILL__",
+            "MÄSSIGBEEINTRÄCHTIGT": "__FILL__",
+            "SCHWERBEEINTRÄCHTIGT": "__FILL__"
+        },
+        "GLOBALE RECHTSVENTRIKULÄRE SYSTOLISCHEFUNKTION": {
+            "NORMAL": "__FILL__",
+            "LEICHTBEEINTRÄCHTIGT": "__FILL__",
+            "MÄSSIGBEEINTRÄCHTIGT": "__FILL__",
+            "SCHWERBEEINTRÄCHTIGT": "__FILL__"
+        },
+        "LVVIABILITÄT": {
+            "NORMAL": "__FILL__"
+        },
+        "KLAPPENERKRANKUNG": {
+            "ABWESEND": "__FILL__"
+        }
+    }
+}

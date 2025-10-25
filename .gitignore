@@ -1,0 +1,13 @@
+*.pyc
+*.DS_Store
+*.env
+vertexai_credentials.json
+data/output/
+data/RadLex.owl
+gcp-keys
+lib/
+main-app/app/logic/radlex/data/output
+*.owl
+.vscode/
+jinaai
+__pycache__

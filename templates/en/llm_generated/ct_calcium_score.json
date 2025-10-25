@@ -1,0 +1,34 @@
+{
+    "ECG_GATING": "__FILL__",
+    "SCAN_RANGE": {
+        "FROM": "__FILL__",
+        "TO": "__FILL__"
+    },
+    "COMPLICATIONS": "__FILL__",
+    "CLINICAL_INFORMATION": "__FILL__",
+    "COMPARISON": "__FILL__",
+    "FINDINGS": "__FILL__",
+    "TECHNICAL_QUALITY": {
+        "EXAMINATION_QUALITY": "__FILL__",
+        "LIMITATION": "__FILL__"
+    },
+    "OVERALL_SCORES": {
+        "AGATSTON_SCORE": "__FILL__",
+        "TOTAL_CALCIUM_SCORE": "__FILL__",
+        "TOTAL_VOLUME_SCORE": "__FILL__",
+        "PERCENTILE": "__FILL__"
+    },
+    "ARTERY_SCORES": {
+        "LEFT_MAIN_CORONARY_ARTERY": "__FILL__",
+        "LEFT_ANTERIOR_DESCENDING_ARTERY": "__FILL__",
+        "LEFT_CIRCUMFLEX_ARTERY": "__FILL__",
+        "RIGHT_CORONARY_ARTERY": "__FILL__"
+    },
+    "CARDIAC_CHAMBER": "__FILL__",
+    "AORTIC_ROOT": "__FILL__",
+    "THORACIC_AORTA": "__FILL__",
+    "PULMONARY_ARTERY": "__FILL__",
+    "LUNGS": "__FILL__",
+    "OTHER": "__FILL__",
+    "IMPRESSION": "__FILL__"
+}

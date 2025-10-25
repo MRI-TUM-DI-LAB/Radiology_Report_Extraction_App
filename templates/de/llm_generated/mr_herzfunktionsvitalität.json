@@ -1,0 +1,147 @@
+{
+    "KLINISCHE_INFORMATIONEN": "__FILL__",
+    "VERGLEICH": "__FILL__",
+    "BEFUNDE": {
+        "LINKSVENTRIKULÄRE_MESSUNGEN": {
+            "ENDDIASTOLISCHER_DURCHMESSER": {
+                "WERT": "__FILL__",
+                "NORMALBEREICH": "36-56 mm"
+            },
+            "EJEKTIONSFRAKTION": {
+                "WERT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MÄNNLICH": "56-78%",
+                    "WEIBLICH": "56-78%"
+                }
+            },
+            "SCHLAGVOLUMEN": "__FILL__",
+            "ENDDIASTOLISCHES_VOLUMEN": {
+                "WERT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MÄNNLICH": "77-195 mL",
+                    "WEIBLICH": "52-141 mL"
+                }
+            },
+            "INDEXIERTES_ENDDIASTOLISCHES_VOLUMEN": "__FILL__",
+            "ENDSISTOLISCHES_VOLUMEN": {
+                "WERT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MÄNNLICH": "19-72 mL",
+                    "WEIBLICH": "13-51 mL"
+                }
+            },
+            "INDEXIERTES_ENDSISTOLISCHES_VOLUMEN": "__FILL__",
+            "HERZZEITVOLUMEN": {
+                "WERT": "__FILL__",
+                "NORMALBEREICH": {
+                    "MÄNNLICH": "2.82-8.82 L/min",
+                    "WEIBLICH": "2.7-6.0 l/min"
+                }
+            },
+            "HERZINDEX": "__FILL__",
+            "KÖRPEROBERFLÄCHE": "__FILL__"
+        },
+        "KLAPPENFEHLER": {
+            "AORTENKLAPPE": {
+                "AORTEN_VORWÄRTSVOLUMEN": "__FILL__",
+                "AORTEN_REGURGITATIONSVOLUMEN": "__FILL__",
+                "AORTENKLAPPENFLÄCHE": {
+                    "WERT": "__FILL__",
+                    "BESCHREIBUNG": {
+                        "SCHWER": "< 1.0 cm2",
+                        "MITTELGRADIG": "1.0-1.5 cm2",
+                        "LEICHT": "1.5-2.0 cm2",
+                        "NORMAL": "> 2.0 cm2"
+                    }
+                }
+            },
+            "MITRALKLAPPE": {
+                "MITRAL_REGURGITATIONSVOLUMEN": "__FILL__",
+                "MITRAL_REGURGITATIONSFRAKTION": "__FILL__",
+                "AUFSTEIGENDE_AORTA_DURCHMESSER": "__FILL__",
+                "LINKSATRIALE_DIMENSIONEN": "__FILL__",
+                "LINKSATRIALER_BEREICH": "__FILL__"
+            }
+        },
+        "REGIONALE_WANDBEWEGUNGSSTÖRUNG_DES_LINKEN_VENTRIKELS": {
+            "BASAL": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "MITTE": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "SPITZE": {
+                "Anterior": "__FILL__",
+                "Lateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Septum": "__FILL__",
+                "Echte_Spitze": "__FILL__"
+            },
+            "WANDBEWEGUNGSSCORE": {
+                "0": "normokinetisch",
+                "1": "hypokinetisch",
+                "2": "akinetisch",
+                "3": "dyskinetisch"
+            }
+        },
+        "MYOKARDVERSTÄRKUNG_DES_LINKEN_VENTRIKELS": {
+            "BASAL": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "MITTE": {
+                "Anterior": "__FILL__",
+                "Anterolateral": "__FILL__",
+                "Inferolateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Inferioseptal": "__FILL__",
+                "Anteroseptal": "__FILL__"
+            },
+            "SPITZE": {
+                "Anterior": "__FILL__",
+                "Lateral": "__FILL__",
+                "Inferior": "__FILL__",
+                "Septum": "__FILL__",
+                "Echte_Spitze": "__FILL__"
+            },
+            "VERSTÄRKUNGSSCORE": {
+                "0": "keine",
+                "1": "1-25%",
+                "2": "26-50%",
+                "3": "51-75%",
+                "4": "76-100%"
+            }
+        },
+        "NICHT_KARDIALE_BEFUNDE": "__FILL__",
+        "EINDRUCK": {
+            "GLOBALE_SYSTOLISCHE_LV_FUNKTION": {
+                "NORMAL": "__FILL__",
+                "LEICHT_BEEINTRÄCHTIGT": "__FILL__",
+                "MÄSSIG_BEEINTRÄCHTIGT": "__FILL__",
+                "SCHWER_BEEINTRÄCHTIGT": "__FILL__"
+            },
+            "GLOBALE_SYSTOLISCHE_RV_FUNKTION": {
+                "NORMAL": "__FILL__",
+                "LEICHT_BEEINTRÄCHTIGT": "__FILL__",
+                "MÄSSIG_BEEINTRÄCHTIGT": "__FILL__",
+                "SCHWER_BEEINTRÄCHTIGT": "__FILL__"
+            },
+            "LV_VIABILITÄT": "__FILL__",
+            "KLAPPENERKRANKUNG": "__FILL__"
+        }
+    }
+}

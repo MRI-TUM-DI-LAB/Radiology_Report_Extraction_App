@@ -1,0 +1,164 @@
+{
+    "TECHNIK": "__FILL__",
+    "KONTRAST": "__FILL__",
+    "KLINISCHE_ANAMNESE": "__FILL__",
+    "BEFUNDE": {
+        "KOPF_UND_HALS": {
+            "WILLIS_KREIS": {
+                "ACA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "ACOM": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "MCA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "PCOM": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "PCA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "BASILARARTERIE": "__FILL__",
+                "PICA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "AICA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            },
+            "KAROTIDARTERIEN": {
+                "ICA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "ECA": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            },
+            "VERTEBRALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "JUGULARVENEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            }
+        },
+        "THORAX": {
+            "AORTA": {
+                "AUFSTEIGENDE_AORTA": "__FILL__",
+                "AORTENBOGEN": "__FILL__",
+                "ABSTEIGENDE_AORTA": "__FILL__"
+            },
+            "PULMONALARTERIEN": {
+                "STAMM": "__FILL__",
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "SUBCLAVIA_UND_AXILLARARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "BRACHIALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "VENENSYSTEM": {
+                "OBERE_HOHLVENE": "__FILL__",
+                "PULMONALVENEN": "__FILL__"
+            }
+        },
+        "ABDOMEN": {
+            "ABDOMINELLE_AORTA": "__FILL__",
+            "TRUNCUS_COELIACUS": {
+                "STAMM": "__FILL__",
+                "LEBERARTERIE": "__FILL__",
+                "MILZARTERIE": "__FILL__",
+                "MAGENARTERIEN": "__FILL__"
+            },
+            "SMA": "__FILL__",
+            "IMA": "__FILL__",
+            "NIERENARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "VENENSYSTEM": {
+                "UNTERE_HOHLVENE": "__FILL__",
+                "PORTALVENE": "__FILL__",
+                "NIERENVENEN": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            }
+        },
+        "BECKEN": {
+            "ILIACALARTERIEN": {
+                "LINKSE_GEMEINSAME_ILIACALARTERIE": "__FILL__",
+                "RECHTE_GEMEINSAME_ILIACALARTERIE": "__FILL__",
+                "LINKSE_EXTERNE_ILIACALARTERIE": "__FILL__",
+                "RECHTE_EXTERNE_ILIACALARTERIE": "__FILL__",
+                "LINKSE_INTERNE_ILIACALARTERIE": "__FILL__",
+                "RECHTE_INTERNE_ILIACALARTERIE": "__FILL__"
+            },
+            "VENENSYSTEM": {
+                "LINKSE_GEMEINSAME_ILIACALVENE": "__FILL__",
+                "RECHTE_GEMEINSAME_ILIACALVENE": "__FILL__",
+                "LINKSE_EXTERNE_ILIACALVENE": "__FILL__",
+                "RECHTE_EXTERNE_ILIACALVENE": "__FILL__",
+                "LINKSE_INTERNE_ILIACALVENE": "__FILL__",
+                "RECHTE_INTERNE_ILIACALVENE": "__FILL__"
+            }
+        },
+        "UNTERE_EXTREMITAETEN": {
+            "FEMORALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "POPLITEALARTERIEN": {
+                "LINKS": "__FILL__",
+                "RECHTS": "__FILL__"
+            },
+            "TIBIAL_UND_PERONEALARTERIEN": {
+                "STAMM": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "ANTERIORE_TIBIALARTERIE": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "PERONEALARTERIE": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                },
+                "POSTERIORE_TIBIALARTERIE": {
+                    "LINKS": "__FILL__",
+                    "RECHTS": "__FILL__"
+                }
+            },
+            "VENENSYSTEM": {
+                "LINKSE_FEMORALVENE": "__FILL__",
+                "RECHTE_FEMORALVENE": "__FILL__",
+                "LINKSE_GROSSE_ROSE": "__FILL__",
+                "RECHTE_GROSSE_ROSE": "__FILL__",
+                "LINKSE_KLEINE_ROSE": "__FILL__",
+                "RECHTE_KLEINE_ROSE": "__FILL__"
+            }
+        }
+    },
+    "BEURTEILUNG": {
+        "ZUSAMMENFASSUNG": "__FILL__",
+        "ZUSAETZLICHE_BEFUNDE": "__FILL__",
+        "EMPFEHLUNGEN": "__FILL__"
+    }
+}

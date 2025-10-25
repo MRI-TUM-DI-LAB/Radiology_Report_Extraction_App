@@ -1,0 +1,45 @@
+{
+    "ACTIVE": "__FILL__",
+    "CLINICAL_INFORMATION": {
+        "QUESTION": "__FILL__"
+    },
+    "METHOD": {
+        "PRE-MEDICATION": "__FILL__",
+        "ACQUISITION_TECHNIQUE": "__FILL__",
+        "RECONSTRUCTION/POST-PROCESSING": "__FILL__",
+        "DLP": "__FILL__"
+    },
+    "PATIENT_CHARACTERISTICS": {
+        "GENDER": "__FILL__",
+        "BODY_WEIGHT": "__FILL__",
+        "BODY_HEIGHT": "__FILL__",
+        "BODY_SURFACE_AREA_(BSA)": "__FILL__",
+        "PACEMAKER": "__FILL__",
+        "AVERAGE_FREQUENCY": "__FILL__",
+        "ARRHYTHMIA": "__FILL__"
+    },
+    "FINDINGS": {
+        "PREVIOUS_EXAMINATION": "__FILL__",
+        "LIMITED_IMAGE_QUALITY": "__FILL__",
+        "AGATSON_SCORE_(OPTIONAL)": "__FILL__",
+        "DOMINANT_TYPE_OF_SUPPLY": "__FILL__",
+        "CORONARY_ARTERY_ORIGINS_AND_COURSE": "__FILL__",
+        "PLAQUES": {
+            "LEFT_CORONARY_ARTERY_(LCA)": "__FILL__",
+            "RIGHT_CORONARY_ARTERY_(RIVA)": "__FILL__",
+            "LEFT_CIRCUMFLEX_ARTERY_(LCX)": "__FILL__",
+            "RAMUS_INTERMEDIUS_(R._INTERMEDIUS)": "__FILL__",
+            "RIGHT_CORONARY_ARTERY_(RCA)": "__FILL__"
+        },
+        "DEGREE_OF_STENOSIS": "__FILL__",
+        "STENT": "__FILL__",
+        "COMMENTS": "__FILL__"
+    },
+    "ASSESSMENT": {
+        "1": "__FILL__",
+        "2": "__FILL__",
+        "3": "__FILL__",
+        "4": "__FILL__"
+    },
+    "RECOMMENDATIONS": "__FILL__"
+}

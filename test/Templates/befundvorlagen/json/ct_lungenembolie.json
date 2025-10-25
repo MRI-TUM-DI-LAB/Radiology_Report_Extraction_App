@@ -1,0 +1,103 @@
+{
+  "Klinische Angaben": {
+    "textarea": "__FILL__",
+    "D-Dimer:": "__FILL__"
+  },
+  "Fragestellung": {
+    "textarea": "__FILL__"
+  },
+  "Befund": {
+    "Vergleichsuntersuchung:": [
+      "keine",
+      "vorliegend"
+    ],
+    "input": "__FILL__",
+    "Lungenembolie:": [
+      "-",
+      "ja",
+      "nein"
+    ],
+    "Lokalisation:": {
+      "input": [
+        "__FILL__",
+        "__FILL__",
+        "__FILL__",
+        "__FILL__"
+      ],
+      "label": [
+        "zentral",
+        "lobär",
+        "segmental",
+        "subsegmental"
+      ]
+    },
+    "Beteiligte Abschnitte:": {
+      "Truncus pulmonalis": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      },
+      "Oberlappen": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      },
+      "Mittellappen": {
+        "re:": "__FILL__"
+      },
+      "Unterlappen": {
+        "re:": "__FILL__",
+        "li:": "__FILL__"
+      }
+    },
+    "Zeichen älterer Embolien": {
+      "input": [
+        "__FILL__",
+        "__FILL__",
+        "__FILL__"
+      ],
+      "label": [
+        "Dil. Bronchialarterien",
+        "wandstä:ndige Thromben",
+        "Webs/Bands"
+      ]
+    },
+    "Rechtsherzbelastung:": {
+      "RV diameter": "__FILL__",
+      "LV diameter": "__FILL__",
+      "select": [
+        "keine",
+        "leichte Rechtsherzbelastung",
+        "deutliche Rechtsherzbelastung"
+      ],
+      "Kontrastmittelrückstau:": [
+        "kein",
+        "VCI",
+        "Lebervenen"
+      ]
+    },
+    "Lungenarterien:": {
+      "Durchmesser Tr. pulmonalis:": "__FILL__",
+      "select": [
+        "normal",
+        "leicht dilatiert",
+        "deutlich dilatiert"
+      ]
+    },
+    "Pleura:": "__FILL__",
+    "Lungenparenchym:": "__FILL__",
+    "Zentrale Atemwege:": "__FILL__",
+    "Lymphknoten:": "__FILL__",
+    "Herz und übrige Gefäße:": "__FILL__",
+    "Oberbauch:": "__FILL__",
+    "Knochen:": "__FILL__",
+    "Sonstiges:": {
+      "textarea": "__FILL__"
+    }
+  },
+  "Beurteilung": {
+    "textarea": "__FILL__",
+    "RV/LV ratio": [
+      "__FILL__",
+      "__FILL__"
+    ]
+  }
+}

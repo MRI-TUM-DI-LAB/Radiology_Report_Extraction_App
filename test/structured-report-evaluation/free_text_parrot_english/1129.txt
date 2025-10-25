@@ -1,0 +1,4 @@
+Clinical Question: COPD? Emphysema Quantification  
+Technique: CT of the chest with contrast, performed during inspiration and expiration.  
+Findings: There is marked pulmonary emphysema with increased lung markings, enlarged lung volumes, and flattening of the diaphragms. The pulmonary vessels appear slender. There is no evidence of pulmonary embolism or pneumonia. Expiratory images reveal significant air trapping.  
+Conclusion: The CT morphology demonstrates pronounced pulmonary emphysema, consistent with the clinical diagnosis of COPD.
