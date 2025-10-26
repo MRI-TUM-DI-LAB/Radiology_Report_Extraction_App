@@ -5,7 +5,7 @@ This repository provides an application with a Streamlit webinterface that struc
   2. Mapping RadLex terminologies
   3. Selecting a template from the internal database and filling it with extracted information
 
-This is the result of a project at TUM Data Innovation Lab in cooperation with Klinikum Rechts der Isar. If you want to know in detail how the pipelines work, check out the [written report](https://google.com).
+This is the result of a project at TUM Data Innovation Lab in cooperation with Klinikum Rechts der Isar. If you want to know in detail how the pipelines work, check out the [written report]([https://google.com](https://www.mdsi.tum.de/di-lab/vergangene-projekte/ss25-tum-klinikum-rechts-der-isar-leveraging-llms-for-information-extraction-in-radiology-reports/)).
 
 > [!NOTE]
 > Currently **English** and **German** reports are supported. If you want to add another language, take a look at section 3.
